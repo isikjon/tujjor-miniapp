@@ -1,0 +1,2072 @@
+[
+  {
+    "djId": 1,
+    "categoryId": "beauty",
+    "source": "poizon",
+    "brand": "Essence",
+    "title": {
+      "ru": "Тушь для ресниц Essence Lash Princess, чёрная, 12 мл",
+      "uz": "Essence Lash Princess kipriklar uchun tushi, qora, 12 ml"
+    },
+    "subtitle": {
+      "ru": "Объём и длина · эффект накладных ресниц",
+      "uz": "Hajm va uzunlik · sunʼiy kiprik effekti"
+    },
+    "description": {
+      "ru": "Тушь Lash Princess — один из самых известных продуктов Essence. Щёточка конической формы разделяет и прокрашивает ресницы от корней до кончиков, придавая им объём и длину, как у накладных. Стойкая формула держится весь день. Перед отправкой каждая единица проходит проверку подлинности POIZON.",
+      "uz": "Lash Princess tushi — Essence brendining eng mashhur mahsulotlaridan biri. Konus shaklidagi choʻtkasi kipriklarni ildizidan uchigacha ajratib boʻyaydi va ularga sunʼiy kipriklardek hajm hamda uzunlik beradi. Chidamli formulasi kun boʻyi saqlanadi. Joʻnatishdan oldin har bir mahsulot POIZON tomonidan haqiqiylikka tekshiriladi."
+    },
+    "price": 129000,
+    "oldPrice": null,
+    "rating": 4.2,
+    "reviews": 3870,
+    "sold": 21400,
+    "stock": 312,
+    "deliveryDays": [
+      7,
+      11
+    ],
+    "weightKg": 0.08,
+    "badges": [
+      "original",
+      "hit",
+      "fast"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплект",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "1pc",
+            "label": {
+              "ru": "1 шт.",
+              "uz": "1 dona"
+            },
+            "priceDelta": 0,
+            "stock": 214
+          },
+          {
+            "id": "2pc",
+            "label": {
+              "ru": "2 шт.",
+              "uz": "2 dona"
+            },
+            "priceDelta": 109000,
+            "stock": 98
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Тушь для ресниц",
+          "uz": "Kipriklar uchun tush"
+        }
+      },
+      {
+        "name": {
+          "ru": "Эффект",
+          "uz": "Effekti"
+        },
+        "value": {
+          "ru": "Объём и удлинение",
+          "uz": "Hajm va uzunlik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Щёточка",
+          "uz": "Choʻtkasi"
+        },
+        "value": {
+          "ru": "Коническая",
+          "uz": "Konus shaklida"
+        }
+      },
+      {
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "value": {
+          "ru": "Чёрный",
+          "uz": "Qora"
+        }
+      },
+      {
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "value": {
+          "ru": "12 мл",
+          "uz": "12 ml"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна бренда",
+          "uz": "Brend mamlakati"
+        },
+        "value": {
+          "ru": "Германия",
+          "uz": "Germaniya"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 1937",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.8,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Madina K.",
+        "rating": 5,
+        "text": {
+          "ru": "Пришла за 9 дней, коробочка запечатана, на пакете наклейка проверки POIZON. Тушь не склеивает ресницы, они длинные и пушистые.",
+          "uz": "9 kunda keldi, qutichasi muhrlangan, paketda POIZON tekshiruvi yorligʻi bor. Tush kipriklarni bir-biriga yopishtirmaydi, ular uzun va qalin koʻrinadi."
+        },
+        "date": "2026-09-12"
+      },
+      {
+        "author": "Olga S.",
+        "rating": 4,
+        "text": {
+          "ru": "Объём даёт хороший, но к вечеру немного отпечатывается на верхнем веке. За эту цену всё равно беру уже второй раз.",
+          "uz": "Hajmni yaxshi beradi, lekin kechga borib yuqori qovoqda biroz iz qoldiradi. Shunga qaramay, bu narxda ikkinchi marta olyapman."
+        },
+        "date": "2026-07-03"
+      },
+      {
+        "author": "Nilufar H.",
+        "rating": 5,
+        "text": {
+          "ru": "Сравнила с тушью, которую покупала в Дубае, — полностью одинаковые. Легко смывается обычной мицеллярной водой.",
+          "uz": "Dubaydan olgan tushim bilan solishtirdim — mutlaqo bir xil. Oddiy mitsellyar suv bilan oson yuviladi."
+        },
+        "date": "2026-04-19"
+      }
+    ]
+  },
+  {
+    "djId": 2,
+    "categoryId": "beauty",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Палетка теней для век с зеркалом, 12 оттенков",
+      "uz": "Koʻzguli koʻz soyalari palitrasi, 12 xil tus"
+    },
+    "subtitle": {
+      "ru": "Матовые и мерцающие тени · зеркало",
+      "uz": "Mat va yaltiroq soyalar · koʻzgu bilan"
+    },
+    "description": {
+      "ru": "Компактная палетка из 12 оттенков: тёплые нюдовые, терракотовые и ягодные тона подходят и для дневного, и для вечернего макияжа. Матовые и мерцающие текстуры легко растушёвываются и хорошо сочетаются между собой. Большое зеркало в крышке позволяет поправить макияж в дороге.",
+      "uz": "12 xil tusdan iborat ixcham palitra: iliq tabiiy, terrakota va rezavor tuslar kunduzgi va kechki makiyaj uchun mos keladi. Mat va yaltiroq teksturalar qovoqqa oson taqsimlanadi va bir-biri bilan yaxshi uygʻunlashadi. Qopqoqdagi katta koʻzgu yoʻlda makiyajni toʻgʻrilash imkonini beradi."
+    },
+    "price": 149000,
+    "oldPrice": 179000,
+    "rating": 4.3,
+    "reviews": 612,
+    "sold": 4300,
+    "stock": 420,
+    "deliveryDays": [
+      13,
+      20
+    ],
+    "weightKg": 0.25,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Палитра",
+          "uz": "Palitra"
+        },
+        "values": [
+          {
+            "id": "warm",
+            "label": {
+              "ru": "Тёплая",
+              "uz": "Iliq tuslar"
+            },
+            "hex": "#B5654D",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 240
+          },
+          {
+            "id": "nude",
+            "label": {
+              "ru": "Нюдовая",
+              "uz": "Tabiiy tuslar"
+            },
+            "hex": "#C9A08A",
+            "priceDelta": 0,
+            "stock": 120
+          },
+          {
+            "id": "pink",
+            "label": {
+              "ru": "Розовая",
+              "uz": "Pushti tuslar"
+            },
+            "hex": "#C77889",
+            "priceDelta": 0,
+            "stock": 60
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Количество оттенков",
+          "uz": "Tuslar soni"
+        },
+        "value": {
+          "ru": "12",
+          "uz": "12"
+        }
+      },
+      {
+        "name": {
+          "ru": "Текстура",
+          "uz": "Teksturasi"
+        },
+        "value": {
+          "ru": "Матовая и мерцающая",
+          "uz": "Mat va yaltiroq"
+        }
+      },
+      {
+        "name": {
+          "ru": "Зеркало",
+          "uz": "Koʻzgu"
+        },
+        "value": {
+          "ru": "Есть, в крышке",
+          "uz": "Bor, qopqoqda"
+        }
+      },
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Qoʻllanilishi"
+        },
+        "value": {
+          "ru": "Дневной и вечерний макияж",
+          "uz": "Kunduzgi va kechki makiyaj"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Huamei Cosmetics Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.6,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Dilnoza R.",
+        "rating": 5,
+        "text": {
+          "ru": "Цвета яркие, на веке выглядят как на фото. Мерцающие оттенки особенно красивые. Посылка шла 17 дней, палетка целая.",
+          "uz": "Ranglari yorqin, qovoqda xuddi rasmdagidek koʻrinadi. Yaltiroq tuslari ayniqsa chiroyli. Posilka 17 kun yoʻlda boʻldi, palitra butun keldi."
+        },
+        "date": "2026-05-21"
+      },
+      {
+        "author": "Kamola Y.",
+        "rating": 3,
+        "text": {
+          "ru": "Матовые тени немного осыпаются при наборе, нужна плотная кисть. Зеркало большое и удобное.",
+          "uz": "Mat soyalar choʻtkaga olganda biroz toʻkiladi, zich choʻtka kerak. Koʻzgusi katta va qulay."
+        },
+        "date": "2026-08-09"
+      }
+    ]
+  },
+  {
+    "djId": 3,
+    "categoryId": "beauty",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Фиксирующая компактная пудра для лица, матовая",
+      "uz": "Makiyajni mustahkamlovchi kompakt yuz upasi, mat"
+    },
+    "subtitle": {
+      "ru": "Матовый финиш · контроль блеска",
+      "uz": "Mat effekt · yaltirashni nazorat qiladi"
+    },
+    "description": {
+      "ru": "Тонкоизмельчённая пудра закрепляет макияж и надолго убирает жирный блеск. Лёгкая полупрозрачная текстура не утяжеляет кожу и даёт ровный матовый финиш без эффекта маски. Компактный футляр с зеркалом удобно носить в косметичке.",
+      "uz": "Mayin maydalangan upa makiyajni mustahkamlaydi va yogʻli yaltirashni uzoq vaqtga yoʻqotadi. Yengil, yarim shaffof teksturasi terini ogʻirlashtirmaydi va niqob effektisiz tekis mat koʻrinish beradi. Koʻzguli ixcham qutichani kosmetika sumkachasida olib yurish qulay."
+    },
+    "price": 119000,
+    "oldPrice": null,
+    "rating": 4.8,
+    "reviews": 1146,
+    "sold": 7900,
+    "stock": 640,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 0.12,
+    "badges": [
+      "choice"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Оттенок",
+          "uz": "Tusi"
+        },
+        "values": [
+          {
+            "id": "translucent",
+            "label": {
+              "ru": "01 Прозрачный",
+              "uz": "01 Shaffof"
+            },
+            "hex": "#C9BBAE",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 300
+          },
+          {
+            "id": "light-beige",
+            "label": {
+              "ru": "02 Светлый беж",
+              "uz": "02 Och bej"
+            },
+            "hex": "#E3C6A6",
+            "priceDelta": 0,
+            "stock": 220
+          },
+          {
+            "id": "natural-beige",
+            "label": {
+              "ru": "03 Натуральный беж",
+              "uz": "03 Tabiiy bej"
+            },
+            "hex": "#CDA27F",
+            "priceDelta": 0,
+            "stock": 120
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Компактная пудра",
+          "uz": "Kompakt upa"
+        }
+      },
+      {
+        "name": {
+          "ru": "Финиш",
+          "uz": "Effekti"
+        },
+        "value": {
+          "ru": "Матовый",
+          "uz": "Mat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Текстура",
+          "uz": "Teksturasi"
+        },
+        "value": {
+          "ru": "Полупрозрачная, тонкого помола",
+          "uz": "Yarim shaffof, mayin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес нетто",
+          "uz": "Sof ogʻirligi"
+        },
+        "value": {
+          "ru": "10 г",
+          "uz": "10 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "Зеркало",
+          "uz": "Koʻzgu"
+        },
+        "value": {
+          "ru": "Есть, в крышке",
+          "uz": "Bor, qopqoqda"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Meiyan Cosmetics Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.7,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nigora X.",
+        "rating": 5,
+        "text": {
+          "ru": "Пудра очень мелкая, на лице не видна, а блеск убирает часов на 5–6. Зеркальце в крышке удобное.",
+          "uz": "Upa juda mayin, yuzda bilinmaydi, yaltirashni 5–6 soatga yoʻqotadi. Qopqoqdagi koʻzgucha qulay."
+        },
+        "date": "2026-03-18"
+      },
+      {
+        "author": "Yuliya P.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошая пудра за свои деньги. Доставка заняла 19 дней, упаковали в пупырчатую плёнку, ничего не разбилось.",
+          "uz": "Narxiga yarasha yaxshi upa. Yetkazib berish 19 kun davom etdi, pufakchali plyonkaga oʻralgan, hech narsa sinmadi."
+        },
+        "date": "2026-06-27"
+      },
+      {
+        "author": "Shahzoda O.",
+        "rating": 5,
+        "text": {
+          "ru": "Брала оттенок 02, идеально подошёл к моей коже. Уже заказала вторую.",
+          "uz": "02 raqamli tusni oldim, terimga juda mos tushdi. Ikkinchisini ham buyurtma qildim."
+        },
+        "date": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "djId": 4,
+    "categoryId": "beauty",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Кремовая губная помада, классический красный",
+      "uz": "Kremsimon lab boʻyogʻi, klassik qizil"
+    },
+    "subtitle": {
+      "ru": "Насыщенный цвет · сатиновый финиш",
+      "uz": "Toʻyingan rang · satin effekt"
+    },
+    "description": {
+      "ru": "Классическая красная помада с кремовой текстурой плотно ложится уже с первого нанесения и не сушит губы. Насыщенный пигмент долго держит цвет, а покрытие получается ровным, с мягким сатиновым блеском. Чёрный футляр с золотистым ободком аккуратно смотрится и подойдёт для подарка.",
+      "uz": "Kremsimon teksturali klassik qizil lab boʻyogʻi birinchi surtishdayoq zich yotadi va lablarni quritmaydi. Toʻyingan pigment rangni uzoq saqlaydi, qoplama esa tekis va yumshoq satin jiloli chiqadi. Oltin rang hoshiyali qora korpusi chiroyli koʻrinadi va sovgʻa uchun ham mos."
+    },
+    "price": 89000,
+    "oldPrice": 109000,
+    "rating": 4.7,
+    "reviews": 958,
+    "sold": 6200,
+    "stock": 1280,
+    "deliveryDays": [
+      12,
+      19
+    ],
+    "weightKg": 0.06,
+    "badges": [
+      "sale",
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "red",
+            "label": {
+              "ru": "Красный",
+              "uz": "Qizil"
+            },
+            "hex": "#B3191E",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 620
+          },
+          {
+            "id": "burgundy",
+            "label": {
+              "ru": "Бордовый",
+              "uz": "Bordo"
+            },
+            "hex": "#7A1F2B",
+            "priceDelta": 0,
+            "stock": 340
+          },
+          {
+            "id": "pink",
+            "label": {
+              "ru": "Розовый",
+              "uz": "Pushti"
+            },
+            "hex": "#D46F7E",
+            "priceDelta": 0,
+            "stock": 200
+          },
+          {
+            "id": "nude",
+            "label": {
+              "ru": "Нюдовый",
+              "uz": "Tabiiy tus"
+            },
+            "hex": "#BF8A7A",
+            "priceDelta": 0,
+            "stock": 120
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Губная помада",
+          "uz": "Lab boʻyogʻi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Текстура",
+          "uz": "Teksturasi"
+        },
+        "value": {
+          "ru": "Кремовая",
+          "uz": "Kremsimon"
+        }
+      },
+      {
+        "name": {
+          "ru": "Финиш",
+          "uz": "Effekti"
+        },
+        "value": {
+          "ru": "Сатиновый",
+          "uz": "Satin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес нетто",
+          "uz": "Sof ogʻirligi"
+        },
+        "value": {
+          "ru": "3,8 г",
+          "uz": "3,8 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Yameili Cosmetics Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.5,
+      "years": 4,
+      "verified": false
+    },
+    "reviewsPreview": [
+      {
+        "author": "Malika T.",
+        "rating": 5,
+        "text": {
+          "ru": "Цвет настоящий красный, без оранжевого подтона. Держится до обеда, после еды подкрашиваю. Пришла за 15 дней.",
+          "uz": "Rangi haqiqiy qizil, toʻq sariq tus aralashmagan. Tushlikkacha turadi, ovqatdan keyin yana surtaman. 15 kunda keldi."
+        },
+        "date": "2026-02-14"
+      },
+      {
+        "author": "Svetlana K.",
+        "rating": 4,
+        "text": {
+          "ru": "Текстура приятная, губы не сушит. Колпачок сидит плотно, в сумке не слетает.",
+          "uz": "Teksturasi yoqimli, lablarni quritmaydi. Qopqogʻi mahkam yopiladi, sumkada ochilib ketmaydi."
+        },
+        "date": "2026-04-30"
+      }
+    ]
+  },
+  {
+    "djId": 5,
+    "categoryId": "beauty",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Лак для ногтей с глянцевым финишем, красный",
+      "uz": "Tirnoq uchun yaltiroq lak, qizil"
+    },
+    "subtitle": {
+      "ru": "Быстро сохнет · глянцевый блеск",
+      "uz": "Tez quriydi · yorqin jilo"
+    },
+    "description": {
+      "ru": "Насыщенный красный лак с ярким глянцевым блеском, как после салонного маникюра. Быстросохнущая формула ложится ровно, а удобная плоская кисточка помогает аккуратно прокрасить ноготь. Для плотного цвета достаточно двух слоёв.",
+      "uz": "Salonda qilingan manikyurdagidek yorqin jilo beruvchi toʻyingan qizil lak. Tez quriydigan formulasi tekis yotadi, qulay yassi choʻtkasi esa tirnoqni aniq boʻyashga yordam beradi. Zich rang uchun ikki qatlam yetarli."
+    },
+    "price": 59000,
+    "oldPrice": null,
+    "rating": 4.6,
+    "reviews": 1734,
+    "sold": 15800,
+    "stock": 2400,
+    "deliveryDays": [
+      15,
+      24
+    ],
+    "weightKg": 0.07,
+    "badges": [
+      "hit",
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "red",
+            "label": {
+              "ru": "Красный",
+              "uz": "Qizil"
+            },
+            "hex": "#C4283A",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 900
+          },
+          {
+            "id": "burgundy",
+            "label": {
+              "ru": "Бордовый",
+              "uz": "Bordo"
+            },
+            "hex": "#6E1423",
+            "priceDelta": 0,
+            "stock": 600
+          },
+          {
+            "id": "pink",
+            "label": {
+              "ru": "Розовый",
+              "uz": "Pushti"
+            },
+            "hex": "#E58FA6",
+            "priceDelta": 0,
+            "stock": 500
+          },
+          {
+            "id": "beige",
+            "label": {
+              "ru": "Бежевый",
+              "uz": "Bej"
+            },
+            "hex": "#D9B8A0",
+            "priceDelta": 0,
+            "stock": 400
+          },
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "priceDelta": 0,
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Лак для ногтей",
+          "uz": "Tirnoq uchun lak"
+        }
+      },
+      {
+        "name": {
+          "ru": "Финиш",
+          "uz": "Effekti"
+        },
+        "value": {
+          "ru": "Глянцевый",
+          "uz": "Yaltiroq"
+        }
+      },
+      {
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "value": {
+          "ru": "10 мл",
+          "uz": "10 ml"
+        }
+      },
+      {
+        "name": {
+          "ru": "Время высыхания",
+          "uz": "Qurish vaqti"
+        },
+        "value": {
+          "ru": "Около 5 минут",
+          "uz": "Taxminan 5 daqiqa"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Caihong Nail Polish Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.6,
+      "years": 11,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Gulnoza A.",
+        "rating": 5,
+        "text": {
+          "ru": "Сохнет действительно быстро, минут за пять. Цвет как на картинке, сочный красный. Заказала ещё бордовый.",
+          "uz": "Haqiqatan tez quriydi, besh daqiqacha. Rangi rasmdagidek, toʻyingan qizil. Bordo rangini ham buyurtma qildim."
+        },
+        "date": "2026-09-27"
+      },
+      {
+        "author": "Irina V.",
+        "rating": 4,
+        "text": {
+          "ru": "Хороший лак за свои деньги, со вторым слоем ложится идеально. Без закрепителя на третий день появились сколы.",
+          "uz": "Narxiga yarasha yaxshi lak, ikkinchi qatlamda juda tekis yotadi. Mahkamlovchi qoplamasiz uchinchi kuni chetlari koʻcha boshladi."
+        },
+        "date": "2026-06-11"
+      },
+      {
+        "author": "Feruza N.",
+        "rating": 5,
+        "text": {
+          "ru": "Брала сразу пять флаконов для салона — цвет у всех одинаковый, кисточки ровные. Доставка 21 день.",
+          "uz": "Salon uchun birdaniga beshta flakon oldim — hammasining rangi bir xil, choʻtkalari tekis. Yetkazib berish 21 kun."
+        },
+        "date": "2026-01-29"
+      }
+    ]
+  },
+  {
+    "djId": 6,
+    "categoryId": "beauty",
+    "source": "poizon",
+    "brand": "Calvin Klein",
+    "title": {
+      "ru": "Туалетная вода Calvin Klein CK One, унисекс, 100 мл",
+      "uz": "Calvin Klein CK One uniseks tualet suvi, 100 ml"
+    },
+    "subtitle": {
+      "ru": "Свежий цитрусовый аромат · унисекс",
+      "uz": "Tetiklantiruvchi sitrus ifori · uniseks"
+    },
+    "description": {
+      "ru": "CK One — один из самых известных унисекс-ароматов, впервые выпущенный Calvin Klein в 1994 году. Верхние ноты — бергамот, лимон и ананас, в сердце — жасмин и ландыш, в базе — мускус, амбра и зелёный чай. Лёгкий чистый аромат подходит на каждый день и для жаркой погоды. Перед отправкой флакон проходит проверку подлинности POIZON.",
+      "uz": "CK One — Calvin Klein tomonidan 1994-yilda chiqarilgan eng mashhur uniseks iforlardan biri. Boshlangʻich notalarida bergamot, limon va ananas, yurak notalarida yasmin va marvaridgul, baza notalarida mushk, ambra va yashil choy seziladi. Yengil va toza ifor har kuni va issiq havoda foydalanish uchun mos. Joʻnatishdan oldin flakon POIZON tomonidan haqiqiylikka tekshiriladi."
+    },
+    "price": 649000,
+    "oldPrice": null,
+    "rating": 4.7,
+    "reviews": 2315,
+    "sold": 9400,
+    "stock": 29,
+    "deliveryDays": [
+      6,
+      10
+    ],
+    "weightKg": 0.45,
+    "badges": [
+      "original",
+      "hit",
+      "fast"
+    ],
+    "imageIdx": [
+      0,
+      2,
+      1
+    ],
+    "options": [
+      {
+        "id": "volume",
+        "kind": "text",
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "values": [
+          {
+            "id": "100ml",
+            "label": {
+              "ru": "100 мл",
+              "uz": "100 ml"
+            },
+            "imageIndex": 1,
+            "priceDelta": 0,
+            "stock": 21
+          },
+          {
+            "id": "200ml",
+            "label": {
+              "ru": "200 мл",
+              "uz": "200 ml"
+            },
+            "imageIndex": 2,
+            "priceDelta": 300000,
+            "stock": 8
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Туалетная вода",
+          "uz": "Tualet suvi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Для кого",
+          "uz": "Kim uchun"
+        },
+        "value": {
+          "ru": "Унисекс",
+          "uz": "Uniseks"
+        }
+      },
+      {
+        "name": {
+          "ru": "Семейство",
+          "uz": "Ifor oilasi"
+        },
+        "value": {
+          "ru": "Цитрусовые ароматические",
+          "uz": "Sitrusli aromatik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Верхние ноты",
+          "uz": "Boshlangʻich notalar"
+        },
+        "value": {
+          "ru": "Бергамот, лимон, ананас",
+          "uz": "Bergamot, limon, ananas"
+        }
+      },
+      {
+        "name": {
+          "ru": "Базовые ноты",
+          "uz": "Baza notalari"
+        },
+        "value": {
+          "ru": "Мускус, амбра, зелёный чай",
+          "uz": "Mushk, ambra, yashil choy"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна бренда",
+          "uz": "Brend mamlakati"
+        },
+        "value": {
+          "ru": "США",
+          "uz": "AQSH"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 4026",
+      "city": {
+        "ru": "Ханчжоу",
+        "uz": "Xanchjou"
+      },
+      "rating": 4.9,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Jasur T.",
+        "rating": 5,
+        "text": {
+          "ru": "Беру CK One не первый раз, здесь вышло дешевле, чем в Ташкенте. Коробка в плёнке, на ней бирка POIZON. Аромат тот самый.",
+          "uz": "CK One atirini birinchi marta olayotganim yoʻq, bu yerda Toshkentdagidan arzonroq chiqdi. Qutisi plyonkada, ustida POIZON yorligʻi bor. Ifori aynan oʻsha."
+        },
+        "date": "2026-08-22"
+      },
+      {
+        "author": "Anvar Q.",
+        "rating": 4,
+        "text": {
+          "ru": "Свежий и ненавязчивый, подходит и мне, и жене. Стойкость средняя — часа 4–5 на коже.",
+          "uz": "Salqin va yengil ifor, menga ham, rafiqamga ham mos. Chidamliligi oʻrtacha — terida 4–5 soat turadi."
+        },
+        "date": "2026-06-15"
+      },
+      {
+        "author": "Sardor M.",
+        "rating": 5,
+        "text": {
+          "ru": "Взял объём 200 мл — так выгоднее. Доставили за 8 дней, всё целое.",
+          "uz": "200 ml hajmlisini oldim — shunisi foydaliroq. 8 kunda yetkazib berishdi, hammasi butun."
+        },
+        "date": "2026-10-09"
+      }
+    ]
+  },
+  {
+    "djId": 7,
+    "categoryId": "beauty",
+    "source": "poizon",
+    "brand": "Chanel",
+    "title": {
+      "ru": "Парфюмерная вода Chanel Coco Noir, 50 мл",
+      "uz": "Chanel Coco Noir parfyumeriya suvi, 50 ml"
+    },
+    "subtitle": {
+      "ru": "Шипровый цветочный аромат · для вечера",
+      "uz": "Gulli-shipr ifor · kechki tadbirlar uchun"
+    },
+    "description": {
+      "ru": "Coco Noir — элегантный и загадочный аромат Chanel для вечерних выходов. Грейпфрут и бергамот в начале сменяются розой и жасмином, а шлейф строится на пачули, сандале и ванили. Флакон поставляется в фирменной коробке; перед отправкой POIZON проверяет его подлинность.",
+      "uz": "Coco Noir — Chanel brendining kechki tadbirlar uchun yaratilgan nafis va sirli ifori. Greyfrut va bergamot bilan boshlanib, atirgul va yasmin notalariga oʻtadi, izi esa pachuli, sandal va vanil asosiga qurilgan. Flakon brend qutisida yetkaziladi; joʻnatishdan oldin POIZON uning haqiqiyligini tekshiradi."
+    },
+    "price": 1690000,
+    "oldPrice": 1990000,
+    "rating": 4.6,
+    "reviews": 486,
+    "sold": 1720,
+    "stock": 18,
+    "deliveryDays": [
+      8,
+      13
+    ],
+    "weightKg": 0.35,
+    "badges": [
+      "original",
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "volume",
+        "kind": "text",
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "values": [
+          {
+            "id": "50ml",
+            "label": {
+              "ru": "50 мл",
+              "uz": "50 ml"
+            },
+            "imageIndex": 1,
+            "priceDelta": 0,
+            "stock": 13
+          },
+          {
+            "id": "100ml",
+            "label": {
+              "ru": "100 мл",
+              "uz": "100 ml"
+            },
+            "imageIndex": 2,
+            "priceDelta": 600000,
+            "stock": 5
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Парфюмерная вода",
+          "uz": "Parfyumeriya suvi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Для кого",
+          "uz": "Kim uchun"
+        },
+        "value": {
+          "ru": "Для женщин",
+          "uz": "Ayollar uchun"
+        }
+      },
+      {
+        "name": {
+          "ru": "Семейство",
+          "uz": "Ifor oilasi"
+        },
+        "value": {
+          "ru": "Шипровые цветочные",
+          "uz": "Gulli shipr"
+        }
+      },
+      {
+        "name": {
+          "ru": "Верхние ноты",
+          "uz": "Boshlangʻich notalar"
+        },
+        "value": {
+          "ru": "Грейпфрут, бергамот",
+          "uz": "Greyfrut, bergamot"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ноты сердца",
+          "uz": "Yurak notalari"
+        },
+        "value": {
+          "ru": "Роза, жасмин",
+          "uz": "Atirgul, yasmin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Базовые ноты",
+          "uz": "Baza notalari"
+        },
+        "value": {
+          "ru": "Пачули, сандал, ваниль",
+          "uz": "Pachuli, sandal, vanil"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна бренда",
+          "uz": "Brend mamlakati"
+        },
+        "value": {
+          "ru": "Франция",
+          "uz": "Fransiya"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 7315",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.9,
+      "years": 7,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Kamila S.",
+        "rating": 5,
+        "text": {
+          "ru": "Заказывала себе на день рождения. Коробка запечатана, внутри карточка проверки POIZON. Шлейф держится до вечера.",
+          "uz": "Tugʻilgan kunimga oʻzimga buyurtma qildim. Qutisi muhrlangan, ichida POIZON tekshiruvi kartochkasi bor. Izi kechgacha saqlanadi."
+        },
+        "date": "2026-10-04"
+      },
+      {
+        "author": "Elena M.",
+        "rating": 4,
+        "text": {
+          "ru": "Аромат очень красивый, но в жару тяжеловат — оставлю на осень. Доставили за 11 дней.",
+          "uz": "Ifori juda chiroyli, lekin issiqda biroz ogʻirlik qiladi — kuzga qoldiraman. 11 kunda yetkazib berishdi."
+        },
+        "date": "2026-07-19"
+      }
+    ]
+  },
+  {
+    "djId": 8,
+    "categoryId": "beauty",
+    "source": "poizon",
+    "brand": "Dior",
+    "title": {
+      "ru": "Парфюмерная вода Dior J’adore, 50 мл",
+      "uz": "Dior Jʼadore parfyumeriya suvi, 50 ml"
+    },
+    "subtitle": {
+      "ru": "Цветочный аромат · иланг-иланг и роза",
+      "uz": "Gulli ifor · ilang-ilang va atirgul"
+    },
+    "description": {
+      "ru": "J’adore — один из самых узнаваемых женских ароматов Dior. Букет из иланг-иланга, дамасской розы и жасмина звучит мягко и женственно, без лишней тяжести. Флакон в форме амфоры с золотистым горлышком красиво смотрится на туалетном столике. Перед отправкой POIZON проверяет подлинность каждого флакона.",
+      "uz": "Jʼadore — Dior brendining eng taniqli ayollar iforlaridan biri. Ilang-ilang, Damashq atirguli va yasmindan iborat guldasta nozik va ayollarga xos boʻlib, ogʻir tuyulmaydi. Oltin rang boʻyinli amfora shaklidagi flakon pardoz stolida chiroyli koʻrinadi. Joʻnatishdan oldin POIZON har bir flakonning haqiqiyligini tekshiradi."
+    },
+    "price": 1149000,
+    "oldPrice": null,
+    "rating": 4.5,
+    "reviews": 1027,
+    "sold": 3860,
+    "stock": 41,
+    "deliveryDays": [
+      7,
+      12
+    ],
+    "weightKg": 0.3,
+    "badges": [
+      "original"
+    ],
+    "imageIdx": [
+      0,
+      1
+    ],
+    "options": [
+      {
+        "id": "volume",
+        "kind": "text",
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "values": [
+          {
+            "id": "50ml",
+            "label": {
+              "ru": "50 мл",
+              "uz": "50 ml"
+            },
+            "priceDelta": 0,
+            "stock": 29
+          },
+          {
+            "id": "100ml",
+            "label": {
+              "ru": "100 мл",
+              "uz": "100 ml"
+            },
+            "imageIndex": 1,
+            "priceDelta": 550000,
+            "stock": 12
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Парфюмерная вода",
+          "uz": "Parfyumeriya suvi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Для кого",
+          "uz": "Kim uchun"
+        },
+        "value": {
+          "ru": "Для женщин",
+          "uz": "Ayollar uchun"
+        }
+      },
+      {
+        "name": {
+          "ru": "Семейство",
+          "uz": "Ifor oilasi"
+        },
+        "value": {
+          "ru": "Цветочные",
+          "uz": "Gulli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ключевые ноты",
+          "uz": "Asosiy notalar"
+        },
+        "value": {
+          "ru": "Иланг-иланг, роза, жасмин",
+          "uz": "Ilang-ilang, atirgul, yasmin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна бренда",
+          "uz": "Brend mamlakati"
+        },
+        "value": {
+          "ru": "Франция",
+          "uz": "Fransiya"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 2864",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.8,
+      "years": 3,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sevara D.",
+        "rating": 5,
+        "text": {
+          "ru": "Покупала в подарок маме к 8 Марта. Флакон в плёнке, коробка без вмятин. Аромат один в один как в магазине.",
+          "uz": "Onamga 8-mart uchun sovgʻa qilib oldim. Flakon plyonkada, qutisi ezilmagan. Ifori doʻkondagisi bilan bir xil."
+        },
+        "date": "2026-03-06"
+      },
+      {
+        "author": "Dilfuza M.",
+        "rating": 4,
+        "text": {
+          "ru": "Аромат прекрасный, на коже держится около 6 часов. Хотелось бы пробник в подарок, но это мелочь.",
+          "uz": "Ifori ajoyib, terida 6 soatcha saqlanadi. Sovgʻaga kichik namuna qoʻshilsa yaxshi boʻlardi, lekin bu arzimas narsa."
+        },
+        "date": "2026-05-12"
+      }
+    ]
+  },
+  {
+    "djId": 9,
+    "categoryId": "beauty",
+    "source": "poizon",
+    "brand": "Dolce & Gabbana",
+    "title": {
+      "ru": "Парфюмерная вода Dolce & Gabbana Dolce Shine, 50 мл",
+      "uz": "Dolce & Gabbana Dolce Shine parfyumeriya suvi, 50 ml"
+    },
+    "subtitle": {
+      "ru": "Фруктовый аромат · манго и жасмин",
+      "uz": "Mevali ifor · mango va yasmin"
+    },
+    "description": {
+      "ru": "Dolce Shine — яркий фруктово-цветочный аромат Dolce & Gabbana с нотами манго, жасмина и светлых древесных аккордов. Он звучит легко и жизнерадостно, поэтому хорошо подходит для дня и тёплого сезона. Флакон с жёлтым цветком на крышке узнаётся сразу. Перед отправкой POIZON проверяет подлинность товара.",
+      "uz": "Dolce Shine — Dolce & Gabbana brendining mango, yasmin va ochiq tusli yogʻoch notalariga ega yorqin mevali-gulli ifori. U yengil va quvnoq taraladi, shuning uchun kunduzi va iliq mavsumda foydalanishga juda mos. Qopqogʻida sariq guli bor flakonni darhol tanib olasiz. Joʻnatishdan oldin POIZON mahsulotning haqiqiyligini tekshiradi."
+    },
+    "price": 889000,
+    "oldPrice": null,
+    "rating": 4.6,
+    "reviews": 74,
+    "sold": 390,
+    "stock": 4,
+    "deliveryDays": [
+      9,
+      14
+    ],
+    "weightKg": 0.38,
+    "badges": [
+      "original",
+      "new"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "volume",
+        "kind": "text",
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "values": [
+          {
+            "id": "50ml",
+            "label": {
+              "ru": "50 мл",
+              "uz": "50 ml"
+            },
+            "priceDelta": 0,
+            "stock": 3
+          },
+          {
+            "id": "75ml",
+            "label": {
+              "ru": "75 мл",
+              "uz": "75 ml"
+            },
+            "imageIndex": 1,
+            "priceDelta": 300000,
+            "stock": 1
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Парфюмерная вода",
+          "uz": "Parfyumeriya suvi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Для кого",
+          "uz": "Kim uchun"
+        },
+        "value": {
+          "ru": "Для женщин",
+          "uz": "Ayollar uchun"
+        }
+      },
+      {
+        "name": {
+          "ru": "Семейство",
+          "uz": "Ifor oilasi"
+        },
+        "value": {
+          "ru": "Фруктовые цветочные",
+          "uz": "Mevali-gulli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ключевые ноты",
+          "uz": "Asosiy notalar"
+        },
+        "value": {
+          "ru": "Манго, жасмин, светлое дерево",
+          "uz": "Mango, yasmin, ochiq tusli yogʻoch"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна бренда",
+          "uz": "Brend mamlakati"
+        },
+        "value": {
+          "ru": "Италия",
+          "uz": "Italiya"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 5590",
+      "city": {
+        "ru": "Ханчжоу",
+        "uz": "Xanchjou"
+      },
+      "rating": 4.7,
+      "years": 2,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Zarina A.",
+        "rating": 5,
+        "text": {
+          "ru": "Очень летний аромат: сладкий, но не приторный. Флакон с цветком красивый, дочке понравился.",
+          "uz": "Juda yozgi ifor: shirin, lekin dimoqqa urmaydi. Gulli flakoni chiroyli, qizimga yoqdi."
+        },
+        "date": "2026-08-02"
+      },
+      {
+        "author": "Natalya B.",
+        "rating": 4,
+        "text": {
+          "ru": "Пришёл за 13 дней, всё запечатано. Стойкость средняя, к обеду обновляю.",
+          "uz": "13 kunda keldi, hammasi muhrlangan. Chidamliligi oʻrtacha, tushlikka yaqin yana sepaman."
+        },
+        "date": "2026-09-05"
+      }
+    ]
+  },
+  {
+    "djId": 10,
+    "categoryId": "beauty",
+    "source": "poizon",
+    "brand": "Gucci",
+    "title": {
+      "ru": "Парфюмерная вода Gucci Bloom, 50 мл",
+      "uz": "Gucci Bloom parfyumeriya suvi, 50 ml"
+    },
+    "subtitle": {
+      "ru": "Цветочный аромат · тубероза и жасмин",
+      "uz": "Gulli ifor · tuberoza va yasmin"
+    },
+    "description": {
+      "ru": "Gucci Bloom — цветочный аромат с нотами туберозы, жасмина и рангунской лианы, напоминающий о цветущем саде. Он звучит нежно и современно и подходит как для дня, так и для особых случаев. Пудрово-розовый флакон упакован в коробку с фирменным цветочным принтом. Перед отправкой POIZON проверяет подлинность товара.",
+      "uz": "Gucci Bloom — tuberoza, yasmin va rangun lianasi notalariga ega, gullagan bogʻni eslatuvchi gulli ifor. U nozik va zamonaviy taraladi, kundalik foydalanish uchun ham, alohida tadbirlar uchun ham mos. Och pushti rangli flakon brendning gulli naqshli qutisiga joylangan. Joʻnatishdan oldin POIZON mahsulotning haqiqiyligini tekshiradi."
+    },
+    "price": 1049000,
+    "oldPrice": 1249000,
+    "rating": 4.2,
+    "reviews": 318,
+    "sold": 1490,
+    "stock": 23,
+    "deliveryDays": [
+      6,
+      11
+    ],
+    "weightKg": 0.4,
+    "badges": [
+      "original",
+      "sale",
+      "fast"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "volume",
+        "kind": "text",
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "values": [
+          {
+            "id": "50ml",
+            "label": {
+              "ru": "50 мл",
+              "uz": "50 ml"
+            },
+            "priceDelta": 0,
+            "stock": 16
+          },
+          {
+            "id": "100ml",
+            "label": {
+              "ru": "100 мл",
+              "uz": "100 ml"
+            },
+            "imageIndex": 1,
+            "priceDelta": 450000,
+            "stock": 7
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Парфюмерная вода",
+          "uz": "Parfyumeriya suvi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Для кого",
+          "uz": "Kim uchun"
+        },
+        "value": {
+          "ru": "Для женщин",
+          "uz": "Ayollar uchun"
+        }
+      },
+      {
+        "name": {
+          "ru": "Семейство",
+          "uz": "Ifor oilasi"
+        },
+        "value": {
+          "ru": "Цветочные",
+          "uz": "Gulli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ключевые ноты",
+          "uz": "Asosiy notalar"
+        },
+        "value": {
+          "ru": "Тубероза, жасмин, рангунская лиана",
+          "uz": "Tuberoza, yasmin, rangun lianasi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна бренда",
+          "uz": "Brend mamlakati"
+        },
+        "value": {
+          "ru": "Италия",
+          "uz": "Italiya"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 3348",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.8,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Mohira J.",
+        "rating": 5,
+        "text": {
+          "ru": "Нежный цветочный аромат, как свежий букет. Пришёл за 8 дней в запечатанной коробке.",
+          "uz": "Yangi uzilgan guldastadek nozik gulli ifor. 8 kunda muhrlangan qutida keldi."
+        },
+        "date": "2026-04-16"
+      },
+      {
+        "author": "Oksana L.",
+        "rating": 3,
+        "text": {
+          "ru": "Аромат понравился, но на мне держится всего 3–4 часа. Ожидала большей стойкости.",
+          "uz": "Ifor yoqdi, lekin menda atigi 3–4 soat saqlanadi. Chidamliroq boʻladi deb kutgandim."
+        },
+        "date": "2026-07-28"
+      },
+      {
+        "author": "Behzod A.",
+        "rating": 5,
+        "text": {
+          "ru": "Брал жене, ей очень понравилось. Со скидкой вышло заметно дешевле, чем в магазинах.",
+          "uz": "Rafiqamga oldim, unga juda yoqdi. Chegirma bilan doʻkonlardagidan ancha arzonga tushdi."
+        },
+        "date": "2026-10-11"
+      }
+    ]
+  },
+  {
+    "djId": 118,
+    "categoryId": "beauty",
+    "source": "poizon",
+    "brand": "Attitude",
+    "title": {
+      "ru": "Жидкое мыло для рук Attitude Super Leaves, лимон, 473 мл",
+      "uz": "Attitude Super Leaves suyuq qoʻl sovuni, limon, 473 ml"
+    },
+    "subtitle": {
+      "ru": "Экстракт листьев лимона · дозатор",
+      "uz": "Limon barglari ekstrakti · dozatorli"
+    },
+    "description": {
+      "ru": "Натуральное жидкое мыло канадского бренда Attitude из линейки Super Leaves с экстрактом листьев лимона. Мягко очищает и не пересушивает кожу рук, оставляя лёгкий свежий аромат. Флакон 473 мл с удобным дозатором подойдёт для ванной и кухни.",
+      "uz": "Kanadaning Attitude brendiga mansub Super Leaves seriyasidagi limon barglari ekstraktli tabiiy suyuq sovun. Qoʻl terisini yumshoq tozalaydi va quritmaydi, yengil va yoqimli ifor qoldiradi. Qulay dozatorli 473 ml hajmli flakon vannaxona va oshxona uchun mos."
+    },
+    "price": 119000,
+    "oldPrice": null,
+    "rating": 4.4,
+    "reviews": 87,
+    "sold": 520,
+    "stock": 64,
+    "deliveryDays": [
+      8,
+      13
+    ],
+    "weightKg": 0.6,
+    "badges": [
+      "new"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Жидкое мыло для рук",
+          "uz": "Suyuq qoʻl sovuni"
+        }
+      },
+      {
+        "name": {
+          "ru": "Аромат",
+          "uz": "Ifori"
+        },
+        "value": {
+          "ru": "Листья лимона",
+          "uz": "Limon barglari"
+        }
+      },
+      {
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "value": {
+          "ru": "473 мл",
+          "uz": "473 ml"
+        }
+      },
+      {
+        "name": {
+          "ru": "Особенности",
+          "uz": "Xususiyatlari"
+        },
+        "value": {
+          "ru": "Гипоаллергенное, с дозатором",
+          "uz": "Gipoallergen, dozatorli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна бренда",
+          "uz": "Brend mamlakati"
+        },
+        "value": {
+          "ru": "Канада",
+          "uz": "Kanada"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 6142",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.6,
+      "years": 2,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Aziza U.",
+        "rating": 5,
+        "text": {
+          "ru": "Пахнет свежим лимоном, но не резко. Руки после него мягкие, кожу не сушит. Дозатор работает отлично.",
+          "uz": "Yangi limon hidi keladi, lekin oʻtkir emas. Qoʻllar yumshoq boʻlib qoladi, terini quritmaydi. Dozatori yaxshi ishlaydi."
+        },
+        "date": "2026-09-18"
+      },
+      {
+        "author": "Rustam E.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошее мыло, но за эти деньги хотелось бы объём побольше. Доставили за 10 дней, флакон не протёк.",
+          "uz": "Yaxshi sovun, lekin bu narxga hajmi kattaroq boʻlishini xohlardim. 10 kunda yetkazishdi, flakon oqmagan."
+        },
+        "date": "2026-10-02"
+      }
+    ]
+  },
+  {
+    "djId": 119,
+    "categoryId": "beauty",
+    "source": "poizon",
+    "brand": "Olay",
+    "title": {
+      "ru": "Гель для душа Olay Ultra Moisture с маслом ши, 887 мл",
+      "uz": "Olay Ultra Moisture shi yogʻli dush geli, 887 ml"
+    },
+    "subtitle": {
+      "ru": "Масло ши · увлажнение · дозатор",
+      "uz": "Shi yogʻi · namlantirish · dozator"
+    },
+    "description": {
+      "ru": "Кремовый гель для душа Olay Ultra Moisture с маслом ши образует густую пену и мягко очищает, не пересушивая кожу. Формула помогает удерживать влагу, и после душа кожа остаётся гладкой. Большого флакона 887 мл с дозатором надолго хватит всей семье.",
+      "uz": "Shi yogʻli Olay Ultra Moisture kremsimon dush geli quyuq koʻpik hosil qiladi va terini quritmasdan yumshoq tozalaydi. Formulasi namlikni saqlashga yordam beradi, dushdan keyin teri silliq boʻlib qoladi. Dozatorli 887 ml hajmli katta flakon butun oilaga uzoq vaqtga yetadi."
+    },
+    "price": 169000,
+    "oldPrice": 199000,
+    "rating": 4.7,
+    "reviews": 1362,
+    "sold": 8900,
+    "stock": 120,
+    "deliveryDays": [
+      9,
+      14
+    ],
+    "weightKg": 1.05,
+    "badges": [
+      "original",
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплект",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "1pc",
+            "label": {
+              "ru": "1 шт.",
+              "uz": "1 dona"
+            },
+            "priceDelta": 0,
+            "stock": 84
+          },
+          {
+            "id": "2pc",
+            "label": {
+              "ru": "2 шт.",
+              "uz": "2 dona"
+            },
+            "priceDelta": 149000,
+            "stock": 36
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Гель для душа",
+          "uz": "Dush geli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ключевой компонент",
+          "uz": "Asosiy komponent"
+        },
+        "value": {
+          "ru": "Масло ши",
+          "uz": "Shi yogʻi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "value": {
+          "ru": "887 мл",
+          "uz": "887 ml"
+        }
+      },
+      {
+        "name": {
+          "ru": "Упаковка",
+          "uz": "Qadoq"
+        },
+        "value": {
+          "ru": "Флакон с дозатором",
+          "uz": "Dozatorli flakon"
+        }
+      },
+      {
+        "name": {
+          "ru": "Тип кожи",
+          "uz": "Teri turi"
+        },
+        "value": {
+          "ru": "Сухая и нормальная",
+          "uz": "Quruq va normal"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 1205",
+      "city": {
+        "ru": "Нинбо",
+        "uz": "Ningbo"
+      },
+      "rating": 4.8,
+      "years": 4,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nodira I.",
+        "rating": 5,
+        "text": {
+          "ru": "Пенится отлично, флакона хватает надолго. Кожа после душа не сухая даже зимой.",
+          "uz": "Juda yaxshi koʻpiklanadi, bitta flakon uzoq vaqtga yetadi. Qishda ham dushdan keyin teri qurimaydi."
+        },
+        "date": "2026-01-24"
+      },
+      {
+        "author": "Timur G.",
+        "rating": 5,
+        "text": {
+          "ru": "Заказали сразу две штуки — так выгоднее. Упаковано надёжно, дозаторы зафиксированы, ничего не протекло.",
+          "uz": "Birdaniga ikkita buyurtma qildik — shunisi foydaliroq. Ishonchli qadoqlangan, dozatorlar mahkamlangan, hech narsa oqmadi."
+        },
+        "date": "2026-03-30"
+      },
+      {
+        "author": "Lola F.",
+        "rating": 4,
+        "text": {
+          "ru": "Аромат мягкий, ненавязчивый. Доставка заняла 13 дней, но флакон пришёл целым.",
+          "uz": "Ifori yumshoq va yengil. Yetkazib berish 13 kun davom etdi, lekin flakon butun keldi."
+        },
+        "date": "2026-06-21"
+      }
+    ]
+  },
+  {
+    "djId": 120,
+    "categoryId": "beauty",
+    "source": "poizon",
+    "brand": "Vaseline",
+    "title": {
+      "ru": "Мужской лосьон для тела и лица Vaseline Men, 600 мл",
+      "uz": "Vaseline Men erkaklar uchun tana va yuz losyoni, 600 ml"
+    },
+    "subtitle": {
+      "ru": "Быстро впитывается · без жирного блеска",
+      "uz": "Tez singadi · yogʻli iz qoldirmaydi"
+    },
+    "description": {
+      "ru": "Лосьон Vaseline Men Healing Moisture создан для мужской кожи: он быстро впитывается и не оставляет жирной плёнки. Микрокапли фирменного вазелина помогают восстановить сухую кожу и надолго сохранить увлажнение. Подходит для тела и лица, объём флакона — 600 мл.",
+      "uz": "Vaseline Men Healing Moisture losyoni erkaklar terisi uchun yaratilgan: u tez singadi va yogʻli parda qoldirmaydi. Brendning vazelin mikrotomchilari quruq terini tiklashga va namlikni uzoq saqlashga yordam beradi. Tana va yuz uchun mos, flakon hajmi 600 ml."
+    },
+    "price": 139000,
+    "oldPrice": null,
+    "rating": 4.3,
+    "reviews": 264,
+    "sold": 1870,
+    "stock": 88,
+    "deliveryDays": [
+      7,
+      12
+    ],
+    "weightKg": 0.72,
+    "badges": [],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Лосьон для тела и лица",
+          "uz": "Tana va yuz uchun losyon"
+        }
+      },
+      {
+        "name": {
+          "ru": "Для кого",
+          "uz": "Kim uchun"
+        },
+        "value": {
+          "ru": "Для мужчин",
+          "uz": "Erkaklar uchun"
+        }
+      },
+      {
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "value": {
+          "ru": "600 мл",
+          "uz": "600 ml"
+        }
+      },
+      {
+        "name": {
+          "ru": "Тип кожи",
+          "uz": "Teri turi"
+        },
+        "value": {
+          "ru": "Сухая",
+          "uz": "Quruq"
+        }
+      },
+      {
+        "name": {
+          "ru": "Текстура",
+          "uz": "Teksturasi"
+        },
+        "value": {
+          "ru": "Лёгкая, быстро впитывается",
+          "uz": "Yengil, tez singadi"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 8817",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.7,
+      "years": 3,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Otabek N.",
+        "rating": 5,
+        "text": {
+          "ru": "Впитывается за минуту, липкости нет. Пользуюсь после бритья вместо крема.",
+          "uz": "Bir daqiqada singib ketadi, yopishqoqligi yoʻq. Soqol olgandan keyin krem oʻrniga ishlataman."
+        },
+        "date": "2026-02-09"
+      },
+      {
+        "author": "Ilya R.",
+        "rating": 4,
+        "text": {
+          "ru": "Хороший лосьон, флакона хватит на несколько месяцев. Доставка 11 дней, коробка помята, но сам флакон целый.",
+          "uz": "Yaxshi losyon, bir flakon bir necha oyga yetadi. Yetkazib berish 11 kun, quti biroz ezilgan, lekin flakonning oʻzi butun."
+        },
+        "date": "2026-08-26"
+      }
+    ]
+  }
+]

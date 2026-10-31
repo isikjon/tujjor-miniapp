@@ -1,0 +1,4718 @@
+[
+  {
+    "djId": 48,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Лопатка кухонная из бамбука, 30 см",
+      "uz": "Bambukdan yasalgan oshxona kurakchasi, 30 sm"
+    },
+    "subtitle": {
+      "ru": "Не царапает покрытие · Не нагревается",
+      "uz": "Qoplamani tirnamaydi · Qizib ketmaydi"
+    },
+    "description": {
+      "ru": "Лопатка из цельного бамбука для переворачивания, перемешивания и подачи блюд. Не царапает антипригарное покрытие сковород и не нагревается во время готовки. Поверхность отшлифована и пропитана пищевым маслом. Рекомендуется мыть вручную и сразу вытирать насухо.",
+      "uz": "Yaxlit bambukdan yasalgan kurakcha taomni agʻdarish, aralashtirish va suzib berish uchun qulay. Tovalarning yopishmaydigan qoplamasini tirnamaydi va pishirish paytida qizib ketmaydi. Yuzasi silliqlangan va oziq-ovqatga mos moy bilan ishlov berilgan. Qoʻlda yuvib, darhol quruq qilib artish tavsiya etiladi."
+    },
+    "price": 59000,
+    "oldPrice": null,
+    "rating": 4.4,
+    "reviews": 312,
+    "sold": 2140,
+    "stock": 380,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 0.12,
+    "badges": [
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Количество",
+          "uz": "Soni"
+        },
+        "values": [
+          {
+            "id": "1pc",
+            "label": {
+              "ru": "1 шт",
+              "uz": "1 dona"
+            },
+            "priceDelta": 0,
+            "stock": 260
+          },
+          {
+            "id": "3pcs",
+            "label": {
+              "ru": "3 шт",
+              "uz": "3 dona"
+            },
+            "priceDelta": 89000,
+            "stock": 120
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Бамбук",
+          "uz": "Bambuk"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "30 см",
+          "uz": "30 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ширина рабочей части",
+          "uz": "Ishchi qismi eni"
+        },
+        "value": {
+          "ru": "6 см",
+          "uz": "6 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Совместимость",
+          "uz": "Mosligi"
+        },
+        "value": {
+          "ru": "Антипригарные покрытия",
+          "uz": "Yopishmaydigan qoplamalar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Ручная мойка",
+          "uz": "Qoʻlda yuvish"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Hangzhou Lvzhu Bamboo Products Co., Ltd.",
+      "city": {
+        "ru": "Ханчжоу",
+        "uz": "Xanchjou"
+      },
+      "rating": 4.7,
+      "years": 9,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Madina K.",
+        "rating": 5,
+        "text": {
+          "ru": "Лёгкая и хорошо отшлифованная, без заусенцев. Пользуюсь каждый день уже месяц — цвет не изменился.",
+          "uz": "Yengil va yaxshi silliqlangan, gʻadir-budur joyi yoʻq. Bir oydan beri har kuni ishlataman — rangi oʻzgarmadi."
+        },
+        "date": "2026-08-12"
+      },
+      {
+        "author": "Sardor M.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошая лопатка за свои деньги. Доставка заняла 19 дней, каждая была упакована в плёнку.",
+          "uz": "Narxiga yarasha yaxshi kurakcha. Yetkazib berish 19 kun davom etdi, har biri plyonkaga oʻralgan edi."
+        },
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "djId": 49,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Стакан алюминиевый для горячих и холодных напитков, чёрный",
+      "uz": "Issiq va sovuq ichimliklar uchun alyuminiy stakan, qora"
+    },
+    "subtitle": {
+      "ru": "Лёгкий и прочный · Не бьётся",
+      "uz": "Yengil va mustahkam · Sinmaydi"
+    },
+    "description": {
+      "ru": "Лёгкий стакан из алюминия для горячих и холодных напитков. Не бьётся, поэтому подойдёт для дома, дачи, поездок и пикников. Внутри — пищевое покрытие, напитки не приобретают металлического привкуса. Стенки однослойные, поэтому с кипятком стакан заметно нагревается.",
+      "uz": "Issiq va sovuq ichimliklar uchun yengil alyuminiy stakan. Sinmaydi, shuning uchun uy, dala hovli, sayohat va piknik uchun mos. Ichki yuzasi oziq-ovqatga mos qoplamaga ega, ichimlikka metall taʼmi oʻtmaydi. Devorlari bir qatlamli, shu sababli qaynoq suv quyilganda stakan sezilarli darajada qiziydi."
+    },
+    "price": 45000,
+    "oldPrice": 55000,
+    "rating": 4.7,
+    "reviews": 864,
+    "sold": 5300,
+    "stock": 615,
+    "deliveryDays": [
+      13,
+      20
+    ],
+    "weightKg": 0.15,
+    "badges": [
+      "sale",
+      "choice"
+    ],
+    "imageIdx": [
+      0,
+      1
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 340
+          },
+          {
+            "id": "silver",
+            "label": {
+              "ru": "Серебристый",
+              "uz": "Kumushrang"
+            },
+            "hex": "#BFC1C2",
+            "priceDelta": 0,
+            "stock": 180
+          },
+          {
+            "id": "navy",
+            "label": {
+              "ru": "Тёмно-синий",
+              "uz": "Toʻq koʻk"
+            },
+            "hex": "#1F2A44",
+            "priceDelta": 0,
+            "stock": 95
+          }
+        ]
+      },
+      {
+        "id": "volume",
+        "kind": "text",
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "values": [
+          {
+            "id": "350ml",
+            "label": {
+              "ru": "350 мл",
+              "uz": "350 ml"
+            },
+            "priceDelta": 0,
+            "stock": 420
+          },
+          {
+            "id": "500ml",
+            "label": {
+              "ru": "500 мл",
+              "uz": "500 ml"
+            },
+            "priceDelta": 10000,
+            "stock": 195
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Алюминий",
+          "uz": "Alyuminiy"
+        }
+      },
+      {
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "value": {
+          "ru": "350 мл",
+          "uz": "350 ml"
+        }
+      },
+      {
+        "name": {
+          "ru": "Высота",
+          "uz": "Balandligi"
+        },
+        "value": {
+          "ru": "10 см",
+          "uz": "10 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "value": {
+          "ru": "7,5 см",
+          "uz": "7,5 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Ручная мойка",
+          "uz": "Qoʻlda yuvish"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Lanbo Daily Necessities Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.6,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Olga S.",
+        "rating": 5,
+        "text": {
+          "ru": "Взяла два стакана на дачу — лёгкие, не бьются, чёрный цвет смотрится стильно. Дошли за 16 дней.",
+          "uz": "Dala hovliga ikkita stakan oldim — yengil, sinmaydi, qora rangi chiroyli koʻrinadi. 16 kunda yetib keldi."
+        },
+        "date": "2026-09-21"
+      },
+      {
+        "author": "Behzod A.",
+        "rating": 4,
+        "text": {
+          "ru": "Хороший стакан, но с горячим чаем нагревается, держать неудобно. Для холодных напитков — отлично.",
+          "uz": "Yaxshi stakan, lekin issiq choy quyilsa qizib ketadi, ushlash noqulay. Sovuq ichimliklar uchun juda yaxshi."
+        },
+        "date": "2026-07-08"
+      },
+      {
+        "author": "Nigora X.",
+        "rating": 5,
+        "text": {
+          "ru": "Заказала детям в школу. За месяц ни одной вмятины, покрытие не облезло.",
+          "uz": "Bolalarimga maktab uchun buyurtma qildim. Bir oyda birorta ham pachoq joyi boʻlmadi, qoplamasi koʻchmadi."
+        },
+        "date": "2026-04-15"
+      }
+    ]
+  },
+  {
+    "djId": 50,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Венчик кухонный в силиконовом покрытии, чёрный, 26 см",
+      "uz": "Silikon qoplamali oshxona koʻpirtirgichi, qora, 26 sm"
+    },
+    "subtitle": {
+      "ru": "Не царапает посуду · Удобная ручка",
+      "uz": "Idishni tirnamaydi · Qulay dasta"
+    },
+    "description": {
+      "ru": "Венчик для взбивания яиц, кремов, соусов и жидкого теста. Прутья из нержавеющей стали покрыты силиконом, поэтому не царапают миски и посуду с антипригарным покрытием. Эргономичная ручка не скользит в руке. Можно мыть в посудомоечной машине.",
+      "uz": "Tuxum, krem, sous va suyuq xamirni koʻpirtirish hamda aralashtirish uchun qulay anjom. Zanglamaydigan poʻlat simlari silikon bilan qoplangan, shuning uchun kosa va yopishmaydigan qoplamali idishlarni tirnamaydi. Ergonomik dastasi qoʻlda sirpanmaydi. Idish yuvish mashinasida yuvish mumkin."
+    },
+    "price": 69000,
+    "oldPrice": null,
+    "rating": 4.5,
+    "reviews": 418,
+    "sold": 2760,
+    "stock": 355,
+    "deliveryDays": [
+      12,
+      19
+    ],
+    "weightKg": 0.12,
+    "badges": [],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 210
+          },
+          {
+            "id": "red",
+            "label": {
+              "ru": "Красный",
+              "uz": "Qizil"
+            },
+            "hex": "#D32F2F",
+            "priceDelta": 0,
+            "stock": 85
+          },
+          {
+            "id": "grey",
+            "label": {
+              "ru": "Серый",
+              "uz": "Kulrang"
+            },
+            "hex": "#8E8E93",
+            "priceDelta": 0,
+            "stock": 60
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь, силикон",
+          "uz": "Zanglamaydigan poʻlat, silikon"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "26 см",
+          "uz": "26 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Термостойкость",
+          "uz": "Issiqqa chidamliligi"
+        },
+        "value": {
+          "ru": "До 230 °C",
+          "uz": "230 °C gacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Можно в посудомоечной машине",
+          "uz": "Idish yuvish mashinasida yuvish mumkin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Dongguan Xinhe Silicone Products Co., Ltd.",
+      "city": {
+        "ru": "Дунгуань",
+        "uz": "Dunguan"
+      },
+      "rating": 4.8,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Kamola I.",
+        "rating": 5,
+        "text": {
+          "ru": "Удобный венчик, крем взбивается быстро. Силикон не пахнет, после мойки как новый.",
+          "uz": "Qulay koʻpirtirgich, krem tez koʻpiradi. Silikondan hid kelmaydi, yuvilgandan keyin yangidek."
+        },
+        "date": "2026-05-27"
+      },
+      {
+        "author": "Jasur T.",
+        "rating": 4,
+        "text": {
+          "ru": "Нормальный венчик, ручка удобная. Доставили за 18 дней, упаковка целая.",
+          "uz": "Yaxshi koʻpirtirgich, dastasi qulay. 18 kunda yetkazib berishdi, qadogʻi butun edi."
+        },
+        "date": "2026-03-11"
+      }
+    ]
+  },
+  {
+    "djId": 51,
+    "categoryId": "home",
+    "source": "alibaba",
+    "brand": null,
+    "title": {
+      "ru": "Блендер стационарный компактный, 600 Вт, кувшин 1,2 л",
+      "uz": "Ixcham statsionar blender, 600 Vt, 1,2 l idishli"
+    },
+    "subtitle": {
+      "ru": "Смузи и коктейли · 2 скорости + импульс",
+      "uz": "Smuzi va kokteyllar · 2 tezlik + impuls"
+    },
+    "description": {
+      "ru": "Компактный стационарный блендер для смузи, молочных коктейлей, соусов и детского пюре. Мотор мощностью 600 Вт, две скорости и импульсный режим, нож из нержавеющей стали с четырьмя лезвиями. Кувшин на 1,2 л с мерной шкалой. Мотор не включается, пока кувшин не установлен на базу.",
+      "uz": "Smuzi, sutli kokteyl, sous va bolalar pyuresi uchun ixcham statsionar blender. 600 Vt quvvatli motor, ikki tezlik va impuls rejimi, toʻrt tigʻli zanglamaydigan poʻlat pichoq. 1,2 litrli idishida oʻlchov shkalasi bor. Idish asosga oʻrnatilmaguncha motor ishga tushmaydi."
+    },
+    "price": 429000,
+    "oldPrice": null,
+    "rating": 4.8,
+    "reviews": 46,
+    "sold": 210,
+    "stock": 102,
+    "deliveryDays": [
+      11,
+      18
+    ],
+    "weightKg": 2.4,
+    "badges": [
+      "new"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплектация",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "base",
+            "label": {
+              "ru": "Базовая",
+              "uz": "Asosiy"
+            },
+            "priceDelta": 0,
+            "stock": 64
+          },
+          {
+            "id": "chopper",
+            "label": {
+              "ru": "С чашей-измельчителем",
+              "uz": "Maydalagich kosasi bilan"
+            },
+            "priceDelta": 69000,
+            "stock": 38
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Мощность",
+          "uz": "Quvvati"
+        },
+        "value": {
+          "ru": "600 Вт",
+          "uz": "600 Vt"
+        }
+      },
+      {
+        "name": {
+          "ru": "Объём кувшина",
+          "uz": "Idish hajmi"
+        },
+        "value": {
+          "ru": "1,2 л",
+          "uz": "1,2 l"
+        }
+      },
+      {
+        "name": {
+          "ru": "Скорости",
+          "uz": "Tezliklar"
+        },
+        "value": {
+          "ru": "2 + импульсный режим",
+          "uz": "2 + impuls rejimi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Нож",
+          "uz": "Pichoq"
+        },
+        "value": {
+          "ru": "4 лезвия, нержавеющая сталь",
+          "uz": "4 tigʻli, zanglamaydigan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Напряжение",
+          "uz": "Kuchlanish"
+        },
+        "value": {
+          "ru": "220 В",
+          "uz": "220 V"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "12 месяцев",
+          "uz": "12 oy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Foshan Shunde Meiyi Electrical Appliances Co., Ltd.",
+      "city": {
+        "ru": "Фошань",
+        "uz": "Foshan"
+      },
+      "rating": 4.8,
+      "years": 11,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Dilnoza R.",
+        "rating": 5,
+        "text": {
+          "ru": "Делаю смузи каждое утро — замороженные ягоды перемалывает без проблем. Не очень шумный.",
+          "uz": "Har tongda smuzi tayyorlayman — muzlatilgan rezavorlarni bemalol maydalaydi. Unchalik shovqin qilmaydi."
+        },
+        "date": "2026-10-04"
+      },
+      {
+        "author": "Timur G.",
+        "rating": 5,
+        "text": {
+          "ru": "Пришёл за 15 дней в заводской коробке, всё целое. Вилка под наши розетки, переходник не нужен.",
+          "uz": "15 kunda zavod qutisida keldi, hammasi butun. Vilkasi bizdagi rozetkalarga mos, adapter kerak emas."
+        },
+        "date": "2026-09-18"
+      },
+      {
+        "author": "Laylo O.",
+        "rating": 4,
+        "text": {
+          "ru": "Для коктейлей отлично, лёд тоже колет, но лучше добавлять немного воды.",
+          "uz": "Kokteyllar uchun zoʻr, muzni ham maydalaydi, lekin ozgina suv qoʻshgan maʼqul."
+        },
+        "date": "2026-10-19"
+      }
+    ]
+  },
+  {
+    "djId": 52,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Сковорода вок из углеродистой стали, 30 см",
+      "uz": "Uglerodli poʻlatdan vok tovasi, 30 sm"
+    },
+    "subtitle": {
+      "ru": "Быстро нагревается · Для жарки и тушения",
+      "uz": "Tez qiziydi · Qovurish va dimlash uchun"
+    },
+    "description": {
+      "ru": "Вок из углеродистой стали для жарки на сильном огне, тушения и приготовления во фритюре. Тонкие стенки быстро прогреваются и равномерно распределяют тепло. Перед первым использованием сковороду нужно прокалить с маслом — со временем образуется естественный антипригарный слой. После мытья вытирайте насухо.",
+      "uz": "Kuchli olovda qovurish, dimlash va koʻp yogʻda pishirish uchun uglerodli poʻlatdan vok. Yupqa devorlari tez qiziydi va issiqlikni bir tekis taqsimlaydi. Birinchi ishlatishdan oldin tovani yogʻ bilan qizdirib olish kerak — vaqt oʻtishi bilan tabiiy yopishmaydigan qatlam hosil boʻladi. Yuvgandan keyin quruq qilib arting."
+    },
+    "price": 249000,
+    "oldPrice": null,
+    "rating": 4.6,
+    "reviews": 1286,
+    "sold": 7900,
+    "stock": 445,
+    "deliveryDays": [
+      14,
+      21
+    ],
+    "weightKg": 1.9,
+    "badges": [
+      "hit"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "values": [
+          {
+            "id": "30cm",
+            "label": {
+              "ru": "30 см",
+              "uz": "30 sm"
+            },
+            "priceDelta": 0,
+            "stock": 140
+          },
+          {
+            "id": "32cm",
+            "label": {
+              "ru": "32 см",
+              "uz": "32 sm"
+            },
+            "priceDelta": 20000,
+            "stock": 210
+          },
+          {
+            "id": "34cm",
+            "label": {
+              "ru": "34 см",
+              "uz": "34 sm"
+            },
+            "priceDelta": 40000,
+            "stock": 95
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Углеродистая сталь",
+          "uz": "Uglerodli poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "value": {
+          "ru": "30 см",
+          "uz": "30 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Глубина",
+          "uz": "Chuqurligi"
+        },
+        "value": {
+          "ru": "9 см",
+          "uz": "9 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Толщина стенки",
+          "uz": "Devor qalinligi"
+        },
+        "value": {
+          "ru": "1,5 мм",
+          "uz": "1,5 mm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Покрытие",
+          "uz": "Qoplamasi"
+        },
+        "value": {
+          "ru": "Без покрытия",
+          "uz": "Qoplamasiz"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Foshan Jinlong Cookware Co., Ltd.",
+      "city": {
+        "ru": "Фошань",
+        "uz": "Foshan"
+      },
+      "rating": 4.7,
+      "years": 12,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sardor M.",
+        "rating": 5,
+        "text": {
+          "ru": "Настоящий вок, как в кафе. Прокалил по инструкции — теперь ничего не пригорает.",
+          "uz": "Xuddi kafedagidek haqiqiy vok. Yoʻriqnoma boʻyicha qizdirib oldim — endi hech narsa kuymayapti."
+        },
+        "date": "2026-02-14"
+      },
+      {
+        "author": "Gulnora Y.",
+        "rating": 4,
+        "text": {
+          "ru": "Для меня тяжеловата, но жарит отлично. Взяла 32 см — на семью из пяти человек хватает.",
+          "uz": "Men uchun biroz ogʻirroq, lekin juda yaxshi qovuradi. 32 sm oldim — besh kishilik oilaga yetadi."
+        },
+        "date": "2026-05-30"
+      },
+      {
+        "author": "Akmal S.",
+        "rating": 5,
+        "text": {
+          "ru": "Доставка 20 дней, упаковали в картон и пупырчатую плёнку. Ручка крепкая, не шатается.",
+          "uz": "Yetkazib berish 20 kun, karton va pufakchali plyonkaga oʻrab yuborishgan. Dastasi mustahkam, qimirlamaydi."
+        },
+        "date": "2026-08-22"
+      }
+    ]
+  },
+  {
+    "djId": 53,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Доска разделочная деревянная, 30 × 20 см",
+      "uz": "Yogʻoch kesish taxtasi, 30 × 20 sm"
+    },
+    "subtitle": {
+      "ru": "Цельное дерево · Бережёт заточку ножей",
+      "uz": "Yaxlit yogʻoch · Pichoqni asraydi"
+    },
+    "description": {
+      "ru": "Разделочная доска из цельного дерева для нарезки овощей, мяса, хлеба и сыра. Плотная древесина не тупит ножи и выдерживает ежедневную нагрузку. Поверхность отшлифована и обработана пищевым маслом. Мойте доску вручную, не оставляйте в воде и не сушите на батарее.",
+      "uz": "Sabzavot, goʻsht, non va pishloq toʻgʻrash uchun yaxlit yogʻochdan kesish taxtasi. Zich yogʻoch pichoqni oʻtmaslashtirmaydi va kundalik foydalanishga chidamli. Yuzasi silliqlangan va oziq-ovqatga mos moy bilan ishlov berilgan. Taxtani qoʻlda yuving, suvda qoldirmang va batareya ustida quritmang."
+    },
+    "price": 99000,
+    "oldPrice": null,
+    "rating": 4.5,
+    "reviews": 534,
+    "sold": 3120,
+    "stock": 490,
+    "deliveryDays": [
+      13,
+      22
+    ],
+    "weightKg": 1.1,
+    "badges": [],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "30x20",
+            "label": {
+              "ru": "30 × 20 см",
+              "uz": "30 × 20 sm"
+            },
+            "priceDelta": 0,
+            "stock": 160
+          },
+          {
+            "id": "36x25",
+            "label": {
+              "ru": "36 × 25 см",
+              "uz": "36 × 25 sm"
+            },
+            "priceDelta": 30000,
+            "stock": 220
+          },
+          {
+            "id": "40x30",
+            "label": {
+              "ru": "40 × 30 см",
+              "uz": "40 × 30 sm"
+            },
+            "priceDelta": 50000,
+            "stock": 110
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Натуральное дерево",
+          "uz": "Tabiiy yogʻoch"
+        }
+      },
+      {
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "value": {
+          "ru": "30 × 20 см",
+          "uz": "30 × 20 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Толщина",
+          "uz": "Qalinligi"
+        },
+        "value": {
+          "ru": "2 см",
+          "uz": "2 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Обработка",
+          "uz": "Ishlov berilishi"
+        },
+        "value": {
+          "ru": "Пищевое масло",
+          "uz": "Oziq-ovqat moyi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Только ручная мойка",
+          "uz": "Faqat qoʻlda yuvish"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Quanzhou Senlin Wood Crafts Co., Ltd.",
+      "city": {
+        "ru": "Цюаньчжоу",
+        "uz": "Syuanchjou"
+      },
+      "rating": 4.6,
+      "years": 7,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Elena V.",
+        "rating": 5,
+        "text": {
+          "ru": "Доска тяжёлая и устойчивая, не ездит по столу. Взяла средний размер — самый удобный.",
+          "uz": "Taxta ogʻir va barqaror, stol ustida sirpanmaydi. Oʻrtacha oʻlchamini oldim — eng qulayi shu."
+        },
+        "date": "2026-03-19"
+      },
+      {
+        "author": "Rustam Q.",
+        "rating": 4,
+        "text": {
+          "ru": "Качество хорошее, был лёгкий запах дерева, через пару дней прошёл. Ехала 21 день.",
+          "uz": "Sifati yaxshi, biroz yogʻoch hidi bor edi, ikki kunda ketdi. 21 kunda yetib keldi."
+        },
+        "date": "2026-07-25"
+      }
+    ]
+  },
+  {
+    "djId": 54,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Пресс для цитрусовых ручной, жёлтый",
+      "uz": "Sitrus mevalar uchun sharbat siqgich, sariq"
+    },
+    "subtitle": {
+      "ru": "Сок без косточек · Одной рукой",
+      "uz": "Danaksiz sharbat · Bir qoʻlda ishlatiladi"
+    },
+    "description": {
+      "ru": "Ручной пресс для лимонов, лайма и мандаринов. Половинку фрукта кладут в чашу срезом вниз: сок вытекает через отверстия, а косточки и мякоть остаются внутри. Длинные рукоятки позволяют выжать сок без лишних усилий. Корпус покрыт пищевой эмалью, мыть лучше вручную.",
+      "uz": "Limon, laym va mandarin uchun qoʻlda ishlatiladigan press. Meva yarmi kesilgan tomoni bilan pastga qaratib kosachaga qoʻyiladi: sharbat teshiklardan oqib chiqadi, danagi va eti esa ichida qoladi. Uzun dastalari tufayli sharbatni ortiqcha kuch sarflamay siqish mumkin. Korpusi oziq-ovqatga mos emal bilan qoplangan, qoʻlda yuvgan maʼqul."
+    },
+    "price": 69000,
+    "oldPrice": 79000,
+    "rating": 4.8,
+    "reviews": 2140,
+    "sold": 11800,
+    "stock": 890,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.35,
+    "badges": [
+      "hit",
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "yellow",
+            "label": {
+              "ru": "Жёлтый",
+              "uz": "Sariq"
+            },
+            "hex": "#F5C518",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 520
+          },
+          {
+            "id": "green",
+            "label": {
+              "ru": "Зелёный",
+              "uz": "Yashil"
+            },
+            "hex": "#7CB342",
+            "priceDelta": 0,
+            "stock": 240
+          },
+          {
+            "id": "orange",
+            "label": {
+              "ru": "Оранжевый",
+              "uz": "Toʻq sariq"
+            },
+            "hex": "#FB8C00",
+            "priceDelta": 0,
+            "stock": 130
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Алюминиевый сплав, пищевая эмаль",
+          "uz": "Alyuminiy qotishmasi, oziq-ovqat emali"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "21 см",
+          "uz": "21 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр чаши",
+          "uz": "Kosacha diametri"
+        },
+        "value": {
+          "ru": "7 см",
+          "uz": "7 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Для каких фруктов",
+          "uz": "Qaysi mevalar uchun"
+        },
+        "value": {
+          "ru": "Лимон, лайм, мандарин",
+          "uz": "Limon, laym, mandarin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Ручная мойка",
+          "uz": "Qoʻlda yuvish"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Hongtai Kitchenware Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.8,
+      "years": 10,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Madina K.",
+        "rating": 5,
+        "text": {
+          "ru": "Выжимает лимон до последней капли, косточки в чай не попадают. Яркий, кухня стала веселее.",
+          "uz": "Limonni oxirgi tomchisigacha siqadi, danaklari choyga tushmaydi. Rangi yorqin, oshxona quvnoqroq boʻlib qoldi."
+        },
+        "date": "2026-06-17"
+      },
+      {
+        "author": "Anvar D.",
+        "rating": 5,
+        "text": {
+          "ru": "Крепкий, рукоятки не гнутся. Доставка 17 дней, пришёл в коробке.",
+          "uz": "Mustahkam, dastalari egilmaydi. Yetkazib berish 17 kun, qutida keldi."
+        },
+        "date": "2026-04-02"
+      },
+      {
+        "author": "Irina P.",
+        "rating": 4,
+        "text": {
+          "ru": "Для лимона идеально, а крупный апельсин не помещается — берите для небольших цитрусов.",
+          "uz": "Limon uchun ayni muddao, katta apelsin esa sigʻmaydi — kichikroq sitruslar uchun oling."
+        },
+        "date": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "djId": 55,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Яйцерезка со струнами из нержавеющей стали",
+      "uz": "Zanglamaydigan poʻlat simli tuxum kesgich"
+    },
+    "subtitle": {
+      "ru": "Ровные кружочки · Для салатов и бутербродов",
+      "uz": "Tekis halqachalar · Salat va buterbrodga"
+    },
+    "description": {
+      "ru": "Яйцерезка нарезает варёное яйцо на ровные кружочки одним движением. Подходит для салатов, бутербродов и украшения блюд, а также для мягких продуктов — грибов, клубники, отварного картофеля. Струны из нержавеющей стали туго натянуты и не провисают. Промывайте под проточной водой сразу после использования.",
+      "uz": "Tuxum kesgich qaynatilgan tuxumni bir harakatda tekis halqachalarga kesadi. Salat, buterbrod va taomlarni bezash uchun, shuningdek qoʻziqorin, qulupnay, qaynatilgan kartoshka kabi yumshoq mahsulotlar uchun ham mos. Zanglamaydigan poʻlat simlari tarang tortilgan va boʻshashmaydi. Ishlatgandan soʻng darhol oqar suvda yuving."
+    },
+    "price": 49000,
+    "oldPrice": 59000,
+    "rating": 4.2,
+    "reviews": 176,
+    "sold": 1040,
+    "stock": 260,
+    "deliveryDays": [
+      14,
+      23
+    ],
+    "weightKg": 0.15,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Струны",
+          "uz": "Simlari"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь",
+          "uz": "Zanglamaydigan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Количество струн",
+          "uz": "Simlar soni"
+        },
+        "value": {
+          "ru": "10",
+          "uz": "10"
+        }
+      },
+      {
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "value": {
+          "ru": "13 × 9 см",
+          "uz": "13 × 9 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Vazifasi"
+        },
+        "value": {
+          "ru": "Яйца, грибы, ягоды",
+          "uz": "Tuxum, qoʻziqorin, rezavorlar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Ручная мойка",
+          "uz": "Qoʻlda yuvish"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Hongtai Kitchenware Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.8,
+      "years": 10,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Aziza N.",
+        "rating": 4,
+        "text": {
+          "ru": "Режет ровно, для оливье самое то. Ехала долго — 23 дня, но пришла целой.",
+          "uz": "Tekis kesadi, olivye uchun ayni muddao. Uzoq keldi — 23 kun, lekin butun holatda."
+        },
+        "date": "2026-01-23"
+      },
+      {
+        "author": "Bobur E.",
+        "rating": 5,
+        "text": {
+          "ru": "Жена довольна, нарезает и яйца, и грибы. За такую цену — отличная вещь.",
+          "uz": "Xotinim mamnun, tuxumni ham, qoʻziqorinni ham kesadi. Bu narxga ajoyib narsa."
+        },
+        "date": "2026-03-06"
+      }
+    ]
+  },
+  {
+    "djId": 56,
+    "categoryId": "home",
+    "source": "alibaba",
+    "brand": null,
+    "title": {
+      "ru": "Электроплита настольная компактная, 1500 Вт",
+      "uz": "Ixcham stol usti elektr plitasi, 1500 Vt"
+    },
+    "subtitle": {
+      "ru": "Терморегулятор · Защита от перегрева",
+      "uz": "Termoregulyator · Qizib ketishdan himoya"
+    },
+    "description": {
+      "ru": "Компактная настольная электроплита для небольшой кухни, дачи или общежития, а также в качестве дополнительной конфорки. Мощность 1500 Вт, температура регулируется термостатом. Встроенный термопредохранитель отключает нагрев, если корпус слишком нагрелся. Подходит для любой посуды с ровным дном.",
+      "uz": "Kichik oshxona, dala hovli yoki yotoqxona uchun ixcham stol usti elektr plitasi, qoʻshimcha konforka sifatida ham qulay. Quvvati 1500 Vt, harorat termostat orqali sozlanadi. Ichki termosaqlagich korpus haddan tashqari qizib ketsa, isitishni oʻchiradi. Tagi tekis har qanday idishga mos keladi."
+    },
+    "price": 549000,
+    "oldPrice": 629000,
+    "rating": 4.6,
+    "reviews": 382,
+    "sold": 1650,
+    "stock": 85,
+    "deliveryDays": [
+      12,
+      19
+    ],
+    "weightKg": 3.2,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Мощность",
+          "uz": "Quvvati"
+        },
+        "value": {
+          "ru": "1500 Вт",
+          "uz": "1500 Vt"
+        }
+      },
+      {
+        "name": {
+          "ru": "Напряжение",
+          "uz": "Kuchlanish"
+        },
+        "value": {
+          "ru": "220 В",
+          "uz": "220 V"
+        }
+      },
+      {
+        "name": {
+          "ru": "Регулировка",
+          "uz": "Sozlash"
+        },
+        "value": {
+          "ru": "Термостат",
+          "uz": "Termostat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от перегрева",
+          "uz": "Qizib ketishdan himoya"
+        },
+        "value": {
+          "ru": "Есть",
+          "uz": "Bor"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина шнура",
+          "uz": "Shnur uzunligi"
+        },
+        "value": {
+          "ru": "1,2 м",
+          "uz": "1,2 m"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "12 месяцев",
+          "uz": "12 oy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Ningbo Kaili Electric Appliance Co., Ltd.",
+      "city": {
+        "ru": "Нинбо",
+        "uz": "Ningbo"
+      },
+      "rating": 4.7,
+      "years": 13,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Olga S.",
+        "rating": 4,
+        "text": {
+          "ru": "Взяли на дачу — чайник закипает минут за семь. Корпус сбоку нагревается, учитывайте.",
+          "uz": "Dala hovliga oldik — choynak taxminan yetti daqiqada qaynaydi. Yon tomoni qiziydi, buni hisobga oling."
+        },
+        "date": "2026-06-28"
+      },
+      {
+        "author": "Sherzod U.",
+        "rating": 5,
+        "text": {
+          "ru": "Пользуюсь в общежитии, готовлю и суп, и плов в маленьком казане. Доставка 17 дней.",
+          "uz": "Yotoqxonada ishlataman, kichik qozonda shoʻrva ham, palov ham pishiraman. Yetkazib berish 17 kun."
+        },
+        "date": "2026-02-10"
+      },
+      {
+        "author": "Marina L.",
+        "rating": 5,
+        "text": {
+          "ru": "Нагревается быстро, регулятор работает плавно. Вилка подходит к нашим розеткам.",
+          "uz": "Tez qiziydi, regulyatori ravon ishlaydi. Vilkasi bizdagi rozetkalarga mos."
+        },
+        "date": "2026-09-03"
+      }
+    ]
+  },
+  {
+    "djId": 57,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Сито с ручкой из нержавеющей стали, мелкая сетка, 14 см",
+      "uz": "Zanglamaydigan poʻlatdan dastali suzgich, mayda toʻr, 14 sm"
+    },
+    "subtitle": {
+      "ru": "Для чая, соусов и муки · Не ржавеет",
+      "uz": "Choy, sous va un uchun · Zanglamaydi"
+    },
+    "description": {
+      "ru": "Сито с мелкой сеткой для процеживания бульонов, соусов, чая и сиропов, а также для просеивания муки и сахарной пудры. Сетка и обод из нержавеющей стали, на ручке есть петля для подвешивания. Крючок на ободе позволяет положить сито на кастрюлю или миску. Можно мыть в посудомоечной машине.",
+      "uz": "Mayda toʻrli suzgich bulyon, sous, choy va siroplarni suzish, shuningdek un va qand upasini elash uchun. Toʻri va gardishi zanglamaydigan poʻlatdan, dastasida osib qoʻyish uchun halqa bor. Gardishidagi ilgak suzgichni kastryul yoki kosa ustiga qoʻyish imkonini beradi. Idish yuvish mashinasida yuvish mumkin."
+    },
+    "price": 79000,
+    "oldPrice": null,
+    "rating": 4.3,
+    "reviews": 204,
+    "sold": 1380,
+    "stock": 500,
+    "deliveryDays": [
+      13,
+      20
+    ],
+    "weightKg": 0.25,
+    "badges": [],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "values": [
+          {
+            "id": "14cm",
+            "label": {
+              "ru": "14 см",
+              "uz": "14 sm"
+            },
+            "priceDelta": 0,
+            "stock": 150
+          },
+          {
+            "id": "18cm",
+            "label": {
+              "ru": "18 см",
+              "uz": "18 sm"
+            },
+            "priceDelta": 15000,
+            "stock": 230
+          },
+          {
+            "id": "22cm",
+            "label": {
+              "ru": "22 см",
+              "uz": "22 sm"
+            },
+            "priceDelta": 30000,
+            "stock": 120
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь",
+          "uz": "Zanglamaydigan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "value": {
+          "ru": "14 см",
+          "uz": "14 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина с ручкой",
+          "uz": "Dasta bilan uzunligi"
+        },
+        "value": {
+          "ru": "30 см",
+          "uz": "30 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ячейка сетки",
+          "uz": "Toʻr koʻzi"
+        },
+        "value": {
+          "ru": "0,5 мм",
+          "uz": "0,5 mm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Можно в посудомоечной машине",
+          "uz": "Idish yuvish mashinasida yuvish mumkin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Ningbo Fuda Stainless Steel Products Co., Ltd.",
+      "city": {
+        "ru": "Нинбо",
+        "uz": "Ningbo"
+      },
+      "rating": 4.6,
+      "years": 9,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nigora X.",
+        "rating": 4,
+        "text": {
+          "ru": "Сетка действительно мелкая, чаинки не проходят. Взяла 18 см — для бульона в самый раз.",
+          "uz": "Toʻri haqiqatan ham mayda, choy barglari oʻtmaydi. 18 sm oldim — bulyon suzish uchun ayni muddao."
+        },
+        "date": "2026-08-30"
+      },
+      {
+        "author": "Javohir R.",
+        "rating": 4,
+        "text": {
+          "ru": "Нормальное сито за свои деньги. Ручка немного гнётся, если сильно давить.",
+          "uz": "Narxiga yarasha yaxshi suzgich. Qattiq bossangiz, dastasi biroz egiladi."
+        },
+        "date": "2026-05-12"
+      }
+    ]
+  },
+  {
+    "djId": 58,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Вилка столовая из нержавеющей стали, 20 см",
+      "uz": "Zanglamaydigan poʻlatdan sanchqi, 20 sm"
+    },
+    "subtitle": {
+      "ru": "Не темнеет · Можно в посудомойку",
+      "uz": "Qoraymaydi · Idish yuvish mashinasiga mos"
+    },
+    "description": {
+      "ru": "Классическая столовая вилка из нержавеющей стали для ежедневного использования и сервировки стола. Ручка удобной формы, металл достаточно толстый — вилка не гнётся. Не темнеет и не впитывает запахи. Можно мыть в посудомоечной машине.",
+      "uz": "Har kungi foydalanish va dasturxon bezash uchun zanglamaydigan poʻlatdan klassik sanchqi. Dastasi qulay shaklda, metali yetarlicha qalin — sanchqi egilmaydi. Qoraymaydi va hid singdirmaydi. Idish yuvish mashinasida yuvish mumkin."
+    },
+    "price": 29000,
+    "oldPrice": null,
+    "rating": 4.4,
+    "reviews": 690,
+    "sold": 6800,
+    "stock": 1390,
+    "deliveryDays": [
+      15,
+      24
+    ],
+    "weightKg": 0.08,
+    "badges": [
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Количество",
+          "uz": "Soni"
+        },
+        "values": [
+          {
+            "id": "1pc",
+            "label": {
+              "ru": "1 шт",
+              "uz": "1 dona"
+            },
+            "priceDelta": 0,
+            "stock": 900
+          },
+          {
+            "id": "6pcs",
+            "label": {
+              "ru": "6 шт",
+              "uz": "6 dona"
+            },
+            "priceDelta": 129000,
+            "stock": 340
+          },
+          {
+            "id": "12pcs",
+            "label": {
+              "ru": "12 шт",
+              "uz": "12 dona"
+            },
+            "priceDelta": 259000,
+            "stock": 150
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь",
+          "uz": "Zanglamaydigan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "20 см",
+          "uz": "20 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Толщина",
+          "uz": "Qalinligi"
+        },
+        "value": {
+          "ru": "2,5 мм",
+          "uz": "2,5 mm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Vazifasi"
+        },
+        "value": {
+          "ru": "Основные блюда",
+          "uz": "Asosiy taomlar uchun"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Можно в посудомоечной машине",
+          "uz": "Idish yuvish mashinasida yuvish mumkin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Huimei Tableware Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.7,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Shahzoda B.",
+        "rating": 5,
+        "text": {
+          "ru": "Брала набор из 12 штук для гостей. Вилки увесистые, после посудомойки без пятен.",
+          "uz": "Mehmonlar uchun 12 donalik toʻplam oldim. Sanchqilar salmoqli, idish yuvish mashinasidan keyin dogʻ qolmaydi."
+        },
+        "date": "2026-07-14"
+      },
+      {
+        "author": "Otabek J.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошие вилки, но доставка 24 дня — долговато.",
+          "uz": "Yaxshi sanchqilar, lekin yetkazib berish 24 kun — biroz uzoq."
+        },
+        "date": "2026-04-26"
+      }
+    ]
+  },
+  {
+    "djId": 59,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Стакан стеклянный прозрачный, 300 мл",
+      "uz": "Shaffof shisha stakan, 300 ml"
+    },
+    "subtitle": {
+      "ru": "Не впитывает запахи · Для воды и соков",
+      "uz": "Hid singdirmaydi · Suv va sharbat uchun"
+    },
+    "description": {
+      "ru": "Универсальный стакан из прозрачного стекла для воды, соков, лимонадов и коктейлей. Через прозрачные стенки хорошо виден цвет напитка, стекло не впитывает запахи. Подходит для повседневного использования и праздничной сервировки. Можно мыть в посудомоечной машине.",
+      "uz": "Suv, sharbat, limonad va kokteyllar uchun shaffof shishadan universal stakan. Shaffof devorlari orqali ichimlik rangi yaxshi koʻrinadi, shisha hid singdirmaydi. Kundalik foydalanish va bayram dasturxoni uchun mos. Idish yuvish mashinasida yuvish mumkin."
+    },
+    "price": 39000,
+    "oldPrice": null,
+    "rating": 4.6,
+    "reviews": 958,
+    "sold": 7400,
+    "stock": 960,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 0.35,
+    "badges": [
+      "choice",
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Количество",
+          "uz": "Soni"
+        },
+        "values": [
+          {
+            "id": "1pc",
+            "label": {
+              "ru": "1 шт",
+              "uz": "1 dona"
+            },
+            "priceDelta": 0,
+            "stock": 700
+          },
+          {
+            "id": "6pcs",
+            "label": {
+              "ru": "6 шт",
+              "uz": "6 dona"
+            },
+            "priceDelta": 169000,
+            "stock": 260
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Стекло",
+          "uz": "Shisha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "value": {
+          "ru": "300 мл",
+          "uz": "300 ml"
+        }
+      },
+      {
+        "name": {
+          "ru": "Высота",
+          "uz": "Balandligi"
+        },
+        "value": {
+          "ru": "11 см",
+          "uz": "11 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "value": {
+          "ru": "7,5 см",
+          "uz": "7,5 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Можно в посудомоечной машине",
+          "uz": "Idish yuvish mashinasida yuvish mumkin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shanghai Qingyu Glassware Co., Ltd.",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.8,
+      "years": 14,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Feruza H.",
+        "rating": 5,
+        "text": {
+          "ru": "Заказала 6 штук, все пришли целыми — каждый стакан в отдельной ячейке. Стекло прозрачное, без пузырьков.",
+          "uz": "6 dona buyurtma qildim, hammasi butun keldi — har bir stakan alohida katakchada. Shishasi tiniq, pufakchalari yoʻq."
+        },
+        "date": "2026-02-27"
+      },
+      {
+        "author": "Timur G.",
+        "rating": 5,
+        "text": {
+          "ru": "Простые и аккуратные стаканы, удобно лежат в руке. Доставка 19 дней.",
+          "uz": "Oddiy va chiroyli stakanlar, qoʻlda qulay turadi. Yetkazib berish 19 kun."
+        },
+        "date": "2026-06-06"
+      },
+      {
+        "author": "Umida A.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошие, но объём чуть меньше, чем я ожидала. Для сока нормально.",
+          "uz": "Yaxshi, lekin hajmi men kutganimdan biroz kichikroq. Sharbat uchun boʻladi."
+        },
+        "date": "2026-09-15"
+      }
+    ]
+  },
+  {
+    "djId": 60,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Тёрка кухонная с острыми лезвиями, чёрная",
+      "uz": "Oʻtkir tigʻli oshxona qirgʻichi, qora"
+    },
+    "subtitle": {
+      "ru": "Для сыра, овощей и шоколада",
+      "uz": "Pishloq, sabzavot va shokolad uchun"
+    },
+    "description": {
+      "ru": "Кухонная тёрка для сыра, овощей, фруктов, шоколада и цедры. Лезвия из нержавеющей стали остро заточены и не тупятся при регулярном использовании. Чёрный корпус аккуратно смотрится на любой кухне. После использования промойте тёрку щёткой под проточной водой.",
+      "uz": "Pishloq, sabzavot, meva, shokolad va sitrus poʻstlogʻi uchun oshxona qirgʻichi. Zanglamaydigan poʻlat tigʻlari oʻtkir charxlangan va muntazam ishlatilganda ham oʻtmaslashmaydi. Qora korpusi har qanday oshxonada ozoda koʻrinadi. Ishlatgandan soʻng qirgʻichni choʻtka bilan oqar suvda yuving."
+    },
+    "price": 89000,
+    "oldPrice": null,
+    "rating": 4.3,
+    "reviews": 247,
+    "sold": 1560,
+    "stock": 260,
+    "deliveryDays": [
+      13,
+      21
+    ],
+    "weightKg": 0.3,
+    "badges": [],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 190
+          },
+          {
+            "id": "grey",
+            "label": {
+              "ru": "Серый",
+              "uz": "Kulrang"
+            },
+            "hex": "#8E8E93",
+            "priceDelta": 0,
+            "stock": 70
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал лезвий",
+          "uz": "Tigʻlar materiali"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь",
+          "uz": "Zanglamaydigan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "value": {
+          "ru": "Чёрный",
+          "uz": "Qora"
+        }
+      },
+      {
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "value": {
+          "ru": "24 × 10 см",
+          "uz": "24 × 10 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Vazifasi"
+        },
+        "value": {
+          "ru": "Сыр, овощи, цедра",
+          "uz": "Pishloq, sabzavot, poʻstloq"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Ручная мойка",
+          "uz": "Qoʻlda yuvish"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Youjia Housewares Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.5,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Gulnora Y.",
+        "rating": 4,
+        "text": {
+          "ru": "Трёт хорошо, морковь для салата — за пару минут. Ехала 20 дней.",
+          "uz": "Yaxshi qiradi, salat uchun sabzini bir-ikki daqiqada qirib oldim. 20 kunda keldi."
+        },
+        "date": "2026-03-28"
+      },
+      {
+        "author": "Malika T.",
+        "rating": 5,
+        "text": {
+          "ru": "Лезвия действительно острые, сыр трётся легко. Берегите пальцы!",
+          "uz": "Tigʻlari haqiqatan oʻtkir, pishloq oson qiriladi. Barmoqlaringizni ehtiyot qiling!"
+        },
+        "date": "2026-08-09"
+      }
+    ]
+  },
+  {
+    "djId": 61,
+    "categoryId": "home",
+    "source": "alibaba",
+    "brand": null,
+    "title": {
+      "ru": "Блендер погружной, 800 Вт, насадка из нержавеющей стали",
+      "uz": "Qoʻl blenderi, 800 Vt, zanglamaydigan poʻlat nasadka"
+    },
+    "subtitle": {
+      "ru": "2 скорости + турбо · Съёмная насадка",
+      "uz": "2 tezlik + turbo · Yechiladigan nasadka"
+    },
+    "description": {
+      "ru": "Погружной блендер для супов-пюре, соусов, детского питания и коктейлей. Мотор 800 Вт, две скорости и режим турбо. Насадка из нержавеющей стали снимается одним нажатием и моется отдельно. Блендером удобно работать прямо в кастрюле или высоком стакане.",
+      "uz": "Pyure shoʻrva, sous, bolalar ovqati va kokteyllar uchun qoʻl blenderi. 800 Vt quvvatli motor, ikki tezlik va turbo rejimi. Zanglamaydigan poʻlatdan yasalgan nasadka bir bosishda yechiladi va alohida yuviladi. Blender bilan toʻgʻridan-toʻgʻri kastryul yoki baland stakanda ishlash qulay."
+    },
+    "price": 389000,
+    "oldPrice": 459000,
+    "rating": 4.5,
+    "reviews": 58,
+    "sold": 240,
+    "stock": 74,
+    "deliveryDays": [
+      10,
+      17
+    ],
+    "weightKg": 1.4,
+    "badges": [
+      "new",
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплектация",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "base",
+            "label": {
+              "ru": "Базовая",
+              "uz": "Asosiy"
+            },
+            "priceDelta": 0,
+            "stock": 48
+          },
+          {
+            "id": "whisk-bowl",
+            "label": {
+              "ru": "С венчиком и чашей",
+              "uz": "Koʻpirtirgich va kosa bilan"
+            },
+            "priceDelta": 89000,
+            "stock": 26
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Мощность",
+          "uz": "Quvvati"
+        },
+        "value": {
+          "ru": "800 Вт",
+          "uz": "800 Vt"
+        }
+      },
+      {
+        "name": {
+          "ru": "Скорости",
+          "uz": "Tezliklar"
+        },
+        "value": {
+          "ru": "2 + турбо",
+          "uz": "2 + turbo"
+        }
+      },
+      {
+        "name": {
+          "ru": "Насадка",
+          "uz": "Nasadka"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь",
+          "uz": "Zanglamaydigan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Напряжение",
+          "uz": "Kuchlanish"
+        },
+        "value": {
+          "ru": "220 В",
+          "uz": "220 V"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина шнура",
+          "uz": "Shnur uzunligi"
+        },
+        "value": {
+          "ru": "1,2 м",
+          "uz": "1,2 m"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "12 месяцев",
+          "uz": "12 oy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Ningbo Kaili Electric Appliance Co., Ltd.",
+      "city": {
+        "ru": "Нинбо",
+        "uz": "Ningbo"
+      },
+      "rating": 4.7,
+      "years": 13,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Kamola I.",
+        "rating": 5,
+        "text": {
+          "ru": "Брала комплект с чашей — орехи и лук измельчает за секунды. Пюре для малыша получается без комочков.",
+          "uz": "Kosali toʻplamini oldim — yongʻoq va piyozni bir zumda maydalaydi. Bolamga pyure bir tekis, gʻuddasiz chiqadi."
+        },
+        "date": "2026-10-12"
+      },
+      {
+        "author": "Behzod A.",
+        "rating": 4,
+        "text": {
+          "ru": "Мощный, но в режиме турбо шумит. Доставили за 14 дней.",
+          "uz": "Kuchli, lekin turbo rejimida shovqin qiladi. 14 kunda yetkazib berishdi."
+        },
+        "date": "2026-09-26"
+      }
+    ]
+  },
+  {
+    "djId": 62,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Форма для льда силиконовая на 24 кубика",
+      "uz": "Muz uchun silikon qolip, 24 katakli"
+    },
+    "subtitle": {
+      "ru": "Лёд легко выдавливается · Без запаха",
+      "uz": "Muz oson chiqadi · Hidsiz"
+    },
+    "description": {
+      "ru": "Форма из пищевого силикона для приготовления льда к напиткам, коктейлям и холодному кофе. Мягкие стенки позволяют легко выдавить кубики, не ломая их. Подходит также для заморозки ягод, бульона и детского пюре небольшими порциями. Выдерживает температуру от −40 до +200 °C.",
+      "uz": "Ichimliklar, kokteyl va sovuq qahva uchun muz tayyorlashga moʻljallangan, oziq-ovqatga mos silikondan qolip. Yumshoq devorlari tufayli kubiklarni sindirmasdan oson chiqarib olish mumkin. Rezavor mevalar, bulyon va bolalar pyuresini kichik porsiyalarda muzlatish uchun ham mos. −40 dan +200 °C gacha haroratga chidaydi."
+    },
+    "price": 39000,
+    "oldPrice": null,
+    "rating": 4.8,
+    "reviews": 3260,
+    "sold": 21400,
+    "stock": 1280,
+    "deliveryDays": [
+      12,
+      19
+    ],
+    "weightKg": 0.15,
+    "badges": [
+      "hit"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Количество",
+          "uz": "Soni"
+        },
+        "values": [
+          {
+            "id": "1pc",
+            "label": {
+              "ru": "1 шт",
+              "uz": "1 dona"
+            },
+            "priceDelta": 0,
+            "stock": 820
+          },
+          {
+            "id": "2pcs",
+            "label": {
+              "ru": "2 шт",
+              "uz": "2 dona"
+            },
+            "priceDelta": 29000,
+            "stock": 460
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Пищевой силикон",
+          "uz": "Oziq-ovqat silikoni"
+        }
+      },
+      {
+        "name": {
+          "ru": "Количество ячеек",
+          "uz": "Kataklar soni"
+        },
+        "value": {
+          "ru": "24",
+          "uz": "24"
+        }
+      },
+      {
+        "name": {
+          "ru": "Размер кубика",
+          "uz": "Kubik oʻlchami"
+        },
+        "value": {
+          "ru": "2,5 × 2,5 см",
+          "uz": "2,5 × 2,5 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Температурный диапазон",
+          "uz": "Harorat oraligʻi"
+        },
+        "value": {
+          "ru": "От −40 до +200 °C",
+          "uz": "−40 dan +200 °C gacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Можно в посудомоечной машине",
+          "uz": "Idish yuvish mashinasida yuvish mumkin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Dongguan Xinhe Silicone Products Co., Ltd.",
+      "city": {
+        "ru": "Дунгуань",
+        "uz": "Dunguan"
+      },
+      "rating": 4.8,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Zarina M.",
+        "rating": 5,
+        "text": {
+          "ru": "Летом без неё никуда. Кубики выходят легко, силикон не пахнет.",
+          "uz": "Yozda usiz boʻlmaydi. Kubiklar oson chiqadi, silikondan hid kelmaydi."
+        },
+        "date": "2026-07-02"
+      },
+      {
+        "author": "Nodir F.",
+        "rating": 5,
+        "text": {
+          "ru": "Взял две формы — льда хватает на всю семью. Пришли за 16 дней.",
+          "uz": "Ikkita qolip oldim — muz butun oilaga yetadi. 16 kunda keldi."
+        },
+        "date": "2026-06-19"
+      },
+      {
+        "author": "Svetlana K.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошая форма, но без крышки — в морозилке лёд набирает запахи, храню в пакете.",
+          "uz": "Yaxshi qolip, lekin qopqogʻi yoʻq — muzlatkichda muzga hid oʻtadi, shuning uchun paketda saqlayman."
+        },
+        "date": "2026-08-14"
+      }
+    ]
+  },
+  {
+    "djId": 63,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Сито для муки кухонное, Ø 20 см",
+      "uz": "Un elash uchun oshxona elagi, Ø 20 sm"
+    },
+    "subtitle": {
+      "ru": "Мелкая сетка · Для муки и процеживания",
+      "uz": "Mayda toʻr · Un elash va suzish uchun"
+    },
+    "description": {
+      "ru": "Кухонное сито для просеивания муки, какао и сахарной пудры, а также для процеживания соков и отваров. Мелкая сетка из нержавеющей стали натянута в прочном ободе. Просеянная мука насыщается воздухом, и выпечка получается пышнее. После использования достаточно промыть сито тёплой водой и просушить.",
+      "uz": "Un, kakao va qand upasini elash, shuningdek sharbat va damlamalarni suzish uchun oshxona elagi. Zanglamaydigan poʻlatdan mayda toʻr mustahkam gardishga tortilgan. Elangan un havo bilan boyiydi, pishiriqlar esa yumshoqroq chiqadi. Ishlatgandan soʻng elakni iliq suvda chayib, quritib qoʻyish kifoya."
+    },
+    "price": 55000,
+    "oldPrice": 69000,
+    "rating": 4.2,
+    "reviews": 96,
+    "sold": 640,
+    "stock": 310,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 0.22,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь",
+          "uz": "Zanglamaydigan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "value": {
+          "ru": "20 см",
+          "uz": "20 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Высота обода",
+          "uz": "Gardish balandligi"
+        },
+        "value": {
+          "ru": "6 см",
+          "uz": "6 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Vazifasi"
+        },
+        "value": {
+          "ru": "Мука, какао, сахарная пудра",
+          "uz": "Un, kakao, qand upasi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Ningbo Fuda Stainless Steel Products Co., Ltd.",
+      "city": {
+        "ru": "Нинбо",
+        "uz": "Ningbo"
+      },
+      "rating": 4.6,
+      "years": 9,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Laylo O.",
+        "rating": 4,
+        "text": {
+          "ru": "Для муки отличное, сетка ровная, не провисает. Для сахарной пудры крупновато.",
+          "uz": "Un elash uchun juda yaxshi, toʻri tekis, osilib qolmaydi. Qand upasi uchun toʻri biroz yirikroq."
+        },
+        "date": "2026-02-03"
+      },
+      {
+        "author": "Sardor M.",
+        "rating": 5,
+        "text": {
+          "ru": "Жена печёт каждые выходные, старое сито порвалось — это намного крепче.",
+          "uz": "Rafiqam har dam olish kuni pishiriq pishiradi, eski elak yirtilib qolgandi — bunisi ancha mustahkam."
+        },
+        "date": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "djId": 64,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Нож поварской из нержавеющей стали, лезвие 20 см",
+      "uz": "Zanglamaydigan poʻlatdan oshpaz pichogʻi, tigʻi 20 sm"
+    },
+    "subtitle": {
+      "ru": "Острая заводская заточка · Удобная рукоять",
+      "uz": "Zavodda oʻtkir charxlangan · Qulay dasta"
+    },
+    "description": {
+      "ru": "Поварской нож для нарезки мяса, овощей, зелени и хлеба. Лезвие из нержавеющей стали с заводской заточкой, рукоять эргономичной формы не скользит даже в мокрой руке. Нож хорошо сбалансирован и подходит для ежедневной работы на кухне. Рекомендуется мыть вручную и хранить на магнитном держателе или в подставке.",
+      "uz": "Goʻsht, sabzavot, koʻkat va non toʻgʻrash uchun oshpaz pichogʻi. Tigʻi zanglamaydigan poʻlatdan, zavodda charxlangan, ergonomik dastasi hoʻl qoʻlda ham sirpanmaydi. Pichoq yaxshi muvozanatlangan va oshxonadagi har kungi ish uchun mos. Qoʻlda yuvish hamda magnitli ushlagichda yoki maxsus taglikda saqlash tavsiya etiladi."
+    },
+    "price": 129000,
+    "oldPrice": 159000,
+    "rating": 4.4,
+    "reviews": 388,
+    "sold": 2300,
+    "stock": 170,
+    "deliveryDays": [
+      13,
+      20
+    ],
+    "weightKg": 0.35,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал лезвия",
+          "uz": "Tigʻ materiali"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь",
+          "uz": "Zanglamaydigan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина лезвия",
+          "uz": "Tigʻ uzunligi"
+        },
+        "value": {
+          "ru": "20 см",
+          "uz": "20 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Общая длина",
+          "uz": "Umumiy uzunligi"
+        },
+        "value": {
+          "ru": "33 см",
+          "uz": "33 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Твёрдость стали",
+          "uz": "Poʻlat qattiqligi"
+        },
+        "value": {
+          "ru": "56 по Роквеллу",
+          "uz": "Rokvell boʻyicha 56"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Ручная мойка",
+          "uz": "Qoʻlda yuvish"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Ruifeng Cutlery Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.6,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Jasur T.",
+        "rating": 5,
+        "text": {
+          "ru": "Острый прямо из коробки, помидор режет без усилий. Пришёл в картонном футляре.",
+          "uz": "Qutidan chiqqanidayoq oʻtkir, pomidorni bemalol kesadi. Karton gʻilofda keldi."
+        },
+        "date": "2026-04-08"
+      },
+      {
+        "author": "Elena V.",
+        "rating": 4,
+        "text": {
+          "ru": "Хороший нож за эти деньги, заточку держит уже два месяца. Рукоять удобная.",
+          "uz": "Bu narxga yaxshi pichoq, ikki oydan beri oʻtkirligini yoʻqotmadi. Dastasi qulay."
+        },
+        "date": "2026-07-19"
+      },
+      {
+        "author": "Akmal S.",
+        "rating": 3,
+        "text": {
+          "ru": "Режет хорошо, но тяжелее, чем я привык. Доставка 20 дней.",
+          "uz": "Yaxshi kesadi, lekin men oʻrganganimdan ogʻirroq. Yetkazib berish 20 kun."
+        },
+        "date": "2026-09-28"
+      }
+    ]
+  },
+  {
+    "djId": 65,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Ланч-бокс с отделениями для еды, 850 мл",
+      "uz": "Ovqat uchun boʻlimli lanchboks, 850 ml"
+    },
+    "subtitle": {
+      "ru": "Можно в микроволновку · Без BPA",
+      "uz": "Mikrotoʻlqinli pechga mos · BPA yoʻq"
+    },
+    "description": {
+      "ru": "Ланч-бокс с отдельными секциями, чтобы основное блюдо, гарнир и салат не смешивались. Удобно брать на работу, учёбу и в поездки. Контейнер из пищевого пластика без BPA можно разогревать в микроволновой печи без крышки и мыть в посудомоечной машине. Крышка закрывается плотно.",
+      "uz": "Asosiy taom, garnir va salat aralashib ketmasligi uchun alohida boʻlimlarga ega lanchboks. Ishga, oʻqishga va safarga olib yurish qulay. Tarkibida BPA boʻlmagan oziq-ovqat plastigidan yasalgan idishni qopqoqsiz holda mikrotoʻlqinli pechda isitish va idish yuvish mashinasida yuvish mumkin. Qopqogʻi zich yopiladi."
+    },
+    "price": 109000,
+    "oldPrice": null,
+    "rating": 4.9,
+    "reviews": 2380,
+    "sold": 14500,
+    "stock": 1050,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.55,
+    "badges": [
+      "hit"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "volume",
+        "kind": "text",
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "values": [
+          {
+            "id": "850ml",
+            "label": {
+              "ru": "850 мл",
+              "uz": "850 ml"
+            },
+            "priceDelta": 0,
+            "stock": 640
+          },
+          {
+            "id": "1200ml",
+            "label": {
+              "ru": "1200 мл",
+              "uz": "1200 ml"
+            },
+            "priceDelta": 20000,
+            "stock": 410
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Пищевой пластик PP, без BPA",
+          "uz": "Oziq-ovqat plastigi PP, BPA yoʻq"
+        }
+      },
+      {
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "value": {
+          "ru": "850 мл",
+          "uz": "850 ml"
+        }
+      },
+      {
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "value": {
+          "ru": "20 × 14 × 7 см",
+          "uz": "20 × 14 × 7 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Микроволновая печь",
+          "uz": "Mikrotoʻlqinli pech"
+        },
+        "value": {
+          "ru": "Можно, без крышки",
+          "uz": "Mumkin, qopqoqsiz"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Можно в посудомоечной машине",
+          "uz": "Idish yuvish mashinasida yuvish mumkin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Quanzhou Lihua Home Products Co., Ltd.",
+      "city": {
+        "ru": "Цюаньчжоу",
+        "uz": "Syuanchjou"
+      },
+      "rating": 4.9,
+      "years": 7,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Dilnoza R.",
+        "rating": 5,
+        "text": {
+          "ru": "Ношу обед на работу каждый день. Плов и салат не смешиваются, в микроволновке греется отлично.",
+          "uz": "Har kuni ishga tushlik olib boraman. Palov bilan salat aralashmaydi, mikrotoʻlqinli pechda yaxshi isiydi."
+        },
+        "date": "2026-03-03"
+      },
+      {
+        "author": "Javohir R.",
+        "rating": 5,
+        "text": {
+          "ru": "Взял сыну в университет, 1200 мл — хватает на целый день. Доставка 15 дней.",
+          "uz": "Oʻgʻlimga universitet uchun oldim, 1200 ml — kun boʻyi yetadi. Yetkazib berish 15 kun."
+        },
+        "date": "2026-05-16"
+      },
+      {
+        "author": "Malika T.",
+        "rating": 4,
+        "text": {
+          "ru": "Удобный и лёгкий. Хотелось бы, чтобы в комплекте была ложка.",
+          "uz": "Qulay va yengil. Toʻplamda qoshiq ham boʻlganida yaxshi boʻlardi."
+        },
+        "date": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "djId": 66,
+    "categoryId": "home",
+    "source": "alibaba",
+    "brand": null,
+    "title": {
+      "ru": "Микроволновая печь, 20 л, 700 Вт, 5 уровней мощности",
+      "uz": "Mikrotoʻlqinli pech, 20 l, 700 Vt, 5 quvvat darajasi"
+    },
+    "subtitle": {
+      "ru": "Разморозка · Таймер на 30 минут",
+      "uz": "Muzdan tushirish · 30 daqiqalik taymer"
+    },
+    "description": {
+      "ru": "Компактная микроволновая печь для разогрева, разморозки и приготовления простых блюд. Объём камеры 20 л, мощность СВЧ 700 Вт, пять уровней мощности и таймер до 30 минут. Диаметр поворотного стола — 25 см. Подходит для небольшой кухни, офиса или съёмной квартиры.",
+      "uz": "Ovqatni isitish, muzdan tushirish va oddiy taomlar tayyorlash uchun ixcham mikrotoʻlqinli pech. Kamera hajmi 20 l, mikrotoʻlqin quvvati 700 Vt, besh quvvat darajasi va 30 daqiqagacha taymer. Aylanuvchi patnis diametri 25 sm. Kichik oshxona, ofis yoki ijaradagi kvartira uchun mos."
+    },
+    "price": 989000,
+    "oldPrice": 1149000,
+    "rating": 4.8,
+    "reviews": 1140,
+    "sold": 4200,
+    "stock": 110,
+    "deliveryDays": [
+      13,
+      21
+    ],
+    "weightKg": 12.5,
+    "badges": [
+      "hit",
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "volume",
+        "kind": "text",
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "values": [
+          {
+            "id": "20l",
+            "label": {
+              "ru": "20 л",
+              "uz": "20 l"
+            },
+            "priceDelta": 0,
+            "stock": 74
+          },
+          {
+            "id": "25l",
+            "label": {
+              "ru": "25 л",
+              "uz": "25 l"
+            },
+            "priceDelta": 150000,
+            "stock": 36
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Объём камеры",
+          "uz": "Kamera hajmi"
+        },
+        "value": {
+          "ru": "20 л",
+          "uz": "20 l"
+        }
+      },
+      {
+        "name": {
+          "ru": "Мощность СВЧ",
+          "uz": "Mikrotoʻlqin quvvati"
+        },
+        "value": {
+          "ru": "700 Вт",
+          "uz": "700 Vt"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уровни мощности",
+          "uz": "Quvvat darajalari"
+        },
+        "value": {
+          "ru": "5",
+          "uz": "5"
+        }
+      },
+      {
+        "name": {
+          "ru": "Таймер",
+          "uz": "Taymer"
+        },
+        "value": {
+          "ru": "До 30 минут",
+          "uz": "30 daqiqagacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Поворотный стол",
+          "uz": "Aylanuvchi patnis"
+        },
+        "value": {
+          "ru": "Ø 25 см",
+          "uz": "Ø 25 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Напряжение",
+          "uz": "Kuchlanish"
+        },
+        "value": {
+          "ru": "220 В",
+          "uz": "220 V"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "12 месяцев",
+          "uz": "12 oy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Foshan Shunde Meiyi Electrical Appliances Co., Ltd.",
+      "city": {
+        "ru": "Фошань",
+        "uz": "Foshan"
+      },
+      "rating": 4.8,
+      "years": 11,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Rustam Q.",
+        "rating": 5,
+        "text": {
+          "ru": "Пришла за 18 дней, в коробке с пенопластом, ни одной вмятины. Греет быстро и равномерно.",
+          "uz": "18 kunda keldi, qutida penoplast bilan joylangan, birorta ham pachoq joyi yoʻq. Tez va bir tekis isitadi."
+        },
+        "date": "2026-01-29"
+      },
+      {
+        "author": "Svetlana K.",
+        "rating": 5,
+        "text": {
+          "ru": "Для съёмной квартиры то, что нужно: компактная и простая в управлении.",
+          "uz": "Ijaradagi kvartira uchun aynan kerakli narsa: ixcham va boshqarish oson."
+        },
+        "date": "2026-04-21"
+      },
+      {
+        "author": "Otabek J.",
+        "rating": 4,
+        "text": {
+          "ru": "Работает отлично, но звуковой сигнал громкий. Для семьи удобнее был бы вариант на 25 л.",
+          "uz": "Juda yaxshi ishlaydi, lekin ovozli signali baland. Oila uchun 25 litrlisi qulayroq boʻlardi."
+        },
+        "date": "2026-08-18"
+      }
+    ]
+  },
+  {
+    "djId": 67,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Подставка-дерево для кружек на 6 крючков",
+      "uz": "Krujkalar uchun daraxtsimon ilgich, 6 ilgakli"
+    },
+    "subtitle": {
+      "ru": "Экономит место · Кружки всегда под рукой",
+      "uz": "Joyni tejaydi · Krujkalar doim qoʻl ostida"
+    },
+    "description": {
+      "ru": "Подставка в форме дерева для хранения кружек на столешнице. Освобождает место в шкафу, а кружки всегда остаются под рукой и успевают просохнуть после мытья. Устойчивое основание не даёт подставке опрокинуться, даже если кружки висят с одной стороны. Подходит для кружек с ручками разной формы.",
+      "uz": "Krujkalarni stol ustida saqlash uchun daraxt shaklidagi ilgich. Javonda joy boʻshatadi, krujkalar esa doim qoʻl ostida turadi va yuvilgandan keyin qurib ulguradi. Barqaror asosi krujkalar bir tomonda osilib turganda ham ilgichni agʻdarilishdan saqlaydi. Dastasi turli shakldagi krujkalar uchun mos."
+    },
+    "price": 119000,
+    "oldPrice": null,
+    "rating": 4.1,
+    "reviews": 24,
+    "sold": 130,
+    "stock": 140,
+    "deliveryDays": [
+      15,
+      24
+    ],
+    "weightKg": 0.9,
+    "badges": [
+      "new"
+    ],
+    "imageIdx": [
+      0,
+      1
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Количество крючков",
+          "uz": "Ilgaklar soni"
+        },
+        "value": {
+          "ru": "6",
+          "uz": "6"
+        }
+      },
+      {
+        "name": {
+          "ru": "Высота",
+          "uz": "Balandligi"
+        },
+        "value": {
+          "ru": "35 см",
+          "uz": "35 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр основания",
+          "uz": "Asos diametri"
+        },
+        "value": {
+          "ru": "16 см",
+          "uz": "16 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Нагрузка на крючок",
+          "uz": "Har bir ilgakka yuklama"
+        },
+        "value": {
+          "ru": "До 0,5 кг",
+          "uz": "0,5 kg gacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Lanbo Daily Necessities Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.6,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Aziza N.",
+        "rating": 4,
+        "text": {
+          "ru": "Стоит устойчиво, шесть кружек помещаются. Шла 23 дня, но упакована хорошо.",
+          "uz": "Barqaror turadi, oltita krujka sigʻadi. 23 kunda keldi, lekin yaxshi qadoqlangan."
+        },
+        "date": "2026-09-12"
+      },
+      {
+        "author": "Nodir F.",
+        "rating": 4,
+        "text": {
+          "ru": "Освободил целую полку в шкафу. Большие кружки висят тесновато.",
+          "uz": "Javondagi butun bir tokchani boʻshatdim. Katta krujkalar biroz zich osiladi."
+        },
+        "date": "2026-10-02"
+      }
+    ]
+  },
+  {
+    "djId": 68,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Сковорода с антипригарным покрытием, 24 см",
+      "uz": "Yopishmaydigan qoplamali tova, 24 sm"
+    },
+    "subtitle": {
+      "ru": "Жарка без лишнего масла · Легко моется",
+      "uz": "Ortiqcha yogʻsiz qovurish · Oson yuviladi"
+    },
+    "description": {
+      "ru": "Сковорода с антипригарным покрытием для жарки, тушения, омлетов, блинов и овощей. Еда не прилипает даже при минимальном количестве масла, а сковороду легко отмыть. Утолщённое дно равномерно распределяет тепло. Чтобы не повредить покрытие, используйте деревянные или силиконовые лопатки.",
+      "uz": "Qovurish, dimlash, omlet, quymoq va sabzavot tayyorlash uchun yopishmaydigan qoplamali tova. Juda oz yogʻ bilan ham ovqat yopishmaydi, tovani yuvish esa oson. Qalinlashtirilgan tagi issiqlikni bir tekis taqsimlaydi. Qoplamaga zarar yetkazmaslik uchun yogʻoch yoki silikon kurakchalardan foydalaning."
+    },
+    "price": 199000,
+    "oldPrice": null,
+    "rating": 4.2,
+    "reviews": 612,
+    "sold": 3900,
+    "stock": 720,
+    "deliveryDays": [
+      14,
+      21
+    ],
+    "weightKg": 1.3,
+    "badges": [],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "values": [
+          {
+            "id": "24cm",
+            "label": {
+              "ru": "24 см",
+              "uz": "24 sm"
+            },
+            "priceDelta": 0,
+            "stock": 230
+          },
+          {
+            "id": "26cm",
+            "label": {
+              "ru": "26 см",
+              "uz": "26 sm"
+            },
+            "priceDelta": 20000,
+            "stock": 310
+          },
+          {
+            "id": "28cm",
+            "label": {
+              "ru": "28 см",
+              "uz": "28 sm"
+            },
+            "priceDelta": 40000,
+            "stock": 180
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал корпуса",
+          "uz": "Korpus materiali"
+        },
+        "value": {
+          "ru": "Алюминий",
+          "uz": "Alyuminiy"
+        }
+      },
+      {
+        "name": {
+          "ru": "Покрытие",
+          "uz": "Qoplamasi"
+        },
+        "value": {
+          "ru": "Антипригарное",
+          "uz": "Yopishmaydigan"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "value": {
+          "ru": "24 см",
+          "uz": "24 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Толщина дна",
+          "uz": "Tag qalinligi"
+        },
+        "value": {
+          "ru": "4 мм",
+          "uz": "4 mm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Плиты",
+          "uz": "Plitalar"
+        },
+        "value": {
+          "ru": "Газовые, электрические, стеклокерамика",
+          "uz": "Gaz, elektr, shisha-keramika"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Foshan Jinlong Cookware Co., Ltd.",
+      "city": {
+        "ru": "Фошань",
+        "uz": "Foshan"
+      },
+      "rating": 4.7,
+      "years": 12,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Madina K.",
+        "rating": 4,
+        "text": {
+          "ru": "Яичница совсем не прилипает. Ручка немного нагревается, но терпимо.",
+          "uz": "Qovurilgan tuxum umuman yopishmaydi. Dastasi biroz qiziydi, lekin bunga chidasa boʻladi."
+        },
+        "date": "2026-02-21"
+      },
+      {
+        "author": "Bobur E.",
+        "rating": 5,
+        "text": {
+          "ru": "Брал 28 см на всю семью. Доставка 19 дней, упаковали в коробку с пенопластом.",
+          "uz": "Butun oila uchun 28 sm oldim. Yetkazib berish 19 kun, penoplastli qutiga joylab yuborishgan."
+        },
+        "date": "2026-06-11"
+      },
+      {
+        "author": "Irina P.",
+        "rating": 3,
+        "text": {
+          "ru": "Первые недели всё было отлично, но после посудомойки покрытие потускнело. Мойте вручную.",
+          "uz": "Dastlabki haftalarda hammasi zoʻr edi, lekin idish yuvish mashinasidan keyin qoplamasi xiralashdi. Qoʻlda yuving."
+        },
+        "date": "2026-08-27"
+      }
+    ]
+  },
+  {
+    "djId": 69,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Тарелка обеденная фарфоровая, 25 см",
+      "uz": "Ovqatlanish uchun chinni tarelka, 25 sm"
+    },
+    "subtitle": {
+      "ru": "Подходит для СВЧ · Легко моется",
+      "uz": "Mikrotoʻlqinli pechga mos · Oson yuviladi"
+    },
+    "description": {
+      "ru": "Обеденная тарелка из фарфора для горячих блюд, гарниров и салатов. Гладкая глазурь не впитывает запахи и не царапается приборами при обычном использовании. Тарелку можно ставить в микроволновую печь и мыть в посудомоечной машине. Подходит как для повседневной, так и для праздничной сервировки.",
+      "uz": "Issiq taomlar, garnir va salatlar uchun chinni tarelka. Silliq sir qatlami hid singdirmaydi va oddiy foydalanishda sanchqi-pichoqdan tirnalmaydi. Tarelkani mikrotoʻlqinli pechda ishlatish va idish yuvish mashinasida yuvish mumkin. Kundalik va bayramona dasturxon uchun birdek mos."
+    },
+    "price": 35000,
+    "oldPrice": null,
+    "rating": 4.5,
+    "reviews": 446,
+    "sold": 4100,
+    "stock": 1210,
+    "deliveryDays": [
+      15,
+      25
+    ],
+    "weightKg": 0.6,
+    "badges": [
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Количество",
+          "uz": "Soni"
+        },
+        "values": [
+          {
+            "id": "1pc",
+            "label": {
+              "ru": "1 шт",
+              "uz": "1 dona"
+            },
+            "priceDelta": 0,
+            "stock": 980
+          },
+          {
+            "id": "6pcs",
+            "label": {
+              "ru": "6 шт",
+              "uz": "6 dona"
+            },
+            "priceDelta": 149000,
+            "stock": 230
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Фарфор",
+          "uz": "Chinni"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "value": {
+          "ru": "25 см",
+          "uz": "25 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Мелкая, обеденная",
+          "uz": "Sayoz, ovqatlanish uchun"
+        }
+      },
+      {
+        "name": {
+          "ru": "Микроволновая печь",
+          "uz": "Mikrotoʻlqinli pech"
+        },
+        "value": {
+          "ru": "Можно",
+          "uz": "Mumkin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Можно в посудомоечной машине",
+          "uz": "Idish yuvish mashinasida yuvish mumkin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Huimei Tableware Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.7,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Olga S.",
+        "rating": 5,
+        "text": {
+          "ru": "Заказала набор из 6 штук, все пришли целыми — каждая обёрнута в пупырчатую плёнку.",
+          "uz": "6 donalik toʻplam buyurtma qildim, hammasi butun keldi — har biri pufakchali plyonkaga oʻralgan."
+        },
+        "date": "2026-05-05"
+      },
+      {
+        "author": "Sherzod U.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошие тарелки, но ждал 25 дней. По размеру — как обычные обеденные.",
+          "uz": "Yaxshi tarelkalar, lekin 25 kun kutdim. Oʻlchami oddiy ovqat tarelkalaridek."
+        },
+        "date": "2026-07-30"
+      }
+    ]
+  },
+  {
+    "djId": 70,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Щипцы кухонные силиконовые, красные, 23 см",
+      "uz": "Silikon oshxona qisqichi, qizil, 23 sm"
+    },
+    "subtitle": {
+      "ru": "Не царапают посуду · Термостойкие",
+      "uz": "Idishni tirnamaydi · Issiqqa chidamli"
+    },
+    "description": {
+      "ru": "Кухонные щипцы для переворачивания мяса, котлет и овощей, а также для подачи салатов и спагетти. Силиконовые наконечники не царапают антипригарные сковороды и выдерживают нагрев до 230 °C. Пружинный механизм сам возвращает щипцы в открытое положение. Яркий красный цвет легко заметить среди других приборов.",
+      "uz": "Goʻsht, kotlet va sabzavotlarni agʻdarish, shuningdek salat va spagettini suzib berish uchun oshxona qisqichi. Silikon uchlari yopishmaydigan tovalarni tirnamaydi va 230 °C gacha qizishga chidaydi. Prujinali mexanizm qisqichni oʻzi ochiq holatga qaytaradi. Yorqin qizil rangi tufayli uni boshqa anjomlar orasidan topish oson."
+    },
+    "price": 55000,
+    "oldPrice": 65000,
+    "rating": 4.7,
+    "reviews": 1064,
+    "sold": 6100,
+    "stock": 860,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.15,
+    "badges": [
+      "hit",
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "red",
+            "label": {
+              "ru": "Красный",
+              "uz": "Qizil"
+            },
+            "hex": "#D32F2F",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 460
+          },
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "priceDelta": 0,
+            "stock": 280
+          },
+          {
+            "id": "grey",
+            "label": {
+              "ru": "Серый",
+              "uz": "Kulrang"
+            },
+            "hex": "#8E8E93",
+            "priceDelta": 0,
+            "stock": 120
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь, силикон",
+          "uz": "Zanglamaydigan poʻlat, silikon"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "23 см",
+          "uz": "23 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Термостойкость",
+          "uz": "Issiqqa chidamliligi"
+        },
+        "value": {
+          "ru": "До 230 °C",
+          "uz": "230 °C gacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "value": {
+          "ru": "Красный",
+          "uz": "Qizil"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Можно в посудомоечной машине",
+          "uz": "Idish yuvish mashinasida yuvish mumkin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Dongguan Xinhe Silicone Products Co., Ltd.",
+      "city": {
+        "ru": "Дунгуань",
+        "uz": "Dunguan"
+      },
+      "rating": 4.8,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sardor M.",
+        "rating": 5,
+        "text": {
+          "ru": "Для сковороды и гриля — удобные, держат крепко. Красные сразу видно в ящике.",
+          "uz": "Tova va grill uchun qulay, mahkam ushlaydi. Qizil rangi tufayli tortmada darrov koʻzga tashlanadi."
+        },
+        "date": "2026-06-24"
+      },
+      {
+        "author": "Kamola I.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошие щипцы, пружина тугая. Ехали 17 дней.",
+          "uz": "Yaxshi qisqich, prujinasi tarang. 17 kunda keldi."
+        },
+        "date": "2026-03-15"
+      },
+      {
+        "author": "Anvar D.",
+        "rating": 5,
+        "text": {
+          "ru": "Купил вторые — для салатов. Силикон не плавится, проверено.",
+          "uz": "Ikkinchisini salat uchun oldim. Silikoni erimaydi, sinab koʻrdim."
+        },
+        "date": "2026-09-07"
+      }
+    ]
+  },
+  {
+    "djId": 71,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Кастрюля из нержавеющей стали со стеклянной крышкой, 3 л",
+      "uz": "Shisha qopqoqli zanglamaydigan poʻlat kastryul, 3 l"
+    },
+    "subtitle": {
+      "ru": "Капсульное дно · Для всех плит",
+      "uz": "Kapsulali tag · Barcha plitalar uchun"
+    },
+    "description": {
+      "ru": "Кастрюля из нержавеющей стали для супов, бульонов, каш и гарниров. Стеклянная крышка с отверстием для выхода пара позволяет следить за готовкой, не поднимая её. Капсульное дно равномерно прогревается и подходит для газовых, электрических и индукционных плит. Можно мыть в посудомоечной машине.",
+      "uz": "Shoʻrva, bulyon, boʻtqa va garnirlar uchun zanglamaydigan poʻlatdan kastryul. Bugʻ chiqadigan teshikli shisha qopqoq ovqat pishishini qopqoqni ochmasdan kuzatib turish imkonini beradi. Kapsulali tagi bir tekis qiziydi hamda gaz, elektr va induksion plitalarga mos. Idish yuvish mashinasida yuvish mumkin."
+    },
+    "price": 329000,
+    "oldPrice": null,
+    "rating": 4.3,
+    "reviews": 286,
+    "sold": 1520,
+    "stock": 365,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 2.3,
+    "badges": [],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "volume",
+        "kind": "text",
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "values": [
+          {
+            "id": "3l",
+            "label": {
+              "ru": "3 л",
+              "uz": "3 l"
+            },
+            "priceDelta": 0,
+            "stock": 120
+          },
+          {
+            "id": "4-5l",
+            "label": {
+              "ru": "4,5 л",
+              "uz": "4,5 l"
+            },
+            "priceDelta": 40000,
+            "stock": 160
+          },
+          {
+            "id": "6l",
+            "label": {
+              "ru": "6 л",
+              "uz": "6 l"
+            },
+            "priceDelta": 80000,
+            "stock": 85
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь",
+          "uz": "Zanglamaydigan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "value": {
+          "ru": "3 л",
+          "uz": "3 l"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "value": {
+          "ru": "20 см",
+          "uz": "20 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Крышка",
+          "uz": "Qopqogʻi"
+        },
+        "value": {
+          "ru": "Закалённое стекло",
+          "uz": "Toblangan shisha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Плиты",
+          "uz": "Plitalar"
+        },
+        "value": {
+          "ru": "Газовые, электрические, индукционные",
+          "uz": "Gaz, elektr, induksion"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shanghai Jinyu Kitchen Supplies Co., Ltd.",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.5,
+      "years": 4,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Gulnora Y.",
+        "rating": 5,
+        "text": {
+          "ru": "Взяла на 4,5 литра — супа хватает на всю семью. Дно толстое, ничего не пригорает.",
+          "uz": "4,5 litrlisini oldim — shoʻrva butun oilaga yetadi. Tagi qalin, hech narsa kuymaydi."
+        },
+        "date": "2026-01-17"
+      },
+      {
+        "author": "Timur G.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошая кастрюля, крышка прилегает плотно. Ручки нагреваются — нужны прихватки.",
+          "uz": "Yaxshi kastryul, qopqogʻi zich yopiladi. Dastalari qiziydi, sochiq yoki ushlagich bilan ushlash kerak."
+        },
+        "date": "2026-04-30"
+      }
+    ]
+  },
+  {
+    "djId": 72,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Лопатка кухонная с прорезями, термостойкий нейлон",
+      "uz": "Teshikli oshxona kurakchasi, issiqqa chidamli neylon"
+    },
+    "subtitle": {
+      "ru": "Лишнее масло стекает · До 210 °C",
+      "uz": "Ortiqcha yogʻ oqib tushadi · 210 °C gacha"
+    },
+    "description": {
+      "ru": "Лопатка с прорезями для переворачивания котлет, рыбы, блинов и жареных овощей. Через прорези стекают лишнее масло и сок, поэтому еда не размокает. Термостойкий нейлон не царапает антипригарное покрытие и выдерживает нагрев до 210 °C. Не оставляйте лопатку на раскалённой сковороде.",
+      "uz": "Kotlet, baliq, quymoq va qovurilgan sabzavotlarni agʻdarish uchun teshikli kurakcha. Teshiklardan ortiqcha yogʻ va sharbat oqib tushadi, shuning uchun ovqat boʻkib qolmaydi. Issiqqa chidamli neylon yopishmaydigan qoplamani tirnamaydi va 210 °C gacha qizishga bardosh beradi. Kurakchani qizib turgan tova ustida qoldirmang."
+    },
+    "price": 65000,
+    "oldPrice": 75000,
+    "rating": 4.4,
+    "reviews": 152,
+    "sold": 1210,
+    "stock": 420,
+    "deliveryDays": [
+      13,
+      21
+    ],
+    "weightKg": 0.12,
+    "badges": [
+      "sale",
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Нейлон",
+          "uz": "Neylon"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "33 см",
+          "uz": "33 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Термостойкость",
+          "uz": "Issiqqa chidamliligi"
+        },
+        "value": {
+          "ru": "До 210 °C",
+          "uz": "210 °C gacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Совместимость",
+          "uz": "Mosligi"
+        },
+        "value": {
+          "ru": "Антипригарные покрытия",
+          "uz": "Yopishmaydigan qoplamalar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Можно в посудомоечной машине",
+          "uz": "Idish yuvish mashinasida yuvish mumkin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Hongtai Kitchenware Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.8,
+      "years": 10,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Feruza H.",
+        "rating": 4,
+        "text": {
+          "ru": "Удобная и широкая, котлеты переворачивает, не разламывая. Пришла за 18 дней.",
+          "uz": "Qulay va keng, kotletlarni buzmasdan agʻdaradi. 18 kunda keldi."
+        },
+        "date": "2026-02-08"
+      },
+      {
+        "author": "Rustam Q.",
+        "rating": 4,
+        "text": {
+          "ru": "За свои деньги нормально. Край тонкий, яичницу подхватывает легко.",
+          "uz": "Narxiga yarasha yaxshi. Uchi yupqa, qovurilgan tuxumni oson ilib oladi."
+        },
+        "date": "2026-06-29"
+      }
+    ]
+  },
+  {
+    "djId": 73,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Стойка для специй настольная, компактная",
+      "uz": "Ziravorlar uchun ixcham stol usti tokchasi"
+    },
+    "subtitle": {
+      "ru": "Всё под рукой · Порядок на столешнице",
+      "uz": "Hammasi qoʻl ostida · Stol ustida tartib"
+    },
+    "description": {
+      "ru": "Настольная стойка для баночек со специями, сушёной зеленью и соусами. Освобождает ящики и шкафчики, а всё нужное во время готовки остаётся под рукой. Баночки стоят устойчиво, этикетки хорошо видно. Для ухода достаточно протирать стойку влажной тканью.",
+      "uz": "Ziravorlar, quritilgan koʻkatlar va souslar solingan bankalar uchun stol usti tokchasi. Tortma va javonlarda joy boʻshatadi, ovqat tayyorlash paytida kerakli narsalar esa doim qoʻl ostida boʻladi. Bankalar barqaror turadi, yorliqlari yaxshi koʻrinadi. Parvarish uchun tokchani nam latta bilan artib turish kifoya."
+    },
+    "price": 149000,
+    "oldPrice": 179000,
+    "rating": 4.9,
+    "reviews": 1860,
+    "sold": 8200,
+    "stock": 380,
+    "deliveryDays": [
+      14,
+      21
+    ],
+    "weightKg": 1.6,
+    "badges": [
+      "choice",
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Вместимость",
+          "uz": "Sigʻimi"
+        },
+        "value": {
+          "ru": "До 12 баночек",
+          "uz": "12 tagacha banka"
+        }
+      },
+      {
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "value": {
+          "ru": "28 × 22 × 26 см",
+          "uz": "28 × 22 × 26 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Установка",
+          "uz": "Oʻrnatish"
+        },
+        "value": {
+          "ru": "На столешницу",
+          "uz": "Stol ustiga"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Протирать влажной тканью",
+          "uz": "Nam latta bilan artish"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Youjia Housewares Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.5,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nigora X.",
+        "rating": 5,
+        "text": {
+          "ru": "Наконец-то порядок: все специи на виду, больше ничего не ищу по ящикам. Собрала за пять минут.",
+          "uz": "Nihoyat tartib: barcha ziravorlar koʻz oldimda, endi tortmalardan hech narsa qidirmayman. Besh daqiqada yigʻib oldim."
+        },
+        "date": "2026-05-09"
+      },
+      {
+        "author": "Behzod A.",
+        "rating": 5,
+        "text": {
+          "ru": "Купил жене в подарок, ей очень понравилось. Доставка 16 дней, упаковано хорошо.",
+          "uz": "Xotinimga sovgʻa qilib oldim, unga juda yoqdi. Yetkazib berish 16 kun, yaxshi qadoqlangan."
+        },
+        "date": "2026-08-03"
+      },
+      {
+        "author": "Zarina M.",
+        "rating": 5,
+        "text": {
+          "ru": "Устойчивая, не шатается. Мои баночки на 250 мл помещаются свободно.",
+          "uz": "Barqaror, qimirlamaydi. Mening 250 ml hajmli bankalarim bemalol sigʻadi."
+        },
+        "date": "2026-10-14"
+      }
+    ]
+  },
+  {
+    "djId": 74,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Ложка столовая из нержавеющей стали, 20 см",
+      "uz": "Zanglamaydigan poʻlatdan osh qoshiq, 20 sm"
+    },
+    "subtitle": {
+      "ru": "Удобная ручка · Не гнётся и не темнеет",
+      "uz": "Qulay dasta · Egilmaydi va qoraymaydi"
+    },
+    "description": {
+      "ru": "Столовая ложка из нержавеющей стали для супов, каш и десертов, а также для того, чтобы помешать и попробовать блюдо во время готовки. Ручка удобно лежит в руке, металл достаточно толстый и не гнётся. Ложка не темнеет и не впитывает запахи. Можно мыть в посудомоечной машине.",
+      "uz": "Shoʻrva, boʻtqa va desertlar uchun, shuningdek pishirish paytida taomni aralashtirish va tatib koʻrish uchun zanglamaydigan poʻlatdan osh qoshiq. Dastasi qoʻlda qulay turadi, metali yetarlicha qalin va egilmaydi. Qoshiq qoraymaydi va hid singdirmaydi. Idish yuvish mashinasida yuvish mumkin."
+    },
+    "price": 35000,
+    "oldPrice": null,
+    "rating": 4.6,
+    "reviews": 520,
+    "sold": 4900,
+    "stock": 1290,
+    "deliveryDays": [
+      15,
+      24
+    ],
+    "weightKg": 0.08,
+    "badges": [
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Количество",
+          "uz": "Soni"
+        },
+        "values": [
+          {
+            "id": "1pc",
+            "label": {
+              "ru": "1 шт",
+              "uz": "1 dona"
+            },
+            "priceDelta": 0,
+            "stock": 870
+          },
+          {
+            "id": "6pcs",
+            "label": {
+              "ru": "6 шт",
+              "uz": "6 dona"
+            },
+            "priceDelta": 159000,
+            "stock": 300
+          },
+          {
+            "id": "12pcs",
+            "label": {
+              "ru": "12 шт",
+              "uz": "12 dona"
+            },
+            "priceDelta": 299000,
+            "stock": 120
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь",
+          "uz": "Zanglamaydigan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "20 см",
+          "uz": "20 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Толщина",
+          "uz": "Qalinligi"
+        },
+        "value": {
+          "ru": "2,5 мм",
+          "uz": "2,5 mm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Vazifasi"
+        },
+        "value": {
+          "ru": "Супы, каши, десерты",
+          "uz": "Shoʻrva, boʻtqa, desert"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Можно в посудомоечной машине",
+          "uz": "Idish yuvish mashinasida yuvish mumkin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Huimei Tableware Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.7,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Umida A.",
+        "rating": 5,
+        "text": {
+          "ru": "Брала вместе с вилками, набор смотрится единым. Ложки увесистые, приятные в руке.",
+          "uz": "Sanchqilar bilan birga oldim, toʻplam bir xil koʻrinadi. Qoshiqlar salmoqli, ushlashga yoqimli."
+        },
+        "date": "2026-03-24"
+      },
+      {
+        "author": "Javohir R.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошие ложки. Доставка 22 дня, но всё пришло в целости.",
+          "uz": "Yaxshi qoshiqlar. Yetkazib berish 22 kun, lekin hammasi butun keldi."
+        },
+        "date": "2026-06-15"
+      }
+    ]
+  },
+  {
+    "djId": 75,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Поднос сервировочный, 35 × 25 см",
+      "uz": "Dasturxon uchun patnis, 35 × 25 sm"
+    },
+    "subtitle": {
+      "ru": "Для чая, завтраков и закусок",
+      "uz": "Choy, nonushta va gazaklar uchun"
+    },
+    "description": {
+      "ru": "Сервировочный поднос для подачи чая, завтраков, закусок и напитков. На нём удобно переносить посуду из кухни в комнату или на террасу, а также использовать его как декоративную подставку на столе. Поверхность легко протирается влажной тканью. Подходит для повседневного использования и приёма гостей.",
+      "uz": "Choy, nonushta, gazak va ichimliklarni dasturxonga tortish uchun patnis. Idishlarni oshxonadan xonaga yoki ayvonga olib oʻtish, shuningdek stolda bezak tagligi sifatida ishlatish qulay. Yuzasi nam latta bilan oson artiladi. Kundalik foydalanish va mehmon kutish uchun mos."
+    },
+    "price": 129000,
+    "oldPrice": null,
+    "rating": 4.8,
+    "reviews": 38,
+    "sold": 190,
+    "stock": 185,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 0.9,
+    "badges": [
+      "new"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "35x25",
+            "label": {
+              "ru": "35 × 25 см",
+              "uz": "35 × 25 sm"
+            },
+            "priceDelta": 0,
+            "stock": 110
+          },
+          {
+            "id": "45x30",
+            "label": {
+              "ru": "45 × 30 см",
+              "uz": "45 × 30 sm"
+            },
+            "priceDelta": 30000,
+            "stock": 75
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "value": {
+          "ru": "35 × 25 см",
+          "uz": "35 × 25 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Высота бортика",
+          "uz": "Chekka balandligi"
+        },
+        "value": {
+          "ru": "4 см",
+          "uz": "4 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Максимальная нагрузка",
+          "uz": "Maksimal yuklama"
+        },
+        "value": {
+          "ru": "5 кг",
+          "uz": "5 kg"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Протирать влажной тканью",
+          "uz": "Nam latta bilan artish"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Hangzhou Meijia Home Decor Co., Ltd.",
+      "city": {
+        "ru": "Ханчжоу",
+        "uz": "Xanchjou"
+      },
+      "rating": 4.7,
+      "years": 3,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Shahzoda B.",
+        "rating": 5,
+        "text": {
+          "ru": "Красивый поднос, подаю на нём чай гостям. Пришёл за 18 дней без единой царапины.",
+          "uz": "Chiroyli patnis, mehmonlarga choyni shunda tortaman. 18 kunda keldi, hech qayeri tirnalmagan."
+        },
+        "date": "2026-09-30"
+      },
+      {
+        "author": "Marina L.",
+        "rating": 5,
+        "text": {
+          "ru": "Взяла большой размер — помещаются чайник и четыре чашки.",
+          "uz": "Kattasini oldim — choynak va toʻrtta piyola sigʻadi."
+        },
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "djId": 76,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Скалка деревянная с ручками, 40 см",
+      "uz": "Dastali yogʻoch oxlov, 40 sm"
+    },
+    "subtitle": {
+      "ru": "Гладкая поверхность · Ровная раскатка",
+      "uz": "Silliq yuza · Xamirni tekis yoyadi"
+    },
+    "description": {
+      "ru": "Деревянная скалка с ручками для раскатки теста на пироги, пельмени, манты, лапшу и печенье. Гладкая отшлифованная поверхность помогает раскатать тесто равномерной толщины. Прочные ручки позволяют работать без лишних усилий. После использования протрите скалку сухой тканью и не замачивайте в воде.",
+      "uz": "Pirog, chuchvara, manti, lagʻmon va pechenye uchun xamir yoyishga moʻljallangan dastali yogʻoch oxlov. Silliqlangan yuzasi xamirni bir xil qalinlikda yoyishga yordam beradi. Mustahkam dastalari tufayli ortiqcha kuch sarflamasdan ishlash mumkin. Ishlatgandan soʻng oxlovni quruq latta bilan arting, suvda qoldirmang."
+    },
+    "price": 89000,
+    "oldPrice": null,
+    "rating": 4.2,
+    "reviews": 134,
+    "sold": 890,
+    "stock": 240,
+    "deliveryDays": [
+      14,
+      23
+    ],
+    "weightKg": 0.45,
+    "badges": [],
+    "imageIdx": [
+      0
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Натуральное дерево",
+          "uz": "Tabiiy yogʻoch"
+        }
+      },
+      {
+        "name": {
+          "ru": "Общая длина",
+          "uz": "Umumiy uzunligi"
+        },
+        "value": {
+          "ru": "40 см",
+          "uz": "40 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина рабочей части",
+          "uz": "Ishchi qismi uzunligi"
+        },
+        "value": {
+          "ru": "25 см",
+          "uz": "25 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "value": {
+          "ru": "6 см",
+          "uz": "6 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Сухая ткань, без замачивания",
+          "uz": "Quruq latta bilan artish, suvda qoldirmaslik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Quanzhou Senlin Wood Crafts Co., Ltd.",
+      "city": {
+        "ru": "Цюаньчжоу",
+        "uz": "Syuanchjou"
+      },
+      "rating": 4.6,
+      "years": 7,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Dilnoza R.",
+        "rating": 4,
+        "text": {
+          "ru": "Для пельменей и мантов хорошая, тесто не липнет, если подсыпать муку. Шла 22 дня.",
+          "uz": "Chuchvara va manti uchun yaxshi, un sepib olsangiz xamir yopishmaydi. 22 kunda keldi."
+        },
+        "date": "2026-01-11"
+      },
+      {
+        "author": "Sardor M.",
+        "rating": 5,
+        "text": {
+          "ru": "Мама довольна — гладкая, без заусенцев, ручки удобные.",
+          "uz": "Onam mamnun — silliq, hech qayeri gʻadir-budur emas, dastalari qulay."
+        },
+        "date": "2026-04-18"
+      }
+    ]
+  },
+  {
+    "djId": 77,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Овощечистка с лезвием из нержавеющей стали, жёлтая",
+      "uz": "Zanglamaydigan poʻlat tigʻli sabzavot tozalagich, sariq"
+    },
+    "subtitle": {
+      "ru": "Тонкий срез · Для овощей и фруктов",
+      "uz": "Yupqa archadi · Sabzavot va mevalar uchun"
+    },
+    "description": {
+      "ru": "Ручная овощечистка для картофеля, моркови, огурцов, яблок и других овощей и фруктов. Острое лезвие из нержавеющей стали снимает кожуру тонким слоем, поэтому мякоти остаётся больше. Яркий жёлтый цвет помогает быстро найти её в ящике. Подходит и правшам, и левшам.",
+      "uz": "Kartoshka, sabzi, bodring, olma va boshqa sabzavot hamda mevalar uchun qoʻl tozalagichi. Zanglamaydigan poʻlatdan yasalgan oʻtkir tigʻ poʻstni yupqa qilib archadi, shuning uchun meva eti koʻproq qoladi. Yorqin sariq rangi tufayli uni tortmadan tez topish mumkin. Oʻng qoʻl va chap qoʻl bilan ishlaydiganlar uchun birdek qulay."
+    },
+    "price": 39000,
+    "oldPrice": 45000,
+    "rating": 4.7,
+    "reviews": 732,
+    "sold": 5900,
+    "stock": 790,
+    "deliveryDays": [
+      12,
+      19
+    ],
+    "weightKg": 0.06,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "yellow",
+            "label": {
+              "ru": "Жёлтый",
+              "uz": "Sariq"
+            },
+            "hex": "#F5C518",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 430
+          },
+          {
+            "id": "green",
+            "label": {
+              "ru": "Зелёный",
+              "uz": "Yashil"
+            },
+            "hex": "#7CB342",
+            "priceDelta": 0,
+            "stock": 210
+          },
+          {
+            "id": "red",
+            "label": {
+              "ru": "Красный",
+              "uz": "Qizil"
+            },
+            "hex": "#D32F2F",
+            "priceDelta": 0,
+            "stock": 150
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал лезвия",
+          "uz": "Tigʻ materiali"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь",
+          "uz": "Zanglamaydigan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "15 см",
+          "uz": "15 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "value": {
+          "ru": "Жёлтый",
+          "uz": "Sariq"
+        }
+      },
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Vazifasi"
+        },
+        "value": {
+          "ru": "Овощи и фрукты",
+          "uz": "Sabzavot va mevalar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Ручная мойка",
+          "uz": "Qoʻlda yuvish"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Youjia Housewares Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.5,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Madina K.",
+        "rating": 5,
+        "text": {
+          "ru": "Чистит картошку очень тонко, отходов почти нет. Удобная и лёгкая.",
+          "uz": "Kartoshkani juda yupqa archadi, chiqindi deyarli qolmaydi. Qulay va yengil."
+        },
+        "date": "2026-07-07"
+      },
+      {
+        "author": "Bobur E.",
+        "rating": 4,
+        "text": {
+          "ru": "Взял сразу две — жёлтую и зелёную. Острые, доставка 16 дней.",
+          "uz": "Birdaniga ikkitasini oldim — sariq va yashil. Oʻtkir, yetkazib berish 16 kun."
+        },
+        "date": "2026-10-09"
+      }
+    ]
+  }
+]

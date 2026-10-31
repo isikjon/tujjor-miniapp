@@ -1,0 +1,43 @@
+import type { VariantMessages } from '../../shared/i18n'
+
+/** Strings added by the g3 screen group (merged in index.ts). Uzbek: oʻ/gʻ = U+02BB, tutuq belgisi = U+02BC. */
+export const messages: VariantMessages = {
+  ru: {
+    'd.g3.demoNote': 'Демо-версия: товары, заказы и оплата ненастоящие',
+    'd.g3.profile.allOrders': 'Все заказы',
+    'd.g3.profile.noOrders': 'Пока нет заказов',
+    'd.g3.addr.empty': 'Адресов пока нет',
+    'd.g3.addr.footer': 'Основной адрес подставляется при оформлении заказа',
+    'd.g3.addr.pickRegion': 'Выберите регион',
+    'd.g3.addr.defaultSet': 'Основной адрес изменён',
+    'd.g3.orders.emptyFilter': 'В этом разделе заказов нет',
+    'd.g3.order.copied': 'Трек-номер скопирован',
+    'd.g3.order.copyFail': 'Не удалось скопировать',
+    'd.g3.order.trackHint': 'Пришлём уведомление в Telegram на каждом этапе',
+    'd.g3.order.supportHint': 'Укажите номер заказа {number} — так мы ответим быстрее',
+    'd.g3.order.number': 'Номер заказа',
+    'd.g3.order.date': 'Дата заказа',
+    'd.g3.order.qty': '{n} × {price}',
+    'd.g3.fav.remove': 'Убрать из избранного',
+    'd.g3.fav.loading': 'Загружаем избранное…',
+  },
+  uz: {
+    'd.g3.demoNote': 'Demo versiya: mahsulotlar, buyurtmalar va toʻlov haqiqiy emas',
+    'd.g3.profile.allOrders': 'Barcha buyurtmalar',
+    'd.g3.profile.noOrders': 'Hozircha buyurtmalar yoʻq',
+    'd.g3.addr.empty': 'Hozircha manzillar yoʻq',
+    'd.g3.addr.footer': 'Asosiy manzil buyurtma rasmiylashtirilganda avtomatik tanlanadi',
+    'd.g3.addr.pickRegion': 'Viloyatni tanlang',
+    'd.g3.addr.defaultSet': 'Asosiy manzil oʻzgartirildi',
+    'd.g3.orders.emptyFilter': 'Bu boʻlimda buyurtmalar yoʻq',
+    'd.g3.order.copied': 'Trek-raqam nusxalandi',
+    'd.g3.order.copyFail': 'Nusxalab boʻlmadi',
+    'd.g3.order.trackHint': 'Har bir bosqichda Telegramʼda xabar yuboramiz',
+    'd.g3.order.supportHint': '{number} buyurtma raqamini yozing — shunda tezroq javob beramiz',
+    'd.g3.order.number': 'Buyurtma raqami',
+    'd.g3.order.date': 'Buyurtma sanasi',
+    'd.g3.order.qty': '{n} × {price}',
+    'd.g3.fav.remove': 'Saralanganlardan olib tashlash',
+    'd.g3.fav.loading': 'Saralanganlar yuklanmoqda…',
+  },
+}

@@ -1,0 +1,2778 @@
+[
+  {
+    "djId": 93,
+    "categoryId": "watches",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Мужские наручные часы, коричневый кожаный ремешок",
+      "uz": "Jigarrang charm tasmali erkaklar qoʻl soati"
+    },
+    "subtitle": {
+      "ru": "Кварцевый механизм · натуральная кожа",
+      "uz": "Kvars mexanizmi · tabiiy charm"
+    },
+    "description": {
+      "ru": "Классические мужские часы с лаконичным циферблатом и ремешком из натуральной кожи коричневого цвета. Кварцевый механизм обеспечивает точный ход и не требует подзавода, а минеральное стекло защищает циферблат от мелких царапин. Часы подойдут и к костюму, и к джинсам, поставляются в подарочной коробке.",
+      "uz": "Lakonik siferblatli va jigarrang tabiiy charm tasmali klassik erkaklar qoʻl soati. Kvars mexanizmi aniq yurishni taʼminlaydi va burashni talab qilmaydi, mineral oyna esa siferblatni mayda tirnalishlardan himoya qiladi. Soat kostyumga ham, jinsi shimga ham mos keladi, sovgʻa qutisida yetkazib beriladi."
+    },
+    "price": 649000,
+    "oldPrice": null,
+    "rating": 4.6,
+    "reviews": 642,
+    "sold": 3900,
+    "stock": 214,
+    "deliveryDays": [
+      14,
+      21
+    ],
+    "weightKg": 0.25,
+    "badges": [],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет ремешка",
+          "uz": "Tasma rangi"
+        },
+        "values": [
+          {
+            "id": "brown",
+            "label": {
+              "ru": "Коричневый",
+              "uz": "Jigarrang"
+            },
+            "hex": "#7B4A2D",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 120
+          },
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "priceDelta": 0,
+            "stock": 64
+          },
+          {
+            "id": "navy",
+            "label": {
+              "ru": "Тёмно-синий",
+              "uz": "Toʻq koʻk"
+            },
+            "hex": "#1F2A44",
+            "priceDelta": 0,
+            "stock": 30
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Механизм",
+          "uz": "Mexanizm"
+        },
+        "value": {
+          "ru": "Кварцевый",
+          "uz": "Kvars"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ремешок",
+          "uz": "Tasma"
+        },
+        "value": {
+          "ru": "Натуральная кожа",
+          "uz": "Tabiiy charm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Корпус",
+          "uz": "Korpus"
+        },
+        "value": {
+          "ru": "Металлический сплав",
+          "uz": "Metall qotishmasi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Стекло",
+          "uz": "Oyna"
+        },
+        "value": {
+          "ru": "Минеральное",
+          "uz": "Mineral"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр корпуса",
+          "uz": "Korpus diametri"
+        },
+        "value": {
+          "ru": "42 мм",
+          "uz": "42 mm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Водозащита",
+          "uz": "Suvga chidamliligi"
+        },
+        "value": {
+          "ru": "3 атм (защита от брызг)",
+          "uz": "3 atm (sachrashdan himoya)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Jinhengda Watch Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.7,
+      "years": 9,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Behzod A.",
+        "rating": 5,
+        "text": {
+          "ru": "Часы пришли за 16 дней, в коробке и с плёнкой на стекле. Ремешок мягкий, кожа без запаха клея. За свои деньги отличный вариант.",
+          "uz": "Soat 16 kunda keldi, qutida va oynasida himoya plyonkasi bilan. Tasmasi yumshoq, charmdan yelim hidi kelmaydi. Narxiga nisbatan aʼlo variant."
+        },
+        "date": "2026-08-17"
+      },
+      {
+        "author": "Sardor M.",
+        "rating": 4,
+        "text": {
+          "ru": "Смотрятся дороже своей цены. Минус — на тонкое запястье ремешок длинноват, пришлось проколоть дополнительную дырочку.",
+          "uz": "Narxidan qimmatroq koʻrinadi. Kamchiligi — ingichka bilakka tasmasi biroz uzun, qoʻshimcha teshik ochishga toʻgʻri keldi."
+        },
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "djId": 94,
+    "categoryId": "watches",
+    "source": "poizon",
+    "brand": "Longines",
+    "title": {
+      "ru": "Мужские часы Longines Master Collection, автоподзавод",
+      "uz": "Longines Master Collection erkaklar qoʻl soati, avtomatik"
+    },
+    "subtitle": {
+      "ru": "Автоподзавод · сапфировое стекло · оригинал",
+      "uz": "Avtomatik mexanizm · safir oyna · original"
+    },
+    "description": {
+      "ru": "Longines Master Collection — классическая модель швейцарской марки в корпусе из нержавеющей стали с сапфировым стеклом. Автоматический механизм заводится от движения руки, а через прозрачную заднюю крышку видно, как он работает. Перед отправкой часы проходят проверку подлинности POIZON, в комплекте фирменная коробка и документы.",
+      "uz": "Longines Master Collection — Shveytsariya brendining zanglamaydigan poʻlat korpusli va safir oynali klassik modeli. Avtomatik mexanizm qoʻl harakati bilan buraladi, uning ishlashini shaffof orqa qopqoq orqali koʻrish mumkin. Joʻnatishdan oldin soat POIZON tomonidan haqiqiylikka tekshiriladi, toʻplamda brend qutisi va hujjatlar bor."
+    },
+    "price": 18990000,
+    "oldPrice": 22990000,
+    "rating": 4.5,
+    "reviews": 37,
+    "sold": 160,
+    "stock": 6,
+    "deliveryDays": [
+      7,
+      12
+    ],
+    "weightKg": 0.9,
+    "badges": [
+      "original",
+      "sale",
+      "fast"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Механизм",
+          "uz": "Mexanizm"
+        },
+        "value": {
+          "ru": "Автоматический",
+          "uz": "Avtomatik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Корпус",
+          "uz": "Korpus"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь",
+          "uz": "Zanglamaydigan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Стекло",
+          "uz": "Oyna"
+        },
+        "value": {
+          "ru": "Сапфировое",
+          "uz": "Safir"
+        }
+      },
+      {
+        "name": {
+          "ru": "Задняя крышка",
+          "uz": "Orqa qopqoq"
+        },
+        "value": {
+          "ru": "Прозрачная",
+          "uz": "Shaffof"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Швейцария",
+          "uz": "Shveytsariya"
+        }
+      },
+      {
+        "name": {
+          "ru": "Комплект",
+          "uz": "Toʻplam"
+        },
+        "value": {
+          "ru": "Коробка, документы",
+          "uz": "Quti, hujjatlar"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 3172",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.9,
+      "years": 4,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Jasur T.",
+        "rating": 5,
+        "text": {
+          "ru": "Заказывал в подарок отцу. Пришли за 9 дней, на коробке пломба и бирка проверки POIZON. Серийный номер совпадает с документами.",
+          "uz": "Otamga sovgʻa sifatida buyurtma qildim. 9 kunda keldi, qutida POIZON plombasi va tekshiruv yorligʻi bor. Seriya raqami hujjatlar bilan mos keladi."
+        },
+        "date": "2026-09-08"
+      },
+      {
+        "author": "Olga S.",
+        "rating": 5,
+        "text": {
+          "ru": "Очень благородные часы, на руке смотрятся сдержанно и дорого. Стекло почти не бликует, ход точный.",
+          "uz": "Juda nafis soat, qoʻlda vazmin va qimmatbaho koʻrinadi. Oynasi deyarli yaltiramaydi, yurishi aniq."
+        },
+        "date": "2026-05-21"
+      },
+      {
+        "author": "Akmal N.",
+        "rating": 4,
+        "text": {
+          "ru": "Часы отличные, но доставка заняла 12 дней — рассчитывал на неделю.",
+          "uz": "Soat zoʻr, lekin yetkazib berish 12 kun davom etdi — bir haftaga moʻljallagandim."
+        },
+        "date": "2026-02-14"
+      }
+    ]
+  },
+  {
+    "djId": 154,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Солнцезащитные очки, чёрная оправа, UV400",
+      "uz": "Qora gardishli quyoshdan saqlovchi koʻzoynak, UV400"
+    },
+    "subtitle": {
+      "ru": "Защита UV400 · лёгкая оправа",
+      "uz": "UV400 himoya · yengil gardish"
+    },
+    "description": {
+      "ru": "Классические солнцезащитные очки с чёрной оправой и тонированными линзами. Фильтр UV400 задерживает ультрафиолет, а лёгкая оправа не давит на переносицу даже при долгой носке. Универсальная форма подойдёт и мужчинам, и женщинам. В комплекте мягкий чехол и салфетка для линз.",
+      "uz": "Qora gardishli va tonlangan linzali klassik quyoshdan saqlovchi koʻzoynak. UV400 filtri ultrabinafsha nurlarni toʻsadi, yengil gardish esa uzoq taqib yurganda ham burun ustini bosmaydi. Universal shakli erkaklarga ham, ayollarga ham mos keladi. Toʻplamda yumshoq gʻilof va linzalar uchun salfetka bor."
+    },
+    "price": 199000,
+    "oldPrice": null,
+    "rating": 4.7,
+    "reviews": 6412,
+    "sold": 41000,
+    "stock": 860,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.12,
+    "badges": [
+      "hit",
+      "wholesale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет оправы",
+          "uz": "Gardish rangi"
+        },
+        "values": [
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 520
+          },
+          {
+            "id": "brown",
+            "label": {
+              "ru": "Коричневый",
+              "uz": "Jigarrang"
+            },
+            "hex": "#6B4A2E",
+            "priceDelta": 0,
+            "stock": 210
+          },
+          {
+            "id": "grey",
+            "label": {
+              "ru": "Серый",
+              "uz": "Kulrang"
+            },
+            "hex": "#8E8E93",
+            "priceDelta": 0,
+            "stock": 130
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Защита",
+          "uz": "Himoya"
+        },
+        "value": {
+          "ru": "Фильтр UV400",
+          "uz": "UV400 filtri"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал оправы",
+          "uz": "Gardish materiali"
+        },
+        "value": {
+          "ru": "Пластик",
+          "uz": "Plastik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Линзы",
+          "uz": "Linzalar"
+        },
+        "value": {
+          "ru": "Тонированные",
+          "uz": "Tonlangan"
+        }
+      },
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Унисекс",
+          "uz": "Uniseks"
+        }
+      },
+      {
+        "name": {
+          "ru": "Комплект",
+          "uz": "Toʻplam"
+        },
+        "value": {
+          "ru": "Чехол, салфетка",
+          "uz": "Gʻilof, salfetka"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Mingshi Optical Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.8,
+      "years": 12,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Madina K.",
+        "rating": 5,
+        "text": {
+          "ru": "Брала себе и мужу, обе пары пришли целыми, каждая в своём чехле. На солнце реально комфортно, глаза не устают.",
+          "uz": "Oʻzimga va turmush oʻrtogʻimga oldim, ikkala juft ham butun, har biri oʻz gʻilofida keldi. Quyoshda haqiqatan qulay, koʻz charchamaydi."
+        },
+        "date": "2026-06-26"
+      },
+      {
+        "author": "Dilnoza R.",
+        "rating": 5,
+        "text": {
+          "ru": "Заказала 18 июня, получила 3 июля. Упаковано хорошо, ни одной царапины.",
+          "uz": "18-iyunda buyurtma berdim, 3-iyulda oldim. Yaxshi qadoqlangan, birorta ham tirnalish yoʻq."
+        },
+        "date": "2026-07-05"
+      },
+      {
+        "author": "Rustam Y.",
+        "rating": 4,
+        "text": {
+          "ru": "За такую цену отличные очки. Ощущаются немного легковесными, но сидят хорошо.",
+          "uz": "Bu narxga zoʻr koʻzoynak. Biroz yengil tuyuladi, lekin yuzda yaxshi turadi."
+        },
+        "date": "2026-08-09"
+      }
+    ]
+  },
+  {
+    "djId": 155,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Солнцезащитные очки классической формы, UV400",
+      "uz": "Klassik shakldagi quyoshdan saqlovchi koʻzoynak, UV400"
+    },
+    "subtitle": {
+      "ru": "Универсальная оправа · защита UV400",
+      "uz": "Universal gardish · UV400 himoya"
+    },
+    "description": {
+      "ru": "Солнцезащитные очки вне времени: оправа нейтрального оттенка сочетается и с деловой, и с повседневной одеждой. Линзы с фильтром UV400 защищают глаза от ультрафиолета и снижают яркость солнечного света. Подойдут для города, поездок и отпуска.",
+      "uz": "Hech qachon eskirmaydigan quyoshdan saqlovchi koʻzoynak: neytral tusdagi gardish rasmiy kiyimga ham, kundalik kiyimga ham mos keladi. UV400 filtrli linzalar koʻzni ultrabinafsha nurlardan himoya qiladi va quyosh nurining yorqinligini kamaytiradi. Shahar, sayohat va taʼtil uchun qulay."
+    },
+    "price": 179000,
+    "oldPrice": null,
+    "rating": 4.5,
+    "reviews": 418,
+    "sold": 2700,
+    "stock": 4,
+    "deliveryDays": [
+      13,
+      20
+    ],
+    "weightKg": 0.15,
+    "badges": [],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплектация",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "glasses",
+            "label": {
+              "ru": "Очки",
+              "uz": "Koʻzoynak"
+            },
+            "priceDelta": 0,
+            "stock": 1
+          },
+          {
+            "id": "glasses-case",
+            "label": {
+              "ru": "Очки + жёсткий футляр",
+              "uz": "Koʻzoynak + qattiq gʻilof"
+            },
+            "priceDelta": 39000,
+            "stock": 3
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Форма оправы",
+          "uz": "Gardish shakli"
+        },
+        "value": {
+          "ru": "Классическая",
+          "uz": "Klassik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Цвет оправы",
+          "uz": "Gardish rangi"
+        },
+        "value": {
+          "ru": "Нейтральный оттенок",
+          "uz": "Neytral tus"
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита",
+          "uz": "Himoya"
+        },
+        "value": {
+          "ru": "Фильтр UV400",
+          "uz": "UV400 filtri"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал линз",
+          "uz": "Linza materiali"
+        },
+        "value": {
+          "ru": "Поликарбонат",
+          "uz": "Polikarbonat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Унисекс",
+          "uz": "Uniseks"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Lanxin Eyewear Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.6,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nigora X.",
+        "rating": 5,
+        "text": {
+          "ru": "Очень лёгкие, на лице почти не чувствуются. Цвет оправы спокойный, подходит ко всему.",
+          "uz": "Juda yengil, yuzda deyarli sezilmaydi. Gardish rangi sokin, hamma kiyimga mos keladi."
+        },
+        "date": "2026-05-12"
+      },
+      {
+        "author": "Timur B.",
+        "rating": 4,
+        "text": {
+          "ru": "Доставка 19 дней, коробка слегка помялась, но очки целые. Брал вариант с футляром — не пожалел.",
+          "uz": "Yetkazib berish 19 kun davom etdi, quti biroz ezilgan, lekin koʻzoynak butun. Gʻilofli variantini oldim — afsuslanmadim."
+        },
+        "date": "2026-07-19"
+      }
+    ]
+  },
+  {
+    "djId": 156,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Солнцезащитные очки, зелёно-чёрная оправа",
+      "uz": "Yashil-qora gardishli quyoshdan saqlovchi koʻzoynak"
+    },
+    "subtitle": {
+      "ru": "Яркий двухцветный дизайн · UV400",
+      "uz": "Yorqin ikki rangli dizayn · UV400"
+    },
+    "description": {
+      "ru": "Очки с выразительной оправой, в которой сочетаются зелёный и чёрный цвета. Такая модель освежает образ и хорошо смотрится с летней одеждой. Линзы с фильтром UV400 защищают глаза от ультрафиолета, а оправа из лёгкого пластика удобно сидит весь день.",
+      "uz": "Yashil va qora ranglar uygʻunlashgan yorqin gardishli koʻzoynak. Bu model qiyofani yangilaydi va yozgi kiyimlar bilan chiroyli koʻrinadi. UV400 filtrli linzalar koʻzni ultrabinafsha nurlardan himoya qiladi, yengil plastik gardish esa kun boʻyi qulay turadi."
+    },
+    "price": 249000,
+    "oldPrice": null,
+    "rating": 4.8,
+    "reviews": 1124,
+    "sold": 6300,
+    "stock": 340,
+    "deliveryDays": [
+      14,
+      21
+    ],
+    "weightKg": 0.13,
+    "badges": [
+      "choice"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет оправы",
+          "uz": "Gardish rangi"
+        },
+        "values": [
+          {
+            "id": "green-black",
+            "label": {
+              "ru": "Зелёный с чёрным",
+              "uz": "Yashil-qora"
+            },
+            "hex": "#2F5D3A",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 190
+          },
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "priceDelta": 0,
+            "stock": 110
+          },
+          {
+            "id": "brown",
+            "label": {
+              "ru": "Коричневый",
+              "uz": "Jigarrang"
+            },
+            "hex": "#6B4A2E",
+            "priceDelta": 0,
+            "stock": 40
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Цвет оправы",
+          "uz": "Gardish rangi"
+        },
+        "value": {
+          "ru": "Зелёный с чёрным",
+          "uz": "Yashil va qora"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал оправы",
+          "uz": "Gardish materiali"
+        },
+        "value": {
+          "ru": "Пластик",
+          "uz": "Plastik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита",
+          "uz": "Himoya"
+        },
+        "value": {
+          "ru": "Фильтр UV400",
+          "uz": "UV400 filtri"
+        }
+      },
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Унисекс",
+          "uz": "Uniseks"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Jiayu Optical Technology Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.7,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Zarina M.",
+        "rating": 5,
+        "text": {
+          "ru": "Вживую цвет даже интереснее, чем на фото: зелёный глубокий, не кислотный. Получила много комплиментов.",
+          "uz": "Jonli koʻrinishda rangi rasmdagidan ham chiroyliroq: yashili toʻq, oʻta yorqin emas. Koʻp maqtov eshitdim."
+        },
+        "date": "2026-06-11"
+      },
+      {
+        "author": "Aziz K.",
+        "rating": 5,
+        "text": {
+          "ru": "Пришли в Ташкент за 17 дней. Очки крепкие, ничего не болтается.",
+          "uz": "Toshkentga 17 kunda yetib keldi. Koʻzoynak puxta yasalgan, hech narsasi likillamaydi."
+        },
+        "date": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "djId": 157,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Очки для вечеринок, яркая оправа необычной формы",
+      "uz": "Ziyofat va bayramlar uchun koʻzoynak, yorqin gardish"
+    },
+    "subtitle": {
+      "ru": "Для праздников и фотозон · от 1 пары",
+      "uz": "Bayram va fotozonalar uchun · 1 juftdan"
+    },
+    "description": {
+      "ru": "Яркие очки для вечеринок с оправой необычной формы — простой способ добавить настроения дню рождения, корпоративу или выпускному. Они отлично смотрятся на фото и в фотозонах, а лёгкий пластик не давит при долгой носке. Можно взять одну пару или набор для всей компании.",
+      "uz": "Gʻayrioddiy shakldagi yorqin gardishli ziyofat koʻzoynagi — tugʻilgan kun, korporativ kecha yoki bitiruv kechasiga kayfiyat qoʻshishning oddiy usuli. Ular suratlarda va fotozonalarda chiroyli chiqadi, yengil plastik esa uzoq taqilganda ham bosmaydi. Bitta juft yoki butun davra uchun toʻplam olish mumkin."
+    },
+    "price": 129000,
+    "oldPrice": 149000,
+    "rating": 4.2,
+    "reviews": 286,
+    "sold": 2600,
+    "stock": 1500,
+    "deliveryDays": [
+      15,
+      24
+    ],
+    "weightKg": 0.08,
+    "badges": [
+      "sale",
+      "wholesale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплект",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "pair-1",
+            "label": {
+              "ru": "1 пара",
+              "uz": "1 juft"
+            },
+            "priceDelta": 0,
+            "stock": 900
+          },
+          {
+            "id": "pair-3",
+            "label": {
+              "ru": "3 пары",
+              "uz": "3 juft"
+            },
+            "priceDelta": 199000,
+            "stock": 400
+          },
+          {
+            "id": "pair-6",
+            "label": {
+              "ru": "6 пар",
+              "uz": "6 juft"
+            },
+            "priceDelta": 369000,
+            "stock": 200
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Пластик",
+          "uz": "Plastik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Qoʻllanilishi"
+        },
+        "value": {
+          "ru": "Праздники, фотосессии",
+          "uz": "Bayramlar, fotosessiyalar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "value": {
+          "ru": "Универсальный",
+          "uz": "Universal"
+        }
+      },
+      {
+        "name": {
+          "ru": "Упаковка",
+          "uz": "Qadoq"
+        },
+        "value": {
+          "ru": "Каждая пара отдельно",
+          "uz": "Har bir juft alohida"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Huanle Party Supplies Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.5,
+      "years": 4,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Malika O.",
+        "rating": 5,
+        "text": {
+          "ru": "Брали набор из 6 пар на день рождения дочки — дети в восторге, фото получились очень яркими.",
+          "uz": "Qizimning tugʻilgan kuniga 6 juftlik toʻplam oldik — bolalar juda xursand, suratlar yorqin chiqdi."
+        },
+        "date": "2026-04-18"
+      },
+      {
+        "author": "Sherzod U.",
+        "rating": 3,
+        "text": {
+          "ru": "Для праздника нормально, но пластик тонкий: одна пара треснула в первый же вечер.",
+          "uz": "Bayram uchun yaxshi, lekin plastigi yupqa: bitta jufti birinchi kechadayoq yorilib ketdi."
+        },
+        "date": "2026-05-30"
+      },
+      {
+        "author": "Lola I.",
+        "rating": 4,
+        "text": {
+          "ru": "Пришли за 3 недели, каждая пара упакована отдельно. Для фотозоны — то, что нужно.",
+          "uz": "3 haftada keldi, har bir jufti alohida qadoqlangan. Fotozona uchun aynan kerakli narsa."
+        },
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  {
+    "djId": 158,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Солнцезащитные очки унисекс, лёгкая оправа",
+      "uz": "Uniseks quyoshdan saqlovchi koʻzoynak, yengil gardish"
+    },
+    "subtitle": {
+      "ru": "Минимализм · защита от УФ-лучей",
+      "uz": "Minimalizm · UV nurlardan himoya"
+    },
+    "description": {
+      "ru": "Простые солнцезащитные очки без лишних деталей — удобный вариант на каждый день. Линзы защищают глаза от ультрафиолета, а лёгкая оправа подходит и мужчинам, и женщинам. Хорошо сочетаются со спортивной и повседневной одеждой.",
+      "uz": "Ortiqcha bezaklarsiz oddiy quyoshdan saqlovchi koʻzoynak — har kuni taqish uchun qulay variant. Linzalar koʻzni ultrabinafsha nurlardan himoya qiladi, yengil gardish esa erkaklarga ham, ayollarga ham mos. Sport va kundalik kiyimlar bilan yaxshi uygʻunlashadi."
+    },
+    "price": 159000,
+    "oldPrice": null,
+    "rating": 4.3,
+    "reviews": 193,
+    "sold": 1100,
+    "stock": 270,
+    "deliveryDays": [
+      16,
+      25
+    ],
+    "weightKg": 0.11,
+    "badges": [
+      "new"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Защита",
+          "uz": "Himoya"
+        },
+        "value": {
+          "ru": "Фильтр UV400",
+          "uz": "UV400 filtri"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал оправы",
+          "uz": "Gardish materiali"
+        },
+        "value": {
+          "ru": "Пластик",
+          "uz": "Plastik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал линз",
+          "uz": "Linza materiali"
+        },
+        "value": {
+          "ru": "Поликарбонат",
+          "uz": "Polikarbonat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Vazni"
+        },
+        "value": {
+          "ru": "24 г",
+          "uz": "24 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Унисекс",
+          "uz": "Uniseks"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Qianyue Eyewear Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.4,
+      "years": 3,
+      "verified": false
+    },
+    "reviewsPreview": [
+      {
+        "author": "Oybek Q.",
+        "rating": 4,
+        "text": {
+          "ru": "Обычные хорошие очки, ничего лишнего. Шли 3 недели, но всё в порядке.",
+          "uz": "Oddiy yaxshi koʻzoynak, ortiqcha narsasi yoʻq. 3 hafta yoʻlda boʻldi, lekin hammasi joyida."
+        },
+        "date": "2026-07-08"
+      },
+      {
+        "author": "Gulnora A.",
+        "rating": 5,
+        "text": {
+          "ru": "Купила сыну на лето. Лёгкие, не соскальзывают, даже когда он бегает.",
+          "uz": "Oʻgʻlimga yoz uchun oldim. Yengil, yugurganda ham sirpanib tushmaydi."
+        },
+        "date": "2026-06-15"
+      }
+    ]
+  },
+  {
+    "djId": 172,
+    "categoryId": "bags",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Женская сумка с несколькими отделениями, ярко-синяя",
+      "uz": "Bir nechta boʻlimli ayollar sumkasi, yorqin koʻk"
+    },
+    "subtitle": {
+      "ru": "Вместительная · несколько отделений",
+      "uz": "Keng · bir nechta boʻlim"
+    },
+    "description": {
+      "ru": "Вместительная женская сумка насыщенного синего цвета на каждый день. Внутри несколько отделений: удобно разложить телефон, кошелёк, ключи и косметичку. Сумку удобно носить в руке или на сгибе локтя. Материал — экокожа, которая легко протирается.",
+      "uz": "Har kuni olib yurish uchun toʻyingan koʻk rangli keng ayollar sumkasi. Ichida bir nechta boʻlim bor: telefon, hamyon, kalitlar va kosmetika sumkachasini qulay joylashtirish mumkin. Sumkani qoʻlda yoki tirsakda olib yurish qulay. Materiali — oson artiladigan eko-charm."
+    },
+    "price": 389000,
+    "oldPrice": 479000,
+    "rating": 4.2,
+    "reviews": 731,
+    "sold": 4200,
+    "stock": 156,
+    "deliveryDays": [
+      13,
+      19
+    ],
+    "weightKg": 0.75,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "blue",
+            "label": {
+              "ru": "Синий",
+              "uz": "Koʻk"
+            },
+            "hex": "#1E4FA3",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 92
+          },
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "priceDelta": 0,
+            "stock": 41
+          },
+          {
+            "id": "beige",
+            "label": {
+              "ru": "Бежевый",
+              "uz": "Bej"
+            },
+            "hex": "#D9C3A3",
+            "priceDelta": 0,
+            "stock": 23
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Экокожа (PU)",
+          "uz": "Eko-charm (PU)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "value": {
+          "ru": "30 × 22 × 12 см",
+          "uz": "30 × 22 × 12 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Застёжка",
+          "uz": "Yopilishi"
+        },
+        "value": {
+          "ru": "Молния",
+          "uz": "Molniya"
+        }
+      },
+      {
+        "name": {
+          "ru": "Отделения",
+          "uz": "Boʻlimlar"
+        },
+        "value": {
+          "ru": "Несколько, есть внутренний карман",
+          "uz": "Bir nechta, ichki choʻntak bor"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Quanzhou Meilan Bags Co., Ltd.",
+      "city": {
+        "ru": "Цюаньчжоу",
+        "uz": "Syuanchjou"
+      },
+      "rating": 4.6,
+      "years": 7,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Shahnoza T.",
+        "rating": 4,
+        "text": {
+          "ru": "Цвет яркий, как на фото. Внутри много места, помещается даже планшет. При распаковке был лёгкий запах, за два дня выветрился.",
+          "uz": "Rangi rasmdagidek yorqin. Ichi keng, hatto planshet ham sigʻadi. Ochganda biroz hid bor edi, ikki kunda ketdi."
+        },
+        "date": "2026-04-07"
+      },
+      {
+        "author": "Elena V.",
+        "rating": 5,
+        "text": {
+          "ru": "Доставили за 15 дней, сумка была в пыльнике. Швы ровные, покрытие фурнитуры не облезло.",
+          "uz": "15 kunda yetkazib berildi, sumka chang qopchigʻida edi. Choklari tekis, furnitura qoplamasi koʻchmagan."
+        },
+        "date": "2026-03-23"
+      }
+    ]
+  },
+  {
+    "djId": 173,
+    "categoryId": "bags",
+    "source": "1688",
+    "brand": "Heshe",
+    "title": {
+      "ru": "Женская сумка Heshe из натуральной кожи",
+      "uz": "Heshe ayollar sumkasi, tabiiy charm"
+    },
+    "subtitle": {
+      "ru": "Натуральная кожа · на каждый день",
+      "uz": "Tabiiy charm · har kuni uchun"
+    },
+    "description": {
+      "ru": "Сумка Heshe из натуральной кожи с классическим силуэтом — подходит и к офисному, и к повседневному образу. Кожа приятная на ощупь и со временем становится только мягче. Прочные швы и металлическая фурнитура рассчитаны на ежедневную носку, внутри есть отделение на молнии и карманы для мелочей.",
+      "uz": "Klassik siluetdagi tabiiy charmdan tikilgan Heshe sumkasi ofis va kundalik kiyimlarga birdek mos keladi. Charmi ushlaganda yoqimli, vaqt oʻtishi bilan yanada yumshoqroq boʻladi. Mustahkam choklar va metall furnitura har kungi foydalanishga moʻljallangan, ichida molniyali boʻlim va mayda buyumlar uchun choʻntaklar bor."
+    },
+    "price": 1149000,
+    "oldPrice": null,
+    "rating": 4.9,
+    "reviews": 1862,
+    "sold": 7400,
+    "stock": 98,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 1.1,
+    "badges": [
+      "hit",
+      "choice"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Натуральная кожа",
+          "uz": "Tabiiy charm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подкладка",
+          "uz": "Astar"
+        },
+        "value": {
+          "ru": "Текстиль",
+          "uz": "Mato"
+        }
+      },
+      {
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "value": {
+          "ru": "32 × 25 × 13 см",
+          "uz": "32 × 25 × 13 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Застёжка",
+          "uz": "Yopilishi"
+        },
+        "value": {
+          "ru": "Молния",
+          "uz": "Molniya"
+        }
+      },
+      {
+        "name": {
+          "ru": "Фурнитура",
+          "uz": "Furnitura"
+        },
+        "value": {
+          "ru": "Металл",
+          "uz": "Metall"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Xinyu Leather Products Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.9,
+      "years": 13,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Feruza N.",
+        "rating": 5,
+        "text": {
+          "ru": "Кожа действительно натуральная, мягкая и без запаха. Пришла за 14 дней в фирменном пыльнике. Ношу каждый день в офис.",
+          "uz": "Charmi haqiqatan tabiiy, yumshoq va hidi yoʻq. 14 kunda brend chang qopchigʻida keldi. Har kuni ofisga olib yuraman."
+        },
+        "date": "2026-02-26"
+      },
+      {
+        "author": "Irina P.",
+        "rating": 5,
+        "text": {
+          "ru": "Уже третья сумка этого бренда. Качество стабильное, швы аккуратные.",
+          "uz": "Bu brenddan uchinchi sumkam. Sifati barqaror, choklari puxta."
+        },
+        "date": "2026-05-04"
+      },
+      {
+        "author": "Barno S.",
+        "rating": 4,
+        "text": {
+          "ru": "Сумка красивая, но тяжелее, чем я ожидала. Для меня это минус, а в остальном всё отлично.",
+          "uz": "Sumka chiroyli, lekin kutganimdan ogʻirroq. Men uchun bu kamchilik, qolgan hammasi aʼlo."
+        },
+        "date": "2026-08-29"
+      }
+    ]
+  },
+  {
+    "djId": 174,
+    "categoryId": "bags",
+    "source": "poizon",
+    "brand": "Prada",
+    "title": {
+      "ru": "Женская сумка Prada с фирменным логотипом",
+      "uz": "Brend logotipli Prada ayollar sumkasi"
+    },
+    "subtitle": {
+      "ru": "Оригинал · проверка подлинности POIZON",
+      "uz": "Original · POIZON haqiqiylik tekshiruvi"
+    },
+    "description": {
+      "ru": "Сумка Prada с узнаваемым фирменным логотипом — выразительный аксессуар для повседневных и вечерних образов. Аккуратные швы и качественная фурнитура отвечают стандартам итальянского дома моды. Каждый экземпляр проходит проверку подлинности POIZON и отправляется с пыльником и фирменными бирками.",
+      "uz": "Taniqli brend logotipli Prada sumkasi — kundalik va kechki qiyofalar uchun koʻzga tashlanadigan aksessuar. Puxta choklar va sifatli furnitura italyan moda uyining standartlariga javob beradi. Har bir nusxa POIZON tomonidan haqiqiylikka tekshiriladi va chang qopchigʻi hamda brend yorliqlari bilan joʻnatiladi."
+    },
+    "price": 8290000,
+    "oldPrice": null,
+    "rating": 4.2,
+    "reviews": 64,
+    "sold": 310,
+    "stock": 9,
+    "deliveryDays": [
+      6,
+      10
+    ],
+    "weightKg": 1.2,
+    "badges": [
+      "original",
+      "fast"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Страна бренда",
+          "uz": "Brend mamlakati"
+        },
+        "value": {
+          "ru": "Италия",
+          "uz": "Italiya"
+        }
+      },
+      {
+        "name": {
+          "ru": "Состояние",
+          "uz": "Holati"
+        },
+        "value": {
+          "ru": "Новая, с бирками",
+          "uz": "Yangi, yorliqlari bilan"
+        }
+      },
+      {
+        "name": {
+          "ru": "Комплект",
+          "uz": "Toʻplam"
+        },
+        "value": {
+          "ru": "Пыльник, фирменные бирки",
+          "uz": "Chang qopchigʻi, brend yorliqlari"
+        }
+      },
+      {
+        "name": {
+          "ru": "Проверка",
+          "uz": "Tekshiruv"
+        },
+        "value": {
+          "ru": "Подлинность подтверждена POIZON",
+          "uz": "Haqiqiyligi POIZON tomonidan tasdiqlangan"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 5806",
+      "city": {
+        "ru": "Ханчжоу",
+        "uz": "Xanchjou"
+      },
+      "rating": 4.8,
+      "years": 3,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Dilfuza R.",
+        "rating": 5,
+        "text": {
+          "ru": "Заказывала с опаской, но всё пришло с биркой проверки POIZON и пыльником. Доставка 8 дней.",
+          "uz": "Xavotir bilan buyurtma qilgandim, lekin hammasi POIZON tekshiruv yorligʻi va chang qopchigʻi bilan keldi. Yetkazib berish 8 kun."
+        },
+        "date": "2026-09-16"
+      },
+      {
+        "author": "Anna L.",
+        "rating": 4,
+        "text": {
+          "ru": "Сумка оригинальная, качество отличное. Чуть меньше, чем представляла по фото, но смотрится очень стильно.",
+          "uz": "Sumka original, sifati aʼlo. Rasmdagidan biroz kichikroq ekan, lekin juda zamonaviy koʻrinadi."
+        },
+        "date": "2026-07-02"
+      }
+    ]
+  },
+  {
+    "djId": 175,
+    "categoryId": "bags",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Женский рюкзак из экокожи, белый",
+      "uz": "Eko-charmdan tikilgan ayollar ryukzagi, oq"
+    },
+    "subtitle": {
+      "ru": "Вместительный · экокожа легко чистится",
+      "uz": "Keng · eko-charm oson tozalanadi"
+    },
+    "description": {
+      "ru": "Стильный белый рюкзак из экокожи для города, учёбы и прогулок. В основное отделение помещаются планшет, косметичка и бутылка воды, а мелочи удобно держать в наружном кармане. Лямки регулируются по росту, а экокожу легко протереть влажной салфеткой.",
+      "uz": "Shahar, oʻqish va sayr uchun eko-charmdan tikilgan zamonaviy oq ryukzak. Asosiy boʻlimga planshet, kosmetika sumkachasi va suv shishasi sigʻadi, mayda narsalarni esa tashqi choʻntakda saqlash qulay. Tasmalari boʻyga qarab sozlanadi, eko-charmni esa nam salfetka bilan artish oson."
+    },
+    "price": 299000,
+    "oldPrice": 359000,
+    "rating": 4.4,
+    "reviews": 905,
+    "sold": 5600,
+    "stock": 228,
+    "deliveryDays": [
+      14,
+      20
+    ],
+    "weightKg": 0.8,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "white",
+            "label": {
+              "ru": "Белый",
+              "uz": "Oq"
+            },
+            "hex": "#F4F2EE",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 120
+          },
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "priceDelta": 0,
+            "stock": 78
+          },
+          {
+            "id": "beige",
+            "label": {
+              "ru": "Бежевый",
+              "uz": "Bej"
+            },
+            "hex": "#D9C3A3",
+            "priceDelta": 0,
+            "stock": 30
+          }
+        ]
+      },
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "m",
+            "label": {
+              "ru": "Средний (30 см)",
+              "uz": "Oʻrta (30 sm)"
+            },
+            "priceDelta": 0,
+            "stock": 150
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "Большой (36 см)",
+              "uz": "Katta (36 sm)"
+            },
+            "priceDelta": 40000,
+            "stock": 78
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Экокожа (PU)",
+          "uz": "Eko-charm (PU)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подкладка",
+          "uz": "Astar"
+        },
+        "value": {
+          "ru": "Полиэстер",
+          "uz": "Poliester"
+        }
+      },
+      {
+        "name": {
+          "ru": "Объём",
+          "uz": "Hajmi"
+        },
+        "value": {
+          "ru": "12 л (средний), 16 л (большой)",
+          "uz": "12 l (oʻrta), 16 l (katta)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Застёжка",
+          "uz": "Yopilishi"
+        },
+        "value": {
+          "ru": "Молния",
+          "uz": "Molniya"
+        }
+      },
+      {
+        "name": {
+          "ru": "Лямки",
+          "uz": "Tasmalari"
+        },
+        "value": {
+          "ru": "Регулируемые",
+          "uz": "Sozlanadigan"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Dongguan Hongsheng Handbag Co., Ltd.",
+      "city": {
+        "ru": "Дунгуань",
+        "uz": "Dunguan"
+      },
+      "rating": 4.5,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sevara J.",
+        "rating": 5,
+        "text": {
+          "ru": "Взяла белый для учёбы — помещаются планшет и тетради. Пришёл за 18 дней.",
+          "uz": "Oʻqish uchun oq rangini oldim — planshet va daftarlar sigʻadi. 18 kunda keldi."
+        },
+        "date": "2026-09-03"
+      },
+      {
+        "author": "Marina D.",
+        "rating": 4,
+        "text": {
+          "ru": "Белый немного маркий, но легко протирается. Лямки удобные, плечи не устают.",
+          "uz": "Oq rang biroz tez kirlanadi, lekin oson artiladi. Tasmalari qulay, yelkalar charchamaydi."
+        },
+        "date": "2026-10-12"
+      }
+    ]
+  },
+  {
+    "djId": 176,
+    "categoryId": "bags",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Женская сумка классической формы, чёрная",
+      "uz": "Klassik shakldagi ayollar sumkasi, qora"
+    },
+    "subtitle": {
+      "ru": "Универсальный чёрный · на каждый день",
+      "uz": "Universal qora rang · har kuni uchun"
+    },
+    "description": {
+      "ru": "Классическая женская сумка чёрного цвета, которая сочетается с офисной, повседневной и вечерней одеждой. Пространство продумано: основное отделение, внутренний карман на молнии и кармашки для телефона и мелочей. Экокожа устойчива к потёртостям и легко чистится.",
+      "uz": "Ofis, kundalik va kechki kiyimlarga mos keladigan qora rangli klassik ayollar sumkasi. Ichki tuzilishi puxta oʻylangan: asosiy boʻlim, molniyali ichki choʻntak hamda telefon va mayda narsalar uchun choʻntakchalar bor. Eko-charm ishqalanishga chidamli va oson tozalanadi."
+    },
+    "price": 449000,
+    "oldPrice": null,
+    "rating": 4.2,
+    "reviews": 377,
+    "sold": 2300,
+    "stock": 41,
+    "deliveryDays": [
+      15,
+      22
+    ],
+    "weightKg": 0.85,
+    "badges": [],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 27
+          },
+          {
+            "id": "burgundy",
+            "label": {
+              "ru": "Бордовый",
+              "uz": "Toʻq qizil"
+            },
+            "hex": "#6D1F2B",
+            "priceDelta": 0,
+            "stock": 9
+          },
+          {
+            "id": "brown",
+            "label": {
+              "ru": "Коричневый",
+              "uz": "Jigarrang"
+            },
+            "hex": "#6B4226",
+            "priceDelta": 0,
+            "stock": 5
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Materiali"
+        },
+        "value": {
+          "ru": "Экокожа (PU)",
+          "uz": "Eko-charm (PU)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "value": {
+          "ru": "29 × 21 × 11 см",
+          "uz": "29 × 21 × 11 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Застёжка",
+          "uz": "Yopilishi"
+        },
+        "value": {
+          "ru": "Молния",
+          "uz": "Molniya"
+        }
+      },
+      {
+        "name": {
+          "ru": "Отделения",
+          "uz": "Boʻlimlar"
+        },
+        "value": {
+          "ru": "Основное и 3 кармана",
+          "uz": "Asosiy boʻlim va 3 ta choʻntak"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Junmei Leather Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.7,
+      "years": 10,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Yulduz E.",
+        "rating": 5,
+        "text": {
+          "ru": "Сумка как на фото, строгая и аккуратная. Ношу на работу уже месяц — ни одной потёртости.",
+          "uz": "Sumka rasmdagidek, jiddiy va ozoda. Bir oydan beri ishga olib yuraman — birorta ham ishqalangan joyi yoʻq."
+        },
+        "date": "2026-03-15"
+      },
+      {
+        "author": "Natalya G.",
+        "rating": 3,
+        "text": {
+          "ru": "Качество неплохое, но ручки жестковаты, а доставка заняла 22 дня.",
+          "uz": "Sifati yomon emas, lekin dastalari biroz qattiq, yetkazib berish esa 22 kun davom etdi."
+        },
+        "date": "2026-01-28"
+      }
+    ]
+  },
+  {
+    "djId": 182,
+    "categoryId": "watches",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Женские серьги с зелёным кристаллом",
+      "uz": "Yashil kristalli ayollar sirgʻalari"
+    },
+    "subtitle": {
+      "ru": "Яркий кристалл · для особых случаев",
+      "uz": "Yorqin kristall · maxsus kunlar uchun"
+    },
+    "description": {
+      "ru": "Нарядные серьги с кристаллом насыщенного зелёного цвета. Камень красиво переливается при вечернем освещении, поэтому серьги особенно хороши для торжеств, свадеб и выпускных. Классическая форма сочетается и с платьем, и со строгим костюмом. Поставляются в подарочной коробочке.",
+      "uz": "Toʻyingan yashil rangli kristalli bayramona sirgʻalar. Tosh kechki yoritishda chiroyli tovlanadi, shuning uchun sirgʻalar ayniqsa tantanalar, toʻylar va bitiruv kechalari uchun mos. Klassik shakli koʻylak bilan ham, rasmiy kostyum bilan ham uygʻunlashadi. Sovgʻa qutichasida yetkazib beriladi."
+    },
+    "price": 199000,
+    "oldPrice": 239000,
+    "rating": 4.6,
+    "reviews": 1507,
+    "sold": 9800,
+    "stock": 640,
+    "deliveryDays": [
+      12,
+      19
+    ],
+    "weightKg": 0.05,
+    "badges": [
+      "hit",
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет камня",
+          "uz": "Tosh rangi"
+        },
+        "values": [
+          {
+            "id": "green",
+            "label": {
+              "ru": "Зелёный",
+              "uz": "Yashil"
+            },
+            "hex": "#1F7A4D",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 380
+          },
+          {
+            "id": "blue",
+            "label": {
+              "ru": "Синий",
+              "uz": "Koʻk"
+            },
+            "hex": "#1D5FBF",
+            "priceDelta": 0,
+            "stock": 160
+          },
+          {
+            "id": "red",
+            "label": {
+              "ru": "Красный",
+              "uz": "Qizil"
+            },
+            "hex": "#B3202A",
+            "priceDelta": 0,
+            "stock": 100
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Камень",
+          "uz": "Toshi"
+        },
+        "value": {
+          "ru": "Кристалл",
+          "uz": "Kristall"
+        }
+      },
+      {
+        "name": {
+          "ru": "Металл",
+          "uz": "Metall"
+        },
+        "value": {
+          "ru": "Бижутерийный сплав",
+          "uz": "Bijuteriya qotishmasi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Упаковка",
+          "uz": "Qadoq"
+        },
+        "value": {
+          "ru": "Подарочная коробочка",
+          "uz": "Sovgʻa qutichasi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Xingyue Jewelry Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.8,
+      "years": 9,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nilufar B.",
+        "rating": 5,
+        "text": {
+          "ru": "Надевала на свадьбу сестры — камни очень красиво блестят. Проносила весь вечер, уши не устали.",
+          "uz": "Singlimning toʻyiga taqib bordim — toshlari juda chiroyli yaltiraydi. Kechasi bilan taqib yurdim, quloqlarim charchamadi."
+        },
+        "date": "2026-09-21"
+      },
+      {
+        "author": "Svetlana K.",
+        "rating": 4,
+        "text": {
+          "ru": "Красивые, но зелёный чуть темнее, чем на фото. Коробочка милая, можно дарить.",
+          "uz": "Chiroyli, lekin yashil rangi rasmdagidan biroz toʻqroq. Qutichasi yoqimli, sovgʻa qilsa boʻladi."
+        },
+        "date": "2026-04-30"
+      }
+    ]
+  },
+  {
+    "djId": 183,
+    "categoryId": "watches",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Серьги овальной формы, зелёные",
+      "uz": "Oval shakldagi sirgʻalar, yashil"
+    },
+    "subtitle": {
+      "ru": "На каждый день и на выход",
+      "uz": "Har kuni va bayramlarda taqish uchun"
+    },
+    "description": {
+      "ru": "Серьги необычной овальной формы в зелёном цвете — заметный, но сдержанный акцент. Подходят и к повседневной одежде, и к вечернему образу. Благодаря небольшому весу их можно носить весь день без дискомфорта.",
+      "uz": "Oval shakldagi yashil sirgʻalar qiyofaga oʻziga xos, ammo vazmin urgʻu beradi. Ular kundalik kiyimga ham, kechki libosga ham mos keladi. Yengilligi tufayli ularni kun boʻyi noqulaylik sezmasdan taqib yurish mumkin."
+    },
+    "price": 169000,
+    "oldPrice": null,
+    "rating": 4.4,
+    "reviews": 342,
+    "sold": 2600,
+    "stock": 410,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 0.04,
+    "badges": [
+      "wholesale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплектация",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "pair",
+            "label": {
+              "ru": "1 пара",
+              "uz": "1 juft"
+            },
+            "priceDelta": 0,
+            "stock": 300
+          },
+          {
+            "id": "gift-box",
+            "label": {
+              "ru": "Пара в подарочной коробке",
+              "uz": "Sovgʻa qutisida 1 juft"
+            },
+            "priceDelta": 29000,
+            "stock": 110
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Форма",
+          "uz": "Shakli"
+        },
+        "value": {
+          "ru": "Овальная",
+          "uz": "Oval"
+        }
+      },
+      {
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "value": {
+          "ru": "Зелёный",
+          "uz": "Yashil"
+        }
+      },
+      {
+        "name": {
+          "ru": "Металл",
+          "uz": "Metall"
+        },
+        "value": {
+          "ru": "Бижутерийный сплав",
+          "uz": "Bijuteriya qotishmasi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес пары",
+          "uz": "Bir juft vazni"
+        },
+        "value": {
+          "ru": "6 г",
+          "uz": "6 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Caiyun Accessories Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.6,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Mohira S.",
+        "rating": 5,
+        "text": {
+          "ru": "Лёгкие, совсем не оттягивают мочки. Зелёный оттенок спокойный, ношу на работу.",
+          "uz": "Yengil, quloq yumshogʻini umuman tortmaydi. Yashil tusi sokin, ishga taqib boraman."
+        },
+        "date": "2026-06-19"
+      },
+      {
+        "author": "Ekaterina M.",
+        "rating": 4,
+        "text": {
+          "ru": "Пришли за 20 дней. Красивые, но застёжка тугая, первое время было неудобно.",
+          "uz": "20 kunda keldi. Chiroyli, lekin ilgagi qattiq, avvaliga noqulay boʻldi."
+        },
+        "date": "2026-02-09"
+      }
+    ]
+  },
+  {
+    "djId": 184,
+    "categoryId": "watches",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Серьги в тропическом стиле, яркие",
+      "uz": "Tropik uslubdagi yorqin sirgʻalar"
+    },
+    "subtitle": {
+      "ru": "Летний акцент · яркие цвета",
+      "uz": "Yozgi urgʻu · yorqin ranglar"
+    },
+    "description": {
+      "ru": "Яркие серьги с тропическими мотивами добавят образу летнего настроения. Сочные цвета хорошо смотрятся с однотонной одеждой, сарафанами и пляжными образами. Серьги лёгкие — подходят для отпуска и долгих прогулок.",
+      "uz": "Tropik naqshli yorqin sirgʻalar qiyofangizga yozgi kayfiyat bagʻishlaydi. Jozibali ranglar bir rangli kiyimlar, sarafanlar va plyaj liboslari bilan chiroyli koʻrinadi. Sirgʻalar yengil — taʼtil va uzoq sayrlar uchun mos."
+    },
+    "price": 139000,
+    "oldPrice": null,
+    "rating": 4.7,
+    "reviews": 168,
+    "sold": 1300,
+    "stock": 6,
+    "deliveryDays": [
+      13,
+      20
+    ],
+    "weightKg": 0.04,
+    "badges": [
+      "new"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Стиль",
+          "uz": "Uslubi"
+        },
+        "value": {
+          "ru": "Тропический",
+          "uz": "Tropik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Металл",
+          "uz": "Metall"
+        },
+        "value": {
+          "ru": "Бижутерийный сплав",
+          "uz": "Bijuteriya qotishmasi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес пары",
+          "uz": "Bir juft vazni"
+        },
+        "value": {
+          "ru": "8 г",
+          "uz": "8 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Huadu Liangpin Jewelry Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.4,
+      "years": 2,
+      "verified": false
+    },
+    "reviewsPreview": [
+      {
+        "author": "Aziza R.",
+        "rating": 5,
+        "text": {
+          "ru": "Купила к поездке на Иссык-Куль, очень подошли к летним платьям. Цвета яркие, не выцвели.",
+          "uz": "Issiqkoʻlga sayohat uchun oldim, yozgi koʻylaklarga juda mos keldi. Ranglari yorqin, oqarib ketmadi."
+        },
+        "date": "2026-07-28"
+      },
+      {
+        "author": "Diana F.",
+        "rating": 4,
+        "text": {
+          "ru": "Миленькие и лёгкие. Шли почти три недели, но упаковка целая.",
+          "uz": "Yoqimli va yengil. Deyarli uch hafta yoʻlda boʻldi, lekin qadogʻi butun."
+        },
+        "date": "2026-08-21"
+      }
+    ]
+  },
+  {
+    "djId": 190,
+    "categoryId": "watches",
+    "source": "poizon",
+    "brand": "IWC",
+    "title": {
+      "ru": "Наручные часы IWC Ingenieur Automatic, сталь",
+      "uz": "IWC Ingenieur Automatic qoʻl soati, poʻlat korpus"
+    },
+    "subtitle": {
+      "ru": "Автоподзавод · оригинал с проверкой POIZON",
+      "uz": "Avtomatik mexanizm · POIZON tekshiruvi"
+    },
+    "description": {
+      "ru": "IWC Ingenieur Automatic — спортивно-элегантные часы швейцарской марки в корпусе из нержавеющей стали. Автоматический механизм заводится от движения руки и не требует батарейки. Модель уместна и с деловым костюмом, и с повседневной одеждой. Перед отправкой часы проходят проверку подлинности POIZON.",
+      "uz": "IWC Ingenieur Automatic — Shveytsariya brendining zanglamaydigan poʻlat korpusli sport-klassik soati. Avtomatik mexanizm qoʻl harakati bilan buraladi va batareya talab qilmaydi. Model ish kostyumiga ham, kundalik kiyimga ham mos keladi. Joʻnatishdan oldin soat POIZON tomonidan haqiqiylikka tekshiriladi."
+    },
+    "price": 59990000,
+    "oldPrice": null,
+    "rating": 4.2,
+    "reviews": 9,
+    "sold": 31,
+    "stock": 2,
+    "deliveryDays": [
+      8,
+      13
+    ],
+    "weightKg": 1,
+    "badges": [
+      "original"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Механизм",
+          "uz": "Mexanizm"
+        },
+        "value": {
+          "ru": "Автоматический",
+          "uz": "Avtomatik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Корпус",
+          "uz": "Korpus"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь",
+          "uz": "Zanglamaydigan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Стекло",
+          "uz": "Oyna"
+        },
+        "value": {
+          "ru": "Сапфировое",
+          "uz": "Safir"
+        }
+      },
+      {
+        "name": {
+          "ru": "Состояние",
+          "uz": "Holati"
+        },
+        "value": {
+          "ru": "Новые",
+          "uz": "Yangi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Швейцария",
+          "uz": "Shveytsariya"
+        }
+      },
+      {
+        "name": {
+          "ru": "Комплект",
+          "uz": "Toʻplam"
+        },
+        "value": {
+          "ru": "Коробка, документы",
+          "uz": "Quti, hujjatlar"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 1294",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 5,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Rustam X.",
+        "rating": 5,
+        "text": {
+          "ru": "Долго выбирал, где купить. Часы новые, защитные плёнки на месте, документы в комплекте. Доставка 11 дней.",
+          "uz": "Qayerdan olishni uzoq tanladim. Soat yangi, himoya plyonkalari joyida, hujjatlari ham bor. Yetkazib berish 11 kun."
+        },
+        "date": "2026-10-06"
+      },
+      {
+        "author": "Alisher G.",
+        "rating": 4,
+        "text": {
+          "ru": "Отличные часы, но хотелось бы больше фото перед отправкой.",
+          "uz": "Ajoyib soat, lekin joʻnatishdan oldin koʻproq surat yuborishsa yaxshi boʻlardi."
+        },
+        "date": "2026-06-24"
+      }
+    ]
+  },
+  {
+    "djId": 193,
+    "categoryId": "watches",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Женские наручные часы, позолоченный корпус",
+      "uz": "Zarhal korpusli ayollar qoʻl soati"
+    },
+    "subtitle": {
+      "ru": "Позолоченный корпус · подарочная коробка",
+      "uz": "Zarhal korpus · sovgʻa qutisi"
+    },
+    "description": {
+      "ru": "Элегантные женские часы с позолоченным корпусом — аксессуар, уместный и на работе, и на празднике. Кварцевый механизм обеспечивает точный ход, а лаконичный циферблат легко читается. Часы упакованы в подарочную коробку, поэтому их удобно дарить.",
+      "uz": "Zarhal korpusli nafis ayollar qoʻl soati — ishda ham, bayramda ham oʻrinli aksessuar. Kvars mexanizmi aniq yurishni taʼminlaydi, lakonik siferblat esa oson oʻqiladi. Soat sovgʻa qutisiga qadoqlangan, shuning uchun uni sovgʻa qilish qulay."
+    },
+    "price": 5190000,
+    "oldPrice": 6390000,
+    "rating": 4.7,
+    "reviews": 241,
+    "sold": 1150,
+    "stock": 3,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.3,
+    "badges": [
+      "new",
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "gold",
+            "label": {
+              "ru": "Золотистый",
+              "uz": "Oltin rang"
+            },
+            "hex": "#C9A54C",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 2
+          },
+          {
+            "id": "silver",
+            "label": {
+              "ru": "Серебристый",
+              "uz": "Kumushrang"
+            },
+            "hex": "#C4C4C8",
+            "priceDelta": 0,
+            "stock": 1
+          },
+          {
+            "id": "rose-gold",
+            "label": {
+              "ru": "Розовое золото",
+              "uz": "Pushti oltin rang"
+            },
+            "hex": "#B76E79",
+            "priceDelta": 0,
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Механизм",
+          "uz": "Mexanizm"
+        },
+        "value": {
+          "ru": "Кварцевый",
+          "uz": "Kvars"
+        }
+      },
+      {
+        "name": {
+          "ru": "Корпус",
+          "uz": "Korpus"
+        },
+        "value": {
+          "ru": "Сталь с позолотой",
+          "uz": "Zarhallangan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Стекло",
+          "uz": "Oyna"
+        },
+        "value": {
+          "ru": "Минеральное",
+          "uz": "Mineral"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр корпуса",
+          "uz": "Korpus diametri"
+        },
+        "value": {
+          "ru": "32 мм",
+          "uz": "32 mm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Водозащита",
+          "uz": "Suvga chidamliligi"
+        },
+        "value": {
+          "ru": "3 атм (защита от брызг)",
+          "uz": "3 atm (sachrashdan himoya)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Упаковка",
+          "uz": "Qadoq"
+        },
+        "value": {
+          "ru": "Подарочная коробка",
+          "uz": "Sovgʻa qutisi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Meixin Watch Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.6,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Gulchehra M.",
+        "rating": 5,
+        "text": {
+          "ru": "Подарила маме на юбилей — она очень довольна, часы смотрятся дорого. Коробка красивая, пришли за 15 дней.",
+          "uz": "Onamga yubileyiga sovgʻa qildim — juda mamnun, soat qimmatbaho koʻrinadi. Qutisi chiroyli, 15 kunda keldi."
+        },
+        "date": "2026-09-12"
+      },
+      {
+        "author": "Kseniya T.",
+        "rating": 4,
+        "text": {
+          "ru": "Позолота ровная, без пятен. Корпус чуть крупнее, чем ожидала, но на руке смотрится красиво.",
+          "uz": "Zarhali tekis, dogʻsiz. Korpusi kutganimdan biroz kattaroq, lekin qoʻlda chiroyli koʻrinadi."
+        },
+        "date": "2026-10-03"
+      }
+    ]
+  },
+  {
+    "djId": 194,
+    "categoryId": "watches",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Женские наручные часы в минималистичном стиле",
+      "uz": "Minimalistik uslubdagi ayollar qoʻl soati"
+    },
+    "subtitle": {
+      "ru": "Мягкий ремешок · кварцевый механизм",
+      "uz": "Yumshoq tasma · kvars mexanizmi"
+    },
+    "description": {
+      "ru": "Женские часы на каждый день в минималистичном стиле. Мягкий ремешок не натирает запястье, а лаконичный циферблат легко читается с первого взгляда. Кварцевый механизм работает от батарейки, которой хватает примерно на два года. Можно выбрать только часы или подарочный набор с браслетом.",
+      "uz": "Minimalistik uslubdagi har kungi ayollar qoʻl soati. Yumshoq tasma bilakni ishqalamaydi, lakonik siferblat esa bir qarashda oson oʻqiladi. Kvars mexanizmi batareyada ishlaydi, u taxminan ikki yilga yetadi. Faqat soatni yoki bilaguzukli sovgʻa toʻplamini tanlash mumkin."
+    },
+    "price": 849000,
+    "oldPrice": 990000,
+    "rating": 4.4,
+    "reviews": 1038,
+    "sold": 6900,
+    "stock": 380,
+    "deliveryDays": [
+      14,
+      21
+    ],
+    "weightKg": 0.25,
+    "badges": [
+      "hit",
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплектация",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "watch",
+            "label": {
+              "ru": "Только часы",
+              "uz": "Faqat soat"
+            },
+            "priceDelta": 0,
+            "stock": 240
+          },
+          {
+            "id": "watch-bracelet",
+            "label": {
+              "ru": "Часы + браслет",
+              "uz": "Soat + bilaguzuk"
+            },
+            "priceDelta": 59000,
+            "stock": 100
+          },
+          {
+            "id": "gift-set",
+            "label": {
+              "ru": "Часы + браслет + коробка",
+              "uz": "Soat + bilaguzuk + quti"
+            },
+            "priceDelta": 99000,
+            "stock": 40
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Механизм",
+          "uz": "Mexanizm"
+        },
+        "value": {
+          "ru": "Кварцевый",
+          "uz": "Kvars"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ремешок",
+          "uz": "Tasma"
+        },
+        "value": {
+          "ru": "Мягкий, регулируемый",
+          "uz": "Yumshoq, sozlanadigan"
+        }
+      },
+      {
+        "name": {
+          "ru": "Стекло",
+          "uz": "Oyna"
+        },
+        "value": {
+          "ru": "Минеральное",
+          "uz": "Mineral"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр корпуса",
+          "uz": "Korpus diametri"
+        },
+        "value": {
+          "ru": "34 мм",
+          "uz": "34 mm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Водозащита",
+          "uz": "Suvga chidamliligi"
+        },
+        "value": {
+          "ru": "3 атм (защита от брызг)",
+          "uz": "3 atm (sachrashdan himoya)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Liyuan Watch Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.8,
+      "years": 11,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Dildora Q.",
+        "rating": 5,
+        "text": {
+          "ru": "Брала набор с браслетом к 8 Марта — коллеги оценили. Часы лёгкие, ремешок мягкий.",
+          "uz": "8-mart uchun bilaguzukli toʻplamni oldim — hamkasblarim yoqtirishdi. Soat yengil, tasmasi yumshoq."
+        },
+        "date": "2026-03-11"
+      },
+      {
+        "author": "Olga N.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошие часы за свои деньги. Доставка 19 дней, всё целое.",
+          "uz": "Narxiga yarasha yaxshi soat. Yetkazib berish 19 kun, hammasi butun."
+        },
+        "date": "2026-05-17"
+      },
+      {
+        "author": "Munisa H.",
+        "rating": 5,
+        "text": {
+          "ru": "Ношу каждый день уже два месяца: ход точный, на стекле ни царапины.",
+          "uz": "Ikki oydan beri har kuni taqaman: yurishi aniq, oynasida birorta tirnalish yoʻq."
+        },
+        "date": "2026-08-14"
+      }
+    ]
+  }
+]

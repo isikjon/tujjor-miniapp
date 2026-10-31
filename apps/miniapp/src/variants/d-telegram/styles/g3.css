@@ -1,0 +1,311 @@
+/* Group g3 styles for variant d-telegram (profile, orders, order, favorites, shared sheets). Scoped under .v-d */
+
+/* ── Profile header (Telegram Settings) ───────────────────────────────── */
+.v-d .d-g3-hero {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 16px 4px;
+  text-align: center;
+}
+.v-d .d-g3-avatar {
+  width: 96px;
+  height: 96px;
+  font-size: 36px;
+  line-height: 1;
+}
+.v-d .d-g3-name {
+  margin-top: 12px;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+}
+.v-d .d-g3-handle {
+  margin-top: 2px;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.2px;
+  color: var(--d-hint);
+  font-variant-numeric: tabular-nums;
+}
+.v-d .d-g3-demo {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+}
+
+/* ── Title row + sticky segmented bar ────────────────────────────────── */
+.v-d .d-g3-titlewrap {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 16px 0 0;
+}
+.v-d .d-g3-titlewrap > :first-child {
+  min-width: 0;
+}
+.v-d .d-g3-bar {
+  padding: 12px 16px 4px;
+  background: var(--d-bg);
+}
+.v-d .d-g3-subfilter {
+  flex: none;
+  margin-bottom: 8px;
+}
+
+/* ── Order rows ──────────────────────────────────────────────────────── */
+.v-d .d-g3-orow {
+  align-items: flex-start;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.v-d .d-g3-orow .d-cell-chevron {
+  align-self: center;
+}
+.v-d .d-g3-orow-body {
+  display: flex;
+  flex: 1;
+  min-width: 0;
+  flex-direction: column;
+}
+.v-d .d-g3-orow-top {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+.v-d .d-g3-orow-num {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 17px;
+  line-height: 22px;
+  font-weight: 600;
+  letter-spacing: -0.4px;
+}
+.v-d .d-g3-orow-total {
+  flex: none;
+  font-size: 17px;
+  line-height: 22px;
+  letter-spacing: -0.4px;
+}
+.v-d .d-g3-orow-status {
+  margin-top: 2px;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: 500;
+  letter-spacing: -0.2px;
+}
+.v-d .d-g3-orow-meta {
+  font-size: 14px;
+  line-height: 18px;
+  color: var(--d-hint);
+  font-variant-numeric: tabular-nums;
+}
+.v-d .d-g3-thumbs {
+  display: flex;
+  gap: 6px;
+  margin-top: 10px;
+}
+.v-d .d-g3-thumb {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  border-radius: 8px;
+  background: var(--color-tile);
+  overflow: hidden;
+}
+.v-d .d-g3-thumb-more {
+  display: grid;
+  place-items: center;
+  color: var(--d-hint);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+/* ── Order detail ────────────────────────────────────────────────────── */
+.v-d .d-g3-tall {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.v-d .d-g3-status {
+  font-weight: 600;
+}
+.v-d .d-g3-mono {
+  font-family: ui-monospace, 'SF Mono', Menlo, monospace;
+  font-size: 15px;
+  letter-spacing: 0.2px;
+  color: var(--d-text);
+}
+.v-d .d-g3-copy {
+  flex: none;
+  color: var(--d-link);
+}
+.v-d .d-g3-tl-title {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+.v-d .d-g3-tl-date {
+  flex: none;
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--d-hint);
+  font-variant-numeric: tabular-nums;
+}
+.v-d .d-g3-block {
+  display: block;
+}
+.v-d .d-g3-item {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
+}
+.v-d .d-g3-item .d-cell-title {
+  white-space: normal;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.v-d .d-g3-itemimg {
+  width: 56px;
+  height: 56px;
+  border-radius: 10px;
+  background: var(--color-tile);
+  overflow: hidden;
+}
+.v-d .d-g3-good .d-cell-value {
+  color: var(--color-success);
+}
+
+/* ── Favourites grid ─────────────────────────────────────────────────── */
+.v-d .d-g3-grid {
+  padding: 12px 12px 0;
+}
+.v-d .d-g3-favwrap {
+  position: relative;
+  height: 100%;
+}
+.v-d .d-g3-favwrap > .d-card {
+  height: 100%;
+}
+.v-d .d-g3-cardimg {
+  display: block;
+  width: 100%;
+  background: var(--color-tile);
+}
+.v-d .d-g3-end {
+  padding: 20px 16px 8px;
+  text-align: center;
+  font-size: 13px;
+  line-height: 18px;
+  color: var(--d-hint);
+}
+
+/* ── Sheets ──────────────────────────────────────────────────────────── */
+.v-d .d-g3-lead {
+  padding: 8px 32px 0;
+  text-align: center;
+  font-size: 15px;
+  line-height: 20px;
+  color: var(--d-hint);
+}
+.v-d .d-g3-faq .d-cell {
+  padding-top: 11px;
+  padding-bottom: 11px;
+}
+.v-d .d-g3-faq-chev {
+  flex: none;
+  color: var(--d-chevron);
+  transition: transform 220ms var(--ease-standard);
+}
+.v-d .d-g3-faq[data-open='true'] .d-g3-faq-chev {
+  transform: rotate(180deg);
+}
+.v-d .d-g3-faq-a {
+  padding: 0 16px 12px;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.2px;
+  color: var(--d-hint);
+}
+.v-d .d-g3-strong {
+  font-weight: 600;
+}
+.v-d .d-g3-sheetbtn:disabled {
+  opacity: 0.4;
+}
+.v-d .d-g3-seg-wrap {
+  padding: 8px 16px 0;
+}
+.v-d .d-g3-field {
+  gap: 12px;
+}
+.v-d .d-g3-flabel {
+  flex: none;
+  max-width: 52%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 17px;
+  letter-spacing: -0.4px;
+}
+.v-d .d-g3-field[data-error] .d-g3-flabel {
+  color: var(--d-destructive);
+}
+.v-d .d-g3-prefix {
+  flex: none;
+  color: var(--d-hint);
+  font-variant-numeric: tabular-nums;
+}
+.v-d .d-g3-select {
+  flex: 1;
+  max-width: none;
+  min-width: 0;
+  text-overflow: ellipsis;
+}
+.v-d .d-g3-plus {
+  display: grid;
+  place-items: center;
+  width: 29px;
+  height: 29px;
+  color: var(--d-link);
+}
+.v-d .d-g3-addr-sk {
+  padding: 12px 16px;
+}
+.v-d .d-g3-field .d-input {
+  text-align: right;
+}
+.v-d .d-g3-phone {
+  display: flex;
+  flex: 1;
+  min-width: 0;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 6px;
+}
+.v-d .d-g3-field .d-g3-phoneinput {
+  flex: 0 1 auto;
+  width: 8.6em;
+  text-align: left;
+}
+.v-d .d-g3-itemrow {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: 2px;
+}
+.v-d .d-g3-itemrow > b {
+  flex: none;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--d-text);
+}

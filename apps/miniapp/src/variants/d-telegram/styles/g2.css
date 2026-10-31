@@ -1,0 +1,446 @@
+/* Group g2 styles for variant d-telegram (product, cart, checkout, success) — every rule scoped under .v-d */
+
+.v-d .g2-first {
+  margin-top: 12px;
+}
+.v-d .g2-pad-x {
+  padding: 16px 16px 0;
+}
+.v-d .g2-ink {
+  color: var(--d-text);
+  font-weight: 500;
+}
+.v-d .g2-hint {
+  font-size: 14px;
+  line-height: 18px;
+  color: var(--d-hint);
+}
+.v-d .g2-neg {
+  color: var(--color-sale);
+}
+.v-d .g2-inline {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.v-d .g2-sk {
+  display: block;
+  border-radius: 6px;
+}
+.v-d .g2-sk-block {
+  display: block;
+  border-radius: 0;
+}
+.v-d .g2-sk-gallery {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 0;
+}
+
+/* ── Product ─────────────────────────────────────────────────────────── */
+.v-d .g2-gal {
+  position: relative;
+}
+.v-d .g2-gal .img-box {
+  display: block;
+  width: 100%;
+}
+.v-d .g2-gal-count {
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  padding: 1px 8px;
+  border-radius: 10px;
+  background: rgb(0 0 0 / 0.32);
+  color: #fff;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+.v-d .g2-gal-fav {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+}
+.v-d .g2-brand {
+  margin-bottom: 2px;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: 500;
+  letter-spacing: -0.2px;
+  color: var(--d-link);
+}
+.v-d .g2-price-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px 8px;
+}
+.v-d .g2-price {
+  font-size: 28px;
+  line-height: 34px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  font-variant-numeric: tabular-nums;
+}
+.v-d .g2-old {
+  font-size: 15px;
+  line-height: 20px;
+  color: var(--d-hint);
+  text-decoration: line-through;
+  font-variant-numeric: tabular-nums;
+}
+.v-d .g2-title {
+  margin-top: 4px;
+  font-size: 17px;
+  line-height: 22px;
+  font-weight: 400;
+  letter-spacing: -0.4px;
+  color: var(--d-text);
+}
+.v-d .g2-meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 8px;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: -0.15px;
+  color: var(--d-hint);
+}
+.v-d .g2-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+}
+.v-d .g2-opt {
+  padding: 10px 16px 12px;
+}
+.v-d .g2-opt-label {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 8px;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.2px;
+  color: var(--d-text);
+}
+.v-d .g2-opt-value {
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: var(--d-hint);
+}
+.v-d .g2-opts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.v-d .g2-after-link {
+  flex: none;
+  color: var(--d-link);
+  font-size: 17px;
+  line-height: 22px;
+  letter-spacing: -0.4px;
+}
+.v-d .g2-desc {
+  font-size: 15px;
+  line-height: 21px;
+  letter-spacing: -0.2px;
+  white-space: pre-line;
+}
+.v-d .g2-desc[data-open='false'] {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  overflow: hidden;
+}
+.v-d .g2-more {
+  height: 36px;
+  margin-bottom: -8px;
+  color: var(--d-link);
+  font-size: 15px;
+  letter-spacing: -0.2px;
+}
+.v-d .g2-spec {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
+  gap: 12px;
+  padding: 11px 16px;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.2px;
+}
+.v-d .g2-spec > :first-child {
+  color: var(--d-hint);
+}
+.v-d .g2-review {
+  padding: 12px 16px;
+}
+.v-d .g2-review-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+  line-height: 20px;
+}
+.v-d .g2-review-author {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-weight: 600;
+}
+.v-d .g2-stars {
+  display: inline-flex;
+  gap: 1px;
+  color: var(--d-c-orange);
+}
+.v-d .g2-review-date {
+  font-size: 13px;
+  color: var(--d-hint);
+}
+.v-d .g2-review-text {
+  margin-top: 4px;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.2px;
+}
+.v-d .g2-similar {
+  margin-top: 20px;
+}
+.v-d .g2-sku-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 16px 0;
+}
+.v-d .g2-sku-thumb {
+  flex: none;
+  width: 72px;
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--color-tile);
+}
+.v-d .g2-price-md {
+  font-size: 22px;
+  line-height: 28px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── Cart ────────────────────────────────────────────────────────────── */
+.v-d .g2-line {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 12px 16px 10px 6px;
+}
+.v-d .g2-line-check {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 40px;
+  height: 76px;
+  margin-right: -4px;
+}
+.v-d .g2-line-thumb {
+  flex: none;
+  width: 76px;
+  transition: opacity 160ms var(--ease-standard);
+}
+.v-d .g2-line-thumb .img-box {
+  display: block;
+  width: 76px;
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--color-tile);
+}
+.v-d .g2-line[data-off='true'] .g2-line-thumb {
+  opacity: 0.5;
+}
+.v-d .g2-line-body {
+  flex: 1;
+  min-width: 0;
+}
+.v-d .g2-line-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.2px;
+  color: var(--d-text);
+  text-decoration: none;
+}
+.v-d .g2-line-sku {
+  margin-top: 2px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: -0.08px;
+  color: var(--d-hint);
+}
+.v-d .g2-line-price {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  column-gap: 6px;
+  margin-top: 4px;
+  font-size: 17px;
+  line-height: 22px;
+  letter-spacing: -0.4px;
+  font-variant-numeric: tabular-nums;
+}
+.v-d .g2-line-price b {
+  font-weight: 600;
+}
+.v-d .g2-line-price s {
+  font-size: 13px;
+  line-height: 18px;
+  color: var(--d-hint);
+}
+.v-d .g2-line-na {
+  margin-top: 2px;
+  font-size: 13px;
+  line-height: 18px;
+  color: var(--d-destructive);
+}
+.v-d .g2-line-actions {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  margin-top: 8px;
+}
+.v-d .g2-icon-btn {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  margin: -4px 0;
+  color: var(--d-hint);
+}
+.v-d .g2-icon-btn[data-on='true'] {
+  color: var(--color-sale);
+}
+.v-d .g2-recalc {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  text-transform: none;
+}
+.v-d .g2-total .d-cell-title,
+.v-d .g2-total .d-cell-value {
+  font-weight: 600;
+  color: var(--d-text);
+}
+.v-d .g2-save {
+  color: var(--color-success);
+}
+
+/* ── Checkout ────────────────────────────────────────────────────────── */
+.v-d .g2-thumb-44 {
+  display: block;
+  width: 44px;
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--color-tile);
+}
+.v-d .g2-field {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 0 16px;
+}
+.v-d .g2-field-label {
+  flex: none;
+  font-size: 17px;
+  letter-spacing: -0.4px;
+  color: var(--d-text);
+}
+.v-d .g2-select {
+  flex: 1;
+  min-width: 0;
+  max-width: none;
+}
+.v-d .g2-prefix {
+  flex: none;
+  font-size: 17px;
+  letter-spacing: -0.4px;
+  color: var(--d-text);
+}
+.v-d .d-input[data-err='true']::placeholder {
+  color: var(--d-destructive);
+}
+.v-d .g2-promo-input {
+  text-transform: uppercase;
+}
+.v-d .g2-promo-input::placeholder {
+  text-transform: none;
+}
+.v-d .g2-text-btn {
+  flex: none;
+  height: 44px;
+  padding: 0 2px;
+  color: var(--d-link);
+  font-size: 17px;
+  letter-spacing: -0.4px;
+  white-space: nowrap;
+}
+.v-d .g2-text-btn:disabled {
+  color: var(--d-hint);
+  opacity: 0.6;
+}
+.v-d .g2-strong {
+  font-weight: 600;
+}
+
+/* ── Success ─────────────────────────────────────────────────────────── */
+.v-d .g2-success {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 36px 32px 4px;
+  text-align: center;
+}
+.v-d .g2-success-title {
+  margin-top: 24px;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+  letter-spacing: 0.1px;
+  animation-delay: 160ms;
+}
+.v-d .g2-success-text {
+  max-width: 300px;
+  margin-top: 8px;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.2px;
+  color: var(--d-hint);
+  animation-delay: 220ms;
+}
+.v-d .g2-num {
+  font-size: 15px;
+  font-weight: 700;
+}
+.v-d .g2-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  padding: 96px 32px;
+  font-size: 15px;
+  color: var(--d-hint);
+}

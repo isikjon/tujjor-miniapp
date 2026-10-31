@@ -1,0 +1,2981 @@
+[
+  {
+    "djId": 78,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Apple",
+    "title": {
+      "ru": "Ноутбук Apple MacBook Pro 14, M1 Pro, серый космос",
+      "uz": "Apple MacBook Pro 14 noutbuki, M1 Pro, toʻq kulrang"
+    },
+    "subtitle": {
+      "ru": "Чип M1 Pro · экран Liquid Retina XDR",
+      "uz": "M1 Pro chipi · Liquid Retina XDR ekran"
+    },
+    "description": {
+      "ru": "MacBook Pro 14 с чипом Apple M1 Pro рассчитан на монтаж видео, работу с графикой и программирование. Экран Liquid Retina XDR диагональю 14,2″ с частотой обновления до 120 Гц даёт высокую яркость и точную цветопередачу. Батареи хватает до 17 часов воспроизведения видео, а порты HDMI, SDXC и три Thunderbolt 4 избавляют от переходников.",
+      "uz": "Apple M1 Pro chipli MacBook Pro 14 video montaj, grafika va dasturlash uchun moʻljallangan. 14,2″ Liquid Retina XDR ekran 120 Hz gacha yangilanish chastotasida yuqori yorqinlik va aniq ranglarni beradi. Batareya 17 soatgacha video koʻrishga yetadi, HDMI, SDXC va uchta Thunderbolt 4 porti esa adapterlarsiz ishlash imkonini beradi."
+    },
+    "price": 22490000,
+    "oldPrice": null,
+    "rating": 4.5,
+    "reviews": 186,
+    "sold": 940,
+    "stock": 24,
+    "deliveryDays": [
+      10,
+      16
+    ],
+    "weightKg": 2.6,
+    "badges": [
+      "choice"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "16gb-512gb",
+            "label": {
+              "ru": "16 ГБ / SSD 512 ГБ",
+              "uz": "16 GB / SSD 512 GB"
+            },
+            "priceDelta": 0,
+            "stock": 15
+          },
+          {
+            "id": "16gb-1tb",
+            "label": {
+              "ru": "16 ГБ / SSD 1 ТБ",
+              "uz": "16 GB / SSD 1 TB"
+            },
+            "priceDelta": 2490000,
+            "stock": 9
+          }
+        ]
+      },
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "space-gray",
+            "label": {
+              "ru": "Серый космос",
+              "uz": "Toʻq kulrang"
+            },
+            "hex": "#5E5E62",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 14
+          },
+          {
+            "id": "silver",
+            "label": {
+              "ru": "Серебристый",
+              "uz": "Kumushrang"
+            },
+            "hex": "#E3E4E5",
+            "priceDelta": 0,
+            "stock": 10
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Apple M1 Pro, 8 ядер CPU",
+          "uz": "Apple M1 Pro, 8 yadroli CPU"
+        }
+      },
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "14,2″, 3024×1964, до 120 Гц",
+          "uz": "14,2″, 3024×1964, 120 Hz gacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Оперативная память",
+          "uz": "Operativ xotira"
+        },
+        "value": {
+          "ru": "16 ГБ",
+          "uz": "16 GB"
+        }
+      },
+      {
+        "name": {
+          "ru": "Накопитель",
+          "uz": "Doimiy xotira"
+        },
+        "value": {
+          "ru": "SSD 512 ГБ или 1 ТБ",
+          "uz": "SSD 512 GB yoki 1 TB"
+        }
+      },
+      {
+        "name": {
+          "ru": "Автономность",
+          "uz": "Avtonom ishlash"
+        },
+        "value": {
+          "ru": "до 17 ч воспроизведения видео",
+          "uz": "17 soatgacha video koʻrish"
+        }
+      },
+      {
+        "name": {
+          "ru": "Порты",
+          "uz": "Portlar"
+        },
+        "value": {
+          "ru": "3 × Thunderbolt 4, HDMI, слот SDXC, MagSafe 3",
+          "uz": "3 × Thunderbolt 4, HDMI, SDXC uyasi, MagSafe 3"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "1,6 кг",
+          "uz": "1,6 kg"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Jiahe Digital Technology Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.8,
+      "years": 9,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Behzod A.",
+        "rating": 5,
+        "text": {
+          "ru": "Пришёл за 13 дней, коробка запечатана, в комплекте зарядка на 67 Вт. Экран и звук отличные, батареи хватает на весь рабочий день.",
+          "uz": "13 kunda keldi, quti muhrlangan, ichida 67 W quvvatli zaryadlovchi qurilma bor. Ekran va ovoz aʼlo, batareya butun ish kuniga yetadi."
+        },
+        "date": "2026-08-21"
+      },
+      {
+        "author": "Olga S.",
+        "rating": 4,
+        "text": {
+          "ru": "Ноутбук быстрый и тихий, но русской раскладки на клавишах нет — купила наклейки.",
+          "uz": "Noutbuk tez va shovqinsiz ishlaydi, lekin tugmalarda rus harflari yoʻq — stikerlar sotib oldim."
+        },
+        "date": "2026-06-03"
+      },
+      {
+        "author": "Sardor M.",
+        "rating": 5,
+        "text": {
+          "ru": "Брал для монтажа в Final Cut — 4K-видео монтируется без подтормаживаний. Продавец ответил на все вопросы.",
+          "uz": "Final Cut dasturida montaj uchun oldim — 4K video qotmasdan ishlaydi. Sotuvchi barcha savollarga javob berdi."
+        },
+        "date": "2026-05-11"
+      }
+    ]
+  },
+  {
+    "djId": 79,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Asus",
+    "title": {
+      "ru": "Ноутбук Asus Zenbook Pro с двумя экранами, 4K OLED",
+      "uz": "Ikki ekranli Asus Zenbook Pro noutbuki, 4K OLED"
+    },
+    "subtitle": {
+      "ru": "Второй экран ScreenPad Plus · Core i7",
+      "uz": "ScreenPad Plus ikkinchi ekrani · Core i7"
+    },
+    "description": {
+      "ru": "Asus Zenbook Pro с двумя экранами рассчитан на дизайнеров, монтажёров и всех, кто работает с большим количеством окон. Над клавиатурой расположен второй сенсорный экран ScreenPad Plus: на него удобно вынести панели инструментов, таймлайн или мессенджеры. Основной 15,6-дюймовый OLED-дисплей с разрешением 4K отличается глубоким чёрным цветом и широким цветовым охватом.",
+      "uz": "Ikki ekranli Asus Zenbook Pro dizaynerlar, videomontajchilar va bir vaqtda koʻp oyna bilan ishlaydiganlar uchun moʻljallangan. Klaviatura ustida ikkinchi sensorli ScreenPad Plus ekrani joylashgan: unga asboblar panelini, taymlaynni yoki messenjerlarni chiqarish qulay. Asosiy 15,6 dyuymli 4K OLED displey chuqur qora rang va keng rang qamrovi bilan ajralib turadi."
+    },
+    "price": 18990000,
+    "oldPrice": null,
+    "rating": 4.6,
+    "reviews": 64,
+    "sold": 310,
+    "stock": 45,
+    "deliveryDays": [
+      12,
+      20
+    ],
+    "weightKg": 3.6,
+    "badges": [
+      "new"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "16gb-1tb",
+            "label": {
+              "ru": "16 ГБ / SSD 1 ТБ",
+              "uz": "16 GB / SSD 1 TB"
+            },
+            "priceDelta": 0,
+            "stock": 30
+          },
+          {
+            "id": "32gb-1tb",
+            "label": {
+              "ru": "32 ГБ / SSD 1 ТБ",
+              "uz": "32 GB / SSD 1 TB"
+            },
+            "priceDelta": 2390000,
+            "stock": 15
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Основной экран",
+          "uz": "Asosiy ekran"
+        },
+        "value": {
+          "ru": "15,6″ OLED, 3840×2160, сенсорный",
+          "uz": "15,6″ OLED, 3840×2160, sensorli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Второй экран",
+          "uz": "Ikkinchi ekran"
+        },
+        "value": {
+          "ru": "ScreenPad Plus 14″, сенсорный",
+          "uz": "ScreenPad Plus 14″, sensorli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Intel Core i7, H-серия",
+          "uz": "Intel Core i7, H seriyasi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Видеокарта",
+          "uz": "Videokarta"
+        },
+        "value": {
+          "ru": "дискретная NVIDIA GeForce RTX",
+          "uz": "diskret NVIDIA GeForce RTX"
+        }
+      },
+      {
+        "name": {
+          "ru": "Оперативная память",
+          "uz": "Operativ xotira"
+        },
+        "value": {
+          "ru": "16 или 32 ГБ",
+          "uz": "16 yoki 32 GB"
+        }
+      },
+      {
+        "name": {
+          "ru": "Накопитель",
+          "uz": "Doimiy xotira"
+        },
+        "value": {
+          "ru": "SSD 1 ТБ",
+          "uz": "SSD 1 TB"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "2,3 кг",
+          "uz": "2,3 kg"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shanghai Yuxin Computer Trading Co., Ltd.",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.7,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Jasur T.",
+        "rating": 5,
+        "text": {
+          "ru": "Второй экран реально ускоряет работу: держу на нём таймлайн Premiere. Доставка 16 дней, упаковано надёжно.",
+          "uz": "Ikkinchi ekran ishni ancha tezlashtiradi: unda Premiere taymlaynini ochib qoʻyaman. 16 kunda keldi, mustahkam qadoqlangan."
+        },
+        "date": "2026-07-11"
+      },
+      {
+        "author": "Kamola Y.",
+        "rating": 4,
+        "text": {
+          "ru": "Экран шикарный, но для поездок ноутбук тяжеловат, а под нагрузкой заметно шумит.",
+          "uz": "Ekrani juda chiroyli, lekin safarlar uchun biroz ogʻir, yuklama ostida esa sezilarli shovqin qiladi."
+        },
+        "date": "2026-09-02"
+      }
+    ]
+  },
+  {
+    "djId": 80,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Huawei",
+    "title": {
+      "ru": "Ноутбук Huawei MateBook X Pro, сенсорный экран 3K",
+      "uz": "Huawei MateBook X Pro noutbuki, sensorli 3K ekran"
+    },
+    "subtitle": {
+      "ru": "Сенсорный экран 3K · вес 1,33 кг",
+      "uz": "Sensorli 3K ekran · vazni 1,33 kg"
+    },
+    "description": {
+      "ru": "Huawei MateBook X Pro — тонкий ноутбук в металлическом корпусе для работы и учёбы в дороге. Сенсорный экран 13,9″ с разрешением 3000×2000 и соотношением сторон 3:2 занимает почти всю крышку, поэтому на нём удобно читать документы и работать с таблицами. Ноутбук весит около 1,33 кг и заряжается через USB-C.",
+      "uz": "Huawei MateBook X Pro — yoʻlda ishlash va oʻqish uchun metall korpusli yupqa noutbuk. 3000×2000 piksellik, 3:2 nisbatli 13,9″ sensorli ekran qopqoqning deyarli butun yuzasini egallaydi, shuning uchun unda hujjatlarni oʻqish va jadvallar bilan ishlash qulay. Noutbuk taxminan 1,33 kg tortadi va USB-C orqali zaryadlanadi."
+    },
+    "price": 14990000,
+    "oldPrice": null,
+    "rating": 4.9,
+    "reviews": 412,
+    "sold": 2300,
+    "stock": 75,
+    "deliveryDays": [
+      10,
+      16
+    ],
+    "weightKg": 2.3,
+    "badges": [
+      "hit"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "16gb-512gb",
+            "label": {
+              "ru": "16 ГБ / SSD 512 ГБ",
+              "uz": "16 GB / SSD 512 GB"
+            },
+            "priceDelta": 0,
+            "stock": 45
+          },
+          {
+            "id": "16gb-1tb",
+            "label": {
+              "ru": "16 ГБ / SSD 1 ТБ",
+              "uz": "16 GB / SSD 1 TB"
+            },
+            "priceDelta": 1190000,
+            "stock": 30
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "13,9″, 3000×2000, сенсорный",
+          "uz": "13,9″, 3000×2000, sensorli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Intel Core 11-го поколения",
+          "uz": "Intel Core, 11-avlod"
+        }
+      },
+      {
+        "name": {
+          "ru": "Оперативная память",
+          "uz": "Operativ xotira"
+        },
+        "value": {
+          "ru": "16 ГБ",
+          "uz": "16 GB"
+        }
+      },
+      {
+        "name": {
+          "ru": "Накопитель",
+          "uz": "Doimiy xotira"
+        },
+        "value": {
+          "ru": "SSD 512 ГБ или 1 ТБ",
+          "uz": "SSD 512 GB yoki 1 TB"
+        }
+      },
+      {
+        "name": {
+          "ru": "Разъёмы",
+          "uz": "Ulagichlar"
+        },
+        "value": {
+          "ru": "2 × USB-C, USB-A, аудио 3,5 мм",
+          "uz": "2 × USB-C, USB-A, 3,5 mm audio"
+        }
+      },
+      {
+        "name": {
+          "ru": "Корпус",
+          "uz": "Korpus"
+        },
+        "value": {
+          "ru": "алюминий",
+          "uz": "alyuminiy"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "1,33 кг",
+          "uz": "1,33 kg"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Dongguan Hengtai Electronics Co., Ltd.",
+      "city": {
+        "ru": "Дунгуань",
+        "uz": "Dunguan"
+      },
+      "rating": 4.9,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Madina K.",
+        "rating": 5,
+        "text": {
+          "ru": "Лёгкий, помещается даже в маленькую сумку. Экран яркий, клавиатура приятная. Доставили за 12 дней.",
+          "uz": "Yengil, hatto kichik sumkaga ham sigʻadi. Ekrani yorqin, klaviaturasi qulay. 12 kunda yetkazib berishdi."
+        },
+        "date": "2026-05-17"
+      },
+      {
+        "author": "Timur G.",
+        "rating": 5,
+        "text": {
+          "ru": "Месяц работаю с таблицами — формат 3:2 очень удобен. Батареи хватает на 8–9 часов.",
+          "uz": "Bir oydan beri jadvallar bilan ishlayapman — 3:2 format juda qulay. Batareya 8–9 soatga yetadi."
+        },
+        "date": "2026-03-28"
+      },
+      {
+        "author": "Shahzoda U.",
+        "rating": 4,
+        "text": {
+          "ru": "Всё отлично, но камера спрятана в клавиатуре и снимает снизу — для видеозвонков неудобно.",
+          "uz": "Hammasi aʼlo, lekin kamera klaviatura ichiga yashiringan va pastdan suratga oladi — videoqoʻngʻiroqlar uchun noqulay."
+        },
+        "date": "2026-10-04"
+      }
+    ]
+  },
+  {
+    "djId": 81,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Lenovo",
+    "title": {
+      "ru": "Ноутбук-трансформер Lenovo Yoga 920, сенсорный 13,9″",
+      "uz": "Lenovo Yoga 920 noutbuk-transformeri, sensorli 13,9″"
+    },
+    "subtitle": {
+      "ru": "Петля на 360° · сенсорный экран",
+      "uz": "360° aylanadigan sharnir · sensorli ekran"
+    },
+    "description": {
+      "ru": "Lenovo Yoga 920 — ноутбук-трансформер с петлёй на 360°: его можно использовать как обычный ноутбук, поставить «палаткой» для просмотра видео или сложить в планшет. Сенсорный экран 13,9″ поддерживает рукописный ввод пером Lenovo Active Pen 2 (продаётся отдельно). Металлический корпус и вес около 1,4 кг удобны для поездок.",
+      "uz": "Lenovo Yoga 920 — 360° aylanadigan sharnirli noutbuk-transformer: uni oddiy noutbuk sifatida ishlatish, video koʻrish uchun «chodir» shaklida qoʻyish yoki planshetga aylantirish mumkin. 13,9″ sensorli ekran Lenovo Active Pen 2 qalami bilan qoʻlda yozishni qoʻllab-quvvatlaydi (qalam alohida sotiladi). Metall korpus va taxminan 1,4 kg vazn safarlar uchun qulay."
+    },
+    "price": 10490000,
+    "oldPrice": null,
+    "rating": 4.2,
+    "reviews": 38,
+    "sold": 170,
+    "stock": 40,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 2.4,
+    "badges": [],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "8gb-256gb",
+            "label": {
+              "ru": "8 ГБ / SSD 256 ГБ",
+              "uz": "8 GB / SSD 256 GB"
+            },
+            "priceDelta": 0,
+            "stock": 22
+          },
+          {
+            "id": "16gb-512gb",
+            "label": {
+              "ru": "16 ГБ / SSD 512 ГБ",
+              "uz": "16 GB / SSD 512 GB"
+            },
+            "priceDelta": 1490000,
+            "stock": 18
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "13,9″, Full HD, сенсорный",
+          "uz": "13,9″, Full HD, sensorli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Intel Core i7 8-го поколения",
+          "uz": "Intel Core i7, 8-avlod"
+        }
+      },
+      {
+        "name": {
+          "ru": "Оперативная память",
+          "uz": "Operativ xotira"
+        },
+        "value": {
+          "ru": "8 или 16 ГБ",
+          "uz": "8 yoki 16 GB"
+        }
+      },
+      {
+        "name": {
+          "ru": "Накопитель",
+          "uz": "Doimiy xotira"
+        },
+        "value": {
+          "ru": "SSD 256 или 512 ГБ",
+          "uz": "SSD 256 yoki 512 GB"
+        }
+      },
+      {
+        "name": {
+          "ru": "Режимы",
+          "uz": "Rejimlar"
+        },
+        "value": {
+          "ru": "ноутбук, палатка, подставка, планшет",
+          "uz": "noutbuk, chodir, tayanch, planshet"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "1,37 кг",
+          "uz": "1,37 kg"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Hangzhou Boyuan Computer Co., Ltd.",
+      "city": {
+        "ru": "Ханчжоу",
+        "uz": "Xanchjou"
+      },
+      "rating": 4.5,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Rustam B.",
+        "rating": 4,
+        "text": {
+          "ru": "В режиме палатки удобно смотреть фильмы. Батарея держит около 7 часов. Доставка заняла 17 дней.",
+          "uz": "Chodir rejimida film koʻrish qulay. Batareya taxminan 7 soat ishlaydi. Yetkazib berish 17 kun davom etdi."
+        },
+        "date": "2026-04-09"
+      },
+      {
+        "author": "Natalya P.",
+        "rating": 4,
+        "text": {
+          "ru": "Хороший вариант для учёбы, экран чёткий. Перо пришлось докупать отдельно.",
+          "uz": "Oʻqish uchun yaxshi variant, ekrani tiniq. Qalamni alohida sotib olishga toʻgʻri keldi."
+        },
+        "date": "2026-02-15"
+      }
+    ]
+  },
+  {
+    "djId": 82,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Dell",
+    "title": {
+      "ru": "Ноутбук Dell XPS 13 9300, 13,4″ InfinityEdge, 16 ГБ",
+      "uz": "Dell XPS 13 9300 noutbuki, 13,4″ InfinityEdge, 16 GB"
+    },
+    "subtitle": {
+      "ru": "Тонкие рамки InfinityEdge · 1,2 кг",
+      "uz": "Ingichka InfinityEdge ramkalari · 1,2 kg"
+    },
+    "description": {
+      "ru": "Dell XPS 13 9300 — компактный ноутбук в алюминиевом корпусе с экраном InfinityEdge почти без рамок. Дисплей 13,4″ с соотношением сторон 16:10 вмещает больше строк текста, чем привычные экраны 16:9. Процессор Intel Core i7 10-го поколения и 16 ГБ памяти подойдут для офисных задач, учёбы и несложной обработки фото.",
+      "uz": "Dell XPS 13 9300 — deyarli ramkasiz InfinityEdge ekranli, alyuminiy korpusdagi ixcham noutbuk. 16:10 nisbatli 13,4″ displeyga odatiy 16:9 ekranlarga qaraganda koʻproq matn qatori sigʻadi. 10-avlod Intel Core i7 protsessori va 16 GB xotira ofis vazifalari, oʻqish va oddiy foto tahriri uchun yetarli."
+    },
+    "price": 14490000,
+    "oldPrice": 16490000,
+    "rating": 4.2,
+    "reviews": 97,
+    "sold": 520,
+    "stock": 74,
+    "deliveryDays": [
+      11,
+      17
+    ],
+    "weightKg": 2.1,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "16gb-512gb",
+            "label": {
+              "ru": "16 ГБ / SSD 512 ГБ",
+              "uz": "16 GB / SSD 512 GB"
+            },
+            "priceDelta": 0,
+            "stock": 48
+          },
+          {
+            "id": "16gb-1tb",
+            "label": {
+              "ru": "16 ГБ / SSD 1 ТБ",
+              "uz": "16 GB / SSD 1 TB"
+            },
+            "priceDelta": 1290000,
+            "stock": 26
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "13,4″ FHD+, 1920×1200, антибликовый",
+          "uz": "13,4″ FHD+, 1920×1200, antiblik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Intel Core i7 10-го поколения",
+          "uz": "Intel Core i7, 10-avlod"
+        }
+      },
+      {
+        "name": {
+          "ru": "Оперативная память",
+          "uz": "Operativ xotira"
+        },
+        "value": {
+          "ru": "16 ГБ LPDDR4x",
+          "uz": "16 GB LPDDR4x"
+        }
+      },
+      {
+        "name": {
+          "ru": "Накопитель",
+          "uz": "Doimiy xotira"
+        },
+        "value": {
+          "ru": "SSD 512 ГБ или 1 ТБ",
+          "uz": "SSD 512 GB yoki 1 TB"
+        }
+      },
+      {
+        "name": {
+          "ru": "Разъёмы",
+          "uz": "Ulagichlar"
+        },
+        "value": {
+          "ru": "2 × Thunderbolt 3, слот microSD",
+          "uz": "2 × Thunderbolt 3, microSD uyasi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "1,2 кг",
+          "uz": "1,2 kg"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Kaida Computer Technology Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.6,
+      "years": 7,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Aziz N.",
+        "rating": 4,
+        "text": {
+          "ru": "Лёгкий и тихий, экран отличный. Но разъёмов всего два, пришлось купить хаб.",
+          "uz": "Yengil va shovqinsiz, ekrani aʼlo. Lekin faqat ikkita port bor, hab sotib olishga toʻgʻri keldi."
+        },
+        "date": "2026-06-22"
+      },
+      {
+        "author": "Elena V.",
+        "rating": 5,
+        "text": {
+          "ru": "Брала со скидкой, пришёл за 14 дней в заводской коробке. Для работы с документами — идеально.",
+          "uz": "Chegirmada oldim, 14 kunda zavod qutisida keldi. Hujjatlar bilan ishlash uchun ideal."
+        },
+        "date": "2026-09-19"
+      },
+      {
+        "author": "Bobur Q.",
+        "rating": 3,
+        "text": {
+          "ru": "Ноутбук хороший, но под нагрузкой заметно греется и громко включается вентилятор.",
+          "uz": "Noutbuk yaxshi, lekin yuklama ostida sezilarli darajada qiziydi va ventilyator baland ovozda ishlaydi."
+        },
+        "date": "2026-07-30"
+      }
+    ]
+  },
+  {
+    "djId": 99,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Amazon",
+    "title": {
+      "ru": "Умная колонка Amazon Echo Plus с Alexa и хабом Zigbee",
+      "uz": "Amazon Echo Plus aqlli kolonkasi, Alexa va Zigbee habi bilan"
+    },
+    "subtitle": {
+      "ru": "Голосовой помощник Alexa · хаб Zigbee",
+      "uz": "Alexa ovozli yordamchisi · Zigbee hab"
+    },
+    "description": {
+      "ru": "Amazon Echo Plus — умная колонка со встроенным голосовым помощником Alexa и хабом Zigbee: лампами, розетками и датчиками умного дома можно управлять без отдельного шлюза. Динамик с низкочастотным излучателем даёт объёмный звук для музыки и подкастов, есть подключение по Bluetooth и линейный выход 3,5 мм. Обратите внимание: Alexa понимает голосовые команды на английском языке.",
+      "uz": "Amazon Echo Plus — Alexa ovozli yordamchisi va Zigbee habi oʻrnatilgan aqlli kolonka: aqlli uydagi lampalar, rozetkalar va datchiklarni alohida shlyuzsiz boshqarish mumkin. Past chastotali dinamik musiqa va podkastlar uchun hajmli ovoz beradi, Bluetooth orqali ulanish va 3,5 mm chiziqli chiqish ham bor. Eʼtibor bering: Alexa ovozli buyruqlarni ingliz tilida tushunadi."
+    },
+    "price": 1049000,
+    "oldPrice": null,
+    "rating": 4.9,
+    "reviews": 268,
+    "sold": 1450,
+    "stock": 61,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 1.3,
+    "badges": [],
+    "imageIdx": [
+      0,
+      1
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Голосовой помощник",
+          "uz": "Ovozli yordamchi"
+        },
+        "value": {
+          "ru": "Alexa (английский язык)",
+          "uz": "Alexa (ingliz tili)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Умный дом",
+          "uz": "Aqlli uy"
+        },
+        "value": {
+          "ru": "встроенный хаб Zigbee",
+          "uz": "oʻrnatilgan Zigbee hab"
+        }
+      },
+      {
+        "name": {
+          "ru": "Динамики",
+          "uz": "Dinamiklar"
+        },
+        "value": {
+          "ru": "вуфер 3″ и твитер 0,8″",
+          "uz": "3″ vufer va 0,8″ tviter"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подключение",
+          "uz": "Ulanish"
+        },
+        "value": {
+          "ru": "Wi-Fi, Bluetooth, аудио 3,5 мм",
+          "uz": "Wi-Fi, Bluetooth, 3,5 mm audio"
+        }
+      },
+      {
+        "name": {
+          "ru": "Встроенный датчик",
+          "uz": "Oʻrnatilgan datchik"
+        },
+        "value": {
+          "ru": "температуры",
+          "uz": "harorat"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Shengyin Audio Technology Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.6,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sherzod E.",
+        "rating": 5,
+        "text": {
+          "ru": "Для своего размера звучит очень достойно. Подключил умные лампы по Zigbee без отдельного шлюза.",
+          "uz": "Oʻz oʻlchamiga nisbatan juda yaxshi ovoz beradi. Aqlli lampalarni Zigbee orqali alohida shlyuzsiz uladim."
+        },
+        "date": "2026-05-06"
+      },
+      {
+        "author": "Lola M.",
+        "rating": 4,
+        "text": {
+          "ru": "Колонка отличная, но Alexa понимает только по-английски. Для музыки по Bluetooth — супер.",
+          "uz": "Kolonka zoʻr, lekin Alexa faqat inglizcha tushunadi. Bluetooth orqali musiqa tinglash uchun juda yaxshi."
+        },
+        "date": "2026-08-12"
+      }
+    ]
+  },
+  {
+    "djId": 100,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Apple",
+    "title": {
+      "ru": "Беспроводные наушники Apple AirPods с зарядным футляром",
+      "uz": "Apple AirPods simsiz quloqchinlari, zaryadlovchi gʻilof bilan"
+    },
+    "subtitle": {
+      "ru": "Быстрое подключение · до 24 ч с футляром",
+      "uz": "Tez ulanish · gʻilof bilan 24 soatgacha"
+    },
+    "description": {
+      "ru": "Apple AirPods подключаются к iPhone в одно касание: достаточно открыть футляр рядом с телефоном. Наушники ставят музыку на паузу, когда вы вынимаете их из уха, а Siri можно вызвать голосом. На одном заряде они работают до 5 часов, а с зарядным футляром — более 24 часов.",
+      "uz": "Apple AirPods iPhone bilan bir teginishda ulanadi: buning uchun gʻilofni telefon yonida ochish kifoya. Quloqchinni quloqdan chiqarganingizda musiqa avtomatik toʻxtaydi, Siri esa ovoz bilan chaqiriladi. Bir marta quvvatlanganda 5 soatgacha, zaryadlovchi gʻilof bilan esa 24 soatdan ortiq ishlaydi."
+    },
+    "price": 1390000,
+    "oldPrice": 1649000,
+    "rating": 4.6,
+    "reviews": 2140,
+    "sold": 11800,
+    "stock": 67,
+    "deliveryDays": [
+      10,
+      16
+    ],
+    "weightKg": 0.2,
+    "badges": [
+      "hit",
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Футляр",
+          "uz": "Gʻilof"
+        },
+        "values": [
+          {
+            "id": "charging-case",
+            "label": {
+              "ru": "Зарядный футляр",
+              "uz": "Zaryadlovchi gʻilof"
+            },
+            "priceDelta": 0,
+            "stock": 42
+          },
+          {
+            "id": "wireless-case",
+            "label": {
+              "ru": "Беспроводной футляр",
+              "uz": "Simsiz zaryadlovchi gʻilof"
+            },
+            "priceDelta": 249000,
+            "stock": 25
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "беспроводные вкладыши",
+          "uz": "simsiz, quloqqa qoʻyiladigan"
+        }
+      },
+      {
+        "name": {
+          "ru": "Время работы",
+          "uz": "Ishlash vaqti"
+        },
+        "value": {
+          "ru": "до 5 ч, с футляром — более 24 ч",
+          "uz": "5 soatgacha, gʻilof bilan 24 soatdan ortiq"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подключение",
+          "uz": "Ulanish"
+        },
+        "value": {
+          "ru": "Bluetooth 5.0, вызов Siri голосом",
+          "uz": "Bluetooth 5.0, Siri ovoz bilan chaqiriladi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Зарядка футляра",
+          "uz": "Gʻilofni zaryadlash"
+        },
+        "value": {
+          "ru": "разъём Lightning",
+          "uz": "Lightning ulagichi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Совместимость",
+          "uz": "Mosligi"
+        },
+        "value": {
+          "ru": "iPhone, iPad, Mac, Android по Bluetooth",
+          "uz": "iPhone, iPad, Mac, Bluetooth orqali Android"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Yuetong Electronics Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.8,
+      "years": 11,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Dilnoza R.",
+        "rating": 5,
+        "text": {
+          "ru": "Оригинал, серийный номер проверила на сайте Apple. Пришли за 11 дней, коробка целая.",
+          "uz": "Original, seriya raqamini Apple saytida tekshirdim. 11 kunda keldi, qutisi butun."
+        },
+        "date": "2026-09-08"
+      },
+      {
+        "author": "Akmal F.",
+        "rating": 5,
+        "text": {
+          "ru": "Звук чистый, к iPhone подключаются моментально. Брал с беспроводным футляром — заряжаю на станции.",
+          "uz": "Ovozi tiniq, iPhone bilan bir zumda ulanadi. Simsiz gʻilofli variantini oldim — stansiyada zaryadlayman."
+        },
+        "date": "2026-06-14"
+      },
+      {
+        "author": "Zarina O.",
+        "rating": 4,
+        "text": {
+          "ru": "Сидят удобно, но при беге немного выпадают. За эту цену — хорошая покупка.",
+          "uz": "Quloqda qulay turadi, lekin yugurganda biroz tushib ketadi. Bu narxga yaxshi xarid."
+        },
+        "date": "2026-04-26"
+      }
+    ]
+  },
+  {
+    "djId": 101,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Apple",
+    "title": {
+      "ru": "Полноразмерные наушники Apple AirPods Max, серебристые",
+      "uz": "Apple AirPods Max simsiz quloqchinlari, kumushrang"
+    },
+    "subtitle": {
+      "ru": "Шумоподавление · 20 ч работы",
+      "uz": "Shovqinni bostirish · 20 soat ishlaydi"
+    },
+    "description": {
+      "ru": "Apple AirPods Max — полноразмерные беспроводные наушники с активным шумоподавлением, режимом прозрачности и адаптивным эквалайзером, который подстраивает звук под посадку амбушюр. Пространственное аудио с отслеживанием движений головы создаёт эффект кинотеатра. Оголовье из сетчатой ткани и амбушюры с эффектом памяти равномерно распределяют вес, а заряда хватает до 20 часов.",
+      "uz": "Apple AirPods Max — faol shovqinni bostirish, shaffoflik rejimi va adaptiv ekvalayzerga ega toʻliq oʻlchamli simsiz quloqchinlar; ekvalayzer ovozni yostiqchalarning quloqqa qanday oʻrnashganiga moslaydi. Bosh harakatlarini kuzatuvchi fazoviy audio kinoteatr effektini yaratadi. Toʻrsimon matoli bosh kamari va xotira effektli yostiqchalar ogʻirlikni teng taqsimlaydi, quvvat esa 20 soatgacha yetadi."
+    },
+    "price": 5890000,
+    "oldPrice": null,
+    "rating": 4.4,
+    "reviews": 356,
+    "sold": 1700,
+    "stock": 59,
+    "deliveryDays": [
+      10,
+      16
+    ],
+    "weightKg": 0.9,
+    "badges": [
+      "new"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "silver",
+            "label": {
+              "ru": "Серебристый",
+              "uz": "Kumushrang"
+            },
+            "hex": "#E3E4E6",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 21
+          },
+          {
+            "id": "space-gray",
+            "label": {
+              "ru": "Серый космос",
+              "uz": "Toʻq kulrang"
+            },
+            "hex": "#4B4C50",
+            "priceDelta": 0,
+            "stock": 16
+          },
+          {
+            "id": "sky-blue",
+            "label": {
+              "ru": "Небесно-голубой",
+              "uz": "Havorang"
+            },
+            "hex": "#C5D8E3",
+            "priceDelta": 0,
+            "stock": 9
+          },
+          {
+            "id": "pink",
+            "label": {
+              "ru": "Розовый",
+              "uz": "Pushti"
+            },
+            "hex": "#F2CFC4",
+            "priceDelta": 0,
+            "stock": 7
+          },
+          {
+            "id": "green",
+            "label": {
+              "ru": "Зелёный",
+              "uz": "Yashil"
+            },
+            "hex": "#C9D8C0",
+            "priceDelta": 0,
+            "stock": 6
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "полноразмерные, беспроводные",
+          "uz": "toʻliq oʻlchamli, simsiz"
+        }
+      },
+      {
+        "name": {
+          "ru": "Шумоподавление",
+          "uz": "Shovqinni bostirish"
+        },
+        "value": {
+          "ru": "активное, режим прозрачности",
+          "uz": "faol, shaffoflik rejimi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Время работы",
+          "uz": "Ishlash vaqti"
+        },
+        "value": {
+          "ru": "до 20 ч",
+          "uz": "20 soatgacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Зарядка",
+          "uz": "Zaryadlash"
+        },
+        "value": {
+          "ru": "разъём Lightning",
+          "uz": "Lightning ulagichi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "384,8 г",
+          "uz": "384,8 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "В комплекте",
+          "uz": "Toʻplamda"
+        },
+        "value": {
+          "ru": "чехол Smart Case, кабель Lightning – USB-C",
+          "uz": "Smart Case gʻilofi, Lightning – USB-C kabeli"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Tianyu Acoustic Technology Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.7,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Malika H.",
+        "rating": 5,
+        "text": {
+          "ru": "Шумоподавление отличное, в метро почти ничего не слышно. Пришли за 14 дней в целой коробке.",
+          "uz": "Shovqinni bostirish aʼlo, metroda deyarli hech narsa eshitilmaydi. 14 kunda butun qutida keldi."
+        },
+        "date": "2026-07-03"
+      },
+      {
+        "author": "Javohir N.",
+        "rating": 4,
+        "text": {
+          "ru": "Звук топовый, но наушники тяжеловаты: через пару часов устаёт шея.",
+          "uz": "Ovozi zoʻr, lekin quloqchinlar biroz ogʻir: bir-ikki soatdan keyin boʻyin charchaydi."
+        },
+        "date": "2026-08-27"
+      }
+    ]
+  },
+  {
+    "djId": 102,
+    "categoryId": "electronics",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Беспроводная зарядка 3 в 1 для iPhone, AirPods и Apple Watch",
+      "uz": "iPhone, AirPods va Apple Watch uchun 3 in 1 simsiz zaryadlovchi"
+    },
+    "subtitle": {
+      "ru": "Три устройства сразу · до 15 Вт",
+      "uz": "Uchta qurilma bir vaqtda · 15 W gacha"
+    },
+    "description": {
+      "ru": "Зарядная станция-коврик заряжает одновременно смартфон, наушники и часы: достаточно положить устройства на поверхность. Поддерживает стандарт Qi и подходит для iPhone 8 и новее и AirPods с беспроводным футляром, а для Apple Watch предусмотрена отдельная зона. Прорезиненное основание не скользит по столу, а приглушённый индикатор не мешает спать.",
+      "uz": "Gilamcha shaklidagi zaryadlash stansiyasi smartfon, quloqchin va soatni bir vaqtda zaryadlaydi: qurilmalarni ustiga qoʻyish kifoya. Qi standartini qoʻllab-quvvatlaydi, iPhone 8 va undan yangi modellar hamda simsiz gʻilofli AirPods uchun mos, Apple Watch uchun esa alohida joy ajratilgan. Rezinali asos stolda sirpanmaydi, xira indikator esa uxlashga xalaqit bermaydi."
+    },
+    "price": 549000,
+    "oldPrice": null,
+    "rating": 4.5,
+    "reviews": 47,
+    "sold": 380,
+    "stock": 640,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 0.6,
+    "badges": [
+      "new",
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "white",
+            "label": {
+              "ru": "Белый",
+              "uz": "Oq"
+            },
+            "hex": "#F2F2F2",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 420
+          },
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "priceDelta": 0,
+            "stock": 220
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Стандарт",
+          "uz": "Standart"
+        },
+        "value": {
+          "ru": "Qi, индукционная зарядка",
+          "uz": "Qi, induksion zaryadlash"
+        }
+      },
+      {
+        "name": {
+          "ru": "Мощность",
+          "uz": "Quvvati"
+        },
+        "value": {
+          "ru": "до 15 Вт",
+          "uz": "15 W gacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Устройств одновременно",
+          "uz": "Bir vaqtda qurilmalar soni"
+        },
+        "value": {
+          "ru": "3",
+          "uz": "3"
+        }
+      },
+      {
+        "name": {
+          "ru": "Питание",
+          "uz": "Quvvat manbai"
+        },
+        "value": {
+          "ru": "USB-C, адаптер 18 Вт в комплекте",
+          "uz": "USB-C, 18 W adapter toʻplamda"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Material"
+        },
+        "value": {
+          "ru": "пластик, силикон",
+          "uz": "plastik, silikon"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Dongguan Qilong Electronic Technology Co., Ltd.",
+      "city": {
+        "ru": "Дунгуань",
+        "uz": "Dunguan"
+      },
+      "rating": 4.6,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Gulnora Z.",
+        "rating": 4,
+        "text": {
+          "ru": "Заряжает телефон, часы и наушники одновременно, на тумбочке очень удобно. Доставка 20 дней.",
+          "uz": "Telefon, soat va quloqchinni bir vaqtda zaryadlaydi, tumbochkada juda qulay. Yetkazib berish 20 kun."
+        },
+        "date": "2026-10-11"
+      },
+      {
+        "author": "Islom R.",
+        "rating": 5,
+        "text": {
+          "ru": "Брал белую, выглядит аккуратно. Телефон в тонком чехле заряжается без проблем.",
+          "uz": "Oq rangini oldim, ixcham koʻrinadi. Ingichka gʻilofdagi telefon muammosiz zaryadlanadi."
+        },
+        "date": "2026-09-25"
+      }
+    ]
+  },
+  {
+    "djId": 103,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Apple",
+    "title": {
+      "ru": "Умная колонка Apple HomePod mini, серый космос",
+      "uz": "Apple HomePod mini aqlli kolonkasi, toʻq kulrang"
+    },
+    "subtitle": {
+      "ru": "Звук 360° · Siri · умный дом",
+      "uz": "360° ovoz · Siri · aqlli uy"
+    },
+    "description": {
+      "ru": "Apple HomePod mini — компактная колонка высотой 8,4 см с круговым звуком 360°. Siri помогает включать музыку, ставить таймеры и управлять устройствами умного дома, а функция «Интерком» передаёт голосовые сообщения на другие колонки HomePod в доме. Две колонки можно объединить в стереопару.",
+      "uz": "Apple HomePod mini — balandligi 8,4 sm boʻlgan, 360° aylana ovoz beruvchi ixcham kolonka. Siri yordamida musiqa qoʻyish, taymer oʻrnatish va aqlli uy qurilmalarini boshqarish mumkin, «Interkom» funksiyasi esa uydagi boshqa HomePod kolonkalariga ovozli xabar yuboradi. Ikkita kolonkani stereojuftlikka birlashtirish ham mumkin."
+    },
+    "price": 1090000,
+    "oldPrice": 1329000,
+    "rating": 4.8,
+    "reviews": 1126,
+    "sold": 6300,
+    "stock": 27,
+    "deliveryDays": [
+      11,
+      17
+    ],
+    "weightKg": 0.7,
+    "badges": [
+      "choice",
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "space-gray",
+            "label": {
+              "ru": "Серый космос",
+              "uz": "Toʻq kulrang"
+            },
+            "hex": "#4A4A4E",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 9
+          },
+          {
+            "id": "white",
+            "label": {
+              "ru": "Белый",
+              "uz": "Oq"
+            },
+            "hex": "#F1F1F1",
+            "priceDelta": 0,
+            "stock": 8
+          },
+          {
+            "id": "yellow",
+            "label": {
+              "ru": "Жёлтый",
+              "uz": "Sariq"
+            },
+            "hex": "#F6D46A",
+            "priceDelta": 0,
+            "stock": 4
+          },
+          {
+            "id": "orange",
+            "label": {
+              "ru": "Оранжевый",
+              "uz": "Toʻq sariq"
+            },
+            "hex": "#F3954F",
+            "priceDelta": 0,
+            "stock": 3
+          },
+          {
+            "id": "blue",
+            "label": {
+              "ru": "Синий",
+              "uz": "Koʻk"
+            },
+            "hex": "#2F5F8A",
+            "priceDelta": 0,
+            "stock": 3
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Звук",
+          "uz": "Ovoz"
+        },
+        "value": {
+          "ru": "круговой, 360°",
+          "uz": "aylana, 360°"
+        }
+      },
+      {
+        "name": {
+          "ru": "Голосовой помощник",
+          "uz": "Ovozli yordamchi"
+        },
+        "value": {
+          "ru": "Siri, функция «Интерком»",
+          "uz": "Siri, «Interkom» funksiyasi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подключение",
+          "uz": "Ulanish"
+        },
+        "value": {
+          "ru": "Wi-Fi, Bluetooth 5.0, протокол Thread",
+          "uz": "Wi-Fi, Bluetooth 5.0, Thread protokoli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Размеры",
+          "uz": "Oʻlchamlari"
+        },
+        "value": {
+          "ru": "8,4 × 9,8 см",
+          "uz": "8,4 × 9,8 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "345 г",
+          "uz": "345 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "Питание",
+          "uz": "Quvvat manbai"
+        },
+        "value": {
+          "ru": "адаптер USB-C 20 Вт в комплекте",
+          "uz": "20 W USB-C adapter toʻplamda"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Lingsheng Smart Home Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.8,
+      "years": 7,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nigora X.",
+        "rating": 5,
+        "text": {
+          "ru": "Маленькая, а звучит громко и чисто. Пришла за 15 дней, адаптер в комплекте.",
+          "uz": "Kichkina, lekin baland va tiniq ovoz beradi. 15 kunda keldi, adapter toʻplamda bor."
+        },
+        "date": "2026-03-14"
+      },
+      {
+        "author": "Dmitriy K.",
+        "rating": 4,
+        "text": {
+          "ru": "Взял две и объединил в стерео — для кухни отлично. Siri иногда понимает не с первого раза.",
+          "uz": "Ikkitasini olib, stereoga birlashtirdim — oshxona uchun aʼlo. Siri baʼzan birinchi martada tushunmaydi."
+        },
+        "date": "2026-07-19"
+      }
+    ]
+  },
+  {
+    "djId": 104,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Apple",
+    "title": {
+      "ru": "Сетевое зарядное устройство Apple USB-C, 20 Вт",
+      "uz": "Apple USB-C tarmoq zaryadlovchi qurilmasi, 20 W"
+    },
+    "subtitle": {
+      "ru": "Быстрая зарядка iPhone · порт USB-C",
+      "uz": "iPhone uchun tezkor zaryadlash · USB-C"
+    },
+    "description": {
+      "ru": "Компактный адаптер питания Apple мощностью 20 Вт с портом USB-C для быстрой зарядки iPhone. С кабелем USB-C – Lightning iPhone 8 и более новые модели заряжаются примерно до 50% за 30 минут, а с кабелем USB-C адаптер подходит и для iPhone 15 и новее. Им также можно заряжать iPad и AirPods.",
+      "uz": "USB-C portli, 20 W quvvatli ixcham Apple adapteri iPhone smartfonlarini tez zaryadlash uchun moʻljallangan. USB-C – Lightning kabeli bilan iPhone 8 va undan yangi modellar taxminan 30 daqiqada 50% gacha zaryadlanadi, USB-C kabeli bilan esa adapter iPhone 15 va yangi modellarga ham mos keladi. U bilan iPad va AirPods qurilmalarini ham zaryadlash mumkin."
+    },
+    "price": 219000,
+    "oldPrice": 269000,
+    "rating": 4.6,
+    "reviews": 3480,
+    "sold": 21500,
+    "stock": 310,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.15,
+    "badges": [
+      "hit",
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплектация",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "adapter",
+            "label": {
+              "ru": "Только адаптер",
+              "uz": "Faqat adapter"
+            },
+            "priceDelta": 0,
+            "stock": 190
+          },
+          {
+            "id": "adapter-cable",
+            "label": {
+              "ru": "Адаптер + кабель 1 м",
+              "uz": "Adapter + 1 m kabel"
+            },
+            "priceDelta": 149000,
+            "stock": 120
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Мощность",
+          "uz": "Quvvati"
+        },
+        "value": {
+          "ru": "20 Вт",
+          "uz": "20 W"
+        }
+      },
+      {
+        "name": {
+          "ru": "Разъём",
+          "uz": "Ulagich"
+        },
+        "value": {
+          "ru": "один порт USB-C",
+          "uz": "bitta USB-C port"
+        }
+      },
+      {
+        "name": {
+          "ru": "Быстрая зарядка",
+          "uz": "Tezkor zaryadlash"
+        },
+        "value": {
+          "ru": "до 50% за 30 мин (iPhone 8 и новее)",
+          "uz": "30 daqiqada 50% gacha (iPhone 8 va yangi)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Совместимость",
+          "uz": "Mosligi"
+        },
+        "value": {
+          "ru": "iPhone, iPad, AirPods и другие",
+          "uz": "iPhone, iPad, AirPods va boshqalar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вилка",
+          "uz": "Vilka turi"
+        },
+        "value": {
+          "ru": "европейская (тип C)",
+          "uz": "Yevropa (C turi)"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Anxun Power Technology Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.7,
+      "years": 10,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sardor M.",
+        "rating": 5,
+        "text": {
+          "ru": "Оригинальный, iPhone 13 за полчаса заряжается примерно до 50%. Упаковка фирменная.",
+          "uz": "Original ekan, iPhone 13 yarim soatda taxminan 50% gacha zaryadlanadi. Qadoqi asl Apple qadoqi."
+        },
+        "date": "2026-08-16"
+      },
+      {
+        "author": "Feruza S.",
+        "rating": 4,
+        "text": {
+          "ru": "Заряжает быстро, не греется. Кабель брала отдельно — с адаптером его нет.",
+          "uz": "Tez zaryadlaydi, qizimaydi. Kabelni alohida oldim — adapter bilan birga kelmaydi."
+        },
+        "date": "2026-02-07"
+      },
+      {
+        "author": "Otabek J.",
+        "rating": 5,
+        "text": {
+          "ru": "Взял сразу три штуки для всей семьи, все рабочие. Доставка 16 дней.",
+          "uz": "Butun oila uchun uchta oldim, hammasi ishlayapti. Yetkazib berish 16 kun."
+        },
+        "date": "2026-05-29"
+      }
+    ]
+  },
+  {
+    "djId": 105,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Apple",
+    "title": {
+      "ru": "Внешний аккумулятор Apple MagSafe Battery Pack, белый",
+      "uz": "Apple MagSafe Battery Pack tashqi akkumulyatori, oq"
+    },
+    "subtitle": {
+      "ru": "Магнитное крепление · зарядка в пути",
+      "uz": "Magnitli mahkamlash · yoʻlda zaryadlash"
+    },
+    "description": {
+      "ru": "Apple MagSafe Battery Pack крепится магнитом к задней панели iPhone 12 и новее и подзаряжает телефон в течение дня. Уровень заряда аккумулятора виден в виджете «Элементы питания» на iPhone. Заряжать его можно прямо на телефоне через разъём Lightning, а при подключении адаптера от 20 Вт iPhone заряжается мощностью до 15 Вт.",
+      "uz": "Apple MagSafe Battery Pack magnit yordamida iPhone 12 va undan yangi modellarning orqa paneliga yopishadi va telefonni kun davomida quvvatlab turadi. Akkumulyator zaryadi darajasini iPhone ekranidagi «Batareyalar» vidjetida kuzatish mumkin. Uni telefonga oʻrnatilgan holda Lightning ulagichi orqali zaryadlasa boʻladi, 20 W va undan kuchli adapter ulanganda esa iPhone 15 W gacha quvvat bilan zaryadlanadi."
+    },
+    "price": 989000,
+    "oldPrice": 1190000,
+    "rating": 4.5,
+    "reviews": 152,
+    "sold": 870,
+    "stock": 9,
+    "deliveryDays": [
+      10,
+      16
+    ],
+    "weightKg": 0.25,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Ёмкость",
+          "uz": "Sigʻimi"
+        },
+        "value": {
+          "ru": "1460 мАч",
+          "uz": "1460 mAh"
+        }
+      },
+      {
+        "name": {
+          "ru": "Беспроводная зарядка",
+          "uz": "Simsiz zaryadlash"
+        },
+        "value": {
+          "ru": "до 7,5 Вт, до 15 Вт от адаптера 20 Вт",
+          "uz": "7,5 W gacha, 20 W adapterdan 15 W gacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Зарядка аккумулятора",
+          "uz": "Akkumulyatorni zaryadlash"
+        },
+        "value": {
+          "ru": "через разъём Lightning",
+          "uz": "Lightning ulagichi orqali"
+        }
+      },
+      {
+        "name": {
+          "ru": "Совместимость",
+          "uz": "Mosligi"
+        },
+        "value": {
+          "ru": "iPhone 12 и новее с MagSafe",
+          "uz": "MagSafe qoʻllab-quvvatlaydigan iPhone 12 va yangi modellar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "114 г",
+          "uz": "114 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "value": {
+          "ru": "белый",
+          "uz": "oq"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Ningbo Haitong Electronics Co., Ltd.",
+      "city": {
+        "ru": "Нинбо",
+        "uz": "Ningbo"
+      },
+      "rating": 4.5,
+      "years": 4,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Anvar D.",
+        "rating": 4,
+        "text": {
+          "ru": "На магните держится крепко, но ёмкости хватает примерно на 60–70% заряда iPhone 13.",
+          "uz": "Magnitda mahkam turadi, lekin sigʻimi telefonni taxminan 60–70% gacha zaryadlashga yetadi."
+        },
+        "date": "2026-01-23"
+      },
+      {
+        "author": "Sevara I.",
+        "rating": 5,
+        "text": {
+          "ru": "Удобно в поездках: прицепила и забыла. Пришёл за 12 дней в оригинальной упаковке.",
+          "uz": "Safarda qulay: yopishtirdim-u unutdim. 12 kunda asl qadoqda keldi."
+        },
+        "date": "2026-08-05"
+      }
+    ]
+  },
+  {
+    "djId": 106,
+    "categoryId": "watches",
+    "source": "poizon",
+    "brand": "Apple",
+    "title": {
+      "ru": "Умные часы Apple Watch Series 4, золотой алюминий",
+      "uz": "Apple Watch Series 4 aqlli soati, oltin rang"
+    },
+    "subtitle": {
+      "ru": "ЭКГ и пульс · проверка подлинности POIZON",
+      "uz": "EKG va puls · POIZON asllik tekshiruvi"
+    },
+    "description": {
+      "ru": "Оригинальные Apple Watch Series 4 в корпусе из золотого алюминия. Часы измеряют пульс, снимают ЭКГ, распознают падения и считают активность, а крупный дисплей Retina удобно читать даже на ходу. Корпус выдерживает погружение на глубину до 50 м, поэтому в часах можно плавать. Перед отправкой каждый экземпляр проходит проверку подлинности POIZON.",
+      "uz": "Oltin rangli alyuminiy korpusdagi original Apple Watch Series 4. Soat pulsni oʻlchaydi, EKG oladi, yiqilishni aniqlaydi va faollikni hisoblaydi, katta Retina displeyni esa yurganda ham oʻqish qulay. Korpus 50 m gacha chuqurlikka chidaydi, shuning uchun soat bilan suzish mumkin. Joʻnatishdan oldin har bir nusxa POIZON asllik tekshiruvidan oʻtadi."
+    },
+    "price": 4390000,
+    "oldPrice": null,
+    "rating": 4.2,
+    "reviews": 88,
+    "sold": 420,
+    "stock": 33,
+    "deliveryDays": [
+      7,
+      12
+    ],
+    "weightKg": 0.45,
+    "badges": [
+      "original",
+      "fast"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "gold",
+            "label": {
+              "ru": "Золотой",
+              "uz": "Oltin rang"
+            },
+            "hex": "#E3CBB0",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 15
+          },
+          {
+            "id": "silver",
+            "label": {
+              "ru": "Серебристый",
+              "uz": "Kumushrang"
+            },
+            "hex": "#DADBDD",
+            "priceDelta": 0,
+            "stock": 10
+          },
+          {
+            "id": "space-gray",
+            "label": {
+              "ru": "Серый космос",
+              "uz": "Toʻq kulrang"
+            },
+            "hex": "#5A5A5E",
+            "priceDelta": 0,
+            "stock": 8
+          }
+        ]
+      },
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер корпуса",
+          "uz": "Korpus oʻlchami"
+        },
+        "values": [
+          {
+            "id": "40mm",
+            "label": {
+              "ru": "40 мм",
+              "uz": "40 mm"
+            },
+            "priceDelta": 0,
+            "stock": 14
+          },
+          {
+            "id": "44mm",
+            "label": {
+              "ru": "44 мм",
+              "uz": "44 mm"
+            },
+            "priceDelta": 390000,
+            "stock": 19
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Корпус",
+          "uz": "Korpus"
+        },
+        "value": {
+          "ru": "алюминий, 40 или 44 мм",
+          "uz": "alyuminiy, 40 yoki 44 mm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Дисплей",
+          "uz": "Displey"
+        },
+        "value": {
+          "ru": "Retina OLED, сенсорный",
+          "uz": "Retina OLED, sensorli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Датчики",
+          "uz": "Datchiklar"
+        },
+        "value": {
+          "ru": "пульс, ЭКГ, акселерометр, гироскоп",
+          "uz": "puls, EKG, akselerometr, giroskop"
+        }
+      },
+      {
+        "name": {
+          "ru": "Водозащита",
+          "uz": "Suvdan himoya"
+        },
+        "value": {
+          "ru": "до 50 м",
+          "uz": "50 m gacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Автономность",
+          "uz": "Avtonom ishlash"
+        },
+        "value": {
+          "ru": "до 18 ч",
+          "uz": "18 soatgacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Совместимость",
+          "uz": "Mosligi"
+        },
+        "value": {
+          "ru": "только с iPhone",
+          "uz": "faqat iPhone bilan"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 3172",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.9,
+      "years": 4,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Kamola Y.",
+        "rating": 5,
+        "text": {
+          "ru": "Пришли за 9 дней с биркой проверки POIZON. Часы новые, в плёнке, батарея держит полтора дня.",
+          "uz": "9 kunda POIZON tekshiruv birkasi bilan keldi. Soat yangi, plyonkada, batareya bir yarim kunga yetadi."
+        },
+        "date": "2026-06-30"
+      },
+      {
+        "author": "Jasur T.",
+        "rating": 4,
+        "text": {
+          "ru": "Взял 44 мм — экран крупный, уведомления читать удобно. Ремешок мог бы быть помягче.",
+          "uz": "44 mm oʻlchamlisini oldim — ekrani katta, bildirishnomalarni oʻqish qulay. Tasmasi yumshoqroq boʻlsa yaxshi boʻlardi."
+        },
+        "date": "2026-04-18"
+      }
+    ]
+  },
+  {
+    "djId": 107,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Beats",
+    "title": {
+      "ru": "Беспроводные наушники Beats Flex, до 12 ч работы",
+      "uz": "Beats Flex simsiz quloqchinlari, 12 soatgacha ishlaydi"
+    },
+    "subtitle": {
+      "ru": "Магнитные вкладыши · быстрая зарядка",
+      "uz": "Magnitli quloqchinlar · tezkor zaryadlash"
+    },
+    "description": {
+      "ru": "Beats Flex — лёгкие беспроводные наушники на гибком шейном шнурке для каждого дня. Если снять наушники и соединить магнитные вкладыши между собой, музыка автоматически встанет на паузу. Заряда хватает до 12 часов, а 10 минут зарядки через USB-C дают около 1,5 часа прослушивания.",
+      "uz": "Beats Flex — har kuni foydalanish uchun egiluvchan boʻyin simiga ega yengil simsiz quloqchinlar. Quloqchinlarni quloqdan olib, bir-biriga magnit bilan yopishtirsangiz, musiqa avtomatik toʻxtaydi. Quvvat 12 soatgacha yetadi, USB-C orqali 10 daqiqa zaryadlash esa taxminan 1,5 soat tinglash imkonini beradi."
+    },
+    "price": 549000,
+    "oldPrice": null,
+    "rating": 4.7,
+    "reviews": 1540,
+    "sold": 8900,
+    "stock": 150,
+    "deliveryDays": [
+      11,
+      18
+    ],
+    "weightKg": 0.2,
+    "badges": [
+      "hit"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "вкладыши на шейном шнурке",
+          "uz": "boʻyin simli quloqchinlar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Время работы",
+          "uz": "Ishlash vaqti"
+        },
+        "value": {
+          "ru": "до 12 ч",
+          "uz": "12 soatgacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Быстрая зарядка",
+          "uz": "Tezkor zaryadlash"
+        },
+        "value": {
+          "ru": "10 мин — 1,5 ч музыки",
+          "uz": "10 daqiqa — 1,5 soat musiqa"
+        }
+      },
+      {
+        "name": {
+          "ru": "Разъём для зарядки",
+          "uz": "Zaryadlash ulagichi"
+        },
+        "value": {
+          "ru": "порт USB-C",
+          "uz": "USB-C port"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подключение",
+          "uz": "Ulanish"
+        },
+        "value": {
+          "ru": "Bluetooth, чип Apple W1",
+          "uz": "Bluetooth, Apple W1 chipi"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Meiyin Electronic Commerce Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.6,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Behzod A.",
+        "rating": 5,
+        "text": {
+          "ru": "Ношу в спортзал — не выпадают, магниты удобные. Пришли за 15 дней.",
+          "uz": "Sport zaliga taqib boraman — tushib ketmaydi, magnitlari qulay. 15 kunda keldi."
+        },
+        "date": "2026-03-03"
+      },
+      {
+        "author": "Nodira B.",
+        "rating": 4,
+        "text": {
+          "ru": "За свои деньги звук хороший, бас есть. Шнурок иногда цепляется за воротник.",
+          "uz": "Narxiga nisbatan ovozi yaxshi, bas bor. Simi baʼzan yoqaga ilinib qoladi."
+        },
+        "date": "2026-09-14"
+      }
+    ]
+  },
+  {
+    "djId": 108,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Apple",
+    "title": {
+      "ru": "Силиконовый чехол Apple MagSafe для iPhone 12, сливовый",
+      "uz": "iPhone 12 uchun Apple MagSafe silikon gʻilofi, toʻq binafsha"
+    },
+    "subtitle": {
+      "ru": "Магниты MagSafe · мягкая подкладка",
+      "uz": "MagSafe magnitlari · yumshoq ichki qoplama"
+    },
+    "description": {
+      "ru": "Оригинальный силиконовый чехол Apple для iPhone 12 и iPhone 12 Pro со встроенными магнитами MagSafe: он не мешает беспроводной зарядке и надёжно держит магнитные аксессуары. Снаружи — приятный на ощупь силикон, внутри — мягкая микрофибра, которая бережёт корпус от царапин. Чехол легко надевается и снимается.",
+      "uz": "iPhone 12 va iPhone 12 Pro uchun ichiga MagSafe magnitlari oʻrnatilgan original Apple silikon gʻilofi: u simsiz zaryadlashga xalaqit bermaydi va magnitli aksessuarlarni mahkam ushlab turadi. Tashqi tomoni ushlashga yoqimli silikondan, ichki tomoni esa korpusni tirnalishdan asraydigan yumshoq mikrofibradan qilingan. Gʻilof telefonga oson kiydiriladi va yechib olinadi."
+    },
+    "price": 289000,
+    "oldPrice": 339000,
+    "rating": 4.5,
+    "reviews": 624,
+    "sold": 4100,
+    "stock": 210,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.12,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "plum",
+            "label": {
+              "ru": "Сливовый",
+              "uz": "Toʻq binafsha"
+            },
+            "hex": "#5B3A4E",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 80
+          },
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1F1F21",
+            "priceDelta": 0,
+            "stock": 60
+          },
+          {
+            "id": "deep-navy",
+            "label": {
+              "ru": "Тёмно-синий",
+              "uz": "Toʻq koʻk"
+            },
+            "hex": "#232C42",
+            "priceDelta": 0,
+            "stock": 40
+          },
+          {
+            "id": "dark-green",
+            "label": {
+              "ru": "Тёмно-зелёный",
+              "uz": "Toʻq yashil"
+            },
+            "hex": "#3F5446",
+            "priceDelta": 0,
+            "stock": 30
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Совместимость",
+          "uz": "Mosligi"
+        },
+        "value": {
+          "ru": "iPhone 12 и iPhone 12 Pro",
+          "uz": "iPhone 12 va iPhone 12 Pro"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Material"
+        },
+        "value": {
+          "ru": "силикон, внутри микрофибра",
+          "uz": "silikon, ichi mikrofibra"
+        }
+      },
+      {
+        "name": {
+          "ru": "Крепление",
+          "uz": "Mahkamlash"
+        },
+        "value": {
+          "ru": "встроенные магниты MagSafe",
+          "uz": "oʻrnatilgan MagSafe magnitlari"
+        }
+      },
+      {
+        "name": {
+          "ru": "Беспроводная зарядка",
+          "uz": "Simsiz zaryadlash"
+        },
+        "value": {
+          "ru": "поддерживается",
+          "uz": "qoʻllab-quvvatlanadi"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Xinda Mobile Accessories Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.7,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Aziza T.",
+        "rating": 5,
+        "text": {
+          "ru": "Цвет глубокий, как на фото. Магниты надёжно держат кошелёк MagSafe.",
+          "uz": "Rangi chuqur, xuddi rasmdagidek. Magnitlar MagSafe hamyonini mahkam ushlaydi."
+        },
+        "date": "2026-02-27"
+      },
+      {
+        "author": "Shohruh K.",
+        "rating": 4,
+        "text": {
+          "ru": "Чехол приятный, но через пару месяцев края немного затёрлись.",
+          "uz": "Gʻilof yoqimli, lekin bir-ikki oydan keyin chetlari biroz yeyildi."
+        },
+        "date": "2026-10-02"
+      }
+    ]
+  },
+  {
+    "djId": 109,
+    "categoryId": "electronics",
+    "source": "1688",
+    "brand": "TechGear",
+    "title": {
+      "ru": "Монопод TechGear для камеры и смартфона, до 105 см",
+      "uz": "Kamera va smartfon uchun TechGear monopodi, 105 sm gacha"
+    },
+    "subtitle": {
+      "ru": "Алюминий · винт 1/4″ · держатель телефона",
+      "uz": "Alyuminiy · 1/4″ vint · telefon ushlagichi"
+    },
+    "description": {
+      "ru": "Монопод TechGear помогает снимать стабильные видео и фото с рук и разгружает руку на долгих съёмках и концертах. Телескопическая алюминиевая штанга раскладывается до 105 см и фиксируется защёлками. В комплекте держатель для смартфона, а стандартный винт 1/4″ подходит для фотоаппаратов и экшн-камер.",
+      "uz": "TechGear monopodi qoʻlda barqaror video va surat olishga yordam beradi hamda uzoq suratga olish va konsertlarda qoʻlni charchatmaydi. Teleskopik alyuminiy tayoq 105 sm gacha uzayadi va qisqichlar bilan mahkamlanadi. Toʻplamda smartfon ushlagichi bor, standart 1/4″ vint esa fotoapparat va ekshn-kameralarga mos keladi."
+    },
+    "price": 149000,
+    "oldPrice": null,
+    "rating": 4.7,
+    "reviews": 834,
+    "sold": 6700,
+    "stock": 1200,
+    "deliveryDays": [
+      13,
+      20
+    ],
+    "weightKg": 0.6,
+    "badges": [
+      "wholesale"
+    ],
+    "imageIdx": [
+      0,
+      1
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "23–105 см",
+          "uz": "23–105 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Material"
+        },
+        "value": {
+          "ru": "алюминий",
+          "uz": "alyuminiy"
+        }
+      },
+      {
+        "name": {
+          "ru": "Крепление",
+          "uz": "Mahkamlash"
+        },
+        "value": {
+          "ru": "винт 1/4″, держатель смартфона",
+          "uz": "1/4″ vint, smartfon ushlagichi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Нагрузка",
+          "uz": "Yuklama"
+        },
+        "value": {
+          "ru": "до 2 кг",
+          "uz": "2 kg gacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "380 г",
+          "uz": "380 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Ningbo Jiashi Photographic Equipment Co., Ltd.",
+      "city": {
+        "ru": "Нинбо",
+        "uz": "Ningbo"
+      },
+      "rating": 4.6,
+      "years": 12,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Doniyor X.",
+        "rating": 5,
+        "text": {
+          "ru": "Лёгкий и крепкий, снимал на нём свадьбу брата на телефон. Защёлки держат хорошо.",
+          "uz": "Yengil va mustahkam, akamning toʻyini telefonda shu bilan suratga oldim. Qisqichlari yaxshi ushlaydi."
+        },
+        "date": "2026-09-21"
+      },
+      {
+        "author": "Svetlana M.",
+        "rating": 4,
+        "text": {
+          "ru": "Качество хорошее за свою цену. Держатель телефона мог бы быть пошире для больших моделей.",
+          "uz": "Narxiga yarasha sifati yaxshi. Telefon ushlagichi katta modellar uchun kengroq boʻlsa yaxshi boʻlardi."
+        },
+        "date": "2026-05-12"
+      }
+    ]
+  },
+  {
+    "djId": 110,
+    "categoryId": "electronics",
+    "source": "1688",
+    "brand": "GadgetMaster",
+    "title": {
+      "ru": "Селфи-лампа GadgetMaster на клипсе для смартфона, LED",
+      "uz": "Smartfon uchun GadgetMaster klipsli selfi chirogʻi, LED"
+    },
+    "subtitle": {
+      "ru": "3 режима света · встроенный аккумулятор",
+      "uz": "3 xil yorugʻlik rejimi · ichki akkumulyator"
+    },
+    "description": {
+      "ru": "Компактная LED-лампа крепится клипсой к смартфону, планшету или ноутбуку и мягко подсвечивает лицо при селфи, видеозвонках и съёмке роликов. Есть три режима — тёплый, нейтральный и холодный свет — и несколько уровней яркости. Лампа заряжается через USB и работает около 2 часов на максимальной яркости.",
+      "uz": "Ixcham LED chiroq klipsa yordamida smartfon, planshet yoki noutbukka mahkamlanadi va selfi, videoqoʻngʻiroq hamda rolik suratga olishda yuzni yumshoq yoritadi. Iliq, neytral va sovuq yorugʻlikdan iborat uchta rejim hamda bir necha yorqinlik darajasi bor. Chiroq USB orqali zaryadlanadi va maksimal yorqinlikda taxminan 2 soat ishlaydi."
+    },
+    "price": 119000,
+    "oldPrice": 149000,
+    "rating": 4.4,
+    "reviews": 1912,
+    "sold": 14300,
+    "stock": 2400,
+    "deliveryDays": [
+      12,
+      19
+    ],
+    "weightKg": 0.15,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Режимы света",
+          "uz": "Yorugʻlik rejimlari"
+        },
+        "value": {
+          "ru": "тёплый, нейтральный, холодный",
+          "uz": "iliq, neytral, sovuq"
+        }
+      },
+      {
+        "name": {
+          "ru": "Светодиоды",
+          "uz": "Svetodiodlar"
+        },
+        "value": {
+          "ru": "40 шт.",
+          "uz": "40 dona"
+        }
+      },
+      {
+        "name": {
+          "ru": "Аккумулятор",
+          "uz": "Akkumulyator"
+        },
+        "value": {
+          "ru": "встроенный, зарядка по USB",
+          "uz": "ichki, USB orqali zaryadlanadi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Время работы",
+          "uz": "Ishlash vaqti"
+        },
+        "value": {
+          "ru": "до 2 ч на максимальной яркости",
+          "uz": "maksimal yorqinlikda 2 soatgacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Крепление",
+          "uz": "Mahkamlash"
+        },
+        "value": {
+          "ru": "клипса для телефона и ноутбука",
+          "uz": "telefon va noutbuk uchun klipsa"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Guangcai Electronics Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.4,
+      "years": 3,
+      "verified": false
+    },
+    "reviewsPreview": [
+      {
+        "author": "Mohira A.",
+        "rating": 5,
+        "text": {
+          "ru": "Для сторис и видеозвонков — то, что нужно. Тёплый свет очень приятный.",
+          "uz": "Storis va videoqoʻngʻiroqlar uchun ayni muddao. Iliq yorugʻligi juda yoqimli."
+        },
+        "date": "2026-08-18"
+      },
+      {
+        "author": "Kirill D.",
+        "rating": 4,
+        "text": {
+          "ru": "Светит хорошо, но на толстом чехле клипса держится слабовато. Доставка заняла 18 дней.",
+          "uz": "Yaxshi yoritadi, lekin qalin gʻilofda klipsa boʻshroq turadi. Yetkazib berish 18 kun davom etdi."
+        },
+        "date": "2026-06-06"
+      }
+    ]
+  },
+  {
+    "djId": 111,
+    "categoryId": "electronics",
+    "source": "1688",
+    "brand": "SnapTech",
+    "title": {
+      "ru": "Селфи-палка SnapTech, складная, для смартфона и камеры",
+      "uz": "SnapTech yigʻma selfi tayoqchasi, smartfon va kamera uchun"
+    },
+    "subtitle": {
+      "ru": "Телескопическая · в сложенном виде 20 см",
+      "uz": "Teleskopik · yigʻilganda 20 sm"
+    },
+    "description": {
+      "ru": "Складная селфи-палка SnapTech удлиняется так, чтобы в кадр поместилась вся компания, а в сложенном виде без труда убирается в сумку. Держатель с резиновыми накладками надёжно фиксирует смартфоны шириной до 8,5 см, а винт 1/4″ позволяет установить небольшую камеру.",
+      "uz": "SnapTech yigʻma selfi tayoqchasi butun davra kadrga sigʻadigan darajada uzayadi, yigʻilgan holda esa sumkaga bemalol joylashadi. Rezina qoplamali ushlagich kengligi 8,5 sm gacha boʻlgan smartfonlarni mahkam ushlaydi, 1/4″ vint esa kichik kamerani oʻrnatish imkonini beradi."
+    },
+    "price": 89000,
+    "oldPrice": 109000,
+    "rating": 4.5,
+    "reviews": 2365,
+    "sold": 19800,
+    "stock": 3100,
+    "deliveryDays": [
+      13,
+      21
+    ],
+    "weightKg": 0.3,
+    "badges": [
+      "sale",
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "20–80 см",
+          "uz": "20–80 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ширина смартфона",
+          "uz": "Smartfon kengligi"
+        },
+        "value": {
+          "ru": "5,5–8,5 см",
+          "uz": "5,5–8,5 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Крепление камеры",
+          "uz": "Kamera mahkamlagichi"
+        },
+        "value": {
+          "ru": "винт 1/4″",
+          "uz": "1/4″ vint"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Material"
+        },
+        "value": {
+          "ru": "алюминий, пластик",
+          "uz": "alyuminiy, plastik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "160 г",
+          "uz": "160 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Xinpai Trading Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.5,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Farrux O.",
+        "rating": 5,
+        "text": {
+          "ru": "Брал в поездку в Самарканд — лёгкая, раскладывается быстро. За такую цену отлично.",
+          "uz": "Samarqandga sayohat uchun oldim — yengil, tez ochiladi. Bu narxga aʼlo."
+        },
+        "date": "2026-04-02"
+      },
+      {
+        "author": "Yuliya K.",
+        "rating": 4,
+        "text": {
+          "ru": "Держит телефон крепко, но в полностью разложенном виде немного качается.",
+          "uz": "Telefonni mahkam ushlaydi, lekin toʻliq uzaytirilganda biroz chayqaladi."
+        },
+        "date": "2026-07-24"
+      }
+    ]
+  },
+  {
+    "djId": 112,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "ProVision",
+    "title": {
+      "ru": "Студийный штатив ProVision на тележке, нагрузка до 15 кг",
+      "uz": "ProVision aravachali studiya shtativi, 15 kg gacha yuklama"
+    },
+    "subtitle": {
+      "ru": "Гидроголова · колёса с тормозами",
+      "uz": "Gidravlik boshcha · tormozli gʻildiraklar"
+    },
+    "description": {
+      "ru": "Студийный штатив ProVision на колёсной тележке предназначен для плавной съёмки в студии, на сцене и на мероприятиях. Гидравлическая голова обеспечивает мягкие панорамы и наклоны, а тележка с прорезиненными колёсами позволяет перемещать камеру без рывков. Колёса фиксируются тормозами, высота регулируется от 75 до 185 см.",
+      "uz": "ProVision gʻildirakli aravachadagi studiya shtativi studiyada, sahnada va tadbirlarda ravon suratga olish uchun moʻljallangan. Gidravlik boshcha kamerani silliq burish va egish imkonini beradi, rezinali gʻildirakli aravacha esa kamerani silkinishsiz siljitishga yordam beradi. Gʻildiraklar tormoz bilan qotiriladi, balandligi esa 75–185 sm oraligʻida sozlanadi."
+    },
+    "price": 5290000,
+    "oldPrice": null,
+    "rating": 4.2,
+    "reviews": 12,
+    "sold": 41,
+    "stock": 15,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 18.5,
+    "badges": [],
+    "imageIdx": [
+      0
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Высота",
+          "uz": "Balandligi"
+        },
+        "value": {
+          "ru": "75–185 см",
+          "uz": "75–185 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Нагрузка",
+          "uz": "Yuklama"
+        },
+        "value": {
+          "ru": "до 15 кг",
+          "uz": "15 kg gacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Голова",
+          "uz": "Boshcha"
+        },
+        "value": {
+          "ru": "гидравлическая, панорама 360°",
+          "uz": "gidravlik, 360° panorama"
+        }
+      },
+      {
+        "name": {
+          "ru": "Тележка",
+          "uz": "Aravacha"
+        },
+        "value": {
+          "ru": "3 колеса с тормозами",
+          "uz": "3 ta tormozli gʻildirak"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Material"
+        },
+        "value": {
+          "ru": "алюминий, сталь",
+          "uz": "alyuminiy, poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "14 кг",
+          "uz": "14 kg"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Hangzhou Jingwei Broadcast Equipment Co., Ltd.",
+      "city": {
+        "ru": "Ханчжоу",
+        "uz": "Xanchjou"
+      },
+      "rating": 4.6,
+      "years": 13,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Ravshan Y.",
+        "rating": 4,
+        "text": {
+          "ru": "Взяли для студии подкастов. Голова плавная, колёса тихие. Доставка 21 день, коробка большая.",
+          "uz": "Podkast studiyasi uchun oldik. Boshchasi silliq ishlaydi, gʻildiraklari shovqinsiz. Yetkazib berish 21 kun, qutisi katta."
+        },
+        "date": "2026-08-09"
+      },
+      {
+        "author": "Andrey L.",
+        "rating": 4,
+        "text": {
+          "ru": "Для лёгкой камеры отлично, но тяжёлую кинокамеру с обвесом держит уже не так уверенно.",
+          "uz": "Yengil kamera uchun aʼlo, lekin jihozlangan ogʻir kinokamerani unchalik ishonchli ushlab turmaydi."
+        },
+        "date": "2026-05-25"
+      }
+    ]
+  }
+]

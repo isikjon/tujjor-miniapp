@@ -1,0 +1,5157 @@
+[
+  {
+    "djId": 83,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": "Fashion Trends",
+    "title": {
+      "ru": "Рубашка мужская Fashion Trends в клетку, сине-чёрная",
+      "uz": "Fashion Trends katakli erkaklar koʻylagi, koʻk-qora"
+    },
+    "subtitle": {
+      "ru": "Хлопок · Длинный рукав · Прямой крой",
+      "uz": "Paxta · Uzun yeng · Toʻgʻri bichim"
+    },
+    "description": {
+      "ru": "Классическая мужская рубашка в сине-чёрную клетку с длинным рукавом и отложным воротником. Хлопковая ткань с небольшой долей полиэстера мягкая, дышит и почти не мнётся. Подходит для офиса и на каждый день — её можно носить заправленной или навыпуск.",
+      "uz": "Uzun yengli, klassik yoqali, koʻk-qora katakli erkaklar koʻylagi. Oz miqdorda poliester qoʻshilgan paxta matosi yumshoq, havo oʻtkazadi va deyarli gʻijimlanmaydi. Ofisga ham, kundalik kiyinishga ham mos — shimga kiritib yoki chiqarib kiyish mumkin."
+    },
+    "price": 229000,
+    "oldPrice": 279000,
+    "rating": 4.5,
+    "reviews": 386,
+    "sold": 2140,
+    "stock": 380,
+    "deliveryDays": [
+      13,
+      20
+    ],
+    "weightKg": 0.35,
+    "badges": [
+      "sale",
+      "wholesale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "blue-check",
+            "label": {
+              "ru": "Синяя клетка",
+              "uz": "Koʻk katak"
+            },
+            "hex": "#3D63A8",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 240
+          },
+          {
+            "id": "green-check",
+            "label": {
+              "ru": "Зелёная клетка",
+              "uz": "Yashil katak"
+            },
+            "hex": "#3F6A4E",
+            "priceDelta": 0,
+            "stock": 80
+          },
+          {
+            "id": "grey-check",
+            "label": {
+              "ru": "Серая клетка",
+              "uz": "Kulrang katak"
+            },
+            "hex": "#6F737A",
+            "priceDelta": 0,
+            "stock": 60
+          }
+        ]
+      },
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "s",
+            "label": {
+              "ru": "S",
+              "uz": "S"
+            },
+            "priceDelta": 0,
+            "stock": 46
+          },
+          {
+            "id": "m",
+            "label": {
+              "ru": "M",
+              "uz": "M"
+            },
+            "priceDelta": 0,
+            "stock": 98
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "L",
+              "uz": "L"
+            },
+            "priceDelta": 0,
+            "stock": 112
+          },
+          {
+            "id": "xl",
+            "label": {
+              "ru": "XL",
+              "uz": "XL"
+            },
+            "priceDelta": 0,
+            "stock": 84
+          },
+          {
+            "id": "xxl",
+            "label": {
+              "ru": "XXL",
+              "uz": "XXL"
+            },
+            "priceDelta": 0,
+            "stock": 40
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Состав",
+          "uz": "Tarkibi"
+        },
+        "value": {
+          "ru": "Хлопок 70%, полиэстер 30%",
+          "uz": "Paxta 70%, poliester 30%"
+        }
+      },
+      {
+        "name": {
+          "ru": "Рукав",
+          "uz": "Yenglari"
+        },
+        "value": {
+          "ru": "Длинный, манжеты на пуговицах",
+          "uz": "Uzun, tugmali manjetlar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Крой",
+          "uz": "Bichimi"
+        },
+        "value": {
+          "ru": "Прямой",
+          "uz": "Toʻgʻri"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Деликатная стирка при 30 °C",
+          "uz": "30 °C da yengil rejimda yuvish"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Yifan Garment Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.7,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Jasur T.",
+        "rating": 5,
+        "text": {
+          "ru": "Размер M сел как надо, ткань приятная и не просвечивает. Доставили за 17 дней.",
+          "uz": "M oʻlcham aynan mos keldi, matosi yoqimli va yupqa emas. 17 kunda yetkazib berishdi."
+        },
+        "date": "2026-08-14"
+      },
+      {
+        "author": "Olga S.",
+        "rating": 4,
+        "text": {
+          "ru": "Брала мужу. Клетка как на фото, после стирки не села. Рукава чуть длинноваты.",
+          "uz": "Erimga oldim. Katagi rasmdagidek, yuvilgandan keyin kichraymadi. Yenglari biroz uzunroq."
+        },
+        "date": "2026-09-22"
+      }
+    ]
+  },
+  {
+    "djId": 84,
+    "categoryId": "clothing",
+    "source": "poizon",
+    "brand": "Gigabyte",
+    "title": {
+      "ru": "Футболка мужская Gigabyte AORUS с принтом, белая",
+      "uz": "Gigabyte AORUS printli erkaklar futbolkasi, oq"
+    },
+    "subtitle": {
+      "ru": "100% хлопок · Принт AORUS спереди",
+      "uz": "100% paxta · Old tomonida AORUS printi"
+    },
+    "description": {
+      "ru": "Белая футболка из геймерской линейки Gigabyte AORUS: крупный графичный орёл с логотипом спереди, фирменный значок на рукаве и логотип Gigabyte на спине. Плотный хлопковый трикотаж, свободная посадка и круглый вырез. Подойдёт для киберспортивных турниров, учёбы и повседневной носки.",
+      "uz": "Gigabyte AORUS geymerlar liniyasidan oq futbolka: old tomonida logotipli yirik grafik burgut, yengida brend belgisi va orqasida Gigabyte logotipi. Zich paxta trikotaj, erkin bichim va dumaloq yoqa. Kibersport turnirlari, oʻqish va kundalik kiyinish uchun qulay."
+    },
+    "price": 319000,
+    "oldPrice": null,
+    "rating": 4.3,
+    "reviews": 148,
+    "sold": 960,
+    "stock": 90,
+    "deliveryDays": [
+      8,
+      13
+    ],
+    "weightKg": 0.3,
+    "badges": [],
+    "imageIdx": [
+      0,
+      2,
+      3
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "s",
+            "label": {
+              "ru": "S",
+              "uz": "S"
+            },
+            "priceDelta": 0,
+            "stock": 12
+          },
+          {
+            "id": "m",
+            "label": {
+              "ru": "M",
+              "uz": "M"
+            },
+            "priceDelta": 0,
+            "stock": 24
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "L",
+              "uz": "L"
+            },
+            "priceDelta": 0,
+            "stock": 28
+          },
+          {
+            "id": "xl",
+            "label": {
+              "ru": "XL",
+              "uz": "XL"
+            },
+            "priceDelta": 0,
+            "stock": 18
+          },
+          {
+            "id": "xxl",
+            "label": {
+              "ru": "XXL",
+              "uz": "XXL"
+            },
+            "priceDelta": 0,
+            "stock": 8
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Состав",
+          "uz": "Tarkibi"
+        },
+        "value": {
+          "ru": "Хлопок 100%",
+          "uz": "Paxta 100%"
+        }
+      },
+      {
+        "name": {
+          "ru": "Плотность ткани",
+          "uz": "Mato zichligi"
+        },
+        "value": {
+          "ru": "180 г/м²",
+          "uz": "180 g/m²"
+        }
+      },
+      {
+        "name": {
+          "ru": "Расположение принта",
+          "uz": "Print joylashuvi"
+        },
+        "value": {
+          "ru": "Спереди, на рукаве и на спине",
+          "uz": "Old tomonda, yengda va orqada"
+        }
+      },
+      {
+        "name": {
+          "ru": "Посадка",
+          "uz": "Bichimi"
+        },
+        "value": {
+          "ru": "Свободная",
+          "uz": "Erkin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вырез",
+          "uz": "Yoqa shakli"
+        },
+        "value": {
+          "ru": "Круглый",
+          "uz": "Dumaloq"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 3317",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.8,
+      "years": 4,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sardor M.",
+        "rating": 5,
+        "text": {
+          "ru": "Принт чёткий, после трёх стирок не потрескался. Брал L на рост 180 — сидит свободно.",
+          "uz": "Printi aniq, uch marta yuvilgandan keyin ham yorilmadi. 180 boʻyimga L oldim — erkin turadi."
+        },
+        "date": "2026-07-03"
+      },
+      {
+        "author": "Behzod A.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошая плотная футболка, но белый цвет быстро пачкается. Доставка заняла 12 дней.",
+          "uz": "Yaxshi zich futbolka, lekin oq rang tez kirlanadi. Yetkazib berish 12 kun davom etdi."
+        },
+        "date": "2026-09-18"
+      }
+    ]
+  },
+  {
+    "djId": 85,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": "Classic Wear",
+    "title": {
+      "ru": "Рубашка мужская Classic Wear фланелевая, в красную клетку",
+      "uz": "Classic Wear katakli flanel koʻylagi, qizil-qora"
+    },
+    "subtitle": {
+      "ru": "Тёплая фланель · Крупная клетка",
+      "uz": "Issiq flanel · Yirik katak"
+    },
+    "description": {
+      "ru": "Фланелевая рубашка в крупную красно-чёрную клетку — тёплая и мягкая на ощупь, хорошо подходит для осени и прохладных вечеров. Прямой крой позволяет носить её как рубашку или нараспашку поверх футболки. Пуговицы пришиты надёжно, швы ровные.",
+      "uz": "Yirik qizil-qora katakli flanel koʻylak — issiq va ushlaganda yumshoq, kuz va salqin oqshomlar uchun juda mos. Toʻgʻri bichimi tufayli uni oddiy koʻylak kabi yoki futbolka ustidan ochiq holda kiyish mumkin. Tugmalari mustahkam tikilgan, choklari tekis."
+    },
+    "price": 269000,
+    "oldPrice": 349000,
+    "rating": 4.4,
+    "reviews": 1264,
+    "sold": 8900,
+    "stock": 820,
+    "deliveryDays": [
+      12,
+      19
+    ],
+    "weightKg": 0.45,
+    "badges": [
+      "hit",
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "red-check",
+            "label": {
+              "ru": "Красная клетка",
+              "uz": "Qizil katak"
+            },
+            "hex": "#B3242A",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 520
+          },
+          {
+            "id": "green-check",
+            "label": {
+              "ru": "Зелёная клетка",
+              "uz": "Yashil katak"
+            },
+            "hex": "#2F5D3A",
+            "priceDelta": 0,
+            "stock": 170
+          },
+          {
+            "id": "blue-check",
+            "label": {
+              "ru": "Синяя клетка",
+              "uz": "Koʻk katak"
+            },
+            "hex": "#2A4470",
+            "priceDelta": 0,
+            "stock": 130
+          }
+        ]
+      },
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "s",
+            "label": {
+              "ru": "S",
+              "uz": "S"
+            },
+            "priceDelta": 0,
+            "stock": 90
+          },
+          {
+            "id": "m",
+            "label": {
+              "ru": "M",
+              "uz": "M"
+            },
+            "priceDelta": 0,
+            "stock": 210
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "L",
+              "uz": "L"
+            },
+            "priceDelta": 0,
+            "stock": 250
+          },
+          {
+            "id": "xl",
+            "label": {
+              "ru": "XL",
+              "uz": "XL"
+            },
+            "priceDelta": 0,
+            "stock": 180
+          },
+          {
+            "id": "xxl",
+            "label": {
+              "ru": "XXL",
+              "uz": "XXL"
+            },
+            "priceDelta": 0,
+            "stock": 90
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Состав",
+          "uz": "Tarkibi"
+        },
+        "value": {
+          "ru": "Хлопок 80%, полиэстер 20%",
+          "uz": "Paxta 80%, poliester 20%"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ткань",
+          "uz": "Mato"
+        },
+        "value": {
+          "ru": "Фланель",
+          "uz": "Flanel"
+        }
+      },
+      {
+        "name": {
+          "ru": "Рукав",
+          "uz": "Yenglari"
+        },
+        "value": {
+          "ru": "Длинный, манжеты на пуговицах",
+          "uz": "Uzun, tugmali manjetlar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Сезон",
+          "uz": "Mavsum"
+        },
+        "value": {
+          "ru": "Осень — весна",
+          "uz": "Kuz — bahor"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Hangzhou Mingyue Apparel Co., Ltd.",
+      "city": {
+        "ru": "Ханчжоу",
+        "uz": "Xanchjou"
+      },
+      "rating": 4.8,
+      "years": 11,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nigora X.",
+        "rating": 5,
+        "text": {
+          "ru": "Купила брату — он очень доволен: тёплая, мягкая, клетка яркая. Размер в размер.",
+          "uz": "Akamga oldim — juda mamnun: issiq, yumshoq, katagi yorqin. Oʻlchami aynan mos."
+        },
+        "date": "2026-10-09"
+      },
+      {
+        "author": "Aziz K.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошая фланель за свои деньги. После стирки немного села — берите на размер больше.",
+          "uz": "Narxiga yarasha yaxshi flanel. Yuvilgandan keyin biroz kichraydi — bir oʻlcham kattaroq oling."
+        },
+        "date": "2026-03-27"
+      },
+      {
+        "author": "Dilnoza R.",
+        "rating": 5,
+        "text": {
+          "ru": "Заказала в начале октября, пришла за 18 дней. Упаковка целая, ткань без запаха.",
+          "uz": "Oktyabr boshida buyurtma qildim, 18 kunda keldi. Qadogʻi butun, matosida hid yoʻq."
+        },
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "djId": 86,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": "Casual Comfort",
+    "title": {
+      "ru": "Рубашка гавайская Casual Comfort, короткий рукав, синяя",
+      "uz": "Casual Comfort kalta yengli gavay koʻylagi, koʻk"
+    },
+    "subtitle": {
+      "ru": "Вискоза · Тропический принт",
+      "uz": "Viskoza · Tropik naqsh"
+    },
+    "description": {
+      "ru": "Лёгкая рубашка с коротким рукавом и тропическим принтом: белые гибискусы и листья монстеры на синем фоне. Вискоза приятно холодит кожу и не липнет в жару. Носите навыпуск с шортами или светлыми брюками — в отпуске и на летних прогулках.",
+      "uz": "Kalta yengli, tropik naqshli yengil koʻylak: koʻk fonda oq gibiskus gullari va monstera barglari. Viskoza mato teriga salqinlik beradi va issiqda yopishmaydi. Kalta shim yoki och rangli shim bilan chiqarib kiying — taʼtilda va yozgi sayrlarda."
+    },
+    "price": 149000,
+    "oldPrice": null,
+    "rating": 4.2,
+    "reviews": 92,
+    "sold": 610,
+    "stock": 14,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 0.3,
+    "badges": [],
+    "imageIdx": [
+      0,
+      2,
+      1
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "s",
+            "label": {
+              "ru": "S",
+              "uz": "S"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          },
+          {
+            "id": "m",
+            "label": {
+              "ru": "M",
+              "uz": "M"
+            },
+            "priceDelta": 0,
+            "stock": 3
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "L",
+              "uz": "L"
+            },
+            "priceDelta": 0,
+            "stock": 5
+          },
+          {
+            "id": "xl",
+            "label": {
+              "ru": "XL",
+              "uz": "XL"
+            },
+            "priceDelta": 0,
+            "stock": 4
+          },
+          {
+            "id": "xxl",
+            "label": {
+              "ru": "XXL",
+              "uz": "XXL"
+            },
+            "priceDelta": 0,
+            "stock": 2
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Состав",
+          "uz": "Tarkibi"
+        },
+        "value": {
+          "ru": "Вискоза 100%",
+          "uz": "Viskoza 100%"
+        }
+      },
+      {
+        "name": {
+          "ru": "Рукав",
+          "uz": "Yenglari"
+        },
+        "value": {
+          "ru": "Короткий",
+          "uz": "Kalta"
+        }
+      },
+      {
+        "name": {
+          "ru": "Принт",
+          "uz": "Naqsh"
+        },
+        "value": {
+          "ru": "Гибискус и монстера",
+          "uz": "Gibiskus va monstera"
+        }
+      },
+      {
+        "name": {
+          "ru": "Сезон",
+          "uz": "Mavsum"
+        },
+        "value": {
+          "ru": "Лето",
+          "uz": "Yoz"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Haoyun Clothing Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.4,
+      "years": 3,
+      "verified": false
+    },
+    "reviewsPreview": [
+      {
+        "author": "Rustam N.",
+        "rating": 4,
+        "text": {
+          "ru": "Яркая и лёгкая, в жару в ней комфортно. Ткань немного мнётся.",
+          "uz": "Yorqin va yengil, jaziramada qulay. Matosi biroz gʻijimlanadi."
+        },
+        "date": "2026-06-21"
+      },
+      {
+        "author": "Kamola Y.",
+        "rating": 3,
+        "text": {
+          "ru": "Принт красивый, но маломерит — XL сидит как L. Ехала 21 день.",
+          "uz": "Naqshi chiroyli, lekin oʻlchami kichikroq — XL xuddi L kabi. 21 kunda keldi."
+        },
+        "date": "2026-07-15"
+      }
+    ]
+  },
+  {
+    "djId": 87,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": "Urban Chic",
+    "title": {
+      "ru": "Рубашка мужская Urban Chic в клетку, зелёная",
+      "uz": "Urban Chic katakli erkaklar koʻylagi, yashil"
+    },
+    "subtitle": {
+      "ru": "Воротник на пуговицах · 100% хлопок",
+      "uz": "Tugmali yoqa · 100% paxta"
+    },
+    "description": {
+      "ru": "Повседневная рубашка в зелёно-бирюзовую клетку с воротником на пуговицах (button-down). Хлопковая ткань мягкая и дышащая, манжеты застёгиваются на пуговицы. Хорошо сочетается с джинсами и чиносами, подходит для учёбы и работы.",
+      "uz": "Yoqasi tugmali (button-down), yashil-firuzarang katakli kundalik koʻylak. Paxta matosi yumshoq va havo oʻtkazadi, manjetlari tugma bilan qadaladi. Jinsi va chinos shimlar bilan yaxshi uygʻunlashadi, oʻqish va ish uchun mos."
+    },
+    "price": 199000,
+    "oldPrice": null,
+    "rating": 4.2,
+    "reviews": 233,
+    "sold": 1750,
+    "stock": 950,
+    "deliveryDays": [
+      13,
+      21
+    ],
+    "weightKg": 0.35,
+    "badges": [
+      "wholesale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "green-check",
+            "label": {
+              "ru": "Зелёная клетка",
+              "uz": "Yashil katak"
+            },
+            "hex": "#5F7D61",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 560
+          },
+          {
+            "id": "blue-check",
+            "label": {
+              "ru": "Синяя клетка",
+              "uz": "Koʻk katak"
+            },
+            "hex": "#3E5F8A",
+            "priceDelta": 0,
+            "stock": 240
+          },
+          {
+            "id": "beige-check",
+            "label": {
+              "ru": "Бежевая клетка",
+              "uz": "Bej katak"
+            },
+            "hex": "#BCA98A",
+            "priceDelta": 0,
+            "stock": 150
+          }
+        ]
+      },
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "s",
+            "label": {
+              "ru": "S",
+              "uz": "S"
+            },
+            "priceDelta": 0,
+            "stock": 110
+          },
+          {
+            "id": "m",
+            "label": {
+              "ru": "M",
+              "uz": "M"
+            },
+            "priceDelta": 0,
+            "stock": 240
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "L",
+              "uz": "L"
+            },
+            "priceDelta": 0,
+            "stock": 280
+          },
+          {
+            "id": "xl",
+            "label": {
+              "ru": "XL",
+              "uz": "XL"
+            },
+            "priceDelta": 0,
+            "stock": 210
+          },
+          {
+            "id": "xxl",
+            "label": {
+              "ru": "XXL",
+              "uz": "XXL"
+            },
+            "priceDelta": 0,
+            "stock": 110
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Состав",
+          "uz": "Tarkibi"
+        },
+        "value": {
+          "ru": "Хлопок 100%",
+          "uz": "Paxta 100%"
+        }
+      },
+      {
+        "name": {
+          "ru": "Воротник",
+          "uz": "Yoqasi"
+        },
+        "value": {
+          "ru": "На пуговицах (button-down)",
+          "uz": "Tugmali (button-down)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Рукав",
+          "uz": "Yenglari"
+        },
+        "value": {
+          "ru": "Длинный",
+          "uz": "Uzun"
+        }
+      },
+      {
+        "name": {
+          "ru": "Крой",
+          "uz": "Bichimi"
+        },
+        "value": {
+          "ru": "Прямой",
+          "uz": "Toʻgʻri"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Ningbo Hengfeng Textile Co., Ltd.",
+      "city": {
+        "ru": "Нинбо",
+        "uz": "Ningbo"
+      },
+      "rating": 4.6,
+      "years": 9,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Bekzod S.",
+        "rating": 4,
+        "text": {
+          "ru": "Цвет чуть темнее, чем на фото, но смотрится хорошо. Размер L подошёл.",
+          "uz": "Rangi rasmdagidan biroz toʻqroq, lekin yaxshi koʻrinadi. L oʻlcham mos keldi."
+        },
+        "date": "2026-04-12"
+      },
+      {
+        "author": "Malika O.",
+        "rating": 5,
+        "text": {
+          "ru": "Заказала мужу и сыну по одной — обе отличные. Пришли за 19 дней.",
+          "uz": "Erim va oʻgʻlimga bittadan buyurtma qildim — ikkalasi ham aʼlo. 19 kunda keldi."
+        },
+        "date": "2026-05-30"
+      }
+    ]
+  },
+  {
+    "djId": 88,
+    "categoryId": "shoes",
+    "source": "poizon",
+    "brand": "Nike",
+    "title": {
+      "ru": "Кроссовки Nike Air Jordan 1, красно-чёрные",
+      "uz": "Nike Air Jordan 1 krossovkalari, qizil-qora"
+    },
+    "subtitle": {
+      "ru": "Оригинал · Проверка подлинности POIZON",
+      "uz": "Original · POIZON haqiqiylik tekshiruvi"
+    },
+    "description": {
+      "ru": "Культовые баскетбольные кроссовки Air Jordan 1 в красно-чёрной расцветке на белой базе. Кожаный верх, амортизирующая вставка Air в пятке и прочная резиновая подошва с рисунком для сцепления. Перед отправкой пара проходит проверку подлинности POIZON и приходит в оригинальной коробке.",
+      "uz": "Oq asosdagi qizil-qora rangli mashhur Air Jordan 1 basketbol krossovkalari. Charm ustki qism, tovon qismida Air amortizatsiya qatlami va yaxshi ushlaydigan mustahkam rezina tagcharm. Joʻnatishdan oldin har bir juft POIZON haqiqiylik tekshiruvidan oʻtadi va asl qutida yetkaziladi."
+    },
+    "price": 1949000,
+    "oldPrice": null,
+    "rating": 4.8,
+    "reviews": 2340,
+    "sold": 9800,
+    "stock": 22,
+    "deliveryDays": [
+      6,
+      10
+    ],
+    "weightKg": 1.4,
+    "badges": [
+      "hit",
+      "original",
+      "fast"
+    ],
+    "imageIdx": [
+      1,
+      0,
+      2
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "39",
+            "label": {
+              "ru": "39",
+              "uz": "39"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          },
+          {
+            "id": "40",
+            "label": {
+              "ru": "40",
+              "uz": "40"
+            },
+            "priceDelta": 0,
+            "stock": 2
+          },
+          {
+            "id": "41",
+            "label": {
+              "ru": "41",
+              "uz": "41"
+            },
+            "priceDelta": 0,
+            "stock": 5
+          },
+          {
+            "id": "42",
+            "label": {
+              "ru": "42",
+              "uz": "42"
+            },
+            "priceDelta": 0,
+            "stock": 6
+          },
+          {
+            "id": "43",
+            "label": {
+              "ru": "43",
+              "uz": "43"
+            },
+            "priceDelta": 0,
+            "stock": 5
+          },
+          {
+            "id": "44",
+            "label": {
+              "ru": "44",
+              "uz": "44"
+            },
+            "priceDelta": 0,
+            "stock": 4
+          },
+          {
+            "id": "45",
+            "label": {
+              "ru": "45",
+              "uz": "45"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал верха",
+          "uz": "Ustki qismi"
+        },
+        "value": {
+          "ru": "Натуральная кожа",
+          "uz": "Tabiiy charm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подошва",
+          "uz": "Tagcharm"
+        },
+        "value": {
+          "ru": "Резина, вставка Air в пятке",
+          "uz": "Rezina, tovonida Air qatlami"
+        }
+      },
+      {
+        "name": {
+          "ru": "Застёжка",
+          "uz": "Taqilma"
+        },
+        "value": {
+          "ru": "Шнуровка",
+          "uz": "Bogʻich"
+        }
+      },
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Vazifasi"
+        },
+        "value": {
+          "ru": "Повседневная носка, баскетбол",
+          "uz": "Kundalik kiyish, basketbol"
+        }
+      },
+      {
+        "name": {
+          "ru": "Комплектация",
+          "uz": "Toʻplami"
+        },
+        "value": {
+          "ru": "Оригинальная коробка, бирки",
+          "uz": "Asl quti, yorliqlar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Проверка",
+          "uz": "Tekshiruv"
+        },
+        "value": {
+          "ru": "Проверка подлинности POIZON",
+          "uz": "POIZON haqiqiylik tekshiruvi"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 2481",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.9,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Jasur T.",
+        "rating": 5,
+        "text": {
+          "ru": "Оригинал, с биркой проверки POIZON и пломбой. Доставили за 9 дней, коробка без вмятин.",
+          "uz": "Original, POIZON tekshiruv yorligʻi va plombasi bilan. 9 kunda yetkazishdi, qutisi ezilmagan."
+        },
+        "date": "2026-09-14"
+      },
+      {
+        "author": "Sardor M.",
+        "rating": 5,
+        "text": {
+          "ru": "Сидят в размер, взял свой 43-й. Кожа качественная, швы ровные.",
+          "uz": "Oʻlchamiga mos, doim kiyadigan 43 oʻlchamimni oldim. Charmi sifatli, choklari tekis."
+        },
+        "date": "2026-08-02"
+      },
+      {
+        "author": "Madina K.",
+        "rating": 4,
+        "text": {
+          "ru": "Брала сыну на день рождения. Всё отлично, только цена кусается.",
+          "uz": "Oʻgʻlimga tugʻilgan kuniga oldim. Hammasi aʼlo, faqat narxi biroz qimmat."
+        },
+        "date": "2026-05-19"
+      }
+    ]
+  },
+  {
+    "djId": 89,
+    "categoryId": "shoes",
+    "source": "poizon",
+    "brand": "Nike",
+    "title": {
+      "ru": "Бутсы бейсбольные Nike, бело-зелёные",
+      "uz": "Nike beysbol butsilari, oq-yashil"
+    },
+    "subtitle": {
+      "ru": "Металлические шипы · Оригинал",
+      "uz": "Metall tishli tagcharm · Original"
+    },
+    "description": {
+      "ru": "Бейсбольные бутсы Nike в бело-зелёной расцветке с логотипом Swoosh. Металлические шипы дают уверенное сцепление на грунте и газоне, а средняя высота и жёсткий задник надёжно фиксируют стопу при рывках. Оригинал — пара проходит проверку подлинности POIZON.",
+      "uz": "Swoosh logotipli oq-yashil Nike beysbol butsilari. Metall tishlar tuproq va maysada ishonchli ushlaydi, oʻrtacha balandlik va qattiq tovon qismi esa keskin harakatlarda oyoqni mahkam tutadi. Original — har bir juft POIZON haqiqiylik tekshiruvidan oʻtadi."
+    },
+    "price": 989000,
+    "oldPrice": 1290000,
+    "rating": 4.5,
+    "reviews": 64,
+    "sold": 310,
+    "stock": 12,
+    "deliveryDays": [
+      9,
+      14
+    ],
+    "weightKg": 1.3,
+    "badges": [
+      "original",
+      "sale"
+    ],
+    "imageIdx": [
+      1,
+      0,
+      3
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "39",
+            "label": {
+              "ru": "39",
+              "uz": "39"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          },
+          {
+            "id": "40",
+            "label": {
+              "ru": "40",
+              "uz": "40"
+            },
+            "priceDelta": 0,
+            "stock": 1
+          },
+          {
+            "id": "41",
+            "label": {
+              "ru": "41",
+              "uz": "41"
+            },
+            "priceDelta": 0,
+            "stock": 3
+          },
+          {
+            "id": "42",
+            "label": {
+              "ru": "42",
+              "uz": "42"
+            },
+            "priceDelta": 0,
+            "stock": 3
+          },
+          {
+            "id": "43",
+            "label": {
+              "ru": "43",
+              "uz": "43"
+            },
+            "priceDelta": 0,
+            "stock": 3
+          },
+          {
+            "id": "44",
+            "label": {
+              "ru": "44",
+              "uz": "44"
+            },
+            "priceDelta": 0,
+            "stock": 2
+          },
+          {
+            "id": "45",
+            "label": {
+              "ru": "45",
+              "uz": "45"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Вид спорта",
+          "uz": "Sport turi"
+        },
+        "value": {
+          "ru": "Бейсбол, софтбол",
+          "uz": "Beysbol, softbol"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал верха",
+          "uz": "Ustki qismi"
+        },
+        "value": {
+          "ru": "Синтетическая кожа",
+          "uz": "Sunʼiy charm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подошва",
+          "uz": "Tagcharm"
+        },
+        "value": {
+          "ru": "Металлические шипы",
+          "uz": "Metall tishlar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Высота",
+          "uz": "Balandligi"
+        },
+        "value": {
+          "ru": "Средняя",
+          "uz": "Oʻrtacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Проверка",
+          "uz": "Tekshiruv"
+        },
+        "value": {
+          "ru": "Проверка подлинности POIZON",
+          "uz": "POIZON haqiqiylik tekshiruvi"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 5106",
+      "city": {
+        "ru": "Ханчжоу",
+        "uz": "Xanchjou"
+      },
+      "rating": 4.7,
+      "years": 3,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Timur G.",
+        "rating": 5,
+        "text": {
+          "ru": "Брал для софтбола — на газоне держат отлично. Размер соответствует.",
+          "uz": "Softbol uchun oldim — maysada juda yaxshi ushlaydi. Oʻlchami mos."
+        },
+        "date": "2026-04-26"
+      },
+      {
+        "author": "Behzod A.",
+        "rating": 3,
+        "text": {
+          "ru": "Качество хорошее, но колодка узкая — с широкой стопой берите на полразмера больше.",
+          "uz": "Sifati yaxshi, lekin qolipi tor — oyogʻingiz keng boʻlsa, yarim oʻlcham kattaroq oling."
+        },
+        "date": "2026-06-08"
+      }
+    ]
+  },
+  {
+    "djId": 90,
+    "categoryId": "shoes",
+    "source": "poizon",
+    "brand": "Puma",
+    "title": {
+      "ru": "Кроссовки Puma Future Rider, разноцветные",
+      "uz": "Puma Future Rider krossovkalari, rang-barang"
+    },
+    "subtitle": {
+      "ru": "Ретро-стиль · Лёгкая пенная подошва",
+      "uz": "Retro uslub · Yengil koʻpikli tagcharm"
+    },
+    "description": {
+      "ru": "Puma Future Rider — ретро-кроссовки в духе беговых моделей 80-х: текстиль и замша в сочетании бежевого, синего, красного и жёлтого. Лёгкая пенная подошва смягчает шаг, а рельефный протектор хорошо держит на асфальте. Яркая пара на каждый день; оригинал с проверкой подлинности POIZON.",
+      "uz": "Puma Future Rider — 80-yillar yugurish krossovkalari uslubidagi retro model: tekstil va zamsh bej, koʻk, qizil va sariq ranglar uygʻunligida. Yengil koʻpikli tagcharm qadamni yumshatadi, relyefli protektor esa asfaltda yaxshi ushlaydi. Har kuni kiyish uchun yorqin juft; POIZON haqiqiylik tekshiruvidan oʻtgan original."
+    },
+    "price": 1149000,
+    "oldPrice": null,
+    "rating": 4.9,
+    "reviews": 812,
+    "sold": 4700,
+    "stock": 41,
+    "deliveryDays": [
+      7,
+      13
+    ],
+    "weightKg": 1.1,
+    "badges": [
+      "choice",
+      "original"
+    ],
+    "imageIdx": [
+      1,
+      0,
+      3
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "36",
+            "label": {
+              "ru": "36",
+              "uz": "36"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          },
+          {
+            "id": "37",
+            "label": {
+              "ru": "37",
+              "uz": "37"
+            },
+            "priceDelta": 0,
+            "stock": 3
+          },
+          {
+            "id": "38",
+            "label": {
+              "ru": "38",
+              "uz": "38"
+            },
+            "priceDelta": 0,
+            "stock": 6
+          },
+          {
+            "id": "39",
+            "label": {
+              "ru": "39",
+              "uz": "39"
+            },
+            "priceDelta": 0,
+            "stock": 7
+          },
+          {
+            "id": "40",
+            "label": {
+              "ru": "40",
+              "uz": "40"
+            },
+            "priceDelta": 0,
+            "stock": 9
+          },
+          {
+            "id": "41",
+            "label": {
+              "ru": "41",
+              "uz": "41"
+            },
+            "priceDelta": 0,
+            "stock": 9
+          },
+          {
+            "id": "42",
+            "label": {
+              "ru": "42",
+              "uz": "42"
+            },
+            "priceDelta": 0,
+            "stock": 7
+          },
+          {
+            "id": "43",
+            "label": {
+              "ru": "43",
+              "uz": "43"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал верха",
+          "uz": "Ustki qismi"
+        },
+        "value": {
+          "ru": "Текстиль, замша",
+          "uz": "Tekstil, zamsh"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подошва",
+          "uz": "Tagcharm"
+        },
+        "value": {
+          "ru": "Вспененный EVA, резина",
+          "uz": "Koʻpikli EVA, rezina"
+        }
+      },
+      {
+        "name": {
+          "ru": "Стиль",
+          "uz": "Uslubi"
+        },
+        "value": {
+          "ru": "Ретро, беговой",
+          "uz": "Retro, yugurish uslubida"
+        }
+      },
+      {
+        "name": {
+          "ru": "Пол",
+          "uz": "Kimlar uchun"
+        },
+        "value": {
+          "ru": "Унисекс",
+          "uz": "Uniseks"
+        }
+      },
+      {
+        "name": {
+          "ru": "Проверка",
+          "uz": "Tekshiruv"
+        },
+        "value": {
+          "ru": "Проверка подлинности POIZON",
+          "uz": "POIZON haqiqiylik tekshiruvi"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 1902",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.9,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Shahlo M.",
+        "rating": 5,
+        "text": {
+          "ru": "Очень лёгкие и удобные, хожу целый день без усталости. Цвета яркие, как на фото.",
+          "uz": "Juda yengil va qulay, kun boʻyi charchamay yuraman. Ranglari rasmdagidek yorqin."
+        },
+        "date": "2026-05-05"
+      },
+      {
+        "author": "Ilyos R.",
+        "rating": 5,
+        "text": {
+          "ru": "Пришли за 11 дней в фирменной коробке, с биркой POIZON. Размер 42 — точно в размер.",
+          "uz": "11 kunda brend qutisida, POIZON yorligʻi bilan keldi. 42 oʻlcham — aynan mos."
+        },
+        "date": "2026-08-29"
+      }
+    ]
+  },
+  {
+    "djId": 91,
+    "categoryId": "shoes",
+    "source": "poizon",
+    "brand": "Off-White",
+    "title": {
+      "ru": "Кроссовки Off-White кожаные, бело-красные",
+      "uz": "Off-White charm krossovkalari, oq-qizil"
+    },
+    "subtitle": {
+      "ru": "Натуральная кожа · Фирменная стрелка",
+      "uz": "Tabiiy charm · Brendning oʻq belgisi"
+    },
+    "description": {
+      "ru": "Низкие кроссовки Off-White из белой кожи с фирменной красной стрелкой на боковине, красным задником и подкладкой воротника. Перфорированный мысок помогает ноге дышать, а резиновая подошва с бежевой вставкой хорошо держит. Каждая пара проходит проверку подлинности POIZON.",
+      "uz": "Oq charmdan tikilgan Off-White krossovkalari: yon tomonida brendning qizil oʻq belgisi, qizil tovon qismi va astari. Teshikli burun qismi oyoqqa havo oʻtkazadi, bej qoʻshimchali rezina tagcharm esa yaxshi ushlaydi. Har bir juft POIZON haqiqiylik tekshiruvidan oʻtadi."
+    },
+    "price": 1549000,
+    "oldPrice": null,
+    "rating": 4.8,
+    "reviews": 1420,
+    "sold": 6300,
+    "stock": 16,
+    "deliveryDays": [
+      7,
+      11
+    ],
+    "weightKg": 1.3,
+    "badges": [
+      "hit",
+      "original",
+      "fast"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      3
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "39",
+            "label": {
+              "ru": "39",
+              "uz": "39"
+            },
+            "priceDelta": 0,
+            "stock": 1
+          },
+          {
+            "id": "40",
+            "label": {
+              "ru": "40",
+              "uz": "40"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          },
+          {
+            "id": "41",
+            "label": {
+              "ru": "41",
+              "uz": "41"
+            },
+            "priceDelta": 0,
+            "stock": 3
+          },
+          {
+            "id": "42",
+            "label": {
+              "ru": "42",
+              "uz": "42"
+            },
+            "priceDelta": 0,
+            "stock": 4
+          },
+          {
+            "id": "43",
+            "label": {
+              "ru": "43",
+              "uz": "43"
+            },
+            "priceDelta": 0,
+            "stock": 5
+          },
+          {
+            "id": "44",
+            "label": {
+              "ru": "44",
+              "uz": "44"
+            },
+            "priceDelta": 0,
+            "stock": 3
+          },
+          {
+            "id": "45",
+            "label": {
+              "ru": "45",
+              "uz": "45"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал верха",
+          "uz": "Ustki qismi"
+        },
+        "value": {
+          "ru": "Натуральная кожа",
+          "uz": "Tabiiy charm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подкладка",
+          "uz": "Astar"
+        },
+        "value": {
+          "ru": "Текстиль",
+          "uz": "Tekstil"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подошва",
+          "uz": "Tagcharm"
+        },
+        "value": {
+          "ru": "Резина",
+          "uz": "Rezina"
+        }
+      },
+      {
+        "name": {
+          "ru": "Высота",
+          "uz": "Balandligi"
+        },
+        "value": {
+          "ru": "Низкие",
+          "uz": "Past"
+        }
+      },
+      {
+        "name": {
+          "ru": "Комплектация",
+          "uz": "Toʻplami"
+        },
+        "value": {
+          "ru": "Коробка, бирки, пыльник",
+          "uz": "Quti, yorliqlar, chang xaltasi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Проверка",
+          "uz": "Tekshiruv"
+        },
+        "value": {
+          "ru": "Проверка подлинности POIZON",
+          "uz": "POIZON haqiqiylik tekshiruvi"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 4730",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.8,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sherzod B.",
+        "rating": 5,
+        "text": {
+          "ru": "Кожа мягкая, стрелка ровная, всё как в бутике. Доставка заняла 10 дней.",
+          "uz": "Charmi yumshoq, oʻq belgisi tekis, hammasi butikdagidek. 10 kunda yetkazib berishdi."
+        },
+        "date": "2026-07-21"
+      },
+      {
+        "author": "Dilnoza R.",
+        "rating": 4,
+        "text": {
+          "ru": "Красивые, но первые дни немного натирали пятку. Потом разносились.",
+          "uz": "Chiroyli, lekin dastlabki kunlarda tovonni biroz ishqaladi. Keyin oyoqqa moslashdi."
+        },
+        "date": "2026-03-11"
+      }
+    ]
+  },
+  {
+    "djId": 92,
+    "categoryId": "shoes",
+    "source": "poizon",
+    "brand": "Off-White",
+    "title": {
+      "ru": "Кеды Off-White низкие, белые с красным",
+      "uz": "Off-White kedlari, oq va qizil"
+    },
+    "subtitle": {
+      "ru": "Унисекс · Кожа · Пыльник в комплекте",
+      "uz": "Uniseks · Charm · Chang xaltasi bilan"
+    },
+    "description": {
+      "ru": "Кожаные кеды Off-White в белом цвете с красными акцентами: стрелка на боковине, задник и логотип на пятке. Мягкая стелька и текстильная подкладка дают комфорт на весь день, а ровная резиновая подошва подходит для города. Модель унисекс, оригинал с проверкой подлинности POIZON.",
+      "uz": "Qizil detallari bilan oq rangli Off-White charm kedlari: yon tomonida oʻq belgisi, tovon qismi va orqasida logotip. Yumshoq ichki taglik va tekstil astar kun boʻyi qulaylik beradi, tekis rezina tagcharm esa shahar uchun mos. Uniseks model, POIZON haqiqiylik tekshiruvidan oʻtgan original."
+    },
+    "price": 1449000,
+    "oldPrice": null,
+    "rating": 4.8,
+    "reviews": 186,
+    "sold": 740,
+    "stock": 53,
+    "deliveryDays": [
+      8,
+      13
+    ],
+    "weightKg": 1.3,
+    "badges": [
+      "new",
+      "original"
+    ],
+    "imageIdx": [
+      3,
+      0,
+      2
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "36",
+            "label": {
+              "ru": "36",
+              "uz": "36"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          },
+          {
+            "id": "37",
+            "label": {
+              "ru": "37",
+              "uz": "37"
+            },
+            "priceDelta": 0,
+            "stock": 6
+          },
+          {
+            "id": "38",
+            "label": {
+              "ru": "38",
+              "uz": "38"
+            },
+            "priceDelta": 0,
+            "stock": 9
+          },
+          {
+            "id": "39",
+            "label": {
+              "ru": "39",
+              "uz": "39"
+            },
+            "priceDelta": 0,
+            "stock": 10
+          },
+          {
+            "id": "40",
+            "label": {
+              "ru": "40",
+              "uz": "40"
+            },
+            "priceDelta": 0,
+            "stock": 11
+          },
+          {
+            "id": "41",
+            "label": {
+              "ru": "41",
+              "uz": "41"
+            },
+            "priceDelta": 0,
+            "stock": 9
+          },
+          {
+            "id": "42",
+            "label": {
+              "ru": "42",
+              "uz": "42"
+            },
+            "priceDelta": 0,
+            "stock": 8
+          },
+          {
+            "id": "43",
+            "label": {
+              "ru": "43",
+              "uz": "43"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал верха",
+          "uz": "Ustki qismi"
+        },
+        "value": {
+          "ru": "Натуральная кожа",
+          "uz": "Tabiiy charm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подкладка",
+          "uz": "Astar"
+        },
+        "value": {
+          "ru": "Текстиль",
+          "uz": "Tekstil"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подошва",
+          "uz": "Tagcharm"
+        },
+        "value": {
+          "ru": "Резина",
+          "uz": "Rezina"
+        }
+      },
+      {
+        "name": {
+          "ru": "Пол",
+          "uz": "Kimlar uchun"
+        },
+        "value": {
+          "ru": "Унисекс",
+          "uz": "Uniseks"
+        }
+      },
+      {
+        "name": {
+          "ru": "Проверка",
+          "uz": "Tekshiruv"
+        },
+        "value": {
+          "ru": "Проверка подлинности POIZON",
+          "uz": "POIZON haqiqiylik tekshiruvi"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 0875",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.7,
+      "years": 2,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Kamila T.",
+        "rating": 5,
+        "text": {
+          "ru": "Взяла 38-й — сели идеально. Белая кожа легко протирается.",
+          "uz": "38 oʻlcham oldim — juda mos keldi. Oq charmini artish oson."
+        },
+        "date": "2026-10-02"
+      },
+      {
+        "author": "Otabek Y.",
+        "rating": 4,
+        "text": {
+          "ru": "Оригинал, есть бирки и пыльник. Курьер привёз на день позже обещанного.",
+          "uz": "Original, yorliqlari va chang xaltasi bor. Kuryer vaʼda qilingandan bir kun kech olib keldi."
+        },
+        "date": "2026-09-07"
+      }
+    ]
+  },
+  {
+    "djId": 162,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Платье для девочки нарядное, в синий горошек",
+      "uz": "Qizlar uchun bayramona koʻylak, koʻk noʻxatli"
+    },
+    "subtitle": {
+      "ru": "Пышная юбка · Хлопковый трикотаж",
+      "uz": "Hajmdor yubka · Paxta trikotaj"
+    },
+    "description": {
+      "ru": "Нарядное платье для девочки в крупный и мелкий горошек синего и сиреневого оттенков. Приталенный лиф, короткие рукава-крылышки и пышная юбка с воланом — для праздников, утренников и фотосессий. Мягкий хлопковый трикотаж приятен к телу и не колется.",
+      "uz": "Qizlar uchun koʻk va binafsha tusli katta-kichik noʻxatli bayramona koʻylak. Belga mos ustki qism, qanotcha shaklidagi kalta yenglar va burmali hajmdor yubka — bayramlar, ertaliklar va fotosessiyalar uchun. Yumshoq paxta trikotaj badanga yoqimli va qichishtirmaydi."
+    },
+    "price": 219000,
+    "oldPrice": null,
+    "rating": 4.6,
+    "reviews": 318,
+    "sold": 2050,
+    "stock": 520,
+    "deliveryDays": [
+      14,
+      21
+    ],
+    "weightKg": 0.4,
+    "badges": [
+      "choice"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Рост",
+          "uz": "Boʻyi"
+        },
+        "values": [
+          {
+            "id": "104",
+            "label": {
+              "ru": "104 см",
+              "uz": "104 sm"
+            },
+            "priceDelta": 0,
+            "stock": 60
+          },
+          {
+            "id": "110",
+            "label": {
+              "ru": "110 см",
+              "uz": "110 sm"
+            },
+            "priceDelta": 0,
+            "stock": 80
+          },
+          {
+            "id": "116",
+            "label": {
+              "ru": "116 см",
+              "uz": "116 sm"
+            },
+            "priceDelta": 0,
+            "stock": 95
+          },
+          {
+            "id": "122",
+            "label": {
+              "ru": "122 см",
+              "uz": "122 sm"
+            },
+            "priceDelta": 0,
+            "stock": 100
+          },
+          {
+            "id": "128",
+            "label": {
+              "ru": "128 см",
+              "uz": "128 sm"
+            },
+            "priceDelta": 0,
+            "stock": 85
+          },
+          {
+            "id": "134",
+            "label": {
+              "ru": "134 см",
+              "uz": "134 sm"
+            },
+            "priceDelta": 10000,
+            "stock": 60
+          },
+          {
+            "id": "140",
+            "label": {
+              "ru": "140 см",
+              "uz": "140 sm"
+            },
+            "priceDelta": 10000,
+            "stock": 40
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Состав",
+          "uz": "Tarkibi"
+        },
+        "value": {
+          "ru": "Хлопок 95%, эластан 5%",
+          "uz": "Paxta 95%, elastan 5%"
+        }
+      },
+      {
+        "name": {
+          "ru": "Возраст",
+          "uz": "Yoshi"
+        },
+        "value": {
+          "ru": "4–10 лет",
+          "uz": "4–10 yosh"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "До колена",
+          "uz": "Tizzagacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Рукав",
+          "uz": "Yenglari"
+        },
+        "value": {
+          "ru": "Короткие, крылышки",
+          "uz": "Kalta, qanotcha shaklida"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Стирка при 30 °C",
+          "uz": "30 °C da yuvish"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Hangzhou Xiaoya Children's Clothing Co., Ltd.",
+      "city": {
+        "ru": "Ханчжоу",
+        "uz": "Xanchjou"
+      },
+      "rating": 4.8,
+      "years": 7,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nigora X.",
+        "rating": 5,
+        "text": {
+          "ru": "Дочке 6 лет, взяли рост 122 — сидит отлично. Юбка держит форму даже после стирки.",
+          "uz": "Qizim 6 yoshda, 122 boʻy uchun oldik — juda yaxshi turibdi. Yubkasi yuvilgandan keyin ham shaklini saqlaydi."
+        },
+        "date": "2026-03-08"
+      },
+      {
+        "author": "Gulnora A.",
+        "rating": 4,
+        "text": {
+          "ru": "Красивое и яркое, на утреннике все спрашивали, где купили. Доставка почти три недели.",
+          "uz": "Chiroyli va yorqin, ertalikda hamma qayerdan olganimizni soʻradi. Yetkazib berish deyarli uch hafta davom etdi."
+        },
+        "date": "2026-02-26"
+      }
+    ]
+  },
+  {
+    "djId": 163,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Платье летнее макси с открытыми плечами, тропический принт",
+      "uz": "Ochiq yelkali yozgi maksi koʻylak, tropik naqshli"
+    },
+    "subtitle": {
+      "ru": "Лёгкая вискоза · Длина в пол",
+      "uz": "Yengil viskoza · Yergacha uzun"
+    },
+    "description": {
+      "ru": "Длинное летнее платье с воланом на открытых плечах и тонкими бретелями. Чёрный принт из пальмовых листьев на белом фоне смотрится графично и подходит для отпуска, прогулок и вечеров у моря. Лёгкая вискоза не липнет к телу в жару, а присборенная талия подчёркивает силуэт.",
+      "uz": "Ochiq yelkalarida burmali va ingichka bretelli uzun yozgi koʻylak. Oq fondagi qora palma barglari naqshi zamonaviy koʻrinadi, taʼtil, sayr va dengiz boʻyidagi oqshomlar uchun mos. Yengil viskoza issiqda badanga yopishmaydi, burmali bel esa qomatni boʻrttirib koʻrsatadi."
+    },
+    "price": 159000,
+    "oldPrice": 199000,
+    "rating": 4.8,
+    "reviews": 2180,
+    "sold": 14600,
+    "stock": 430,
+    "deliveryDays": [
+      12,
+      19
+    ],
+    "weightKg": 0.4,
+    "badges": [
+      "hit",
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      2,
+      1
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "white-black",
+            "label": {
+              "ru": "Белый, чёрный принт",
+              "uz": "Oq, qora naqsh"
+            },
+            "hex": "#EFEDE8",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 260
+          },
+          {
+            "id": "black-white",
+            "label": {
+              "ru": "Чёрный, белый принт",
+              "uz": "Qora, oq naqsh"
+            },
+            "hex": "#1C1C1E",
+            "priceDelta": 0,
+            "stock": 110
+          },
+          {
+            "id": "beige-brown",
+            "label": {
+              "ru": "Бежевый, коричневый принт",
+              "uz": "Bej, jigarrang naqsh"
+            },
+            "hex": "#D6C4A6",
+            "priceDelta": 0,
+            "stock": 60
+          }
+        ]
+      },
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "xs",
+            "label": {
+              "ru": "XS",
+              "uz": "XS"
+            },
+            "priceDelta": 0,
+            "stock": 50
+          },
+          {
+            "id": "s",
+            "label": {
+              "ru": "S",
+              "uz": "S"
+            },
+            "priceDelta": 0,
+            "stock": 120
+          },
+          {
+            "id": "m",
+            "label": {
+              "ru": "M",
+              "uz": "M"
+            },
+            "priceDelta": 0,
+            "stock": 140
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "L",
+              "uz": "L"
+            },
+            "priceDelta": 0,
+            "stock": 80
+          },
+          {
+            "id": "xl",
+            "label": {
+              "ru": "XL",
+              "uz": "XL"
+            },
+            "priceDelta": 0,
+            "stock": 40
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Состав",
+          "uz": "Tarkibi"
+        },
+        "value": {
+          "ru": "Вискоза 100%",
+          "uz": "Viskoza 100%"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "Макси, в пол",
+          "uz": "Maksi, yergacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вырез",
+          "uz": "Yoqa shakli"
+        },
+        "value": {
+          "ru": "Открытые плечи, бретели",
+          "uz": "Ochiq yelkalar, bretellar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Сезон",
+          "uz": "Mavsum"
+        },
+        "value": {
+          "ru": "Лето",
+          "uz": "Yoz"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Lanxi Women's Wear Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.7,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Madina K.",
+        "rating": 5,
+        "text": {
+          "ru": "Ткань лёгкая, в жару в нём не жарко. Рост 165 — длина как раз до щиколоток.",
+          "uz": "Matosi yengil, jaziramada issiq qilmaydi. Boʻyim 165 — uzunligi aynan toʻpiqqacha."
+        },
+        "date": "2026-07-09"
+      },
+      {
+        "author": "Shahnoza E.",
+        "rating": 5,
+        "text": {
+          "ru": "Ездила в нём в Анталию — получились очень красивые фото. Размер S подошёл.",
+          "uz": "Shu koʻylakda Antalyaga bordim — juda chiroyli suratlar chiqdi. S oʻlcham mos keldi."
+        },
+        "date": "2026-08-17"
+      },
+      {
+        "author": "Feruza M.",
+        "rating": 4,
+        "text": {
+          "ru": "Красивое, но бретели тонковаты, пришлось укрепить. Доставка 18 дней.",
+          "uz": "Chiroyli, lekin bretellari biroz ingichka, mustahkamlashga toʻgʻri keldi. 18 kunda yetib keldi."
+        },
+        "date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "djId": 164,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Платье-сарафан миди на пуговицах, светло-серое",
+      "uz": "Tugmali kamarli midi sarafan, och kulrang"
+    },
+    "subtitle": {
+      "ru": "Лён с хлопком · Пояс на завязках",
+      "uz": "Zigʻir va paxta · Bogʻichli kamar"
+    },
+    "description": {
+      "ru": "Лаконичное платье-сарафан длины миди без рукавов, с застёжкой на пуговицы по всей длине и поясом на завязках. Ткань из льна с хлопком дышит и подходит для жаркой погоды. Нейтральный светло-серый цвет легко сочетать с кедами, босоножками или жакетом.",
+      "uz": "Yengsiz, butun uzunligi boʻylab tugmali va bogʻichli kamarli sodda midi sarafan. Zigʻir va paxtadan tayyorlangan mato havo oʻtkazadi va issiq kunlar uchun qulay. Neytral och kulrang rangni kedlar, bosonojkalar yoki jaket bilan oson uygʻunlashtirish mumkin."
+    },
+    "price": 249000,
+    "oldPrice": null,
+    "rating": 4.2,
+    "reviews": 74,
+    "sold": 520,
+    "stock": 550,
+    "deliveryDays": [
+      15,
+      23
+    ],
+    "weightKg": 0.45,
+    "badges": [
+      "wholesale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "light-grey",
+            "label": {
+              "ru": "Светло-серый",
+              "uz": "Och kulrang"
+            },
+            "hex": "#C8C5BC",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 300
+          },
+          {
+            "id": "beige",
+            "label": {
+              "ru": "Бежевый",
+              "uz": "Bej"
+            },
+            "hex": "#D8C7A8",
+            "priceDelta": 0,
+            "stock": 150
+          },
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "priceDelta": 0,
+            "stock": 100
+          }
+        ]
+      },
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "s",
+            "label": {
+              "ru": "S",
+              "uz": "S"
+            },
+            "priceDelta": 0,
+            "stock": 130
+          },
+          {
+            "id": "m",
+            "label": {
+              "ru": "M",
+              "uz": "M"
+            },
+            "priceDelta": 0,
+            "stock": 180
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "L",
+              "uz": "L"
+            },
+            "priceDelta": 0,
+            "stock": 150
+          },
+          {
+            "id": "xl",
+            "label": {
+              "ru": "XL",
+              "uz": "XL"
+            },
+            "priceDelta": 0,
+            "stock": 90
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Состав",
+          "uz": "Tarkibi"
+        },
+        "value": {
+          "ru": "Лён 55%, хлопок 45%",
+          "uz": "Zigʻir 55%, paxta 45%"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "Миди",
+          "uz": "Midi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Застёжка",
+          "uz": "Taqilma"
+        },
+        "value": {
+          "ru": "Пуговицы по всей длине",
+          "uz": "Butun uzunligi boʻylab tugmalar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Рукав",
+          "uz": "Yenglari"
+        },
+        "value": {
+          "ru": "Без рукавов",
+          "uz": "Yengsiz"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shanghai Qingmu Garment Co., Ltd.",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.4,
+      "years": 2,
+      "verified": false
+    },
+    "reviewsPreview": [
+      {
+        "author": "Zarina U.",
+        "rating": 4,
+        "text": {
+          "ru": "Удобное платье на лето, лён приятный. Цвет скорее серо-бежевый.",
+          "uz": "Yoz uchun qulay koʻylak, zigʻir matosi yoqimli. Rangi koʻproq kulrang-bej."
+        },
+        "date": "2026-06-03"
+      },
+      {
+        "author": "Marina D.",
+        "rating": 3,
+        "text": {
+          "ru": "Ткань сильно мнётся, пояс коротковат. Но за эту цену нормально.",
+          "uz": "Matosi tez gʻijimlanadi, kamari biroz kalta. Lekin bu narxga yomon emas."
+        },
+        "date": "2026-07-28"
+      }
+    ]
+  },
+  {
+    "djId": 165,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Платье короткое без бретелей, ярусная юбка, бирюзовое",
+      "uz": "Bretelsiz kalta koʻylak, qavatli yubka, firuzarang"
+    },
+    "subtitle": {
+      "ru": "Пояс-бант · Двухъярусная юбка",
+      "uz": "Bantli kamar · Ikki qavatli yubka"
+    },
+    "description": {
+      "ru": "Короткое платье без бретелей с двухъярусной расклешённой юбкой и поясом, который завязывается на бант. Плотный лиф держит форму, а потайная молния сзади позволяет легко надевать платье. Нежный бирюзовый оттенок подходит для выпускного, свадьбы подруги или летней вечеринки.",
+      "uz": "Ikki qavatli keng yubkali va bant qilib bogʻlanadigan kamarli bretelsiz kalta koʻylak. Zich ustki qismi shaklini saqlaydi, orqadagi yashirin zamok esa kiyishni osonlashtiradi. Nozik firuzarang tus bitiruv kechasi, dugonangizning toʻyi yoki yozgi bazm uchun mos."
+    },
+    "price": 189000,
+    "oldPrice": 209000,
+    "rating": 4.3,
+    "reviews": 129,
+    "sold": 860,
+    "stock": 220,
+    "deliveryDays": [
+      13,
+      20
+    ],
+    "weightKg": 0.5,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      3
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "turquoise",
+            "label": {
+              "ru": "Бирюзовый",
+              "uz": "Firuzarang"
+            },
+            "hex": "#5E9C91",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 130
+          },
+          {
+            "id": "powder",
+            "label": {
+              "ru": "Пудровый",
+              "uz": "Och pushti"
+            },
+            "hex": "#E6C3BD",
+            "priceDelta": 0,
+            "stock": 55
+          },
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "priceDelta": 0,
+            "stock": 35
+          }
+        ]
+      },
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "xs",
+            "label": {
+              "ru": "XS",
+              "uz": "XS"
+            },
+            "priceDelta": 0,
+            "stock": 25
+          },
+          {
+            "id": "s",
+            "label": {
+              "ru": "S",
+              "uz": "S"
+            },
+            "priceDelta": 0,
+            "stock": 60
+          },
+          {
+            "id": "m",
+            "label": {
+              "ru": "M",
+              "uz": "M"
+            },
+            "priceDelta": 0,
+            "stock": 70
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "L",
+              "uz": "L"
+            },
+            "priceDelta": 0,
+            "stock": 45
+          },
+          {
+            "id": "xl",
+            "label": {
+              "ru": "XL",
+              "uz": "XL"
+            },
+            "priceDelta": 0,
+            "stock": 20
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Состав",
+          "uz": "Tarkibi"
+        },
+        "value": {
+          "ru": "Полиэстер 90%, эластан 10%",
+          "uz": "Poliester 90%, elastan 10%"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "Выше колена",
+          "uz": "Tizzadan yuqori"
+        }
+      },
+      {
+        "name": {
+          "ru": "Застёжка",
+          "uz": "Taqilma"
+        },
+        "value": {
+          "ru": "Потайная молния сзади",
+          "uz": "Orqada yashirin zamok"
+        }
+      },
+      {
+        "name": {
+          "ru": "Силуэт",
+          "uz": "Siluet"
+        },
+        "value": {
+          "ru": "Без бретелей, расклешённая юбка",
+          "uz": "Bretelsiz, keng yubka"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Dongguan Meiyu Garment Co., Ltd.",
+      "city": {
+        "ru": "Дунгуань",
+        "uz": "Dunguan"
+      },
+      "rating": 4.6,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Dilnoza R.",
+        "rating": 5,
+        "text": {
+          "ru": "Надевала на выпускной сестры — сидит красиво, лиф не сползает. Цвет как на фото.",
+          "uz": "Singlimning bitiruv kechasida kiydim — chiroyli turadi, ustki qismi pastga sirpanmaydi. Rangi rasmdagidek."
+        },
+        "date": "2026-06-12"
+      },
+      {
+        "author": "Lola B.",
+        "rating": 4,
+        "text": {
+          "ru": "Красивое, но пояс пришёл мятым, пришлось погладить. Доставка 16 дней.",
+          "uz": "Chiroyli, lekin kamari gʻijim holda keldi, dazmollashga toʻgʻri keldi. 16 kunda yetkazildi."
+        },
+        "date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "djId": 166,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Платье для девочки в клетку с бантом, серое",
+      "uz": "Qizlar uchun katakli koʻylak, bantli, kulrang"
+    },
+    "subtitle": {
+      "ru": "Клетка тартан · Атласный бант",
+      "uz": "Tartan katak · Satin bant"
+    },
+    "description": {
+      "ru": "Нарядное платье для девочки из ткани в чёрно-белую клетку тартан с широким поясом и крупным атласным бантом. Без рукавов, с пышной юбкой до колена: осенью и зимой его удобно носить с водолазкой, летом — отдельно. Подойдёт для праздников, школьных мероприятий и семейных фото.",
+      "uz": "Qora-oq tartan katakli matodan tikilgan, keng kamarli va yirik satin bantli qizlar uchun bayramona koʻylak. Yengsiz, tizzagacha hajmdor yubkali: kuz va qishda uni bodlon bilan, yozda esa alohida kiyish qulay. Bayramlar, maktab tadbirlari va oilaviy suratlar uchun mos."
+    },
+    "price": 289000,
+    "oldPrice": null,
+    "rating": 4.6,
+    "reviews": 241,
+    "sold": 1380,
+    "stock": 730,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 0.45,
+    "badges": [],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Рост",
+          "uz": "Boʻyi"
+        },
+        "values": [
+          {
+            "id": "98",
+            "label": {
+              "ru": "98 см",
+              "uz": "98 sm"
+            },
+            "priceDelta": 0,
+            "stock": 50
+          },
+          {
+            "id": "104",
+            "label": {
+              "ru": "104 см",
+              "uz": "104 sm"
+            },
+            "priceDelta": 0,
+            "stock": 70
+          },
+          {
+            "id": "110",
+            "label": {
+              "ru": "110 см",
+              "uz": "110 sm"
+            },
+            "priceDelta": 0,
+            "stock": 90
+          },
+          {
+            "id": "116",
+            "label": {
+              "ru": "116 см",
+              "uz": "116 sm"
+            },
+            "priceDelta": 0,
+            "stock": 110
+          },
+          {
+            "id": "122",
+            "label": {
+              "ru": "122 см",
+              "uz": "122 sm"
+            },
+            "priceDelta": 0,
+            "stock": 120
+          },
+          {
+            "id": "128",
+            "label": {
+              "ru": "128 см",
+              "uz": "128 sm"
+            },
+            "priceDelta": 0,
+            "stock": 120
+          },
+          {
+            "id": "134",
+            "label": {
+              "ru": "134 см",
+              "uz": "134 sm"
+            },
+            "priceDelta": 10000,
+            "stock": 100
+          },
+          {
+            "id": "140",
+            "label": {
+              "ru": "140 см",
+              "uz": "140 sm"
+            },
+            "priceDelta": 10000,
+            "stock": 70
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Состав",
+          "uz": "Tarkibi"
+        },
+        "value": {
+          "ru": "Полиэстер 65%, хлопок 35%",
+          "uz": "Poliester 65%, paxta 35%"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подкладка",
+          "uz": "Astar"
+        },
+        "value": {
+          "ru": "Хлопок",
+          "uz": "Paxta"
+        }
+      },
+      {
+        "name": {
+          "ru": "Возраст",
+          "uz": "Yoshi"
+        },
+        "value": {
+          "ru": "3–10 лет",
+          "uz": "3–10 yosh"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "До колена",
+          "uz": "Tizzagacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Beibei Children's Clothing Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.7,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Malika O.",
+        "rating": 5,
+        "text": {
+          "ru": "Купили к Новому году, дочка в восторге. Бант пришит, не развязывается.",
+          "uz": "Yangi yilga oldik, qizim juda xursand. Banti tikib qoʻyilgan, yechilib ketmaydi."
+        },
+        "date": "2026-01-06"
+      },
+      {
+        "author": "Svetlana P.",
+        "rating": 4,
+        "text": {
+          "ru": "Качество хорошее, подкладка мягкая. Размерная сетка соответствует, брали 116.",
+          "uz": "Sifati yaxshi, astari yumshoq. Oʻlchamlar jadvaliga mos keladi, 116 oldik."
+        },
+        "date": "2026-02-14"
+      }
+    ]
+  },
+  {
+    "djId": 177,
+    "categoryId": "clothing",
+    "source": "alibaba",
+    "brand": null,
+    "title": {
+      "ru": "Платье вечернее в пол с цветочным принтом, чёрное",
+      "uz": "Gulli naqshli uzun kechki libos, qora"
+    },
+    "subtitle": {
+      "ru": "Открытые плечи · Длина в пол",
+      "uz": "Ochiq yelkalar · Yergacha uzun"
+    },
+    "description": {
+      "ru": "Вечернее платье в пол: крупные цветы в розовых, голубых и зелёных тонах на чёрном фоне. Открытые плечи и корсетный лиф подчёркивают линию шеи и талию, а юбка А-силуэта красиво струится при движении. Подходит для свадеб, выпускных и торжественных вечеров.",
+      "uz": "Yergacha uzun kechki libos: qora fonda pushti, havorang va yashil tusli yirik gullar. Ochiq yelkalar va korsetli ustki qism boʻyin chizigʻi va belni boʻrttiradi, A-siluetli yubka esa harakatlanganda chiroyli hilpiraydi. Toʻylar, bitiruv kechalari va tantanali tadbirlar uchun mos."
+    },
+    "price": 1290000,
+    "oldPrice": 1490000,
+    "rating": 4.5,
+    "reviews": 57,
+    "sold": 240,
+    "stock": 25,
+    "deliveryDays": [
+      11,
+      18
+    ],
+    "weightKg": 0.9,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "xs",
+            "label": {
+              "ru": "XS",
+              "uz": "XS"
+            },
+            "priceDelta": 0,
+            "stock": 3
+          },
+          {
+            "id": "s",
+            "label": {
+              "ru": "S",
+              "uz": "S"
+            },
+            "priceDelta": 0,
+            "stock": 7
+          },
+          {
+            "id": "m",
+            "label": {
+              "ru": "M",
+              "uz": "M"
+            },
+            "priceDelta": 0,
+            "stock": 8
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "L",
+              "uz": "L"
+            },
+            "priceDelta": 0,
+            "stock": 5
+          },
+          {
+            "id": "xl",
+            "label": {
+              "ru": "XL",
+              "uz": "XL"
+            },
+            "priceDelta": 0,
+            "stock": 2
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Ткань",
+          "uz": "Mato"
+        },
+        "value": {
+          "ru": "Шифон с принтом, подкладка",
+          "uz": "Naqshli shifon, astarli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Силуэт",
+          "uz": "Siluet"
+        },
+        "value": {
+          "ru": "А-силуэт",
+          "uz": "A-siluet"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "В пол",
+          "uz": "Yergacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вырез",
+          "uz": "Yoqa shakli"
+        },
+        "value": {
+          "ru": "Открытые плечи",
+          "uz": "Ochiq yelkalar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Застёжка",
+          "uz": "Taqilma"
+        },
+        "value": {
+          "ru": "Потайная молния сзади",
+          "uz": "Orqada yashirin zamok"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Huameng Evening Dress Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.8,
+      "years": 12,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nilufar S.",
+        "rating": 5,
+        "text": {
+          "ru": "Надевала на свадьбу брата, получила много комплиментов. Размер точно по сетке.",
+          "uz": "Akamning toʻyida kiydim, koʻp maqtov eshitdim. Oʻlchami jadvalga aniq mos."
+        },
+        "date": "2026-09-27"
+      },
+      {
+        "author": "Yulia V.",
+        "rating": 3,
+        "text": {
+          "ru": "Принт красивый, но для роста 160 платье длинновато — пришлось укорачивать.",
+          "uz": "Naqshi chiroyli, lekin 160 boʻy uchun biroz uzun — kaltalatishga toʻgʻri keldi."
+        },
+        "date": "2026-04-30"
+      }
+    ]
+  },
+  {
+    "djId": 178,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Комплект: корсет из экокожи и юбка макси, красный",
+      "uz": "Eko-charm korset va maksi yubka toʻplami, qizil"
+    },
+    "subtitle": {
+      "ru": "Экокожа · Юбка в пол · 2 предмета",
+      "uz": "Eko-charm · Uzun yubka · 2 qismli"
+    },
+    "description": {
+      "ru": "Яркий комплект из двух вещей: корсет без бретелей из красной экокожи и длинная юбка из струящейся ткани в тон. Корсет на косточках держит форму и подчёркивает талию, юбка застёгивается на потайную молнию. Вещи можно носить вместе или по отдельности — например, корсет с джинсами.",
+      "uz": "Ikki qismdan iborat yorqin toʻplam: qizil eko-charmdan bretelsiz korset va unga mos yengil matoli uzun yubka. Suyakchali korset shaklini saqlaydi va belni ingichka koʻrsatadi, yubka yashirin zamok bilan qadaladi. Ularni birga yoki alohida kiyish mumkin — masalan, korsetni jinsi shim bilan."
+    },
+    "price": 689000,
+    "oldPrice": null,
+    "rating": 4.3,
+    "reviews": 96,
+    "sold": 450,
+    "stock": 300,
+    "deliveryDays": [
+      13,
+      20
+    ],
+    "weightKg": 0.75,
+    "badges": [],
+    "imageIdx": [
+      0,
+      1,
+      3
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "red",
+            "label": {
+              "ru": "Красный",
+              "uz": "Qizil"
+            },
+            "hex": "#C4161C",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 180
+          },
+          {
+            "id": "burgundy",
+            "label": {
+              "ru": "Бордовый",
+              "uz": "Bordo"
+            },
+            "hex": "#6D1A24",
+            "priceDelta": 0,
+            "stock": 70
+          },
+          {
+            "id": "emerald",
+            "label": {
+              "ru": "Изумрудный",
+              "uz": "Zumrad rang"
+            },
+            "hex": "#0F5B45",
+            "priceDelta": 0,
+            "stock": 50
+          }
+        ]
+      },
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "xs",
+            "label": {
+              "ru": "XS",
+              "uz": "XS"
+            },
+            "priceDelta": 0,
+            "stock": 40
+          },
+          {
+            "id": "s",
+            "label": {
+              "ru": "S",
+              "uz": "S"
+            },
+            "priceDelta": 0,
+            "stock": 85
+          },
+          {
+            "id": "m",
+            "label": {
+              "ru": "M",
+              "uz": "M"
+            },
+            "priceDelta": 0,
+            "stock": 90
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "L",
+              "uz": "L"
+            },
+            "priceDelta": 0,
+            "stock": 55
+          },
+          {
+            "id": "xl",
+            "label": {
+              "ru": "XL",
+              "uz": "XL"
+            },
+            "priceDelta": 0,
+            "stock": 30
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Корсет",
+          "uz": "Korset"
+        },
+        "value": {
+          "ru": "Экокожа, косточки",
+          "uz": "Eko-charm, suyakchalar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Юбка",
+          "uz": "Yubka"
+        },
+        "value": {
+          "ru": "Полиэстер, длина в пол",
+          "uz": "Poliester, yergacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Застёжка",
+          "uz": "Taqilma"
+        },
+        "value": {
+          "ru": "Потайная молния",
+          "uz": "Yashirin zamok"
+        }
+      },
+      {
+        "name": {
+          "ru": "В комплекте",
+          "uz": "Toʻplamda"
+        },
+        "value": {
+          "ru": "Корсет, юбка",
+          "uz": "Korset, yubka"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Xinyan Fashion Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.5,
+      "years": 4,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sevara N.",
+        "rating": 5,
+        "text": {
+          "ru": "Яркий красный, как на фото. Корсет хорошо держит, экокожа не скрипит.",
+          "uz": "Rasmdagidek yorqin qizil. Korset yaxshi ushlab turadi, eko-charmi gʻichirlamaydi."
+        },
+        "date": "2026-02-14"
+      },
+      {
+        "author": "Anna L.",
+        "rating": 4,
+        "text": {
+          "ru": "Юбка длинная — с каблуком в самый раз. Корсет в талии немного маломерит.",
+          "uz": "Yubka uzun — poshnali tufli bilan aynan mos. Korset belda biroz tor."
+        },
+        "date": "2026-03-20"
+      }
+    ]
+  },
+  {
+    "djId": 179,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Комплект: корсет и атласная юбка макси, чёрный",
+      "uz": "Korset va satin maksi yubka toʻplami, qora"
+    },
+    "subtitle": {
+      "ru": "Корсет на косточках · Атласная юбка",
+      "uz": "Suyakchali korset · Satin yubka"
+    },
+    "description": {
+      "ru": "Элегантный чёрный комплект: корсет без бретелей на косточках и длинная юбка из атласа с мягким блеском. Корсет подчёркивает талию, а юбка свободно ниспадает до пола. Готовый образ для вечеринки или театра — достаточно добавить украшения и туфли на каблуке.",
+      "uz": "Nafis qora toʻplam: suyakchali bretelsiz korset va mayin yaltiroq satin uzun yubka. Korset belni boʻrttiradi, yubka esa yergacha erkin tushadi. Bazm yoki teatr uchun tayyor obraz — taqinchoqlar va poshnali tufli qoʻshsangiz kifoya."
+    },
+    "price": 589000,
+    "oldPrice": null,
+    "rating": 4.7,
+    "reviews": 143,
+    "sold": 690,
+    "stock": 330,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.7,
+    "badges": [
+      "new"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      3
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "xs",
+            "label": {
+              "ru": "XS",
+              "uz": "XS"
+            },
+            "priceDelta": 0,
+            "stock": 35
+          },
+          {
+            "id": "s",
+            "label": {
+              "ru": "S",
+              "uz": "S"
+            },
+            "priceDelta": 0,
+            "stock": 85
+          },
+          {
+            "id": "m",
+            "label": {
+              "ru": "M",
+              "uz": "M"
+            },
+            "priceDelta": 0,
+            "stock": 105
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "L",
+              "uz": "L"
+            },
+            "priceDelta": 0,
+            "stock": 70
+          },
+          {
+            "id": "xl",
+            "label": {
+              "ru": "XL",
+              "uz": "XL"
+            },
+            "priceDelta": 0,
+            "stock": 35
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Корсет",
+          "uz": "Korset"
+        },
+        "value": {
+          "ru": "Экокожа, косточки",
+          "uz": "Eko-charm, suyakchalar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Юбка",
+          "uz": "Yubka"
+        },
+        "value": {
+          "ru": "Атлас (полиэстер)",
+          "uz": "Satin (poliester)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина юбки",
+          "uz": "Yubka uzunligi"
+        },
+        "value": {
+          "ru": "В пол",
+          "uz": "Yergacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "В комплекте",
+          "uz": "Toʻplamda"
+        },
+        "value": {
+          "ru": "Корсет, юбка",
+          "uz": "Korset, yubka"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Mancheng Fashion Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.7,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Dildora Q.",
+        "rating": 5,
+        "text": {
+          "ru": "Комплект выглядит дороже своей цены. Юбка не мнётся, блеск благородный.",
+          "uz": "Toʻplam narxidan qimmatroq koʻrinadi. Yubka gʻijimlanmaydi, yaltirashi nafis."
+        },
+        "date": "2026-10-11"
+      },
+      {
+        "author": "Rano J.",
+        "rating": 5,
+        "text": {
+          "ru": "Комплект пришёл за 15 дней, упакован в пакет и коробку. Размер S на мой 44-й — как влитой.",
+          "uz": "15 kunda keldi, paket va qutiga qadoqlangan. S oʻlcham mening 44-oʻlchamimga juda mos."
+        },
+        "date": "2026-09-03"
+      }
+    ]
+  },
+  {
+    "djId": 180,
+    "categoryId": "clothing",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Платье миди без бретелей в горошек, белое с красным",
+      "uz": "Bretelsiz midi koʻylak, qizil noʻxatli, oq"
+    },
+    "subtitle": {
+      "ru": "Ретро-силуэт · Пышная юбка · Бант",
+      "uz": "Retro siluet · Hajmdor yubka · Bant"
+    },
+    "description": {
+      "ru": "Платье в стиле 50-х: белая ткань в мелкий красный горошек, лиф без бретелей с фигурным краем и бант на талии. Пышная юбка миди с красной окантовкой по подолу создаёт романтичный ретро-силуэт. Хорошо смотрится с красными лодочками или белыми кедами.",
+      "uz": "50-yillar uslubidagi koʻylak: mayda qizil noʻxatli oq mato, chetlari jingalak bretelsiz ustki qism va belda bant. Etagi qizil hoshiyali hajmdor midi yubka romantik retro siluet yaratadi. Qizil tufli yoki oq kedlar bilan chiroyli koʻrinadi."
+    },
+    "price": 389000,
+    "oldPrice": 429000,
+    "rating": 4.9,
+    "reviews": 1130,
+    "sold": 6200,
+    "stock": 60,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.6,
+    "badges": [
+      "choice",
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "white-red-dots",
+            "label": {
+              "ru": "Белый в красный горошек",
+              "uz": "Oq, qizil noʻxatli"
+            },
+            "hex": "#F4F1EC",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 36
+          },
+          {
+            "id": "black-white-dots",
+            "label": {
+              "ru": "Чёрный в белый горошек",
+              "uz": "Qora, oq noʻxatli"
+            },
+            "hex": "#1C1C1E",
+            "priceDelta": 0,
+            "stock": 14
+          },
+          {
+            "id": "navy-white-dots",
+            "label": {
+              "ru": "Синий в белый горошек",
+              "uz": "Toʻq koʻk, oq noʻxatli"
+            },
+            "hex": "#22385C",
+            "priceDelta": 0,
+            "stock": 10
+          }
+        ]
+      },
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "xs",
+            "label": {
+              "ru": "XS",
+              "uz": "XS"
+            },
+            "priceDelta": 0,
+            "stock": 8
+          },
+          {
+            "id": "s",
+            "label": {
+              "ru": "S",
+              "uz": "S"
+            },
+            "priceDelta": 0,
+            "stock": 18
+          },
+          {
+            "id": "m",
+            "label": {
+              "ru": "M",
+              "uz": "M"
+            },
+            "priceDelta": 0,
+            "stock": 20
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "L",
+              "uz": "L"
+            },
+            "priceDelta": 0,
+            "stock": 10
+          },
+          {
+            "id": "xl",
+            "label": {
+              "ru": "XL",
+              "uz": "XL"
+            },
+            "priceDelta": 0,
+            "stock": 4
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Состав",
+          "uz": "Tarkibi"
+        },
+        "value": {
+          "ru": "Хлопок 97%, эластан 3%",
+          "uz": "Paxta 97%, elastan 3%"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "Миди",
+          "uz": "Midi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вырез",
+          "uz": "Yoqa shakli"
+        },
+        "value": {
+          "ru": "Без бретелей, фигурный край",
+          "uz": "Bretelsiz, jingalak chetli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Застёжка",
+          "uz": "Taqilma"
+        },
+        "value": {
+          "ru": "Потайная молния сзади",
+          "uz": "Orqada yashirin zamok"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Hangzhou Ruoxi Apparel Co., Ltd.",
+      "city": {
+        "ru": "Ханчжоу",
+        "uz": "Xanchjou"
+      },
+      "rating": 4.9,
+      "years": 10,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Aziza F.",
+        "rating": 5,
+        "text": {
+          "ru": "Самое красивое платье в моём шкафу! Юбка держит объём, горошек ровный.",
+          "uz": "Shkafimdagi eng chiroyli koʻylak! Yubkasi hajmini saqlaydi, noʻxatlari tekis."
+        },
+        "date": "2026-05-16"
+      },
+      {
+        "author": "Aliya D.",
+        "rating": 5,
+        "text": {
+          "ru": "Брала на фотосессию, размер M подошёл идеально. Доставка 14 дней.",
+          "uz": "Fotosessiya uchun oldim, M oʻlcham juda mos keldi. 14 kunda yetkazib berishdi."
+        },
+        "date": "2026-04-04"
+      }
+    ]
+  },
+  {
+    "djId": 181,
+    "categoryId": "clothing",
+    "source": "alibaba",
+    "brand": null,
+    "title": {
+      "ru": "Платье макси колорблок с длинным рукавом, бордовое",
+      "uz": "Uzun yengli kolorblok maksi koʻylak, bordo"
+    },
+    "subtitle": {
+      "ru": "Контрастные рукава · Разрез сбоку",
+      "uz": "Kontrast yenglar · Yon tomonda kesik"
+    },
+    "description": {
+      "ru": "Платье прямого кроя длины макси в технике колорблок: бордовый перед, чёрная спинка и контрастные рукава — малиновый и молочный. Округлый вырез с персиковой окантовкой и разрез сбоку делают силуэт лёгким. Смелый вариант для выставки, ужина или встречи в творческой среде.",
+      "uz": "Kolorblok uslubidagi toʻgʻri bichimli maksi koʻylak: bordo old qism, qora orqa qism va kontrast yenglar — toʻq pushti va sutrang. Shaftoli rangli hoshiyali dumaloq yoqa va yon tomondagi kesik siluetni yengil qiladi. Koʻrgazma, kechki ovqat yoki ijodiy muhitdagi uchrashuv uchun dadil tanlov."
+    },
+    "price": 1890000,
+    "oldPrice": 2190000,
+    "rating": 4.7,
+    "reviews": 38,
+    "sold": 160,
+    "stock": 62,
+    "deliveryDays": [
+      12,
+      19
+    ],
+    "weightKg": 0.75,
+    "badges": [
+      "new",
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "xs",
+            "label": {
+              "ru": "XS",
+              "uz": "XS"
+            },
+            "priceDelta": 0,
+            "stock": 6
+          },
+          {
+            "id": "s",
+            "label": {
+              "ru": "S",
+              "uz": "S"
+            },
+            "priceDelta": 0,
+            "stock": 16
+          },
+          {
+            "id": "m",
+            "label": {
+              "ru": "M",
+              "uz": "M"
+            },
+            "priceDelta": 0,
+            "stock": 20
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "L",
+              "uz": "L"
+            },
+            "priceDelta": 0,
+            "stock": 14
+          },
+          {
+            "id": "xl",
+            "label": {
+              "ru": "XL",
+              "uz": "XL"
+            },
+            "priceDelta": 0,
+            "stock": 6
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Ткань",
+          "uz": "Mato"
+        },
+        "value": {
+          "ru": "Креп: полиэстер 95%, эластан 5%",
+          "uz": "Krep: poliester 95%, elastan 5%"
+        }
+      },
+      {
+        "name": {
+          "ru": "Силуэт",
+          "uz": "Siluet"
+        },
+        "value": {
+          "ru": "Прямой",
+          "uz": "Toʻgʻri"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "value": {
+          "ru": "Макси",
+          "uz": "Maksi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Рукав",
+          "uz": "Yenglari"
+        },
+        "value": {
+          "ru": "Длинный, контрастный",
+          "uz": "Uzun, kontrast rangli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Детали",
+          "uz": "Detallar"
+        },
+        "value": {
+          "ru": "Разрез сбоку",
+          "uz": "Yon tomonda kesik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shanghai Yanshang Garment Co., Ltd.",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.6,
+      "years": 9,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nodira H.",
+        "rating": 5,
+        "text": {
+          "ru": "Необычное платье, на работе все оценили. Ткань плотная, не просвечивает.",
+          "uz": "Gʻayrioddiy koʻylak, ishxonada hamma maqtadi. Matosi zich, ichi koʻrinmaydi."
+        },
+        "date": "2026-10-18"
+      },
+      {
+        "author": "Elena K.",
+        "rating": 4,
+        "text": {
+          "ru": "Красиво сидит, но рукава длинноваты для моего роста 158.",
+          "uz": "Chiroyli turadi, lekin 158 boʻyim uchun yenglari biroz uzun."
+        },
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "djId": 185,
+    "categoryId": "shoes",
+    "source": "1688",
+    "brand": "Comfort Trends",
+    "title": {
+      "ru": "Туфли-лодочки Comfort Trends на шпильке, чёрные",
+      "uz": "Comfort Trends ingichka poshnali tuflisi, qora"
+    },
+    "subtitle": {
+      "ru": "Острый мысок · Каблук 10 см",
+      "uz": "Uchli burun · Poshnasi 10 sm"
+    },
+    "description": {
+      "ru": "Классические чёрные лодочки с острым мыском на тонкой шпильке. Верх из гладкой экокожи, внутри — мягкая коричневая подкладка и стелька с поролоновой вставкой. Универсальная пара для офиса, вечернего выхода и торжеств.",
+      "uz": "Ingichka poshnali, uchli burunli klassik qora tufli. Ustki qismi silliq eko-charmdan, ichida yumshoq jigarrang astar va porolon qatlamli ichki taglik bor. Ofis, kechki tadbirlar va bayramlar uchun universal tanlov."
+    },
+    "price": 159000,
+    "oldPrice": null,
+    "rating": 4.1,
+    "reviews": 41,
+    "sold": 290,
+    "stock": 30,
+    "deliveryDays": [
+      15,
+      24
+    ],
+    "weightKg": 0.75,
+    "badges": [
+      "wholesale"
+    ],
+    "imageIdx": [
+      1,
+      0,
+      3
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "35",
+            "label": {
+              "ru": "35",
+              "uz": "35"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          },
+          {
+            "id": "36",
+            "label": {
+              "ru": "36",
+              "uz": "36"
+            },
+            "priceDelta": 0,
+            "stock": 6
+          },
+          {
+            "id": "37",
+            "label": {
+              "ru": "37",
+              "uz": "37"
+            },
+            "priceDelta": 0,
+            "stock": 9
+          },
+          {
+            "id": "38",
+            "label": {
+              "ru": "38",
+              "uz": "38"
+            },
+            "priceDelta": 0,
+            "stock": 9
+          },
+          {
+            "id": "39",
+            "label": {
+              "ru": "39",
+              "uz": "39"
+            },
+            "priceDelta": 0,
+            "stock": 6
+          },
+          {
+            "id": "40",
+            "label": {
+              "ru": "40",
+              "uz": "40"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал верха",
+          "uz": "Ustki qismi"
+        },
+        "value": {
+          "ru": "Экокожа",
+          "uz": "Eko-charm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подкладка",
+          "uz": "Astar"
+        },
+        "value": {
+          "ru": "Экокожа, коричневая",
+          "uz": "Eko-charm, jigarrang"
+        }
+      },
+      {
+        "name": {
+          "ru": "Высота каблука",
+          "uz": "Poshna balandligi"
+        },
+        "value": {
+          "ru": "10 см",
+          "uz": "10 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Мысок",
+          "uz": "Burni"
+        },
+        "value": {
+          "ru": "Острый",
+          "uz": "Uchli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Dongguan Lixing Footwear Co., Ltd.",
+      "city": {
+        "ru": "Дунгуань",
+        "uz": "Dunguan"
+      },
+      "rating": 4.3,
+      "years": 2,
+      "verified": false
+    },
+    "reviewsPreview": [
+      {
+        "author": "Gulnoza T.",
+        "rating": 4,
+        "text": {
+          "ru": "За такую цену отличные туфли. Первые дни немного жали в пальцах.",
+          "uz": "Bu narxga aʼlo tufli. Dastlabki kunlarda barmoqlarni biroz siqdi."
+        },
+        "date": "2026-03-02"
+      },
+      {
+        "author": "Irina M.",
+        "rating": 3,
+        "text": {
+          "ru": "Внешне как на фото, но каблук высоковат для работы. Пришли за 22 дня.",
+          "uz": "Tashqi koʻrinishi rasmdagidek, lekin ish uchun poshnasi biroz baland. 22 kunda keldi."
+        },
+        "date": "2026-01-29"
+      }
+    ]
+  },
+  {
+    "djId": 186,
+    "categoryId": "shoes",
+    "source": "poizon",
+    "brand": "Calvin Klein",
+    "title": {
+      "ru": "Босоножки-мюли Calvin Klein на шпильке, чёрные",
+      "uz": "Calvin Klein ingichka poshnali bosonojkalari, qora"
+    },
+    "subtitle": {
+      "ru": "Открытая пятка · Каблук 10 см · Оригинал",
+      "uz": "Orqasi ochiq · Poshnasi 10 sm · Original"
+    },
+    "description": {
+      "ru": "Босоножки-мюли Calvin Klein на высокой шпильке: широкая фактурная полоса на подъёме и тонкий лаковый ремешок у пальцев. Открытые пятка и мысок делают модель лёгкой, на стельке — логотип бренда. Перед отправкой пара проходит проверку подлинности POIZON.",
+      "uz": "Baland ingichka poshnali Calvin Klein bosonojkalari: oyoq ustida keng teksturali tasma va barmoqlar yonida ingichka lakli tasmacha. Orqasi va burni ochiq boʻlgani uchun model yengil koʻrinadi, ichki taglikda brend logotipi bor. Joʻnatishdan oldin har bir juft POIZON haqiqiylik tekshiruvidan oʻtadi."
+    },
+    "price": 1049000,
+    "oldPrice": null,
+    "rating": 4.9,
+    "reviews": 266,
+    "sold": 1180,
+    "stock": 45,
+    "deliveryDays": [
+      7,
+      12
+    ],
+    "weightKg": 0.9,
+    "badges": [
+      "new",
+      "original",
+      "fast"
+    ],
+    "imageIdx": [
+      1,
+      0,
+      2
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "35",
+            "label": {
+              "ru": "35",
+              "uz": "35"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          },
+          {
+            "id": "36",
+            "label": {
+              "ru": "36",
+              "uz": "36"
+            },
+            "priceDelta": 0,
+            "stock": 8
+          },
+          {
+            "id": "37",
+            "label": {
+              "ru": "37",
+              "uz": "37"
+            },
+            "priceDelta": 0,
+            "stock": 12
+          },
+          {
+            "id": "38",
+            "label": {
+              "ru": "38",
+              "uz": "38"
+            },
+            "priceDelta": 0,
+            "stock": 11
+          },
+          {
+            "id": "39",
+            "label": {
+              "ru": "39",
+              "uz": "39"
+            },
+            "priceDelta": 0,
+            "stock": 9
+          },
+          {
+            "id": "40",
+            "label": {
+              "ru": "40",
+              "uz": "40"
+            },
+            "priceDelta": 0,
+            "stock": 5
+          },
+          {
+            "id": "41",
+            "label": {
+              "ru": "41",
+              "uz": "41"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал верха",
+          "uz": "Ustki qismi"
+        },
+        "value": {
+          "ru": "Кожа, лаковая кожа",
+          "uz": "Charm, lakli charm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Высота каблука",
+          "uz": "Poshna balandligi"
+        },
+        "value": {
+          "ru": "10 см",
+          "uz": "10 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Мюли с открытым мыском",
+          "uz": "Orqasi va burni ochiq"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подошва",
+          "uz": "Tagcharm"
+        },
+        "value": {
+          "ru": "Резина",
+          "uz": "Rezina"
+        }
+      },
+      {
+        "name": {
+          "ru": "Проверка",
+          "uz": "Tekshiruv"
+        },
+        "value": {
+          "ru": "Проверка подлинности POIZON",
+          "uz": "POIZON haqiqiylik tekshiruvi"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 6624",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.8,
+      "years": 4,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Lobar Z.",
+        "rating": 5,
+        "text": {
+          "ru": "Для такой шпильки колодка очень удобная — весь вечер на свадьбе провела в них.",
+          "uz": "Shunday ingichka poshnaga qaramay qolipi juda qulay — toʻyda kechasi bilan shularda yurdim."
+        },
+        "date": "2026-08-23"
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "text": {
+          "ru": "Оригинал, пришли за 8 дней в коробке с пыльником. Размер стандартный.",
+          "uz": "Original, 8 kunda chang xaltasi bilan qutida keldi. Oʻlchami standart."
+        },
+        "date": "2026-07-12"
+      }
+    ]
+  },
+  {
+    "djId": 187,
+    "categoryId": "shoes",
+    "source": "1688",
+    "brand": "Fashion Diva",
+    "title": {
+      "ru": "Туфли-лодочки Fashion Diva на шпильке, золотистые",
+      "uz": "Fashion Diva ingichka poshnali tuflisi, oltin rang"
+    },
+    "subtitle": {
+      "ru": "Металлик · Острый мысок · 11 см",
+      "uz": "Metallik · Uchli burun · 11 sm"
+    },
+    "description": {
+      "ru": "Праздничные лодочки с эффектом металлика в золотистом цвете: острый мысок, глубокий боковой вырез и тонкая шпилька. Мягкая подкладка и стелька с амортизацией помогают продержаться весь вечер. Хорошая пара к вечернему платью — для свадьбы, выпускного или Нового года.",
+      "uz": "Oltin rangli metallik effektli bayramona tufli: uchli burun, chuqur yon kesim va ingichka poshna. Yumshoq astar va amortizatsiyali ichki taglik butun kecha davomida qulaylik beradi. Kechki koʻylakka mos tanlov — toʻy, bitiruv kechasi yoki Yangi yil uchun."
+    },
+    "price": 349000,
+    "oldPrice": 449000,
+    "rating": 4.3,
+    "reviews": 172,
+    "sold": 1040,
+    "stock": 390,
+    "deliveryDays": [
+      14,
+      21
+    ],
+    "weightKg": 0.8,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      1,
+      0,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "gold",
+            "label": {
+              "ru": "Золотистый",
+              "uz": "Oltin rang"
+            },
+            "hex": "#C9A45C",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 230
+          },
+          {
+            "id": "silver",
+            "label": {
+              "ru": "Серебристый",
+              "uz": "Kumushrang"
+            },
+            "hex": "#BFC1C6",
+            "priceDelta": 0,
+            "stock": 100
+          },
+          {
+            "id": "rose-gold",
+            "label": {
+              "ru": "Розовое золото",
+              "uz": "Pushti-oltin rang"
+            },
+            "hex": "#D8A797",
+            "priceDelta": 0,
+            "stock": 60
+          }
+        ]
+      },
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "34",
+            "label": {
+              "ru": "34",
+              "uz": "34"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          },
+          {
+            "id": "35",
+            "label": {
+              "ru": "35",
+              "uz": "35"
+            },
+            "priceDelta": 0,
+            "stock": 25
+          },
+          {
+            "id": "36",
+            "label": {
+              "ru": "36",
+              "uz": "36"
+            },
+            "priceDelta": 0,
+            "stock": 70
+          },
+          {
+            "id": "37",
+            "label": {
+              "ru": "37",
+              "uz": "37"
+            },
+            "priceDelta": 0,
+            "stock": 100
+          },
+          {
+            "id": "38",
+            "label": {
+              "ru": "38",
+              "uz": "38"
+            },
+            "priceDelta": 0,
+            "stock": 100
+          },
+          {
+            "id": "39",
+            "label": {
+              "ru": "39",
+              "uz": "39"
+            },
+            "priceDelta": 0,
+            "stock": 65
+          },
+          {
+            "id": "40",
+            "label": {
+              "ru": "40",
+              "uz": "40"
+            },
+            "priceDelta": 0,
+            "stock": 30
+          },
+          {
+            "id": "41",
+            "label": {
+              "ru": "41",
+              "uz": "41"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал верха",
+          "uz": "Ustki qismi"
+        },
+        "value": {
+          "ru": "Экокожа с покрытием металлик",
+          "uz": "Metallik qoplamali eko-charm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Высота каблука",
+          "uz": "Poshna balandligi"
+        },
+        "value": {
+          "ru": "11 см",
+          "uz": "11 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Мысок",
+          "uz": "Burni"
+        },
+        "value": {
+          "ru": "Острый",
+          "uz": "Uchli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подошва",
+          "uz": "Tagcharm"
+        },
+        "value": {
+          "ru": "Нескользящая резина",
+          "uz": "Sirpanmaydigan rezina"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Huadu Xiumei Shoes Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.6,
+      "years": 7,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sabina G.",
+        "rating": 5,
+        "text": {
+          "ru": "Блестят красиво и не выглядят дёшево. Надевала на выпускной.",
+          "uz": "Chiroyli yaltiraydi va arzon koʻrinmaydi. Bitiruv kechasida kiydim."
+        },
+        "date": "2026-06-19"
+      },
+      {
+        "author": "Natalya R.",
+        "rating": 4,
+        "text": {
+          "ru": "Размер в размер, 37. Каблук высокий, с непривычки ноги устают.",
+          "uz": "Oʻlchami aynan mos, 37. Poshnasi baland, odatlanmaganim uchun oyoqlarim charchaydi."
+        },
+        "date": "2026-05-11"
+      }
+    ]
+  },
+  {
+    "djId": 188,
+    "categoryId": "shoes",
+    "source": "1688",
+    "brand": "Pampi",
+    "title": {
+      "ru": "Туфли-лодочки Pampi лаковые на шпильке, чёрные",
+      "uz": "Pampi lakli ingichka poshnali tuflisi, qora"
+    },
+    "subtitle": {
+      "ru": "Лак · Острый мысок · Каблук 12 см",
+      "uz": "Lak · Uchli burun · Poshnasi 12 sm"
+    },
+    "description": {
+      "ru": "Чёрные лаковые лодочки на высокой шпильке с острым мыском и контрастной красной подошвой. Глубокий вырез визуально удлиняет ногу, а мягкая бежевая подкладка не натирает. Подходят к платью, брючному костюму и вечерним образам.",
+      "uz": "Baland ingichka poshnali, uchli burunli va kontrast qizil tagcharmli qora lakli tufli. Chuqur kesim oyoqni vizual uzunroq koʻrsatadi, yumshoq bej astar esa ishqalamaydi. Koʻylak, shim-kostyum va kechki obrazlarga mos keladi."
+    },
+    "price": 229000,
+    "oldPrice": null,
+    "rating": 4.3,
+    "reviews": 1560,
+    "sold": 11200,
+    "stock": 490,
+    "deliveryDays": [
+      12,
+      19
+    ],
+    "weightKg": 0.75,
+    "badges": [
+      "hit"
+    ],
+    "imageIdx": [
+      1,
+      0,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#141414",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 300
+          },
+          {
+            "id": "beige",
+            "label": {
+              "ru": "Бежевый",
+              "uz": "Bej"
+            },
+            "hex": "#D8B899",
+            "priceDelta": 0,
+            "stock": 110
+          },
+          {
+            "id": "red",
+            "label": {
+              "ru": "Красный",
+              "uz": "Qizil"
+            },
+            "hex": "#B3121B",
+            "priceDelta": 0,
+            "stock": 80
+          }
+        ]
+      },
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "34",
+            "label": {
+              "ru": "34",
+              "uz": "34"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          },
+          {
+            "id": "35",
+            "label": {
+              "ru": "35",
+              "uz": "35"
+            },
+            "priceDelta": 0,
+            "stock": 30
+          },
+          {
+            "id": "36",
+            "label": {
+              "ru": "36",
+              "uz": "36"
+            },
+            "priceDelta": 0,
+            "stock": 85
+          },
+          {
+            "id": "37",
+            "label": {
+              "ru": "37",
+              "uz": "37"
+            },
+            "priceDelta": 0,
+            "stock": 125
+          },
+          {
+            "id": "38",
+            "label": {
+              "ru": "38",
+              "uz": "38"
+            },
+            "priceDelta": 0,
+            "stock": 120
+          },
+          {
+            "id": "39",
+            "label": {
+              "ru": "39",
+              "uz": "39"
+            },
+            "priceDelta": 0,
+            "stock": 85
+          },
+          {
+            "id": "40",
+            "label": {
+              "ru": "40",
+              "uz": "40"
+            },
+            "priceDelta": 0,
+            "stock": 45
+          },
+          {
+            "id": "41",
+            "label": {
+              "ru": "41",
+              "uz": "41"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал верха",
+          "uz": "Ustki qismi"
+        },
+        "value": {
+          "ru": "Лаковая экокожа",
+          "uz": "Lakli eko-charm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подкладка",
+          "uz": "Astar"
+        },
+        "value": {
+          "ru": "Экокожа, бежевая",
+          "uz": "Eko-charm, bej"
+        }
+      },
+      {
+        "name": {
+          "ru": "Высота каблука",
+          "uz": "Poshna balandligi"
+        },
+        "value": {
+          "ru": "12 см",
+          "uz": "12 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Подошва",
+          "uz": "Tagcharm"
+        },
+        "value": {
+          "ru": "Красная, нескользящая",
+          "uz": "Qizil, sirpanmaydigan"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Dongguan Houjie Bella Footwear Co., Ltd.",
+      "city": {
+        "ru": "Дунгуань",
+        "uz": "Dunguan"
+      },
+      "rating": 4.7,
+      "years": 13,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Umida K.",
+        "rating": 5,
+        "text": {
+          "ru": "Ношу на работу третий месяц — лак не потрескался, каблук устойчивый.",
+          "uz": "Uch oydan beri ishga kiyaman — laki yorilmadi, poshnasi barqaror."
+        },
+        "date": "2026-09-30"
+      },
+      {
+        "author": "Mohira S.",
+        "rating": 4,
+        "text": {
+          "ru": "Красивые, но узковаты в подъёме, взяла на размер больше. Шли 17 дней.",
+          "uz": "Chiroyli, lekin oyoq ustida biroz tor, bir oʻlcham kattasini oldim. 17 kunda keldi."
+        },
+        "date": "2026-08-08"
+      }
+    ]
+  },
+  {
+    "djId": 189,
+    "categoryId": "shoes",
+    "source": "1688",
+    "brand": "Fashion Express",
+    "title": {
+      "ru": "Туфли-лодочки Fashion Express лаковые, красные",
+      "uz": "Fashion Express lakli tuflisi, qizil"
+    },
+    "subtitle": {
+      "ru": "Лак · Каблук 9 см · Мягкая стелька",
+      "uz": "Lak · Poshnasi 9 sm · Yumshoq taglik"
+    },
+    "description": {
+      "ru": "Яркие красные лодочки из лаковой экокожи на шпильке средней высоты со слегка закруглённым мыском. Удобная колодка и мягкая стелька подойдут тем, кто носит каблук не каждый день. Добавят цвета и чёрному платью, и джинсам с белой рубашкой.",
+      "uz": "Oʻrtacha balandlikdagi ingichka poshnali, burni biroz dumaloq yorqin qizil lakli tufli. Qulay qolip va yumshoq ichki taglik poshnali poyabzalni har kuni kiymaydiganlar uchun mos. Qora koʻylakka ham, jinsi shim va oq koʻylakka ham rang qoʻshadi."
+    },
+    "price": 259000,
+    "oldPrice": 299000,
+    "rating": 4.3,
+    "reviews": 205,
+    "sold": 1320,
+    "stock": 70,
+    "deliveryDays": [
+      16,
+      24
+    ],
+    "weightKg": 0.75,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      1,
+      0,
+      3
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "34",
+            "label": {
+              "ru": "34",
+              "uz": "34"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          },
+          {
+            "id": "35",
+            "label": {
+              "ru": "35",
+              "uz": "35"
+            },
+            "priceDelta": 0,
+            "stock": 4
+          },
+          {
+            "id": "36",
+            "label": {
+              "ru": "36",
+              "uz": "36"
+            },
+            "priceDelta": 0,
+            "stock": 12
+          },
+          {
+            "id": "37",
+            "label": {
+              "ru": "37",
+              "uz": "37"
+            },
+            "priceDelta": 0,
+            "stock": 18
+          },
+          {
+            "id": "38",
+            "label": {
+              "ru": "38",
+              "uz": "38"
+            },
+            "priceDelta": 0,
+            "stock": 18
+          },
+          {
+            "id": "39",
+            "label": {
+              "ru": "39",
+              "uz": "39"
+            },
+            "priceDelta": 0,
+            "stock": 12
+          },
+          {
+            "id": "40",
+            "label": {
+              "ru": "40",
+              "uz": "40"
+            },
+            "priceDelta": 0,
+            "stock": 6
+          },
+          {
+            "id": "41",
+            "label": {
+              "ru": "41",
+              "uz": "41"
+            },
+            "priceDelta": 0,
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал верха",
+          "uz": "Ustki qismi"
+        },
+        "value": {
+          "ru": "Лаковая экокожа",
+          "uz": "Lakli eko-charm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Высота каблука",
+          "uz": "Poshna balandligi"
+        },
+        "value": {
+          "ru": "9 см",
+          "uz": "9 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Мысок",
+          "uz": "Burni"
+        },
+        "value": {
+          "ru": "Закруглённый",
+          "uz": "Dumaloq"
+        }
+      },
+      {
+        "name": {
+          "ru": "Стелька",
+          "uz": "Ichki taglik"
+        },
+        "value": {
+          "ru": "С мягкой подушкой",
+          "uz": "Yumshoq yostiqchali"
+        }
+      },
+      {
+        "name": {
+          "ru": "Страна производства",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Quanzhou Aimei Shoes Co., Ltd.",
+      "city": {
+        "ru": "Цюаньчжоу",
+        "uz": "Syuanchjou"
+      },
+      "rating": 4.5,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nargiza A.",
+        "rating": 5,
+        "text": {
+          "ru": "Цвет сочный, именно такой красный я искала. Каблук устойчивый.",
+          "uz": "Rangi toʻq va yorqin, aynan shunday qizil rangni izlagandim. Poshnasi barqaror."
+        },
+        "date": "2026-02-11"
+      },
+      {
+        "author": "Tatyana B.",
+        "rating": 4,
+        "text": {
+          "ru": "Удобные, но шли 23 дня. Коробка немного помята, сами туфли целые.",
+          "uz": "Qulay, lekin 23 kunda keldi. Qutisi biroz ezilgan, tuflilarning oʻzi butun."
+        },
+        "date": "2026-03-15"
+      }
+    ]
+  }
+]

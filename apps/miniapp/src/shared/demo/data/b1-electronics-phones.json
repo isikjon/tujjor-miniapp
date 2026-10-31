@@ -1,0 +1,2559 @@
+[
+  {
+    "djId": 123,
+    "categoryId": "electronics",
+    "source": "poizon",
+    "brand": "Apple",
+    "title": {
+      "ru": "Смартфон Apple iPhone 13 Pro, 128 ГБ, небесно-голубой",
+      "uz": "Apple iPhone 13 Pro smartfoni, 128 GB, havorang"
+    },
+    "subtitle": {
+      "ru": "ProMotion 120 Гц · тройная камера 12 Мп",
+      "uz": "ProMotion 120 Hz · uchta 12 MP kamera"
+    },
+    "description": {
+      "ru": "iPhone 13 Pro оснащён дисплеем Super Retina XDR 6,1″ с технологией ProMotion до 120 Гц и процессором A15 Bionic. Тройная камера 12 Мп поддерживает 3-кратный оптический зум и макросъёмку, корпус защищён от воды и пыли по стандарту IP68. Поставка через POIZON: смартфон проходит проверку подлинности перед отправкой.",
+      "uz": "iPhone 13 Pro chastotasi 120 Hz gacha boʻlgan 6,1″ Super Retina XDR ProMotion displeyi va A15 Bionic protsessori bilan jihozlangan. 12 megapikselli uchta kamera 3x optik zum va makro suratga olishni qoʻllab-quvvatlaydi, korpus IP68 standarti boʻyicha suv va changdan himoyalangan. POIZON orqali yetkaziladi: smartfon joʻnatishdan oldin haqiqiylik tekshiruvidan oʻtadi."
+    },
+    "price": 13490000,
+    "oldPrice": null,
+    "rating": 4.6,
+    "reviews": 2146,
+    "sold": 9800,
+    "stock": 34,
+    "deliveryDays": [
+      7,
+      11
+    ],
+    "weightKg": 0.45,
+    "badges": [
+      "original",
+      "fast",
+      "hit"
+    ],
+    "imageIdx": [
+      2,
+      0,
+      1
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "sierra-blue",
+            "label": {
+              "ru": "Небесно-голубой",
+              "uz": "Havorang"
+            },
+            "hex": "#A7C1D9",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 14
+          },
+          {
+            "id": "graphite",
+            "label": {
+              "ru": "Графитовый",
+              "uz": "Grafit rang"
+            },
+            "hex": "#54524F",
+            "priceDelta": 0,
+            "stock": 9
+          },
+          {
+            "id": "silver",
+            "label": {
+              "ru": "Серебристый",
+              "uz": "Kumushrang"
+            },
+            "hex": "#E3E4E0",
+            "priceDelta": 0,
+            "stock": 7
+          },
+          {
+            "id": "gold",
+            "label": {
+              "ru": "Золотой",
+              "uz": "Oltin rang"
+            },
+            "hex": "#F4E3C9",
+            "priceDelta": 0,
+            "stock": 4
+          }
+        ]
+      },
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "128gb",
+            "label": {
+              "ru": "128 ГБ",
+              "uz": "128 GB"
+            },
+            "priceDelta": 0,
+            "stock": 18
+          },
+          {
+            "id": "256gb",
+            "label": {
+              "ru": "256 ГБ",
+              "uz": "256 GB"
+            },
+            "priceDelta": 1290000,
+            "stock": 11
+          },
+          {
+            "id": "512gb",
+            "label": {
+              "ru": "512 ГБ",
+              "uz": "512 GB"
+            },
+            "priceDelta": 3490000,
+            "stock": 5
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "6,1″ OLED, 2532×1170, 120 Гц",
+          "uz": "6,1″ OLED, 2532×1170, 120 Hz"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Apple A15 Bionic, 6 ядер",
+          "uz": "Apple A15 Bionic, 6 yadroli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Основная камера",
+          "uz": "Asosiy kamera"
+        },
+        "value": {
+          "ru": "12 + 12 + 12 Мп, сканер LiDAR",
+          "uz": "12 + 12 + 12 MP, LiDAR skaneri"
+        }
+      },
+      {
+        "name": {
+          "ru": "Фронтальная камера",
+          "uz": "Old kamera"
+        },
+        "value": {
+          "ru": "12 Мп, TrueDepth",
+          "uz": "12 MP, TrueDepth"
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от воды",
+          "uz": "Suvdan himoya"
+        },
+        "value": {
+          "ru": "IP68 (до 6 м, 30 мин)",
+          "uz": "IP68 (6 m gacha, 30 daqiqa)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "204 г",
+          "uz": "204 g"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 3196",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.9,
+      "years": 4,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Jasur T.",
+        "rating": 5,
+        "text": {
+          "ru": "Пришёл за 9 дней, коробка в заводской плёнке. IMEI проверил на сайте Apple — всё сходится, ёмкость аккумулятора 100%.",
+          "uz": "9 kunda keldi, qutisi zavod plyonkasida. IMEI raqamini Apple saytida tekshirdim — hammasi mos, batareya sigʻimi 100%."
+        },
+        "date": "2026-09-21"
+      },
+      {
+        "author": "Madina K.",
+        "rating": 5,
+        "text": {
+          "ru": "Цвет в жизни ещё нежнее, чем на фото, очень красивый. Камера отлично снимает портреты и макро.",
+          "uz": "Rangi hayotda rasmdagidan ham nozikroq, juda chiroyli. Kamerasi portret va makro suratlarni aʼlo darajada oladi."
+        },
+        "date": "2026-08-03"
+      },
+      {
+        "author": "Behzod A.",
+        "rating": 4,
+        "text": {
+          "ru": "Телефон оригинальный, работает без нареканий. Одну звезду снял: в комплекте нет зарядного блока, пришлось докупать.",
+          "uz": "Telefon asl, hech qanday muammosiz ishlayapti. Bitta yulduzni olib tashladim: toʻplamda zaryadlovchi qurilma yoʻq, alohida sotib olishga toʻgʻri keldi."
+        },
+        "date": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "djId": 126,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Oppo",
+    "title": {
+      "ru": "Смартфон Oppo F19 Pro+ 5G, 8/128 ГБ, чёрный",
+      "uz": "Oppo F19 Pro+ 5G smartfoni, 8/128 GB, qora"
+    },
+    "subtitle": {
+      "ru": "Быстрая зарядка 50 Вт · камера 48 Мп",
+      "uz": "50 Vt tezkor quvvatlash · 48 MP kamera"
+    },
+    "description": {
+      "ru": "Oppo F19 Pro+ 5G — смартфон с AMOLED-экраном 6,43″, процессором MediaTek Dimensity 800U и поддержкой сетей 5G. Основная камера 48 Мп дополнена сверхширокоугольным, макро- и монохромным модулями, фронтальная камера — 16 Мп. Аккумулятор 4310 мАч заряжается по технологии Flash Charge мощностью 50 Вт.",
+      "uz": "Oppo F19 Pro+ 5G — 6,43″ AMOLED ekranli, MediaTek Dimensity 800U protsessorli va 5G tarmoqlarini qoʻllab-quvvatlovchi smartfon. 48 MP asosiy kameraga ultra keng burchakli, makro va monoxrom modullar qoʻshilgan, old kamera — 16 MP. 4310 mAh akkumulyator 50 Vt quvvatli Flash Charge texnologiyasi bilan tez quvvatlanadi."
+    },
+    "price": 4290000,
+    "oldPrice": 4990000,
+    "rating": 4.4,
+    "reviews": 318,
+    "sold": 1450,
+    "stock": 78,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.55,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      2,
+      0,
+      1
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "fluid-black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#2B2D30",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 46
+          },
+          {
+            "id": "space-silver",
+            "label": {
+              "ru": "Серебристый",
+              "uz": "Kumushrang"
+            },
+            "hex": "#C9CDD2",
+            "priceDelta": 0,
+            "stock": 32
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "6,43″ AMOLED, разрешение 2400×1080",
+          "uz": "6,43″ AMOLED, 2400×1080 piksel"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "MediaTek Dimensity 800U, 8 ядер",
+          "uz": "MediaTek Dimensity 800U, 8 yadroli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "value": {
+          "ru": "8 ГБ оперативной, 128 ГБ встроенной",
+          "uz": "8 GB operativ, 128 GB ichki"
+        }
+      },
+      {
+        "name": {
+          "ru": "Основная камера",
+          "uz": "Asosiy kamera"
+        },
+        "value": {
+          "ru": "48 + 8 + 2 + 2 Мп",
+          "uz": "48 + 8 + 2 + 2 MP"
+        }
+      },
+      {
+        "name": {
+          "ru": "Аккумулятор",
+          "uz": "Akkumulyator"
+        },
+        "value": {
+          "ru": "4310 мАч, зарядка 50 Вт",
+          "uz": "4310 mAh, 50 Vt quvvatlash"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "173 г",
+          "uz": "173 g"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Huaxun Mobile Technology Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.7,
+      "years": 9,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sardor M.",
+        "rating": 5,
+        "text": {
+          "ru": "Заряжается очень быстро: с 20 до 100% примерно за 40 минут. Экран яркий, на солнце всё хорошо видно.",
+          "uz": "Juda tez quvvatlanadi: 20 foizdan 100 foizgacha taxminan 40 daqiqada. Ekrani yorqin, quyoshda ham hammasi yaxshi koʻrinadi."
+        },
+        "date": "2026-07-12"
+      },
+      {
+        "author": "Nigora X.",
+        "rating": 4,
+        "text": {
+          "ru": "Доставка заняла 17 дней, упаковка целая. На экране уже наклеена защитная плёнка, в комплекте есть чехол.",
+          "uz": "Yetkazib berish 17 kun davom etdi, qadoq butun. Ekranga himoya plyonkasi yopishtirilgan, toʻplamda gʻilof ham bor."
+        },
+        "date": "2026-05-28"
+      }
+    ]
+  },
+  {
+    "djId": 127,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Oppo",
+    "title": {
+      "ru": "Смартфон Oppo K1, 4/64 ГБ, сине-фиолетовый",
+      "uz": "Oppo K1 smartfoni, 4/64 GB, koʻk-binafsharang"
+    },
+    "subtitle": {
+      "ru": "Фронтальная камера 25 Мп · AMOLED 6,4″",
+      "uz": "25 MP old kamera · 6,4″ AMOLED ekran"
+    },
+    "description": {
+      "ru": "У Oppo K1 AMOLED-экран 6,4″ с каплевидным вырезом под фронтальную камеру 25 Мп. Сканер отпечатка встроен прямо в дисплей, за производительность отвечает процессор Snapdragon 660. Основная камера 16 + 2 Мп, аккумулятор 3600 мАч, есть слот для карты памяти microSD.",
+      "uz": "Oppo K1 smartfonida 6,4″ AMOLED ekran va 25 MP old kamera uchun tomchi shaklidagi kesik bor. Barmoq izi skaneri bevosita displeyga oʻrnatilgan, unumdorlikni Snapdragon 660 protsessori taʼminlaydi. Asosiy kamera 16 + 2 MP, akkumulyator 3600 mAh, microSD xotira kartasi uchun uya mavjud."
+    },
+    "price": 2990000,
+    "oldPrice": 3590000,
+    "rating": 4.7,
+    "reviews": 187,
+    "sold": 940,
+    "stock": 55,
+    "deliveryDays": [
+      11,
+      17
+    ],
+    "weightKg": 0.5,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      3
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "astral-blue",
+            "label": {
+              "ru": "Сине-фиолетовый",
+              "uz": "Koʻk-binafsharang"
+            },
+            "hex": "#3D46B8",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 33
+          },
+          {
+            "id": "piano-black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "priceDelta": 0,
+            "stock": 22
+          }
+        ]
+      },
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "4-64",
+            "label": {
+              "ru": "4/64 ГБ",
+              "uz": "4/64 GB"
+            },
+            "priceDelta": 0,
+            "stock": 35
+          },
+          {
+            "id": "6-64",
+            "label": {
+              "ru": "6/64 ГБ",
+              "uz": "6/64 GB"
+            },
+            "priceDelta": 290000,
+            "stock": 20
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "6,4″ AMOLED, разрешение 2340×1080",
+          "uz": "6,4″ AMOLED, 2340×1080 piksel"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Qualcomm Snapdragon 660, 8 ядер",
+          "uz": "Qualcomm Snapdragon 660, 8 yadroli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Основная камера",
+          "uz": "Asosiy kamera"
+        },
+        "value": {
+          "ru": "16 + 2 Мп",
+          "uz": "16 + 2 MP"
+        }
+      },
+      {
+        "name": {
+          "ru": "Фронтальная камера",
+          "uz": "Old kamera"
+        },
+        "value": {
+          "ru": "25 Мп",
+          "uz": "25 MP"
+        }
+      },
+      {
+        "name": {
+          "ru": "Аккумулятор",
+          "uz": "Akkumulyator"
+        },
+        "value": {
+          "ru": "3600 мАч",
+          "uz": "3600 mAh"
+        }
+      },
+      {
+        "name": {
+          "ru": "Разблокировка",
+          "uz": "Qulfni ochish"
+        },
+        "value": {
+          "ru": "Сканер отпечатка в экране",
+          "uz": "Ekrandagi barmoq izi skaneri"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Dongguan Yuxin Communication Equipment Co., Ltd.",
+      "city": {
+        "ru": "Дунгуань",
+        "uz": "Dunguan"
+      },
+      "rating": 4.6,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Olga S.",
+        "rating": 5,
+        "text": {
+          "ru": "Брала маме: экран большой и яркий, отпечаток в экране срабатывает быстро. Корпус красиво переливается.",
+          "uz": "Onamga oldim: ekrani katta va yorqin, ekrandagi barmoq izi skaneri tez ishlaydi. Korpusi chiroyli tovlanadi."
+        },
+        "date": "2026-04-09"
+      },
+      {
+        "author": "Aziz N.",
+        "rating": 3,
+        "text": {
+          "ru": "За свои деньги нормальный, но в тяжёлых играх подтормаживает. Батареи хватает на день.",
+          "uz": "Narxiga yarasha yaxshi, lekin ogʻir oʻyinlarda biroz qotadi. Batareya bir kunga yetadi."
+        },
+        "date": "2026-02-14"
+      }
+    ]
+  },
+  {
+    "djId": 128,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Realme",
+    "title": {
+      "ru": "Смартфон Realme C35, 4/64 ГБ, зелёный",
+      "uz": "Realme C35 smartfoni, 4/64 GB, yashil"
+    },
+    "subtitle": {
+      "ru": "Камера 50 Мп · аккумулятор 5000 мАч",
+      "uz": "50 MP kamera · 5000 mAh akkumulyator"
+    },
+    "description": {
+      "ru": "Realme C35 сочетает экран 6,6″ Full HD+ и тонкий корпус толщиной 8,1 мм. Основная камера 50 Мп, фронтальная — 8 Мп, восьмиядерный процессор Unisoc T616 уверенно справляется с повседневными задачами. Аккумулятор 5000 мАч поддерживает быструю зарядку 18 Вт, сканер отпечатка встроен в кнопку питания.",
+      "uz": "Realme C35 6,6″ Full HD+ ekran va qalinligi 8,1 mm boʻlgan yupqa korpusni oʻzida birlashtirgan. Asosiy kamera 50 MP, old kamera 8 MP, sakkiz yadroli Unisoc T616 protsessori kundalik vazifalarni bemalol bajaradi. 5000 mAh akkumulyator 18 Vt tezkor quvvatlashni qoʻllab-quvvatlaydi, barmoq izi skaneri quvvat tugmasiga oʻrnatilgan."
+    },
+    "price": 1590000,
+    "oldPrice": 1890000,
+    "rating": 4.6,
+    "reviews": 2873,
+    "sold": 21500,
+    "stock": 214,
+    "deliveryDays": [
+      10,
+      16
+    ],
+    "weightKg": 0.52,
+    "badges": [
+      "hit",
+      "sale"
+    ],
+    "imageIdx": [
+      2,
+      0,
+      1
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "glowing-green",
+            "label": {
+              "ru": "Зелёный",
+              "uz": "Yashil"
+            },
+            "hex": "#C5DDB0",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 128
+          },
+          {
+            "id": "glowing-black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#26282B",
+            "priceDelta": 0,
+            "stock": 86
+          }
+        ]
+      },
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "4-64",
+            "label": {
+              "ru": "4/64 ГБ",
+              "uz": "4/64 GB"
+            },
+            "priceDelta": 0,
+            "stock": 131
+          },
+          {
+            "id": "4-128",
+            "label": {
+              "ru": "4/128 ГБ",
+              "uz": "4/128 GB"
+            },
+            "priceDelta": 200000,
+            "stock": 83
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "6,6″ IPS, разрешение 2408×1080",
+          "uz": "6,6″ IPS, 2408×1080 piksel"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Unisoc T616, 8 ядер",
+          "uz": "Unisoc T616, 8 yadroli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Основная камера",
+          "uz": "Asosiy kamera"
+        },
+        "value": {
+          "ru": "50 + 2 + 0,3 Мп",
+          "uz": "50 + 2 + 0,3 MP"
+        }
+      },
+      {
+        "name": {
+          "ru": "Аккумулятор",
+          "uz": "Akkumulyator"
+        },
+        "value": {
+          "ru": "5000 мАч, зарядка 18 Вт",
+          "uz": "5000 mAh, 18 Vt quvvatlash"
+        }
+      },
+      {
+        "name": {
+          "ru": "Толщина",
+          "uz": "Qalinligi"
+        },
+        "value": {
+          "ru": "8,1 мм",
+          "uz": "8,1 mm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "189 г",
+          "uz": "189 g"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Kaixinda Electronic Technology Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.8,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Dilnoza R.",
+        "rating": 5,
+        "text": {
+          "ru": "Отличный бюджетный телефон, батареи хватает на два дня. Пришёл за 15 дней, в комплекте зарядка и чехол.",
+          "uz": "Arzon narxdagi zoʻr telefon, batareyasi ikki kunga yetadi. 15 kunda keldi, toʻplamda zaryadlovchi qurilma va gʻilof bor."
+        },
+        "date": "2026-09-02"
+      },
+      {
+        "author": "Rustam B.",
+        "rating": 4,
+        "text": {
+          "ru": "Днём камера снимает хорошо, вечером похуже. За такую цену претензий нет.",
+          "uz": "Kunduzi kamera yaxshi suratga oladi, kechqurun biroz yomonroq. Bu narxga eʼtirozim yoʻq."
+        },
+        "date": "2026-07-19"
+      },
+      {
+        "author": "Kamola Y.",
+        "rating": 5,
+        "text": {
+          "ru": "Купила второй такой же для сына. Цвет нежно-зелёный, корпус не царапается.",
+          "uz": "Oʻgʻlim uchun xuddi shunday ikkinchisini oldim. Rangi och yashil, korpusi tirnalmaydi."
+        },
+        "date": "2026-10-11"
+      }
+    ]
+  },
+  {
+    "djId": 129,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Realme",
+    "title": {
+      "ru": "Смартфон Realme X, 4/128 ГБ, сине-фиолетовый",
+      "uz": "Realme X smartfoni, 4/128 GB, koʻk-binafsharang"
+    },
+    "subtitle": {
+      "ru": "Выдвижная селфи-камера · AMOLED 6,53″",
+      "uz": "Chiqadigan selfi kamera · 6,53″ AMOLED"
+    },
+    "description": {
+      "ru": "Realme X получил AMOLED-экран 6,53″ без вырезов: фронтальная камера 16 Мп выдвигается из корпуса только во время съёмки. Основная камера 48 Мп построена на сенсоре Sony IMX586, смартфон работает на процессоре Snapdragon 710, а сканер отпечатка встроен в экран. Аккумулятор 3765 мАч заряжается по технологии VOOC 3.0 мощностью 20 Вт.",
+      "uz": "Realme X kesiksiz 6,53″ AMOLED ekranga ega: 16 MP old kamera korpusdan faqat suratga olish vaqtida chiqadi. 48 MP asosiy kamera Sony IMX586 sensoriga asoslangan, smartfon Snapdragon 710 protsessorida ishlaydi, barmoq izi skaneri esa ekranga oʻrnatilgan. 3765 mAh akkumulyator 20 Vt quvvatli VOOC 3.0 texnologiyasi bilan quvvatlanadi."
+    },
+    "price": 3290000,
+    "oldPrice": null,
+    "rating": 4.5,
+    "reviews": 412,
+    "sold": 1960,
+    "stock": 12,
+    "deliveryDays": [
+      12,
+      19
+    ],
+    "weightKg": 0.55,
+    "badges": [],
+    "imageIdx": [
+      2,
+      0,
+      1
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "space-blue",
+            "label": {
+              "ru": "Сине-фиолетовый",
+              "uz": "Koʻk-binafsharang"
+            },
+            "hex": "#4B2D9F",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 8
+          },
+          {
+            "id": "polar-white",
+            "label": {
+              "ru": "Белый",
+              "uz": "Oq"
+            },
+            "hex": "#F2F2F0",
+            "priceDelta": 0,
+            "stock": 4
+          }
+        ]
+      },
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "4-128",
+            "label": {
+              "ru": "4/128 ГБ",
+              "uz": "4/128 GB"
+            },
+            "priceDelta": 0,
+            "stock": 7
+          },
+          {
+            "id": "8-128",
+            "label": {
+              "ru": "8/128 ГБ",
+              "uz": "8/128 GB"
+            },
+            "priceDelta": 400000,
+            "stock": 5
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "6,53″ AMOLED, разрешение 2340×1080",
+          "uz": "6,53″ AMOLED, 2340×1080 piksel"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Qualcomm Snapdragon 710, 8 ядер",
+          "uz": "Qualcomm Snapdragon 710, 8 yadroli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Основная камера",
+          "uz": "Asosiy kamera"
+        },
+        "value": {
+          "ru": "48 + 5 Мп",
+          "uz": "48 + 5 MP"
+        }
+      },
+      {
+        "name": {
+          "ru": "Фронтальная камера",
+          "uz": "Old kamera"
+        },
+        "value": {
+          "ru": "16 Мп, выдвижная",
+          "uz": "16 MP, chiqadigan"
+        }
+      },
+      {
+        "name": {
+          "ru": "Аккумулятор",
+          "uz": "Akkumulyator"
+        },
+        "value": {
+          "ru": "3765 мАч, VOOC 3.0 20 Вт",
+          "uz": "3765 mAh, VOOC 3.0 20 Vt"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "191 г",
+          "uz": "191 g"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Tianhe Xinda Digital Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.5,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Timur G.",
+        "rating": 5,
+        "text": {
+          "ru": "Экран без выреза, смотреть видео очень удобно. Выдвижная камера срабатывает быстро.",
+          "uz": "Ekranda kesik yoʻq, video koʻrish juda maroqli. Chiqadigan kamera tez ishlaydi."
+        },
+        "date": "2026-03-22"
+      },
+      {
+        "author": "Feruza O.",
+        "rating": 4,
+        "text": {
+          "ru": "Шёл 19 дней, но упакован надёжно. Телефон лёгкий и шустрый, только чехла в комплекте не было.",
+          "uz": "19 kun yoʻlda boʻldi, lekin ishonchli qadoqlangan. Telefon yengil va tez ishlaydi, faqat toʻplamda gʻilof yoʻq edi."
+        },
+        "date": "2026-05-06"
+      }
+    ]
+  },
+  {
+    "djId": 130,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Realme",
+    "title": {
+      "ru": "Смартфон Realme XT, 6/64 ГБ, синий",
+      "uz": "Realme XT smartfoni, 6/64 GB, koʻk"
+    },
+    "subtitle": {
+      "ru": "Камера 64 Мп · быстрая зарядка 20 Вт",
+      "uz": "64 MP kamera · 20 Vt tezkor quvvatlash"
+    },
+    "description": {
+      "ru": "Главная особенность Realme XT — основная камера 64 Мп, которую дополняют сверхширокоугольный модуль 8 Мп, макрокамера и датчик глубины. AMOLED-экран 6,4″ защищён стеклом Gorilla Glass 5, такое же стекло установлено на задней панели. Смартфон работает на процессоре Snapdragon 712, аккумулятор 4000 мАч поддерживает зарядку VOOC 3.0 мощностью 20 Вт.",
+      "uz": "Realme XT smartfonining asosiy xususiyati — 64 MP kamera, unga 8 MP ultra keng burchakli modul, makro kamera va chuqurlik sensori qoʻshilgan. 6,4″ AMOLED ekran Gorilla Glass 5 himoya oynasi bilan qoplangan, orqa panelda ham xuddi shunday oyna ishlatilgan. Smartfon Snapdragon 712 protsessorida ishlaydi, 4000 mAh akkumulyator VOOC 3.0 texnologiyasi orqali 20 Vt quvvat bilan zaryadlanadi."
+    },
+    "price": 3790000,
+    "oldPrice": null,
+    "rating": 4.8,
+    "reviews": 964,
+    "sold": 7240,
+    "stock": 80,
+    "deliveryDays": [
+      11,
+      18
+    ],
+    "weightKg": 0.55,
+    "badges": [
+      "choice"
+    ],
+    "imageIdx": [
+      2,
+      0,
+      1
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "pearl-blue",
+            "label": {
+              "ru": "Синий",
+              "uz": "Koʻk"
+            },
+            "hex": "#4E6FD0",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 48
+          },
+          {
+            "id": "pearl-white",
+            "label": {
+              "ru": "Белый",
+              "uz": "Oq"
+            },
+            "hex": "#EEF0F2",
+            "priceDelta": 0,
+            "stock": 32
+          }
+        ]
+      },
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "6-64",
+            "label": {
+              "ru": "6/64 ГБ",
+              "uz": "6/64 GB"
+            },
+            "priceDelta": 0,
+            "stock": 44
+          },
+          {
+            "id": "8-128",
+            "label": {
+              "ru": "8/128 ГБ",
+              "uz": "8/128 GB"
+            },
+            "priceDelta": 450000,
+            "stock": 36
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "6,4″ AMOLED, разрешение 2340×1080",
+          "uz": "6,4″ AMOLED, 2340×1080 piksel"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Qualcomm Snapdragon 712, 8 ядер",
+          "uz": "Qualcomm Snapdragon 712, 8 yadroli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Основная камера",
+          "uz": "Asosiy kamera"
+        },
+        "value": {
+          "ru": "64 + 8 + 2 + 2 Мп",
+          "uz": "64 + 8 + 2 + 2 MP"
+        }
+      },
+      {
+        "name": {
+          "ru": "Фронтальная камера",
+          "uz": "Old kamera"
+        },
+        "value": {
+          "ru": "16 Мп",
+          "uz": "16 MP"
+        }
+      },
+      {
+        "name": {
+          "ru": "Аккумулятор",
+          "uz": "Akkumulyator"
+        },
+        "value": {
+          "ru": "4000 мАч, VOOC 3.0 20 Вт",
+          "uz": "4000 mAh, VOOC 3.0 20 Vt"
+        }
+      },
+      {
+        "name": {
+          "ru": "Защитное стекло",
+          "uz": "Himoya oynasi"
+        },
+        "value": {
+          "ru": "Gorilla Glass 5 с двух сторон",
+          "uz": "Ikki tomonda Gorilla Glass 5"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Futian Weixun Technology Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.9,
+      "years": 11,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Malika A.",
+        "rating": 5,
+        "text": {
+          "ru": "Камера на 64 Мп правда хорошая, детали на фото чёткие. Задняя панель переливается, выглядит дороже своей цены.",
+          "uz": "64 MP kamera haqiqatan yaxshi, suratlarda detallar aniq. Orqa paneli tovlanib turadi, narxidan qimmatroq koʻrinadi."
+        },
+        "date": "2026-08-25"
+      },
+      {
+        "author": "Javohir R.",
+        "rating": 5,
+        "text": {
+          "ru": "Заказывал версию 8/128, пришла за 16 дней. Заряжается чуть больше часа, игры идут плавно.",
+          "uz": "8/128 versiyasini buyurtma qildim, 16 kunda keldi. Bir soatdan sal koʻproq vaqtda toʻliq quvvatlanadi, oʻyinlar ravon ishlaydi."
+        },
+        "date": "2026-06-30"
+      },
+      {
+        "author": "Elena V.",
+        "rating": 4,
+        "text": {
+          "ru": "Хороший телефон, но к оболочке realme UI пришлось привыкать. Батареи хватает на полтора дня.",
+          "uz": "Yaxshi telefon, lekin realme UI qobigʻiga koʻnikishga toʻgʻri keldi. Batareya bir yarim kunga yetadi."
+        },
+        "date": "2026-02-08"
+      }
+    ]
+  },
+  {
+    "djId": 133,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Samsung",
+    "title": {
+      "ru": "Смартфон Samsung Galaxy S10, 8/128 ГБ, чёрный",
+      "uz": "Samsung Galaxy S10 smartfoni, 8/128 GB, qora"
+    },
+    "subtitle": {
+      "ru": "Тройная камера · защита IP68 · AMOLED",
+      "uz": "Uchta kamera · IP68 himoyasi · AMOLED"
+    },
+    "description": {
+      "ru": "Galaxy S10 оснащён экраном Dynamic AMOLED 6,1″ с разрешением 3040×1440 и поддержкой HDR10+. Тройная камера включает основной модуль 12 Мп с переменной диафрагмой, телеобъектив 12 Мп и сверхширокоугольный модуль 16 Мп. Корпус защищён от воды и пыли по стандарту IP68, есть беспроводная зарядка и функция зарядки других устройств от смартфона.",
+      "uz": "Galaxy S10 aniqligi 3040×1440 boʻlgan va HDR10+ formatini qoʻllab-quvvatlovchi 6,1″ Dynamic AMOLED ekran bilan jihozlangan. Uch kamerali tizim diafragmasi oʻzgaruvchan 12 MP asosiy modul, 12 MP teleobyektiv va 16 MP ultra keng burchakli moduldan iborat. Korpus IP68 standarti boʻyicha suv va changdan himoyalangan, simsiz quvvatlash hamda smartfon orqali boshqa qurilmalarni quvvatlash funksiyasi bor."
+    },
+    "price": 6990000,
+    "oldPrice": null,
+    "rating": 4.3,
+    "reviews": 143,
+    "sold": 980,
+    "stock": 19,
+    "deliveryDays": [
+      13,
+      20
+    ],
+    "weightKg": 0.48,
+    "badges": [],
+    "imageIdx": [
+      2,
+      0,
+      1
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "prism-black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1F2023",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 9
+          },
+          {
+            "id": "prism-white",
+            "label": {
+              "ru": "Белый",
+              "uz": "Oq"
+            },
+            "hex": "#F4F4F2",
+            "priceDelta": 0,
+            "stock": 6
+          },
+          {
+            "id": "prism-green",
+            "label": {
+              "ru": "Зелёный",
+              "uz": "Yashil"
+            },
+            "hex": "#B8D8CF",
+            "priceDelta": 0,
+            "stock": 4
+          }
+        ]
+      },
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "8-128",
+            "label": {
+              "ru": "8/128 ГБ",
+              "uz": "8/128 GB"
+            },
+            "priceDelta": 0,
+            "stock": 13
+          },
+          {
+            "id": "8-512",
+            "label": {
+              "ru": "8/512 ГБ",
+              "uz": "8/512 GB"
+            },
+            "priceDelta": 1190000,
+            "stock": 6
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "6,1″ Dynamic AMOLED, разрешение 3040×1440",
+          "uz": "6,1″ Dynamic AMOLED, 3040×1440 piksel"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Qualcomm Snapdragon 855, 8 ядер",
+          "uz": "Qualcomm Snapdragon 855, 8 yadroli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Основная камера",
+          "uz": "Asosiy kamera"
+        },
+        "value": {
+          "ru": "12 + 12 + 16 Мп",
+          "uz": "12 + 12 + 16 MP"
+        }
+      },
+      {
+        "name": {
+          "ru": "Фронтальная камера",
+          "uz": "Old kamera"
+        },
+        "value": {
+          "ru": "10 Мп",
+          "uz": "10 MP"
+        }
+      },
+      {
+        "name": {
+          "ru": "Аккумулятор",
+          "uz": "Akkumulyator"
+        },
+        "value": {
+          "ru": "3400 мАч, беспроводная зарядка",
+          "uz": "3400 mAh, simsiz quvvatlash"
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от воды",
+          "uz": "Suvdan himoya"
+        },
+        "value": {
+          "ru": "IP68 (до 1,5 м, 30 мин)",
+          "uz": "IP68 (1,5 m gacha, 30 daqiqa)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "157 г",
+          "uz": "157 g"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Huaqiangbei Tongda Communication Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.4,
+      "years": 12,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Bobur Q.",
+        "rating": 4,
+        "text": {
+          "ru": "Экран шикарный, камера тоже радует. Аккумулятора до вечера хватает впритык, приходится подзаряжать.",
+          "uz": "Ekrani ajoyib, kamerasi ham quvontiradi. Batareya kechgacha zoʻrgʻa yetadi, quvvatlab turishga toʻgʻri keladi."
+        },
+        "date": "2026-04-27"
+      },
+      {
+        "author": "Shahzoda E.",
+        "rating": 5,
+        "text": {
+          "ru": "Компактный и лёгкий, удобно держать одной рукой. Пришёл за 20 дней, всё работает.",
+          "uz": "Ixcham va yengil, bir qoʻlda ushlash qulay. 20 kunda keldi, hammasi ishlayapti."
+        },
+        "date": "2026-01-18"
+      }
+    ]
+  },
+  {
+    "djId": 134,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Vivo",
+    "title": {
+      "ru": "Смартфон Vivo S1, 4/128 ГБ, голубой",
+      "uz": "Vivo S1 smartfoni, 4/128 GB, havorang"
+    },
+    "subtitle": {
+      "ru": "Селфи-камера 32 Мп · 4500 мАч",
+      "uz": "32 MP selfi kamera · 4500 mAh"
+    },
+    "description": {
+      "ru": "Vivo S1 рассчитан на любителей селфи: фронтальная камера 32 Мп расположена в небольшом каплевидном вырезе AMOLED-экрана 6,38″. Сзади установлена тройная камера 16 + 8 + 2 Мп со сверхширокоугольным модулем, сканер отпечатка встроен в экран. Аккумулятор 4500 мАч поддерживает быструю зарядку 18 Вт.",
+      "uz": "Vivo S1 selfi ishqibozlari uchun moʻljallangan: 32 MP old kamera 6,38″ AMOLED ekrandagi kichik tomchisimon kesikda joylashgan. Orqa tomonda ultra keng burchakli modulli 16 + 8 + 2 MP uchta kamera oʻrnatilgan, barmoq izi skaneri esa ekranga joylashtirilgan. 4500 mAh akkumulyator 18 Vt tezkor quvvatlashni qoʻllab-quvvatlaydi."
+    },
+    "price": 2690000,
+    "oldPrice": null,
+    "rating": 4.4,
+    "reviews": 256,
+    "sold": 1180,
+    "stock": 50,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.5,
+    "badges": [
+      "new"
+    ],
+    "imageIdx": [
+      2,
+      0,
+      1
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "skyline-blue",
+            "label": {
+              "ru": "Голубой",
+              "uz": "Havorang"
+            },
+            "hex": "#BFD3EE",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 31
+          },
+          {
+            "id": "diamond-black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1E2230",
+            "priceDelta": 0,
+            "stock": 19
+          }
+        ]
+      },
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "4-128",
+            "label": {
+              "ru": "4/128 ГБ",
+              "uz": "4/128 GB"
+            },
+            "priceDelta": 0,
+            "stock": 30
+          },
+          {
+            "id": "6-128",
+            "label": {
+              "ru": "6/128 ГБ",
+              "uz": "6/128 GB"
+            },
+            "priceDelta": 200000,
+            "stock": 20
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "6,38″ AMOLED, разрешение 2340×1080",
+          "uz": "6,38″ AMOLED, 2340×1080 piksel"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "MediaTek Helio P65, 8 ядер",
+          "uz": "MediaTek Helio P65, 8 yadroli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Основная камера",
+          "uz": "Asosiy kamera"
+        },
+        "value": {
+          "ru": "16 + 8 + 2 Мп",
+          "uz": "16 + 8 + 2 MP"
+        }
+      },
+      {
+        "name": {
+          "ru": "Фронтальная камера",
+          "uz": "Old kamera"
+        },
+        "value": {
+          "ru": "32 Мп",
+          "uz": "32 MP"
+        }
+      },
+      {
+        "name": {
+          "ru": "Аккумулятор",
+          "uz": "Akkumulyator"
+        },
+        "value": {
+          "ru": "4500 мАч, зарядка 18 Вт",
+          "uz": "4500 mAh, 18 Vt quvvatlash"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "179 г",
+          "uz": "179 g"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Baiyun Hengtai Electronics Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.6,
+      "years": 7,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sevara I.",
+        "rating": 5,
+        "text": {
+          "ru": "Селфи получаются очень чёткие даже при комнатном освещении. Цвет корпуса нежно-голубой, как на фото.",
+          "uz": "Selfilar xona yorugʻida ham juda aniq chiqadi. Korpus rangi rasmdagidek och havorang."
+        },
+        "date": "2026-06-12"
+      },
+      {
+        "author": "Anvar K.",
+        "rating": 4,
+        "text": {
+          "ru": "Батарея держит долго, за день не садится. Минус — оболочка Funtouch немного устаревшая.",
+          "uz": "Batareyasi uzoq chidaydi, bir kunda tugamaydi. Kamchiligi — Funtouch qobigʻi biroz eskirgan."
+        },
+        "date": "2026-03-05"
+      }
+    ]
+  },
+  {
+    "djId": 135,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Vivo",
+    "title": {
+      "ru": "Смартфон Vivo V9, 4/64 ГБ, золотистый",
+      "uz": "Vivo V9 smartfoni, 4/64 GB, oltin rang"
+    },
+    "subtitle": {
+      "ru": "Селфи-камера 24 Мп · экран 6,3″",
+      "uz": "24 MP selfi kamera · 6,3″ ekran"
+    },
+    "description": {
+      "ru": "Vivo V9 выделяется экраном FullView 6,3″ и фронтальной камерой 24 Мп, которая умеет размывать фон на портретах. Сзади — двойная камера 16 + 5 Мп, внутри — процессор Snapdragon 626 и 64 ГБ памяти с поддержкой карт microSD. Лёгкий корпус весом 150 г удобно лежит в руке.",
+      "uz": "Vivo V9 6,3″ FullView ekrani va portretlarda fonni xiralashtira oladigan 24 MP old kamerasi bilan ajralib turadi. Orqa tomonda 16 + 5 MP qoʻsh kamera, ichida esa Snapdragon 626 protsessori va microSD kartalarni qoʻllab-quvvatlovchi 64 GB xotira bor. Ogʻirligi 150 g boʻlgan yengil korpus qoʻlda qulay turadi."
+    },
+    "price": 2890000,
+    "oldPrice": 3390000,
+    "rating": 4.5,
+    "reviews": 538,
+    "sold": 2870,
+    "stock": 82,
+    "deliveryDays": [
+      10,
+      17
+    ],
+    "weightKg": 0.48,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      2,
+      1
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "champagne-gold",
+            "label": {
+              "ru": "Золотистый",
+              "uz": "Oltin rang"
+            },
+            "hex": "#D9C3A0",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 41
+          },
+          {
+            "id": "pearl-black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#202124",
+            "priceDelta": 0,
+            "stock": 29
+          },
+          {
+            "id": "sapphire-blue",
+            "label": {
+              "ru": "Синий",
+              "uz": "Koʻk"
+            },
+            "hex": "#2F4C8A",
+            "priceDelta": 0,
+            "stock": 12
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "6,3″ IPS, разрешение 2280×1080",
+          "uz": "6,3″ IPS, 2280×1080 piksel"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Qualcomm Snapdragon 626, 8 ядер",
+          "uz": "Qualcomm Snapdragon 626, 8 yadroli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Основная камера",
+          "uz": "Asosiy kamera"
+        },
+        "value": {
+          "ru": "16 + 5 Мп",
+          "uz": "16 + 5 MP"
+        }
+      },
+      {
+        "name": {
+          "ru": "Фронтальная камера",
+          "uz": "Old kamera"
+        },
+        "value": {
+          "ru": "24 Мп",
+          "uz": "24 MP"
+        }
+      },
+      {
+        "name": {
+          "ru": "Аккумулятор",
+          "uz": "Akkumulyator"
+        },
+        "value": {
+          "ru": "3260 мАч",
+          "uz": "3260 mAh"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "150 г",
+          "uz": "150 g"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Dongguan Jiameng Mobile Electronics Co., Ltd.",
+      "city": {
+        "ru": "Дунгуань",
+        "uz": "Dunguan"
+      },
+      "rating": 4.5,
+      "years": 4,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Gulnora T.",
+        "rating": 5,
+        "text": {
+          "ru": "Брала в подарок сестре, ей очень понравился цвет. Пришёл за 14 дней, коробка без повреждений.",
+          "uz": "Singlimga sovgʻa qilish uchun oldim, rangi unga juda yoqdi. 14 kunda keldi, qutisi shikastlanmagan."
+        },
+        "date": "2026-02-21"
+      },
+      {
+        "author": "Otabek U.",
+        "rating": 4,
+        "text": {
+          "ru": "Для звонков, мессенджеров и соцсетей хватает с запасом. Тяжёлые игры не тянет, но я их и не ставлю.",
+          "uz": "Qoʻngʻiroqlar, messenjerlar va ijtimoiy tarmoqlar uchun bemalol yetadi. Ogʻir oʻyinlarni tortmaydi, lekin men ularni oʻrnatmayman ham."
+        },
+        "date": "2026-08-08"
+      }
+    ]
+  },
+  {
+    "djId": 136,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Vivo",
+    "title": {
+      "ru": "Смартфон Vivo X21, 6/64 ГБ, красный",
+      "uz": "Vivo X21 smartfoni, 6/64 GB, qizil"
+    },
+    "subtitle": {
+      "ru": "AMOLED 6,28″ · сканер отпечатка в экране",
+      "uz": "6,28″ AMOLED · ekrandagi barmoq izi skaneri"
+    },
+    "description": {
+      "ru": "Vivo X21 оснащён AMOLED-экраном 6,28″ со сканером отпечатка, встроенным прямо в дисплей. Основная камера 12 + 5 Мп с технологией Dual Pixel быстро фокусируется даже при слабом освещении, фронтальная — 12 Мп. Смартфон работает на процессоре Snapdragon 660, аккумулятор 3200 мАч поддерживает быструю зарядку 18 Вт.",
+      "uz": "Vivo X21 6,28″ AMOLED ekran va bevosita displeyga oʻrnatilgan barmoq izi skaneri bilan jihozlangan. Dual Pixel texnologiyali 12 + 5 MP asosiy kamera kam yorugʻlikda ham tez fokuslanadi, old kamera — 12 MP. Smartfon Snapdragon 660 protsessorida ishlaydi, 3200 mAh akkumulyator 18 Vt tezkor quvvatlashni qoʻllab-quvvatlaydi."
+    },
+    "price": 4990000,
+    "oldPrice": null,
+    "rating": 4.7,
+    "reviews": 74,
+    "sold": 520,
+    "stock": 7,
+    "deliveryDays": [
+      14,
+      21
+    ],
+    "weightKg": 0.48,
+    "badges": [],
+    "imageIdx": [
+      2,
+      0,
+      1
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "ruby-red",
+            "label": {
+              "ru": "Красный",
+              "uz": "Qizil"
+            },
+            "hex": "#B3262E",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 4
+          },
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#1C1C1E",
+            "priceDelta": 0,
+            "stock": 3
+          },
+          {
+            "id": "aurora-white",
+            "label": {
+              "ru": "Белый",
+              "uz": "Oq"
+            },
+            "hex": "#F3F1EE",
+            "priceDelta": 0,
+            "stock": 0
+          }
+        ]
+      },
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "6-64",
+            "label": {
+              "ru": "6/64 ГБ",
+              "uz": "6/64 GB"
+            },
+            "priceDelta": 0,
+            "stock": 4
+          },
+          {
+            "id": "6-128",
+            "label": {
+              "ru": "6/128 ГБ",
+              "uz": "6/128 GB"
+            },
+            "priceDelta": 350000,
+            "stock": 3
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "6,28″ AMOLED, разрешение 2280×1080",
+          "uz": "6,28″ AMOLED, 2280×1080 piksel"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Qualcomm Snapdragon 660, 8 ядер",
+          "uz": "Qualcomm Snapdragon 660, 8 yadroli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Основная камера",
+          "uz": "Asosiy kamera"
+        },
+        "value": {
+          "ru": "12 + 5 Мп, Dual Pixel",
+          "uz": "12 + 5 MP, Dual Pixel"
+        }
+      },
+      {
+        "name": {
+          "ru": "Фронтальная камера",
+          "uz": "Old kamera"
+        },
+        "value": {
+          "ru": "12 Мп",
+          "uz": "12 MP"
+        }
+      },
+      {
+        "name": {
+          "ru": "Аккумулятор",
+          "uz": "Akkumulyator"
+        },
+        "value": {
+          "ru": "3200 мАч, зарядка 18 Вт",
+          "uz": "3200 mAh, 18 Vt quvvatlash"
+        }
+      },
+      {
+        "name": {
+          "ru": "Разблокировка",
+          "uz": "Qulfni ochish"
+        },
+        "value": {
+          "ru": "Сканер отпечатка в экране",
+          "uz": "Ekrandagi barmoq izi skaneri"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Xinghe Communication Technology Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.3,
+      "years": 3,
+      "verified": false
+    },
+    "reviewsPreview": [
+      {
+        "author": "Islom J.",
+        "rating": 5,
+        "text": {
+          "ru": "Красный цвет очень сочный, в жизни ещё красивее. Сканер в экране срабатывает быстро и точно.",
+          "uz": "Qizil rangi juda yorqin, hayotda yanada chiroyliroq. Ekrandagi skaner tez va aniq ishlaydi."
+        },
+        "date": "2026-05-15"
+      },
+      {
+        "author": "Lola D.",
+        "rating": 3,
+        "text": {
+          "ru": "Шёл 21 день, дольше, чем хотелось бы. Сам телефон нормальный, но батареи едва хватает до вечера.",
+          "uz": "21 kun yoʻlda boʻldi, kutganimdan uzoqroq. Telefonning oʻzi yaxshi, lekin batareya kechqurungacha arang yetadi."
+        },
+        "date": "2026-09-29"
+      }
+    ]
+  },
+  {
+    "djId": 159,
+    "categoryId": "electronics",
+    "source": "poizon",
+    "brand": "Apple",
+    "title": {
+      "ru": "Планшет Apple iPad mini 2021, 64 ГБ, сияющая звезда",
+      "uz": "Apple iPad mini 2021 plansheti, 64 GB, yulduz nuri"
+    },
+    "subtitle": {
+      "ru": "Чип A15 Bionic · экран 8,3″ · USB-C",
+      "uz": "A15 Bionic chipi · 8,3″ ekran · USB-C"
+    },
+    "description": {
+      "ru": "iPad mini шестого поколения — компактный планшет весом 293 г с дисплеем Liquid Retina 8,3″ и процессором A15 Bionic. Он поддерживает Apple Pencil второго поколения, датчик Touch ID встроен в верхнюю кнопку, для зарядки и аксессуаров предусмотрен порт USB-C. Поставка через POIZON с проверкой подлинности.",
+      "uz": "Oltinchi avlod iPad mini — 8,3″ Liquid Retina displeyli va A15 Bionic protsessorli, ogʻirligi 293 g boʻlgan ixcham planshet. U ikkinchi avlod Apple Pencil qalamini qoʻllab-quvvatlaydi, Touch ID sensori yuqori tugmaga oʻrnatilgan, quvvatlash va aksessuarlar uchun USB-C porti mavjud. POIZON orqali haqiqiylik tekshiruvi bilan yetkaziladi."
+    },
+    "price": 6290000,
+    "oldPrice": null,
+    "rating": 4.3,
+    "reviews": 691,
+    "sold": 2430,
+    "stock": 47,
+    "deliveryDays": [
+      8,
+      13
+    ],
+    "weightKg": 0.65,
+    "badges": [
+      "original"
+    ],
+    "imageIdx": [
+      0,
+      2,
+      1
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "starlight",
+            "label": {
+              "ru": "Сияющая звезда",
+              "uz": "Yulduz nuri"
+            },
+            "hex": "#E3DCCF",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 18
+          },
+          {
+            "id": "space-gray",
+            "label": {
+              "ru": "Серый космос",
+              "uz": "Kosmik kulrang"
+            },
+            "hex": "#6E6E73",
+            "priceDelta": 0,
+            "stock": 15
+          },
+          {
+            "id": "purple",
+            "label": {
+              "ru": "Фиолетовый",
+              "uz": "Binafsharang"
+            },
+            "hex": "#B9B3D6",
+            "priceDelta": 0,
+            "stock": 8
+          },
+          {
+            "id": "pink",
+            "label": {
+              "ru": "Розовый",
+              "uz": "Pushti"
+            },
+            "hex": "#EDCFCB",
+            "priceDelta": 0,
+            "stock": 6
+          }
+        ]
+      },
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "64gb",
+            "label": {
+              "ru": "64 ГБ",
+              "uz": "64 GB"
+            },
+            "priceDelta": 0,
+            "stock": 29
+          },
+          {
+            "id": "256gb",
+            "label": {
+              "ru": "256 ГБ",
+              "uz": "256 GB"
+            },
+            "priceDelta": 1890000,
+            "stock": 18
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "8,3″ Liquid Retina, разрешение 2266×1488",
+          "uz": "8,3″ Liquid Retina, 2266×1488 piksel"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Apple A15 Bionic, 6 ядер",
+          "uz": "Apple A15 Bionic, 6 yadroli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Камеры",
+          "uz": "Kameralar"
+        },
+        "value": {
+          "ru": "12 Мп основная, 12 Мп фронтальная",
+          "uz": "12 MP asosiy, 12 MP old"
+        }
+      },
+      {
+        "name": {
+          "ru": "Порт",
+          "uz": "Port"
+        },
+        "value": {
+          "ru": "USB-C, до 5 Гбит/с",
+          "uz": "USB-C, 5 Gbit/s gacha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Стилус",
+          "uz": "Stilus"
+        },
+        "value": {
+          "ru": "Apple Pencil 2-го поколения",
+          "uz": "Apple Pencil (2-avlod)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "293 г",
+          "uz": "293 g"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "POIZON · Seller 1857",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.8,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nodira S.",
+        "rating": 5,
+        "text": {
+          "ru": "Идеальный размер для чтения и заметок. Пришёл за 10 дней, на коробке наклейка о проверке POIZON.",
+          "uz": "Kitob oʻqish va qaydlar uchun ideal oʻlcham. 10 kunda keldi, qutisida POIZON tekshiruvi stikeri bor."
+        },
+        "date": "2026-10-04"
+      },
+      {
+        "author": "Dmitriy P.",
+        "rating": 4,
+        "text": {
+          "ru": "Отличный планшет, но Apple Pencil в комплект не входит — учитывайте при заказе.",
+          "uz": "Ajoyib planshet, lekin Apple Pencil toʻplamga kirmaydi — buyurtma berishda buni hisobga oling."
+        },
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "djId": 160,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Samsung",
+    "title": {
+      "ru": "Планшет Samsung Galaxy Tab S8+, 8/128 ГБ, серый",
+      "uz": "Samsung Galaxy Tab S8+ plansheti, 8/128 GB, kulrang"
+    },
+    "subtitle": {
+      "ru": "AMOLED 12,4″ 120 Гц · S Pen в комплекте",
+      "uz": "12,4″ AMOLED 120 Hz · S Pen toʻplamda"
+    },
+    "description": {
+      "ru": "Galaxy Tab S8+ получил экран Super AMOLED 12,4″ с частотой обновления 120 Гц и процессор Snapdragon 8 Gen 1. Стилус S Pen входит в комплект и крепится к задней панели магнитом, четыре динамика с настройкой AKG поддерживают Dolby Atmos. Аккумулятор 10 090 мАч совместим с зарядкой мощностью до 45 Вт, а память можно расширить картой microSD.",
+      "uz": "Galaxy Tab S8+ 120 Hz chastotali 12,4″ Super AMOLED ekran va Snapdragon 8 Gen 1 protsessori bilan jihozlangan. S Pen stilusi toʻplamga kiradi va orqa panelga magnit yordamida mahkamlanadi, AKG tomonidan sozlangan toʻrtta dinamik Dolby Atmos formatini qoʻllab-quvvatlaydi. 10 090 mAh akkumulyator 45 Vt gacha tezkor quvvatlash imkonini beradi, xotirani esa microSD karta bilan kengaytirish mumkin."
+    },
+    "price": 6790000,
+    "oldPrice": null,
+    "rating": 4.8,
+    "reviews": 1257,
+    "sold": 5840,
+    "stock": 62,
+    "deliveryDays": [
+      11,
+      16
+    ],
+    "weightKg": 1.2,
+    "badges": [
+      "new",
+      "hit"
+    ],
+    "imageIdx": [
+      0,
+      2,
+      1
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "graphite",
+            "label": {
+              "ru": "Серый",
+              "uz": "Kulrang"
+            },
+            "hex": "#6B6D70",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 31
+          },
+          {
+            "id": "silver",
+            "label": {
+              "ru": "Серебристый",
+              "uz": "Kumushrang"
+            },
+            "hex": "#D5D7DA",
+            "priceDelta": 0,
+            "stock": 19
+          },
+          {
+            "id": "pink-gold",
+            "label": {
+              "ru": "Розовое золото",
+              "uz": "Pushti oltin rang"
+            },
+            "hex": "#E8C9BF",
+            "priceDelta": 0,
+            "stock": 12
+          }
+        ]
+      },
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "8-128",
+            "label": {
+              "ru": "8/128 ГБ",
+              "uz": "8/128 GB"
+            },
+            "priceDelta": 0,
+            "stock": 38
+          },
+          {
+            "id": "8-256",
+            "label": {
+              "ru": "8/256 ГБ",
+              "uz": "8/256 GB"
+            },
+            "priceDelta": 890000,
+            "stock": 24
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "12,4″ Super AMOLED, 2800×1752, 120 Гц",
+          "uz": "12,4″ Super AMOLED, 2800×1752, 120 Hz"
+        }
+      },
+      {
+        "name": {
+          "ru": "Процессор",
+          "uz": "Protsessor"
+        },
+        "value": {
+          "ru": "Qualcomm Snapdragon 8 Gen 1, 8 ядер",
+          "uz": "Qualcomm Snapdragon 8 Gen 1, 8 yadroli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Камеры",
+          "uz": "Kameralar"
+        },
+        "value": {
+          "ru": "13 + 6 Мп основная, 12 Мп фронтальная",
+          "uz": "13 + 6 MP asosiy, 12 MP old"
+        }
+      },
+      {
+        "name": {
+          "ru": "Аккумулятор",
+          "uz": "Akkumulyator"
+        },
+        "value": {
+          "ru": "10 090 мАч, зарядка 45 Вт",
+          "uz": "10 090 mAh, 45 Vt quvvatlash"
+        }
+      },
+      {
+        "name": {
+          "ru": "Стилус",
+          "uz": "Stilus"
+        },
+        "value": {
+          "ru": "S Pen в комплекте",
+          "uz": "S Pen toʻplamda"
+        }
+      },
+      {
+        "name": {
+          "ru": "Звук",
+          "uz": "Ovoz"
+        },
+        "value": {
+          "ru": "4 динамика AKG, Dolby Atmos",
+          "uz": "4 ta AKG dinamik, Dolby Atmos"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "567 г",
+          "uz": "567 g"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shanghai Ruiqi Digital Trading Co., Ltd.",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.8,
+      "years": 10,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Akmal S.",
+        "rating": 5,
+        "text": {
+          "ru": "Экран огромный и очень плавный, смотреть фильмы — одно удовольствие. S Pen в комплекте, рисую им каждый день.",
+          "uz": "Ekrani katta va juda ravon, film koʻrish — haqiqiy huzur. S Pen toʻplamda, u bilan har kuni rasm chizaman."
+        },
+        "date": "2026-09-17"
+      },
+      {
+        "author": "Irina M.",
+        "rating": 5,
+        "text": {
+          "ru": "Брала для учёбы, удобно конспектировать стилусом. Доставка 15 дней, упаковано в несколько слоёв плёнки.",
+          "uz": "Oʻqish uchun oldim, stilus bilan konspekt yozish qulay. Yetkazib berish 15 kun, bir necha qavat plyonkaga oʻralgan."
+        },
+        "date": "2026-08-11"
+      },
+      {
+        "author": "Shoxrux F.",
+        "rating": 4,
+        "text": {
+          "ru": "Мощный планшет, игры идут без лагов. Единственное — большой, одной рукой держать неудобно.",
+          "uz": "Kuchli planshet, oʻyinlar qotmasdan ishlaydi. Yagona kamchiligi — katta, bir qoʻlda ushlash noqulay."
+        },
+        "date": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "djId": 161,
+    "categoryId": "electronics",
+    "source": "alibaba",
+    "brand": "Samsung",
+    "title": {
+      "ru": "Планшет Samsung Galaxy Tab, 2/32 ГБ, белый",
+      "uz": "Samsung Galaxy Tab plansheti, 2/32 GB, oq"
+    },
+    "subtitle": {
+      "ru": "Экран 10,1″ · аккумулятор 7300 мАч",
+      "uz": "10,1″ ekran · 7300 mAh akkumulyator"
+    },
+    "description": {
+      "ru": "Планшет Samsung Galaxy Tab в белом корпусе с экраном 10,1″ и разрешением 1920×1200 подходит для видео, чтения и видеозвонков. Аккумулятор 7300 мАч рассчитан на целый день работы, а встроенную память 32 ГБ можно расширить картой microSD. Хороший вариант для учёбы, работы с документами и детских приложений.",
+      "uz": "Oq korpusli Samsung Galaxy Tab plansheti 1920×1200 aniqlikdagi 10,1″ ekranga ega va video koʻrish, kitob oʻqish hamda video qoʻngʻiroqlar uchun qulay. 7300 mAh akkumulyator kun boʻyi ishlashga moʻljallangan, 32 GB ichki xotirani esa microSD karta bilan kengaytirish mumkin. Oʻqish, hujjatlar bilan ishlash va bolalar ilovalari uchun yaxshi tanlov."
+    },
+    "price": 3490000,
+    "oldPrice": 3990000,
+    "rating": 4.5,
+    "reviews": 89,
+    "sold": 330,
+    "stock": 92,
+    "deliveryDays": [
+      13,
+      19
+    ],
+    "weightKg": 0.95,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      2,
+      1
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "white",
+            "label": {
+              "ru": "Белый",
+              "uz": "Oq"
+            },
+            "hex": "#F5F5F3",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 58
+          },
+          {
+            "id": "black",
+            "label": {
+              "ru": "Чёрный",
+              "uz": "Qora"
+            },
+            "hex": "#232427",
+            "priceDelta": 0,
+            "stock": 34
+          }
+        ]
+      },
+      {
+        "id": "memory",
+        "kind": "text",
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "values": [
+          {
+            "id": "2-32",
+            "label": {
+              "ru": "2/32 ГБ",
+              "uz": "2/32 GB"
+            },
+            "priceDelta": 0,
+            "stock": 61
+          },
+          {
+            "id": "3-64",
+            "label": {
+              "ru": "3/64 ГБ",
+              "uz": "3/64 GB"
+            },
+            "priceDelta": 290000,
+            "stock": 31
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Экран",
+          "uz": "Ekran"
+        },
+        "value": {
+          "ru": "10,1″, разрешение 1920×1200",
+          "uz": "10,1″, 1920×1200 piksel"
+        }
+      },
+      {
+        "name": {
+          "ru": "Память",
+          "uz": "Xotira"
+        },
+        "value": {
+          "ru": "2 ГБ оперативной, 32 ГБ встроенной",
+          "uz": "2 GB operativ, 32 GB ichki"
+        }
+      },
+      {
+        "name": {
+          "ru": "Камеры",
+          "uz": "Kameralar"
+        },
+        "value": {
+          "ru": "8 Мп основная, 2 Мп фронтальная",
+          "uz": "8 MP asosiy, 2 MP old"
+        }
+      },
+      {
+        "name": {
+          "ru": "Аккумулятор",
+          "uz": "Akkumulyator"
+        },
+        "value": {
+          "ru": "7300 мАч",
+          "uz": "7300 mAh"
+        }
+      },
+      {
+        "name": {
+          "ru": "Связь",
+          "uz": "Aloqa"
+        },
+        "value": {
+          "ru": "Wi-Fi, Bluetooth, слот microSD",
+          "uz": "Wi-Fi, Bluetooth, microSD uyasi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "525 г",
+          "uz": "525 g"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Hangzhou Lianchuang Digital Technology Co., Ltd.",
+      "city": {
+        "ru": "Ханчжоу",
+        "uz": "Xanchjou"
+      },
+      "rating": 4.6,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Zarina H.",
+        "rating": 5,
+        "text": {
+          "ru": "Купили ребёнку для мультиков и учёбы. Экран яркий, батареи хватает на весь день.",
+          "uz": "Farzandimizga multfilm va oʻqish uchun oldik. Ekrani yorqin, batareyasi kun boʻyi yetadi."
+        },
+        "date": "2026-03-14"
+      },
+      {
+        "author": "Sanjar L.",
+        "rating": 4,
+        "text": {
+          "ru": "Для своих задач нормальный: YouTube, браузер, книги. Для игр слабоват. Доставили за 18 дней.",
+          "uz": "Oʻz vazifalari uchun yaxshi: YouTube, brauzer, kitoblar. Oʻyinlar uchun biroz kuchsiz. 18 kunda yetkazib berishdi."
+        },
+        "date": "2026-01-26"
+      }
+    ]
+  }
+]

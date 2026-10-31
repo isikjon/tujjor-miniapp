@@ -1,0 +1,43 @@
+import type { VariantMessages } from '../../shared/i18n'
+
+/** Strings added by the g1 screen group (merged in index.ts). Uzbek: oʻ/gʻ = U+02BB, tutuq belgisi = U+02BC. */
+export const messages: VariantMessages = {
+  ru: {
+    'b.g1.perkPrice': 'Цены в сумах',
+    'b.g1.perkPay': 'Payme и Click',
+    'b.g1.perkCheck': 'Проверка качества',
+    'b.g1.hitsSub': 'Чаще всего заказывают на этой неделе',
+    'b.g1.newSub': 'Свежие поступления от поставщиков',
+    'b.g1.recoSub': 'Подобрали по популярности',
+    'b.g1.marketsSub': 'Покупайте напрямую у поставщиков Китая',
+    'b.g1.marketGo': 'Смотреть',
+    'b.g1.step': 'Шаг {n}',
+    'b.g1.clearInput': 'Очистить',
+    'b.g1.searchSubmit': 'Найти',
+    'b.g1.removeFilter': 'Убрать фильтр',
+    'b.g1.removeRecent': 'Удалить из истории',
+    'b.g1.catNotFound': 'Категория не найдена',
+    'b.g1.catNotFoundText': 'Возможно, она переехала — загляните в каталог',
+    'b.g1.findSimilar': 'Найти похожие',
+    'b.g1.catsCount': '{n} категория|{n} категории|{n} категорий',
+  },
+  uz: {
+    'b.g1.perkPrice': 'Narxlar soʻmda',
+    'b.g1.perkPay': 'Payme va Click',
+    'b.g1.perkCheck': 'Sifat nazorati',
+    'b.g1.hitsSub': 'Bu hafta eng koʻp buyurtma qilinganlar',
+    'b.g1.newSub': 'Yetkazib beruvchilardan yangi tovarlar',
+    'b.g1.recoSub': 'Ommabopligi boʻyicha tanladik',
+    'b.g1.marketsSub': 'Xitoy yetkazib beruvchilaridan toʻgʻridan-toʻgʻri xarid qiling',
+    'b.g1.marketGo': 'Koʻrish',
+    'b.g1.step': '{n}-qadam',
+    'b.g1.clearInput': 'Tozalash',
+    'b.g1.searchSubmit': 'Topish',
+    'b.g1.removeFilter': 'Filtrni olib tashlash',
+    'b.g1.removeRecent': 'Tarixdan oʻchirish',
+    'b.g1.catNotFound': 'Kategoriya topilmadi',
+    'b.g1.catNotFoundText': 'Ehtimol, u koʻchirilgan — katalogga qarang',
+    'b.g1.findSimilar': 'Oʻxshashlarini topish',
+    'b.g1.catsCount': '{n} ta kategoriya|{n} ta kategoriya|{n} ta kategoriya',
+  },
+}

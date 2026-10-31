@@ -1,0 +1,4139 @@
+[
+  {
+    "djId": 11,
+    "categoryId": "home",
+    "source": "alibaba",
+    "brand": "Annibale Colombo",
+    "title": {
+      "ru": "Двуспальная кровать Annibale Colombo, классический дизайн",
+      "uz": "Annibale Colombo ikki kishilik karavoti, klassik dizayn"
+    },
+    "subtitle": {
+      "ru": "Прочный каркас · Размеры до 200 × 200 см",
+      "uz": "Mustahkam karkas · 200 × 200 sm gacha"
+    },
+    "description": {
+      "ru": "Двуспальная кровать Annibale Colombo в классическом итальянском стиле станет центром спальни. Каркас из высококачественных материалов рассчитан на ежедневную нагрузку, ортопедическое основание из ламелей входит в комплект. Матрас можно добавить при заказе. Кровать доставляется в разобранном виде вместе с инструкцией по сборке.",
+      "uz": "Klassik italyan uslubidagi Annibale Colombo ikki kishilik karavoti yotoqxonangizning markaziy bezagiga aylanadi. Yuqori sifatli materiallardan yasalgan karkas kundalik yuklamaga moʻljallangan, lamelli ortopedik asos toʻplamga kiradi. Buyurtma berishda matras ham qoʻshish mumkin. Karavot yigʻilmagan holda, yigʻish boʻyicha yoʻriqnoma bilan yetkaziladi."
+    },
+    "price": 19990000,
+    "oldPrice": 21990000,
+    "rating": 4.8,
+    "reviews": 38,
+    "sold": 140,
+    "stock": 14,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 52,
+    "badges": [
+      "sale",
+      "choice"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер спального места",
+          "uz": "Uxlash joyi oʻlchami"
+        },
+        "values": [
+          {
+            "id": "160x200",
+            "label": {
+              "ru": "160 × 200 см",
+              "uz": "160 × 200 sm"
+            },
+            "priceDelta": 0,
+            "stock": 5
+          },
+          {
+            "id": "180x200",
+            "label": {
+              "ru": "180 × 200 см",
+              "uz": "180 × 200 sm"
+            },
+            "priceDelta": 1490000,
+            "stock": 7
+          },
+          {
+            "id": "200x200",
+            "label": {
+              "ru": "200 × 200 см",
+              "uz": "200 × 200 sm"
+            },
+            "priceDelta": 2790000,
+            "stock": 2
+          }
+        ]
+      },
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплектация",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "frame",
+            "label": {
+              "ru": "Без матраса",
+              "uz": "Matrassiz"
+            },
+            "priceDelta": 0,
+            "stock": 9
+          },
+          {
+            "id": "mattress",
+            "label": {
+              "ru": "С ортопедическим матрасом",
+              "uz": "Ortopedik matras bilan"
+            },
+            "priceDelta": 3490000,
+            "stock": 5
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Стиль",
+          "uz": "Uslub"
+        },
+        "value": {
+          "ru": "Классический",
+          "uz": "Klassik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Спальное место",
+          "uz": "Uxlash joyi"
+        },
+        "value": {
+          "ru": "160 × 200 см",
+          "uz": "160 × 200 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Основание",
+          "uz": "Asos"
+        },
+        "value": {
+          "ru": "Ортопедическое, из ламелей",
+          "uz": "Ortopedik, lamelli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Сборка",
+          "uz": "Yigʻish"
+        },
+        "value": {
+          "ru": "Требуется, инструкция в комплекте",
+          "uz": "Talab etiladi, yoʻriqnoma ilova qilingan"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "1 год",
+          "uz": "1 yil"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Foshan Shunde Huaxin Furniture Co., Ltd.",
+      "city": {
+        "ru": "Фошань",
+        "uz": "Foshan"
+      },
+      "rating": 4.8,
+      "years": 11,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Dilnoza R.",
+        "rating": 5,
+        "text": {
+          "ru": "Кровать приехала за 18 дней, упаковка в несколько слоёв, ни одной царапины. Собрали вдвоём за пару часов, выглядит дорого.",
+          "uz": "Karavot 18 kunda yetib keldi, bir necha qatlam qilib qadoqlangan, birorta ham tirnalish yoʻq. Ikki kishi boʻlib bir-ikki soatda yigʻdik, juda qimmatbaho koʻrinadi."
+        },
+        "date": "2026-08-21"
+      },
+      {
+        "author": "Behzod A.",
+        "rating": 4,
+        "text": {
+          "ru": "Основание крепкое, не скрипит. Инструкция только на английском и китайском, но по картинкам всё понятно.",
+          "uz": "Asosi mustahkam, gʻichirlamaydi. Yoʻriqnoma faqat ingliz va xitoy tillarida, lekin rasmlardan hammasi tushunarli."
+        },
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "djId": 12,
+    "categoryId": "home",
+    "source": "alibaba",
+    "brand": "Annibale Colombo",
+    "title": {
+      "ru": "Диван Annibale Colombo для гостиной, премиальная обивка",
+      "uz": "Annibale Colombo mehmonxona divani, premium qoplama"
+    },
+    "subtitle": {
+      "ru": "Премиальная обивка · Пожизненная гарантия",
+      "uz": "Premium qoplama · Umrbod kafolat"
+    },
+    "description": {
+      "ru": "Диван Annibale Colombo сочетает выразительный классический дизайн и глубокую посадку — на нём удобно отдыхать всей семьёй. Обивка из плотного износостойкого материала приятна на ощупь и легко чистится, а каркас из массива дерева рассчитан на долгие годы службы. Диван доставляется в защитной упаковке, ножки устанавливаются за несколько минут.",
+      "uz": "Annibale Colombo divani ifodali klassik dizayn va chuqur oʻtirgichni uygʻunlashtirgan — unda butun oila bilan dam olish qulay. Zich va yeyilishga chidamli qoplama teginishga yoqimli va oson tozalanadi, massiv yogʻochdan yasalgan karkas esa uzoq yillar xizmat qiladi. Divan himoya qadogʻida yetkaziladi, oyoqlari bir necha daqiqada oʻrnatiladi."
+    },
+    "price": 25990000,
+    "oldPrice": 29490000,
+    "rating": 4.5,
+    "reviews": 24,
+    "sold": 95,
+    "stock": 9,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 58,
+    "badges": [
+      "sale",
+      "new"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплектация",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "sofa",
+            "label": {
+              "ru": "Только диван",
+              "uz": "Faqat divan"
+            },
+            "priceDelta": 0,
+            "stock": 6
+          },
+          {
+            "id": "sofa-armchair",
+            "label": {
+              "ru": "Диван + кресло",
+              "uz": "Divan + kreslo"
+            },
+            "priceDelta": 7490000,
+            "stock": 3
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Vazifasi"
+        },
+        "value": {
+          "ru": "Гостиная",
+          "uz": "Mehmonxona"
+        }
+      },
+      {
+        "name": {
+          "ru": "Стиль",
+          "uz": "Uslub"
+        },
+        "value": {
+          "ru": "Классический",
+          "uz": "Klassik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Каркас",
+          "uz": "Karkas"
+        },
+        "value": {
+          "ru": "Массив дерева",
+          "uz": "Massiv yogʻoch"
+        }
+      },
+      {
+        "name": {
+          "ru": "Обивка",
+          "uz": "Qoplama"
+        },
+        "value": {
+          "ru": "Износостойкая, легко чистится",
+          "uz": "Yeyilishga chidamli, oson tozalanadi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "Пожизненная",
+          "uz": "Umrbod"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Foshan Longjiang Meiju Furniture Co., Ltd.",
+      "city": {
+        "ru": "Фошань",
+        "uz": "Foshan"
+      },
+      "rating": 4.7,
+      "years": 9,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Madina K.",
+        "rating": 5,
+        "text": {
+          "ru": "Диван большой и очень удобный, обивка плотная. Доставка заняла 20 дней, привезли в деревянной обрешётке.",
+          "uz": "Divan katta va juda qulay, qoplamasi zich. Yetkazib berish 20 kun davom etdi, yogʻoch qutida olib kelishdi."
+        },
+        "date": "2026-09-12"
+      },
+      {
+        "author": "Sardor M.",
+        "rating": 4,
+        "text": {
+          "ru": "Качество отличное, но стоит заранее замерить дверные проёмы — в лифт еле поместился.",
+          "uz": "Sifati aʼlo, lekin eshiklarning kengligini oldindan oʻlchab qoʻying — liftga zoʻrgʻa sigʻdi."
+        },
+        "date": "2026-07-28"
+      }
+    ]
+  },
+  {
+    "djId": 13,
+    "categoryId": "home",
+    "source": "alibaba",
+    "brand": "Furniture Co.",
+    "title": {
+      "ru": "Прикроватная тумба Furniture Co., африканская вишня",
+      "uz": "Furniture Co. karavot yoni tumbasi, Afrika olchasi"
+    },
+    "subtitle": {
+      "ru": "Удобное хранение · Гарантия 5 лет",
+      "uz": "Qulay saqlash joyi · 5 yil kafolat"
+    },
+    "description": {
+      "ru": "Прикроватная тумба в отделке «африканская вишня» добавит спальне тепла и элегантности. Внутри достаточно места для книг, зарядных устройств и мелочей, а на столешницу удобно поставить лампу или будильник. Прочный корпус устойчив к царапинам, металлическая фурнитура рассчитана на ежедневное использование.",
+      "uz": "«Afrika olchasi» tusidagi karavot yoni tumbasi yotoqxonaga iliqlik va nafislik qoʻshadi. Ichida kitoblar, zaryadlovchi qurilmalar va mayda buyumlar uchun yetarli joy bor, ustiga esa chiroq yoki budilnik qoʻyish qulay. Mustahkam korpus tirnalishga chidamli, metall furnitura kundalik foydalanishga moʻljallangan."
+    },
+    "price": 2990000,
+    "oldPrice": 3590000,
+    "rating": 4.2,
+    "reviews": 312,
+    "sold": 1480,
+    "stock": 64,
+    "deliveryDays": [
+      12,
+      20
+    ],
+    "weightKg": 14,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "cherry",
+            "label": {
+              "ru": "Африканская вишня",
+              "uz": "Afrika olchasi"
+            },
+            "hex": "#7B3B2A",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 38
+          },
+          {
+            "id": "white-oak",
+            "label": {
+              "ru": "Белёный дуб",
+              "uz": "Oqartirilgan eman"
+            },
+            "hex": "#D8CDB8",
+            "priceDelta": 0,
+            "stock": 18
+          },
+          {
+            "id": "wenge",
+            "label": {
+              "ru": "Венге",
+              "uz": "Venge"
+            },
+            "hex": "#3B2A22",
+            "priceDelta": 0,
+            "stock": 8
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Material"
+        },
+        "value": {
+          "ru": "МДФ, шпон",
+          "uz": "MDF, shpon"
+        }
+      },
+      {
+        "name": {
+          "ru": "Размеры",
+          "uz": "Oʻlchamlari"
+        },
+        "value": {
+          "ru": "45 × 40 × 55 см",
+          "uz": "45 × 40 × 55 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Фурнитура",
+          "uz": "Furnitura"
+        },
+        "value": {
+          "ru": "Металлическая",
+          "uz": "Metall"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "12 кг",
+          "uz": "12 kg"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "5 лет",
+          "uz": "5 yil"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Foshan Mingyue Furniture Co., Ltd.",
+      "city": {
+        "ru": "Фошань",
+        "uz": "Foshan"
+      },
+      "rating": 4.6,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Olga S.",
+        "rating": 5,
+        "text": {
+          "ru": "Цвет вживую ещё красивее, чем на фото. Ящик выдвигается легко, никакого запаха.",
+          "uz": "Rangi jonli koʻrinishda rasmdagidan ham chiroyliroq. Tortmasi oson ochiladi, hech qanday hid yoʻq."
+        },
+        "date": "2026-05-17"
+      },
+      {
+        "author": "Jasur T.",
+        "rating": 4,
+        "text": {
+          "ru": "Взяли две тумбы к кровати. Пришли за 16 дней, на одной ручке была небольшая царапина — продавец сделал скидку.",
+          "uz": "Karavotga ikkita tumba oldik. 16 kunda keldi, bittasining tutqichida kichik tirnalish bor ekan — sotuvchi chegirma qildi."
+        },
+        "date": "2026-03-09"
+      },
+      {
+        "author": "Nigora X.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошая тумба за свои деньги, собирать не пришлось.",
+          "uz": "Narxiga yarasha yaxshi tumba, yigʻishga toʻgʻri kelmadi."
+        },
+        "date": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "djId": 14,
+    "categoryId": "home",
+    "source": "alibaba",
+    "brand": "Knoll",
+    "title": {
+      "ru": "Конференц-кресло Knoll Saarinen Executive, мягкая обивка",
+      "uz": "Knoll Saarinen Executive kreslosi, majlislar zali uchun"
+    },
+    "subtitle": {
+      "ru": "Эргономичная посадка · Гарантия 2 года",
+      "uz": "Ergonomik oʻtirish · 2 yil kafolat"
+    },
+    "description": {
+      "ru": "Кресло Knoll Saarinen Executive — узнаваемая классика середины XX века для кабинета и переговорной. Глубокое мягкое сиденье и анатомическая спинка помогают сохранять правильную осанку даже на долгих совещаниях. Обивка износостойкая и приятная на ощупь.",
+      "uz": "Knoll Saarinen Executive kreslosi — XX asr oʻrtalarining taniqli klassikasi, ish kabineti va majlislar zali uchun. Chuqur yumshoq oʻtirgich va anatomik suyanchiq uzoq yigʻilishlarda ham qomatni toʻgʻri tutishga yordam beradi. Qoplamasi yeyilishga chidamli va teginishga yoqimli."
+    },
+    "price": 4990000,
+    "oldPrice": null,
+    "rating": 4.9,
+    "reviews": 96,
+    "sold": 410,
+    "stock": 26,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 14.5,
+    "badges": [
+      "choice"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплект",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "1pc",
+            "label": {
+              "ru": "1 кресло",
+              "uz": "1 ta kreslo"
+            },
+            "priceDelta": 0,
+            "stock": 14
+          },
+          {
+            "id": "2pcs",
+            "label": {
+              "ru": "2 кресла",
+              "uz": "2 ta kreslo"
+            },
+            "priceDelta": 4790000,
+            "stock": 8
+          },
+          {
+            "id": "4pcs",
+            "label": {
+              "ru": "4 кресла",
+              "uz": "4 ta kreslo"
+            },
+            "priceDelta": 14490000,
+            "stock": 4
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Дизайнер",
+          "uz": "Dizayner"
+        },
+        "value": {
+          "ru": "Ээро Сааринен",
+          "uz": "Eero Saarinen"
+        }
+      },
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Vazifasi"
+        },
+        "value": {
+          "ru": "Кабинет, переговорная",
+          "uz": "Kabinet, majlislar zali"
+        }
+      },
+      {
+        "name": {
+          "ru": "Обивка",
+          "uz": "Qoplama"
+        },
+        "value": {
+          "ru": "Мягкая, износостойкая",
+          "uz": "Yumshoq, yeyilishga chidamli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Макс. нагрузка",
+          "uz": "Maks. yuklama"
+        },
+        "value": {
+          "ru": "120 кг",
+          "uz": "120 kg"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "2 года",
+          "uz": "2 yil"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Foshan Kaiyue Office Furniture Co., Ltd.",
+      "city": {
+        "ru": "Фошань",
+        "uz": "Foshan"
+      },
+      "rating": 4.9,
+      "years": 12,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Behzod A.",
+        "rating": 5,
+        "text": {
+          "ru": "Купили шесть кресел в переговорную, сидеть удобно даже по два часа. Пришли за 15 дней, каждое в отдельной коробке.",
+          "uz": "Majlislar zali uchun oltita kreslo oldik, ikki soat oʻtirsa ham qulay. 15 kunda keldi, har biri alohida qutida."
+        },
+        "date": "2026-04-22"
+      },
+      {
+        "author": "Malika Yu.",
+        "rating": 5,
+        "text": {
+          "ru": "Обивка плотная, швы ровные. Выглядит солидно, коллегам тоже понравилось.",
+          "uz": "Qoplamasi zich, choklari tekis. Salobatli koʻrinadi, hamkasblarimga ham yoqdi."
+        },
+        "date": "2026-09-05"
+      }
+    ]
+  },
+  {
+    "djId": 15,
+    "categoryId": "home",
+    "source": "alibaba",
+    "brand": "Bath Trends",
+    "title": {
+      "ru": "Тумба с раковиной и зеркалом Bath Trends, дерево",
+      "uz": "Bath Trends yogʻoch tumba, rakovina va koʻzgu bilan"
+    },
+    "subtitle": {
+      "ru": "Влагостойкое покрытие · Гарантия 3 года",
+      "uz": "Namga chidamli qoplama · 3 yil kafolat"
+    },
+    "description": {
+      "ru": "Комплект для ванной комнаты: деревянная тумба, раковина и зеркало в едином стиле. Древесина покрыта влагостойким лаком, поэтому не боится брызг и перепадов влажности. В тумбе удобно хранить полотенца и косметику. Смеситель можно добавить при заказе.",
+      "uz": "Hammom uchun toʻplam: yogʻoch tumba, rakovina va bir xil uslubdagi koʻzgu. Yogʻoch namga chidamli lak bilan qoplangan, shuning uchun suv sachrashi va namlik oʻzgarishidan qoʻrqmaydi. Tumbada sochiq va kosmetika saqlash qulay. Buyurtma berishda joʻmrak ham qoʻshish mumkin."
+    },
+    "price": 7990000,
+    "oldPrice": 8790000,
+    "rating": 4.4,
+    "reviews": 57,
+    "sold": 230,
+    "stock": 7,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 38,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплектация",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "no-faucet",
+            "label": {
+              "ru": "Без смесителя",
+              "uz": "Joʻmraksiz"
+            },
+            "priceDelta": 0,
+            "stock": 4
+          },
+          {
+            "id": "faucet",
+            "label": {
+              "ru": "Со смесителем",
+              "uz": "Joʻmrak bilan"
+            },
+            "priceDelta": 690000,
+            "stock": 3
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Material"
+        },
+        "value": {
+          "ru": "Дерево, влагостойкий лак",
+          "uz": "Yogʻoch, namga chidamli lak"
+        }
+      },
+      {
+        "name": {
+          "ru": "Комплект",
+          "uz": "Toʻplam"
+        },
+        "value": {
+          "ru": "Тумба, раковина, зеркало",
+          "uz": "Tumba, rakovina, koʻzgu"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ширина тумбы",
+          "uz": "Tumba eni"
+        },
+        "value": {
+          "ru": "80 см",
+          "uz": "80 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "3 года",
+          "uz": "3 yil"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Hangzhou Yuanlin Sanitary Ware Co., Ltd.",
+      "city": {
+        "ru": "Ханчжоу",
+        "uz": "Xanchjou"
+      },
+      "rating": 4.5,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Gulnora B.",
+        "rating": 5,
+        "text": {
+          "ru": "Смотрится очень уютно, у дерева приятный оттенок. Доставили за 21 день, всё было обёрнуто пеной и картоном.",
+          "uz": "Juda shinam koʻrinadi, yogʻochning tusi yoqimli. 21 kunda yetkazishdi, hammasi penoplast va kartonga oʻralgan edi."
+        },
+        "date": "2026-06-14"
+      },
+      {
+        "author": "Rustam N.",
+        "rating": 3,
+        "text": {
+          "ru": "Тумба отличная, но отверстие под слив пришлось немного расширить. Сантехник справился за час.",
+          "uz": "Tumba aʼlo, lekin suv oqadigan teshikni biroz kengaytirishga toʻgʻri keldi. Santexnik bir soatda hal qildi."
+        },
+        "date": "2026-02-26"
+      }
+    ]
+  },
+  {
+    "djId": 43,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Подвесные декоративные качели для дома и террасы",
+      "uz": "Uy va ayvon uchun osma dekorativ argʻimchoq"
+    },
+    "subtitle": {
+      "ru": "Ручная работа · Крепление в комплекте",
+      "uz": "Qoʻl mehnati · Mahkamlagich toʻplamda"
+    },
+    "description": {
+      "ru": "Декоративные качели добавят интерьеру лёгкости и уюта. Изделие с тщательно проработанными деталями хорошо смотрится в детской, на балконе, веранде или в фотозоне. Качели подвешиваются к потолку или балке, крепёж входит в комплект.",
+      "uz": "Dekorativ argʻimchoq interyerga yengillik va shinamlik bagʻishlaydi. Puxta ishlangan buyum bolalar xonasida, balkon, ayvon yoki fotozonada chiroyli koʻrinadi. Argʻimchoq shiftga yoki toʻsinga osiladi, mahkamlagichlar toʻplamga kiradi."
+    },
+    "price": 449000,
+    "oldPrice": null,
+    "rating": 4.3,
+    "reviews": 184,
+    "sold": 920,
+    "stock": 47,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 5.2,
+    "badges": [
+      "new"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Подвесные качели",
+          "uz": "Osma argʻimchoq"
+        }
+      },
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Vazifasi"
+        },
+        "value": {
+          "ru": "Декор, фотозона, балкон",
+          "uz": "Dekor, fotozona, balkon"
+        }
+      },
+      {
+        "name": {
+          "ru": "Макс. нагрузка",
+          "uz": "Maks. yuklama"
+        },
+        "value": {
+          "ru": "100 кг",
+          "uz": "100 kg"
+        }
+      },
+      {
+        "name": {
+          "ru": "Крепление",
+          "uz": "Mahkamlash"
+        },
+        "value": {
+          "ru": "Крюк и стропы в комплекте",
+          "uz": "Ilgak va arqonlar toʻplamda"
+        }
+      },
+      {
+        "name": {
+          "ru": "Производство",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Lanxin Crafts Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.5,
+      "years": 4,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Kamola U.",
+        "rating": 5,
+        "text": {
+          "ru": "Повесили на веранде, дочка в восторге. Шли 19 дней, верёвки крепкие.",
+          "uz": "Ayvonga osdik, qizim juda xursand. 19 kunda keldi, arqonlari mustahkam."
+        },
+        "date": "2026-07-02"
+      },
+      {
+        "author": "Aziz Sh.",
+        "rating": 4,
+        "text": {
+          "ru": "Красивые, но крюк в комплекте простенький — поставил свой анкер.",
+          "uz": "Chiroyli, lekin toʻplamdagi ilgak oddiyroq ekan — oʻzimning ankerimni qoʻydim."
+        },
+        "date": "2026-08-11"
+      }
+    ]
+  },
+  {
+    "djId": 44,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Фоторамка «Семейное дерево» для нескольких фото",
+      "uz": "«Oila daraxti» fotoramkasi, bir nechta surat uchun"
+    },
+    "subtitle": {
+      "ru": "Настольная · Подарок для родителей",
+      "uz": "Stol ustiga · Ota-onaga sovgʻa"
+    },
+    "description": {
+      "ru": "Фоторамка в виде семейного дерева собирает любимые снимки родных в одну композицию. На ветвях закреплены рамки для фотографий разного формата, а устойчивое основание подходит для полки, комода или рабочего стола. Хороший подарок родителям, бабушкам и дедушкам.",
+      "uz": "Oila daraxti shaklidagi fotoramka yaqinlaringizning sevimli suratlarini bitta kompozitsiyada jamlaydi. Shoxlariga turli oʻlchamdagi suratlar uchun ramkalar mahkamlangan, barqaror asosi esa javon, komod yoki ish stoliga mos keladi. Ota-onalar, buvi va buvalar uchun ajoyib sovgʻa."
+    },
+    "price": 219000,
+    "oldPrice": 259000,
+    "rating": 4.7,
+    "reviews": 1326,
+    "sold": 7800,
+    "stock": 320,
+    "deliveryDays": [
+      12,
+      20
+    ],
+    "weightKg": 1.3,
+    "badges": [
+      "sale",
+      "hit"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Material"
+        },
+        "value": {
+          "ru": "Металл, стекло",
+          "uz": "Metall, shisha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Форматы фото",
+          "uz": "Surat formatlari"
+        },
+        "value": {
+          "ru": "10 × 15 и 6 × 9 см",
+          "uz": "10 × 15 va 6 × 9 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Установка",
+          "uz": "Oʻrnatish"
+        },
+        "value": {
+          "ru": "Настольная",
+          "uz": "Stol ustiga"
+        }
+      },
+      {
+        "name": {
+          "ru": "Высота",
+          "uz": "Balandligi"
+        },
+        "value": {
+          "ru": "38 см",
+          "uz": "38 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Производство",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Jiahe Photo Frame Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.7,
+      "years": 7,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nilufar A.",
+        "rating": 5,
+        "text": {
+          "ru": "Подарила маме на юбилей, она прослезилась. Рамка тяжёлая, устойчивая, стекло целое.",
+          "uz": "Onamga yubileyiga sovgʻa qildim, koʻzlariga yosh keldi. Ramka ogʻir, barqaror, shishasi butun."
+        },
+        "date": "2026-03-15"
+      },
+      {
+        "author": "Dmitriy K.",
+        "rating": 4,
+        "text": {
+          "ru": "Хорошая вещь за свои деньги. Доставка 17 дней, фото пришлось подрезать под маленькие рамки.",
+          "uz": "Narxiga arziydigan narsa. 17 kunda yetkazildi, suratlarni kichik ramkalarga moslab qirqishga toʻgʻri keldi."
+        },
+        "date": "2026-05-08"
+      },
+      {
+        "author": "Shahzoda M.",
+        "rating": 5,
+        "text": {
+          "ru": "Очень милая рамка, на комоде смотрится как украшение.",
+          "uz": "Juda yoqimli ramka, komod ustida bezakdek turibdi."
+        },
+        "date": "2026-10-04"
+      }
+    ]
+  },
+  {
+    "djId": 45,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Искусственное растение в кашпо, декор для дома",
+      "uz": "Tuvakdagi sunʼiy oʻsimlik, uy uchun dekor"
+    },
+    "subtitle": {
+      "ru": "Не требует ухода · Не выгорает",
+      "uz": "Parvarish talab qilmaydi · Rangi oʻchmaydi"
+    },
+    "description": {
+      "ru": "Искусственное растение выглядит как живое и оживляет гостиную, офис или прихожую без полива и пересадки. Листья из мягкого полимера не выгорают на солнце и легко очищаются влажной салфеткой. Растение закреплено в устойчивом кашпо и готово к установке сразу после распаковки.",
+      "uz": "Sunʼiy oʻsimlik xuddi tirikdek koʻrinadi va mehmonxona, ofis yoki dahlizni sugʻorish va koʻchirib oʻtqazishsiz jonlantiradi. Yumshoq polimerdan tayyorlangan barglari quyoshda rangini yoʻqotmaydi va nam salfetka bilan oson tozalanadi. Oʻsimlik barqaror tuvakka mahkamlangan, qadoqdan chiqarilgach darhol joyiga qoʻyish mumkin."
+    },
+    "price": 289000,
+    "oldPrice": null,
+    "rating": 4.8,
+    "reviews": 2140,
+    "sold": 11500,
+    "stock": 280,
+    "deliveryDays": [
+      12,
+      20
+    ],
+    "weightKg": 2.4,
+    "badges": [
+      "hit",
+      "wholesale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Высота",
+          "uz": "Balandligi"
+        },
+        "values": [
+          {
+            "id": "45cm",
+            "label": {
+              "ru": "45 см",
+              "uz": "45 sm"
+            },
+            "priceDelta": 0,
+            "stock": 120
+          },
+          {
+            "id": "65cm",
+            "label": {
+              "ru": "65 см",
+              "uz": "65 sm"
+            },
+            "priceDelta": 110000,
+            "stock": 110
+          },
+          {
+            "id": "90cm",
+            "label": {
+              "ru": "90 см",
+              "uz": "90 sm"
+            },
+            "priceDelta": 260000,
+            "stock": 50
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Искусственное растение в кашпо",
+          "uz": "Tuvakdagi sunʼiy oʻsimlik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал листьев",
+          "uz": "Barglar materiali"
+        },
+        "value": {
+          "ru": "Полимер (PE)",
+          "uz": "Polimer (PE)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Кашпо",
+          "uz": "Tuvak"
+        },
+        "value": {
+          "ru": "Пластик под керамику",
+          "uz": "Keramikaga oʻxshash plastik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Протирать влажной салфеткой",
+          "uz": "Nam salfetka bilan artish"
+        }
+      },
+      {
+        "name": {
+          "ru": "Производство",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Lvyuan Artificial Plants Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.8,
+      "years": 10,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Zarina T.",
+        "rating": 5,
+        "text": {
+          "ru": "Выглядит как настоящее, гости спрашивают, как я его поливаю. Пришло за 15 дней.",
+          "uz": "Xuddi haqiqiydek koʻrinadi, mehmonlar uni qanday sugʻorishimni soʻrashadi. 15 kunda keldi."
+        },
+        "date": "2026-04-19"
+      },
+      {
+        "author": "Bobur Q.",
+        "rating": 4,
+        "text": {
+          "ru": "Взял высоту 65 см для офиса. После доставки листья пришлось расправить, через день они приняли форму.",
+          "uz": "Ofis uchun 65 smlik variantini oldim. Yetkazilgandan keyin barglarini toʻgʻrilashga toʻgʻri keldi, bir kunda shaklga kirdi."
+        },
+        "date": "2026-06-27"
+      },
+      {
+        "author": "Elena V.",
+        "rating": 5,
+        "text": {
+          "ru": "Отличный вариант для кухни, где мало света.",
+          "uz": "Yorugʻlik kam boʻlgan oshxona uchun aʼlo variant."
+        },
+        "date": "2026-09-18"
+      }
+    ]
+  },
+  {
+    "djId": 46,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Кашпо для комнатных растений, современный дизайн",
+      "uz": "Xona oʻsimliklari uchun tuvak, zamonaviy dizayn"
+    },
+    "subtitle": {
+      "ru": "Для дома и сада · 3 размера",
+      "uz": "Uy va bogʻ uchun · 3 xil oʻlcham"
+    },
+    "description": {
+      "ru": "Лаконичное кашпо подчеркнёт красоту комнатных растений и впишется в современный интерьер. Подходит для дома, балкона и открытой террасы. Плотные стенки хорошо держат форму, а гладкая поверхность легко моется.",
+      "uz": "Sodda va nafis tuvak xona oʻsimliklarining goʻzalligini taʼkidlaydi va zamonaviy interyerga mos tushadi. Uy, balkon va ochiq ayvon uchun mos keladi. Qalin devorlari shaklini yaxshi saqlaydi, silliq yuzasi esa oson yuviladi."
+    },
+    "price": 119000,
+    "oldPrice": null,
+    "rating": 4.3,
+    "reviews": 864,
+    "sold": 6200,
+    "stock": 590,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 1.8,
+    "badges": [
+      "wholesale"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "values": [
+          {
+            "id": "d14",
+            "label": {
+              "ru": "Ø 14 см",
+              "uz": "Ø 14 sm"
+            },
+            "priceDelta": 0,
+            "stock": 240
+          },
+          {
+            "id": "d18",
+            "label": {
+              "ru": "Ø 18 см",
+              "uz": "Ø 18 sm"
+            },
+            "priceDelta": 40000,
+            "stock": 210
+          },
+          {
+            "id": "d24",
+            "label": {
+              "ru": "Ø 24 см",
+              "uz": "Ø 24 sm"
+            },
+            "priceDelta": 90000,
+            "stock": 140
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Material"
+        },
+        "value": {
+          "ru": "Керамика",
+          "uz": "Keramika"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "value": {
+          "ru": "14, 18 или 24 см",
+          "uz": "14, 18 yoki 24 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Применение",
+          "uz": "Qoʻllanilishi"
+        },
+        "value": {
+          "ru": "Дом, балкон, терраса",
+          "uz": "Uy, balkon, ayvon"
+        }
+      },
+      {
+        "name": {
+          "ru": "Уход",
+          "uz": "Parvarish"
+        },
+        "value": {
+          "ru": "Можно мыть водой",
+          "uz": "Suv bilan yuvish mumkin"
+        }
+      },
+      {
+        "name": {
+          "ru": "Производство",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Foshan Taoyuan Ceramics Co., Ltd.",
+      "city": {
+        "ru": "Фошань",
+        "uz": "Foshan"
+      },
+      "rating": 4.6,
+      "years": 13,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sevara I.",
+        "rating": 5,
+        "text": {
+          "ru": "Кашпо плотное, ровное, без сколов. Взяла три размера, чтобы расставить по высоте на подоконнике.",
+          "uz": "Tuvak qalin, tekis, hech qayeri uchilmagan. Deraza tokchasiga balandligi boʻyicha terib qoʻyish uchun uch xil oʻlchamini oldim."
+        },
+        "date": "2026-03-28"
+      },
+      {
+        "author": "Ivan P.",
+        "rating": 4,
+        "text": {
+          "ru": "Доставка 18 дней, упаковано хорошо. Цвет чуть светлее, чем на фото.",
+          "uz": "18 kunda yetkazildi, yaxshi qadoqlangan. Rangi rasmdagidan biroz ochroq."
+        },
+        "date": "2026-07-15"
+      }
+    ]
+  },
+  {
+    "djId": 47,
+    "categoryId": "home",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Настольная лампа в современном стиле, цоколь E27",
+      "uz": "Zamonaviy uslubdagi stol chirogʻi, E27 patron"
+    },
+    "subtitle": {
+      "ru": "Мягкий рассеянный свет · Кабель 1,5 м",
+      "uz": "Yumshoq tarqoq yorugʻlik · 1,5 m kabel"
+    },
+    "description": {
+      "ru": "Настольная лампа в современном стиле создаёт мягкий рассеянный свет для отдыха и даёт достаточно освещения для чтения. Подходит для прикроватной тумбы, рабочего стола или комода. Лампа рассчитана на стандартные лампочки с цоколем E27 — рекомендуем светодиодные мощностью до 9 Вт.",
+      "uz": "Zamonaviy uslubdagi stol chirogʻi dam olish uchun yumshoq tarqoq yorugʻlik beradi, kitob oʻqish uchun ham yorugʻligi yetarli. Karavot yoni tumbasi, ish stoli yoki komod uchun mos. Chiroq standart E27 patronli lampochkalar uchun moʻljallangan — quvvati 9 Vt gacha boʻlgan LED lampochkalarni tavsiya qilamiz."
+    },
+    "price": 349000,
+    "oldPrice": 399000,
+    "rating": 4.4,
+    "reviews": 1092,
+    "sold": 5400,
+    "stock": 90,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 1.9,
+    "badges": [
+      "sale",
+      "new"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплектация",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "no-bulb",
+            "label": {
+              "ru": "Без лампочки",
+              "uz": "Lampochkasiz"
+            },
+            "priceDelta": 0,
+            "stock": 50
+          },
+          {
+            "id": "led-bulb",
+            "label": {
+              "ru": "С LED-лампочкой 9 Вт",
+              "uz": "9 Vt LED lampochka bilan"
+            },
+            "priceDelta": 29000,
+            "stock": 40
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Цоколь",
+          "uz": "Patron"
+        },
+        "value": {
+          "ru": "E27",
+          "uz": "E27"
+        }
+      },
+      {
+        "name": {
+          "ru": "Мощность лампочки",
+          "uz": "Lampochka quvvati"
+        },
+        "value": {
+          "ru": "до 9 Вт (LED)",
+          "uz": "9 Vt gacha (LED)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина кабеля",
+          "uz": "Kabel uzunligi"
+        },
+        "value": {
+          "ru": "1,5 м",
+          "uz": "1,5 m"
+        }
+      },
+      {
+        "name": {
+          "ru": "Выключатель",
+          "uz": "Oʻchirgich"
+        },
+        "value": {
+          "ru": "На кабеле",
+          "uz": "Kabelda"
+        }
+      },
+      {
+        "name": {
+          "ru": "Питание",
+          "uz": "Elektr taʼminoti"
+        },
+        "value": {
+          "ru": "220 В",
+          "uz": "220 V"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "3 месяца",
+          "uz": "3 oy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Ningbo Liangdian Lighting Co., Ltd.",
+      "city": {
+        "ru": "Нинбо",
+        "uz": "Ningbo"
+      },
+      "rating": 4.6,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Feruza O.",
+        "rating": 5,
+        "text": {
+          "ru": "Свет тёплый и уютный, вечером удобно читать. Шла 14 дней, упакована в пенопласт.",
+          "uz": "Yorugʻligi iliq va shinam, kechqurun kitob oʻqish qulay. 14 kunda keldi, penoplastga qadoqlangan."
+        },
+        "date": "2026-02-11"
+      },
+      {
+        "author": "Timur R.",
+        "rating": 4,
+        "text": {
+          "ru": "Брал с лампочкой — удобно, сразу включил. Вилка европейская, к нашим розеткам подходит.",
+          "uz": "Lampochkasi bilan oldim — qulay, darrov yoqdim. Vilkasi yevropacha, bizdagi rozetkalarga mos keladi."
+        },
+        "date": "2026-08-30"
+      }
+    ]
+  },
+  {
+    "djId": 137,
+    "categoryId": "sport",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Мяч для американского футбола, размер 9, композитная кожа",
+      "uz": "Amerika futboli toʻpi, 9-oʻlcham, kompozit charm"
+    },
+    "subtitle": {
+      "ru": "Рельефная шнуровка · Надёжный хват",
+      "uz": "Boʻrtma bogʻich · Qoʻlda mahkam turadi"
+    },
+    "description": {
+      "ru": "Классический мяч для американского футбола для тренировок и любительских игр. Покрышка из композитной кожи с рельефной фактурой и высокая шнуровка обеспечивают уверенный хват при броске и ловле. Бутиловая камера внутри долго держит давление.",
+      "uz": "Mashgʻulotlar va havaskorlar oʻyini uchun klassik Amerika futboli toʻpi. Boʻrtma teksturali kompozit charm qoplama va baland bogʻich uloqtirish hamda ilib olishda toʻpni ishonchli ushlashga yordam beradi. Ichidagi butil kamera bosimni uzoq saqlaydi."
+    },
+    "price": 149000,
+    "oldPrice": null,
+    "rating": 4.9,
+    "reviews": 146,
+    "sold": 690,
+    "stock": 530,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 0.55,
+    "badges": [],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "9",
+            "label": {
+              "ru": "№ 9, взрослый",
+              "uz": "9-oʻlcham, kattalar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 310
+          },
+          {
+            "id": "7",
+            "label": {
+              "ru": "№ 7, подростковый",
+              "uz": "7-oʻlcham, oʻsmirlar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 160
+          },
+          {
+            "id": "6",
+            "label": {
+              "ru": "№ 6, детский",
+              "uz": "6-oʻlcham, bolalar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 60
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Покрышка",
+          "uz": "Qoplama"
+        },
+        "value": {
+          "ru": "Композитная кожа",
+          "uz": "Kompozit charm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Камера",
+          "uz": "Kamera"
+        },
+        "value": {
+          "ru": "Бутиловая",
+          "uz": "Butil"
+        }
+      },
+      {
+        "name": {
+          "ru": "Шнуровка",
+          "uz": "Bogʻich"
+        },
+        "value": {
+          "ru": "Рельефная, ПВХ",
+          "uz": "Boʻrtma, PVX"
+        }
+      },
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Vazifasi"
+        },
+        "value": {
+          "ru": "Тренировки, любительские игры",
+          "uz": "Mashgʻulotlar, havaskorlar oʻyini"
+        }
+      },
+      {
+        "name": {
+          "ru": "Производство",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Quanzhou Jinjiang Tiansheng Sporting Goods Co., Ltd.",
+      "city": {
+        "ru": "Цюаньчжоу",
+        "uz": "Syuanchjou"
+      },
+      "rating": 4.7,
+      "years": 9,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sardor M.",
+        "rating": 5,
+        "text": {
+          "ru": "Хват отличный, шнуровка не скользит. Мяч пришёл не до конца накачанным, но иглу положили в комплект.",
+          "uz": "Ushlash qulay, bogʻichi sirpanmaydi. Toʻp toʻliq damlanmagan holda keldi, lekin ignasi toʻplamda bor ekan."
+        },
+        "date": "2026-05-23"
+      },
+      {
+        "author": "Oleg T.",
+        "rating": 5,
+        "text": {
+          "ru": "Для дворовых игр самое то, за три месяца швы целые.",
+          "uz": "Hovlida oʻynash uchun ayni muddao, uch oyda choklari butun."
+        },
+        "date": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "djId": 138,
+    "categoryId": "sport",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Бейсбольный мяч, натуральная кожа, красные швы",
+      "uz": "Beysbol toʻpi, tabiiy charm, qizil choklar"
+    },
+    "subtitle": {
+      "ru": "Пробковое ядро · Ручная прошивка",
+      "uz": "Probka yadro · Qoʻlda tikilgan"
+    },
+    "description": {
+      "ru": "Стандартный бейсбольный мяч для тренировок и игр. Покрышка из прочной натуральной кожи прошита вручную, а пробковое ядро с намоткой даёт правильный отскок при подаче и ударе. Подходит для отработки бросков, ловли и игры в поле.",
+      "uz": "Mashgʻulot va oʻyinlar uchun standart beysbol toʻpi. Mustahkam tabiiy charm qoplamasi qoʻlda tikilgan, ip oʻralgan probka yadrosi esa uzatish va zarba berishda toʻpning toʻgʻri sakrashini taʼminlaydi. Uloqtirish, ilib olish va maydonda oʻynashni mashq qilish uchun mos."
+    },
+    "price": 69000,
+    "oldPrice": null,
+    "rating": 4.1,
+    "reviews": 62,
+    "sold": 380,
+    "stock": 1000,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 0.2,
+    "badges": [
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Количество",
+          "uz": "Soni"
+        },
+        "values": [
+          {
+            "id": "1pc",
+            "label": {
+              "ru": "1 мяч",
+              "uz": "1 ta toʻp"
+            },
+            "priceDelta": 0,
+            "stock": 600
+          },
+          {
+            "id": "3pcs",
+            "label": {
+              "ru": "3 мяча",
+              "uz": "3 ta toʻp"
+            },
+            "priceDelta": 119000,
+            "stock": 250
+          },
+          {
+            "id": "6pcs",
+            "label": {
+              "ru": "6 мячей",
+              "uz": "6 ta toʻp"
+            },
+            "priceDelta": 249000,
+            "stock": 150
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Покрышка",
+          "uz": "Qoplama"
+        },
+        "value": {
+          "ru": "Натуральная кожа",
+          "uz": "Tabiiy charm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ядро",
+          "uz": "Yadro"
+        },
+        "value": {
+          "ru": "Пробка с намоткой",
+          "uz": "Ip oʻralgan probka"
+        }
+      },
+      {
+        "name": {
+          "ru": "Окружность",
+          "uz": "Aylana uzunligi"
+        },
+        "value": {
+          "ru": "23 см",
+          "uz": "23 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес мяча",
+          "uz": "Toʻp ogʻirligi"
+        },
+        "value": {
+          "ru": "145 г",
+          "uz": "145 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "Производство",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Ningbo Hongyun Sports Products Co., Ltd.",
+      "city": {
+        "ru": "Нинбо",
+        "uz": "Ningbo"
+      },
+      "rating": 4.4,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Anvar J.",
+        "rating": 4,
+        "text": {
+          "ru": "Мяч плотный, швы ровные. Брал сыну для секции, тренер одобрил.",
+          "uz": "Toʻp zich, choklari tekis. Oʻglimga seksiya uchun oldim, murabbiy maʼqulladi."
+        },
+        "date": "2026-04-06"
+      },
+      {
+        "author": "Pavel G.",
+        "rating": 3,
+        "text": {
+          "ru": "Нормальный мяч, но на асфальте кожа быстро стирается — только для травы.",
+          "uz": "Yomon emas, lekin asfaltda charmi tez yeyiladi — faqat maysazor uchun."
+        },
+        "date": "2026-06-19"
+      },
+      {
+        "author": "Ulugʻbek S.",
+        "rating": 5,
+        "text": {
+          "ru": "Взял набор из шести мячей, пришёл за 20 дней в аккуратной коробке.",
+          "uz": "Oltita toʻpli toʻplamni oldim, 20 kunda chiroyli qutida keldi."
+        },
+        "date": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "djId": 139,
+    "categoryId": "sport",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Бейсбольная перчатка на левую руку, экокожа",
+      "uz": "Chap qoʻl uchun beysbol qoʻlqopi, ekocharm"
+    },
+    "subtitle": {
+      "ru": "Мягкая подкладка · Регулируемый ремешок",
+      "uz": "Yumshoq astar · Sozlanadigan tasma"
+    },
+    "description": {
+      "ru": "Бейсбольная перчатка для правшей, надевается на левую руку. Глубокий карман и плотная шнуровка помогают надёжно ловить мяч, а мягкая подкладка смягчает удар. Ремешок на липучке позволяет подогнать перчатку по руке. Подходит для тренировок и любительских игр.",
+      "uz": "Oʻnaqaylar uchun beysbol qoʻlqopi, chap qoʻlga kiyiladi. Chuqur choʻntak va zich bogʻich toʻpni ishonchli ilib olishga yordam beradi, yumshoq astar esa zarbani yumshatadi. Yopishqoq tasma qoʻlqopni qoʻlga moslashtirish imkonini beradi. Mashgʻulotlar va havaskorlar oʻyini uchun mos."
+    },
+    "price": 189000,
+    "oldPrice": null,
+    "rating": 4.6,
+    "reviews": 88,
+    "sold": 430,
+    "stock": 220,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 0.7,
+    "badges": [],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "10-5",
+            "label": {
+              "ru": "10,5″, детская",
+              "uz": "10,5″, bolalar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 70
+          },
+          {
+            "id": "11-5",
+            "label": {
+              "ru": "11,5″, подростковая",
+              "uz": "11,5″, oʻsmirlar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 90
+          },
+          {
+            "id": "12-5",
+            "label": {
+              "ru": "12,5″, взрослая",
+              "uz": "12,5″, kattalar uchun"
+            },
+            "priceDelta": 20000,
+            "stock": 60
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Рука",
+          "uz": "Qoʻl"
+        },
+        "value": {
+          "ru": "Левая (для правшей)",
+          "uz": "Chap (oʻnaqaylar uchun)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Material"
+        },
+        "value": {
+          "ru": "Экокожа, мягкая подкладка",
+          "uz": "Ekocharm, yumshoq astar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Застёжка",
+          "uz": "Mahkamlagich"
+        },
+        "value": {
+          "ru": "Липучка",
+          "uz": "Yopishqoq tasma"
+        }
+      },
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Vazifasi"
+        },
+        "value": {
+          "ru": "Тренировки, любительские игры",
+          "uz": "Mashgʻulotlar, havaskorlar oʻyini"
+        }
+      },
+      {
+        "name": {
+          "ru": "Производство",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Ningbo Hongyun Sports Products Co., Ltd.",
+      "city": {
+        "ru": "Нинбо",
+        "uz": "Ningbo"
+      },
+      "rating": 4.4,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Jasur T.",
+        "rating": 5,
+        "text": {
+          "ru": "Взял себе 11,5 — сидит по руке отлично. Материал мягкий, разнашивать почти не пришлось.",
+          "uz": "Oʻzimga 11,5 oʻlchamini oldim — qoʻlga juda yaxshi tushdi. Materiali yumshoq, deyarli moslashtirishga toʻgʻri kelmadi."
+        },
+        "date": "2026-07-07"
+      },
+      {
+        "author": "Diana L.",
+        "rating": 4,
+        "text": {
+          "ru": "Доставка 21 день. Перчатка хорошая, сначала был лёгкий запах, через пару дней выветрился.",
+          "uz": "21 kunda yetkazildi. Qoʻlqop yaxshi, avvaliga biroz hidi bor edi, ikki kundan keyin ketdi."
+        },
+        "date": "2026-05-30"
+      }
+    ]
+  },
+  {
+    "djId": 140,
+    "categoryId": "sport",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Баскетбольный мяч, размер 7, для зала и улицы",
+      "uz": "Basketbol toʻpi, 7-oʻlcham, zal va koʻcha uchun"
+    },
+    "subtitle": {
+      "ru": "Глубокие канавки · Нескользящее покрытие",
+      "uz": "Chuqur ariqchalar · Sirpanmaydigan sirt"
+    },
+    "description": {
+      "ru": "Баскетбольный мяч для игры в зале и на открытой площадке. Рельефная покрышка из износостойкой композитной кожи хорошо лежит в руке при дриблинге и бросках, а глубокие канавки помогают контролировать вращение. Бутиловая камера долго держит давление.",
+      "uz": "Zal va ochiq maydonda oʻynash uchun basketbol toʻpi. Yeyilishga chidamli, boʻrtma naqshli kompozit charm qoplama dribling va otishlarda qoʻlda yaxshi turadi, chuqur ariqchalar esa aylanishni nazorat qilishga yordam beradi. Butil kamera bosimni uzoq saqlaydi."
+    },
+    "price": 129000,
+    "oldPrice": 149000,
+    "rating": 4.8,
+    "reviews": 3418,
+    "sold": 21600,
+    "stock": 750,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.75,
+    "badges": [
+      "sale",
+      "hit"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "7",
+            "label": {
+              "ru": "№ 7, мужской",
+              "uz": "7-oʻlcham, erkaklar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 420
+          },
+          {
+            "id": "6",
+            "label": {
+              "ru": "№ 6, женский",
+              "uz": "6-oʻlcham, ayollar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 200
+          },
+          {
+            "id": "5",
+            "label": {
+              "ru": "№ 5, детский",
+              "uz": "5-oʻlcham, bolalar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 130
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Покрышка",
+          "uz": "Qoplama"
+        },
+        "value": {
+          "ru": "Композитная кожа (PU)",
+          "uz": "Kompozit charm (PU)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Камера",
+          "uz": "Kamera"
+        },
+        "value": {
+          "ru": "Бутиловая",
+          "uz": "Butil"
+        }
+      },
+      {
+        "name": {
+          "ru": "Окружность (№ 7)",
+          "uz": "Aylana uzunligi (7-oʻlcham)"
+        },
+        "value": {
+          "ru": "75 см",
+          "uz": "75 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Площадка",
+          "uz": "Maydon"
+        },
+        "value": {
+          "ru": "Зал и улица",
+          "uz": "Zal va koʻcha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Производство",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Quanzhou Feiyue Sporting Goods Co., Ltd.",
+      "city": {
+        "ru": "Цюаньчжоу",
+        "uz": "Syuanchjou"
+      },
+      "rating": 4.8,
+      "years": 11,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sanjar E.",
+        "rating": 5,
+        "text": {
+          "ru": "Играем на уличной площадке уже два месяца — покрытие почти не стёрлось. Доставка 16 дней.",
+          "uz": "Ikki oydan beri koʻchadagi maydonda oʻynaymiz — qoplamasi deyarli yeyilmadi. 16 kunda yetkazildi."
+        },
+        "date": "2026-06-08"
+      },
+      {
+        "author": "Madina K.",
+        "rating": 5,
+        "text": {
+          "ru": "Брала сыну пятый размер: лёгкий и хорошо прыгает.",
+          "uz": "Oʻglimga 5-oʻlchamini oldim: yengil va yaxshi sakraydi."
+        },
+        "date": "2026-09-21"
+      },
+      {
+        "author": "Akmal D.",
+        "rating": 4,
+        "text": {
+          "ru": "Мяч хороший, но пришёл слегка спущенным, а насос в комплект не входит.",
+          "uz": "Toʻp yaxshi, lekin biroz damsiz keldi, nasos esa toʻplamga kirmaydi."
+        },
+        "date": "2026-03-03"
+      }
+    ]
+  },
+  {
+    "djId": 141,
+    "categoryId": "sport",
+    "source": "alibaba",
+    "brand": null,
+    "title": {
+      "ru": "Баскетбольное кольцо с сеткой, Ø 45 см, сталь",
+      "uz": "Toʻrli basketbol halqasi, Ø 45 sm, poʻlat"
+    },
+    "subtitle": {
+      "ru": "Стандартный диаметр · Прочная сетка",
+      "uz": "Standart diametr · Mustahkam toʻr"
+    },
+    "description": {
+      "ru": "Баскетбольное кольцо стандартного диаметра 45 см с нейлоновой сеткой для двора, спортзала или дачи. Обод из стального прута покрыт порошковой краской, которая защищает от ржавчины. Кольцо крепится к щиту или стене четырьмя болтами, крепёж входит в комплект.",
+      "uz": "Hovli, sport zali yoki dala hovli uchun 45 sm standart diametrli, neylon toʻrli basketbol halqasi. Poʻlat sterjendan yasalgan gardishi zangdan himoya qiluvchi kukunli boʻyoq bilan qoplangan. Halqa shitga yoki devorga toʻrtta bolt bilan mahkamlanadi, mahkamlagichlar toʻplamga kiradi."
+    },
+    "price": 429000,
+    "oldPrice": null,
+    "rating": 4.7,
+    "reviews": 452,
+    "sold": 2100,
+    "stock": 143,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 4.2,
+    "badges": [
+      "choice"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [],
+    "specs": [
+      {
+        "name": {
+          "ru": "Диаметр кольца",
+          "uz": "Halqa diametri"
+        },
+        "value": {
+          "ru": "45 см",
+          "uz": "45 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Material"
+        },
+        "value": {
+          "ru": "Сталь, порошковая окраска",
+          "uz": "Poʻlat, kukunli boʻyoq"
+        }
+      },
+      {
+        "name": {
+          "ru": "Сетка",
+          "uz": "Toʻr"
+        },
+        "value": {
+          "ru": "Нейлон, 12 петель",
+          "uz": "Neylon, 12 ilmoq"
+        }
+      },
+      {
+        "name": {
+          "ru": "Монтаж",
+          "uz": "Oʻrnatish"
+        },
+        "value": {
+          "ru": "К щиту или стене, 4 болта",
+          "uz": "Shitga yoki devorga, 4 ta bolt"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "3 месяца",
+          "uz": "3 oy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Dongguan Jinli Sports Facilities Co., Ltd.",
+      "city": {
+        "ru": "Дунгуань",
+        "uz": "Dunguan"
+      },
+      "rating": 4.7,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Rustam N.",
+        "rating": 5,
+        "text": {
+          "ru": "Повесил во дворе на стену гаража, держится намертво. Пришло за 17 дней.",
+          "uz": "Hovlidagi garaj devoriga oʻrnatdim, qimirlamay turibdi. 17 kunda keldi."
+        },
+        "date": "2026-05-12"
+      },
+      {
+        "author": "Lola F.",
+        "rating": 4,
+        "text": {
+          "ru": "Кольцо крепкое, краска ровная. Сетку бы потолще, но для детей в самый раз.",
+          "uz": "Halqa mustahkam, boʻyogʻi tekis. Toʻri qalinroq boʻlsa yaxshi boʻlardi, lekin bolalar uchun ayni muddao."
+        },
+        "date": "2026-08-24"
+      }
+    ]
+  },
+  {
+    "djId": 142,
+    "categoryId": "sport",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Мяч для крикета, натуральная кожа, красный",
+      "uz": "Kriket toʻpi, tabiiy charm, qizil"
+    },
+    "subtitle": {
+      "ru": "Прошитый шов · Пробковое ядро",
+      "uz": "Tikilgan chok · Probka yadro"
+    },
+    "description": {
+      "ru": "Твёрдый кожаный мяч для крикета для тренировок и матчей. Выступающий прошитый шов помогает подающему управлять траекторией, а пробковое ядро даёт нужную упругость. Мяч сохраняет форму даже после интенсивных тренировок.",
+      "uz": "Mashgʻulot va oʻyinlar uchun qattiq charm kriket toʻpi. Boʻrtib turgan tikilgan chok toʻp uzatuvchiga traektoriyani boshqarishga yordam beradi, probka yadro esa kerakli elastiklikni beradi. Toʻp jadal mashgʻulotlardan keyin ham shaklini saqlaydi."
+    },
+    "price": 99000,
+    "oldPrice": null,
+    "rating": 4.4,
+    "reviews": 41,
+    "sold": 260,
+    "stock": 300,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 0.25,
+    "badges": [
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "color",
+        "kind": "color",
+        "name": {
+          "ru": "Цвет",
+          "uz": "Rangi"
+        },
+        "values": [
+          {
+            "id": "red",
+            "label": {
+              "ru": "Красный",
+              "uz": "Qizil"
+            },
+            "hex": "#A31F24",
+            "imageIndex": 0,
+            "priceDelta": 0,
+            "stock": 200
+          },
+          {
+            "id": "white",
+            "label": {
+              "ru": "Белый",
+              "uz": "Oq"
+            },
+            "hex": "#F2F0EA",
+            "priceDelta": 0,
+            "stock": 100
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Покрышка",
+          "uz": "Qoplama"
+        },
+        "value": {
+          "ru": "Натуральная кожа",
+          "uz": "Tabiiy charm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ядро",
+          "uz": "Yadro"
+        },
+        "value": {
+          "ru": "Пробка",
+          "uz": "Probka"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "156 г",
+          "uz": "156 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "Шов",
+          "uz": "Chok"
+        },
+        "value": {
+          "ru": "Ручная прошивка",
+          "uz": "Qoʻlda tikilgan"
+        }
+      },
+      {
+        "name": {
+          "ru": "Производство",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shanghai Huiyou Sports Equipment Co., Ltd.",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.5,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Shoxrux B.",
+        "rating": 4,
+        "text": {
+          "ru": "Мяч тяжёлый и твёрдый, как и должен быть. Шёл 22 дня.",
+          "uz": "Toʻp ogʻir va qattiq, xuddi boʻlishi kerakdek. 22 kunda keldi."
+        },
+        "date": "2026-04-14"
+      },
+      {
+        "author": "Viktor M.",
+        "rating": 5,
+        "text": {
+          "ru": "По выходным играем с друзьями в крикет, мяч отлично держит форму.",
+          "uz": "Dam olish kunlari doʻstlar bilan kriket oʻynaymiz, toʻp shaklini aʼlo saqlaydi."
+        },
+        "date": "2026-07-26"
+      }
+    ]
+  },
+  {
+    "djId": 143,
+    "categoryId": "sport",
+    "source": "alibaba",
+    "brand": null,
+    "title": {
+      "ru": "Бита для крикета из кашмирской ивы, размер SH",
+      "uz": "Kashmir tolidan kriket bitasi, SH oʻlcham"
+    },
+    "subtitle": {
+      "ru": "Ручка с обмоткой · Чехол в комплекте",
+      "uz": "Oʻralgan dasta · Gʻilof toʻplamda"
+    },
+    "description": {
+      "ru": "Деревянная бита для крикета для тренировок и любительских матчей. Ивовая древесина хорошо гасит вибрацию при ударе, а ручка с резиновой обмоткой не скользит в ладонях. В комплекте защитный чехол для хранения и переноски.",
+      "uz": "Mashgʻulot va havaskorlar oʻyinlari uchun yogʻoch kriket bitasi. Tol yogʻochi zarba paytidagi tebranishni yaxshi soʻndiradi, rezina bilan oʻralgan dastasi esa kaftda sirpanmaydi. Toʻplamda saqlash va olib yurish uchun himoya gʻilofi bor."
+    },
+    "price": 319000,
+    "oldPrice": null,
+    "rating": 4.3,
+    "reviews": 29,
+    "sold": 170,
+    "stock": 98,
+    "deliveryDays": [
+      12,
+      20
+    ],
+    "weightKg": 1.6,
+    "badges": [],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "sh",
+            "label": {
+              "ru": "SH, взрослый",
+              "uz": "SH, kattalar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 52
+          },
+          {
+            "id": "harrow",
+            "label": {
+              "ru": "Harrow, подростковый",
+              "uz": "Harrow, oʻsmirlar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 30
+          },
+          {
+            "id": "5",
+            "label": {
+              "ru": "№ 5, детский",
+              "uz": "5-oʻlcham, bolalar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 16
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Древесина",
+          "uz": "Yogʻoch"
+        },
+        "value": {
+          "ru": "Кашмирская ива",
+          "uz": "Kashmir toli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Длина (SH)",
+          "uz": "Uzunligi (SH)"
+        },
+        "value": {
+          "ru": "86 см",
+          "uz": "86 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "1,15–1,25 кг",
+          "uz": "1,15–1,25 kg"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ручка",
+          "uz": "Dasta"
+        },
+        "value": {
+          "ru": "Резиновая обмотка",
+          "uz": "Rezina bilan oʻralgan"
+        }
+      },
+      {
+        "name": {
+          "ru": "Комплект",
+          "uz": "Toʻplam"
+        },
+        "value": {
+          "ru": "Бита, чехол",
+          "uz": "Bita, gʻilof"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "1 год",
+          "uz": "1 yil"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shanghai Huiyou Sports Equipment Co., Ltd.",
+      "city": {
+        "ru": "Шанхай",
+        "uz": "Shanxay"
+      },
+      "rating": 4.5,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Behruz K.",
+        "rating": 4,
+        "text": {
+          "ru": "Бита лёгкая, удар звонкий. Обмотку на ручке поменял на более толстую.",
+          "uz": "Bita yengil, zarbasi jarangdor. Dastasidagi oʻramni qalinrogʻiga almashtirdim."
+        },
+        "date": "2026-06-01"
+      },
+      {
+        "author": "Ilya N.",
+        "rating": 5,
+        "text": {
+          "ru": "Шла 19 дней, в чехле и коробке. Для любительских матчей отличный вариант.",
+          "uz": "19 kunda gʻilof va qutida keldi. Havaskorlar oʻyini uchun aʼlo variant."
+        },
+        "date": "2026-09-14"
+      }
+    ]
+  },
+  {
+    "djId": 144,
+    "categoryId": "sport",
+    "source": "alibaba",
+    "brand": null,
+    "title": {
+      "ru": "Шлем для крикета со стальной решёткой, регулируемый",
+      "uz": "Poʻlat panjarali kriket dubulgʻasi, sozlanadigan"
+    },
+    "subtitle": {
+      "ru": "Защита лица · Вентиляционные отверстия",
+      "uz": "Yuz himoyasi · Shamollatish teshiklari"
+    },
+    "description": {
+      "ru": "Защитный шлем для бэтсменов и уикеткиперов. Ударопрочный корпус из ABS-пластика и стальная решётка защищают голову и лицо от быстрых подач, а мягкие вставки внутри смягчают удар. Вентиляционные отверстия не дают перегреваться, размер регулируется на затылке.",
+      "uz": "Kriketchilar, ayniqsa toʻp uruvchilar va vikket qoʻriqchilari uchun himoya dubulgʻasi. Zarbaga chidamli ABS plastik korpus va poʻlat panjara bosh va yuzni tez uzatilgan toʻplardan himoya qiladi, ichki yumshoq qistirmalar esa zarbani yumshatadi. Shamollatish teshiklari qizib ketishdan saqlaydi, oʻlchami ensa qismida sozlanadi."
+    },
+    "price": 489000,
+    "oldPrice": null,
+    "rating": 4.8,
+    "reviews": 18,
+    "sold": 85,
+    "stock": 10,
+    "deliveryDays": [
+      12,
+      20
+    ],
+    "weightKg": 1.4,
+    "badges": [
+      "new"
+    ],
+    "imageIdx": [
+      0,
+      1,
+      2
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "s",
+            "label": {
+              "ru": "S (53–55 см)",
+              "uz": "S (53–55 sm)"
+            },
+            "priceDelta": 0,
+            "stock": 3
+          },
+          {
+            "id": "m",
+            "label": {
+              "ru": "M (56–58 см)",
+              "uz": "M (56–58 sm)"
+            },
+            "priceDelta": 0,
+            "stock": 5
+          },
+          {
+            "id": "l",
+            "label": {
+              "ru": "L (59–61 см)",
+              "uz": "L (59–61 sm)"
+            },
+            "priceDelta": 0,
+            "stock": 2
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Корпус",
+          "uz": "Korpus"
+        },
+        "value": {
+          "ru": "ABS-пластик",
+          "uz": "ABS plastik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Решётка",
+          "uz": "Panjara"
+        },
+        "value": {
+          "ru": "Сталь",
+          "uz": "Poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Внутренние вставки",
+          "uz": "Ichki qistirmalar"
+        },
+        "value": {
+          "ru": "Мягкий EVA",
+          "uz": "Yumshoq EVA"
+        }
+      },
+      {
+        "name": {
+          "ru": "Регулировка",
+          "uz": "Sozlash"
+        },
+        "value": {
+          "ru": "На затылке",
+          "uz": "Ensa qismida"
+        }
+      },
+      {
+        "name": {
+          "ru": "Производство",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Ningbo Yongfeng Protective Gear Co., Ltd.",
+      "city": {
+        "ru": "Нинбо",
+        "uz": "Ningbo"
+      },
+      "rating": 4.6,
+      "years": 7,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Shoxrux B.",
+        "rating": 5,
+        "text": {
+          "ru": "Сидит плотно, решётка не мешает обзору. Пришёл за 18 дней.",
+          "uz": "Boshga zich oʻtiradi, panjara koʻrishga xalaqit bermaydi. 18 kunda keldi."
+        },
+        "date": "2026-08-08"
+      },
+      {
+        "author": "Artyom Z.",
+        "rating": 4,
+        "text": {
+          "ru": "Взял размер M на обхват головы 57 см — подошёл идеально. Внутри мягко, но в жару всё равно жарковато.",
+          "uz": "Bosh aylanam 57 sm, M oʻlchamini oldim — juda mos keldi. Ichi yumshoq, lekin jaziramada baribir biroz issiq boʻladi."
+        },
+        "date": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "djId": 145,
+    "categoryId": "sport",
+    "source": "alibaba",
+    "brand": null,
+    "title": {
+      "ru": "Калитка для крикета, 3 столбика и 2 перекладины, дерево",
+      "uz": "Kriket vikketi: 3 ustuncha va 2 tayoqcha, yogʻoch"
+    },
+    "subtitle": {
+      "ru": "Готова к игре · Для поля и двора",
+      "uz": "Oʻyinga tayyor · Maydon va hovli uchun"
+    },
+    "description": {
+      "ru": "Комплект для крикета из трёх деревянных столбиков и двух перекладин. Заострённые концы легко входят в газон, а лакированная поверхность защищает древесину от влаги. Подходит для тренировок в парке, во дворе и на спортивной площадке.",
+      "uz": "Uchta yogʻoch ustuncha va ikkita koʻndalang tayoqchadan iborat kriket toʻplami. Oʻtkir uchlari maysaga oson kiradi, laklangan sirt esa yogʻochni namlikdan himoya qiladi. Park, hovli va sport maydonchasida mashgʻulot qilish uchun mos."
+    },
+    "price": 299000,
+    "oldPrice": 359000,
+    "rating": 4.8,
+    "reviews": 12,
+    "sold": 64,
+    "stock": 25,
+    "deliveryDays": [
+      12,
+      20
+    ],
+    "weightKg": 3.5,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Комплект",
+          "uz": "Toʻplam"
+        },
+        "values": [
+          {
+            "id": "one",
+            "label": {
+              "ru": "1 калитка",
+              "uz": "1 ta vikket"
+            },
+            "priceDelta": 0,
+            "stock": 15
+          },
+          {
+            "id": "two",
+            "label": {
+              "ru": "2 калитки",
+              "uz": "2 ta vikket"
+            },
+            "priceDelta": 249000,
+            "stock": 10
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Состав",
+          "uz": "Tarkibi"
+        },
+        "value": {
+          "ru": "3 столбика, 2 перекладины",
+          "uz": "3 ta ustuncha, 2 ta tayoqcha"
+        }
+      },
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Material"
+        },
+        "value": {
+          "ru": "Дерево, влагозащитный лак",
+          "uz": "Yogʻoch, namdan himoyalovchi lak"
+        }
+      },
+      {
+        "name": {
+          "ru": "Высота столбиков",
+          "uz": "Ustunchalar balandligi"
+        },
+        "value": {
+          "ru": "71 см",
+          "uz": "71 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "3 месяца",
+          "uz": "3 oy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Hangzhou Muyun Sporting Goods Co., Ltd.",
+      "city": {
+        "ru": "Ханчжоу",
+        "uz": "Xanchjou"
+      },
+      "rating": 4.4,
+      "years": 3,
+      "verified": false
+    },
+    "reviewsPreview": [
+      {
+        "author": "Murod Y.",
+        "rating": 5,
+        "text": {
+          "ru": "Взяли две калитки, по выходным играем в парке. Дерево гладкое, без заусенцев.",
+          "uz": "Ikkita vikket oldik, dam olish kunlari parkda oʻynaymiz. Yogʻochi silliq ishlangan."
+        },
+        "date": "2026-05-04"
+      },
+      {
+        "author": "Natalya F.",
+        "rating": 4,
+        "text": {
+          "ru": "Доставка 20 дней. Перекладины лёгкие, при ветре иногда слетают, но так и задумано.",
+          "uz": "20 kunda yetkazildi. Tayoqchalar yengil, shamolda baʼzan tushib ketadi, lekin shunday boʻlishi kerak."
+        },
+        "date": "2026-07-19"
+      }
+    ]
+  },
+  {
+    "djId": 146,
+    "categoryId": "sport",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Воланы для бадминтона из натурального пера, 12 шт.",
+      "uz": "Tabiiy patli badminton volanlari, 12 dona"
+    },
+    "subtitle": {
+      "ru": "Стабильный полёт · Пробковая головка",
+      "uz": "Barqaror parvoz · Probka bosh qism"
+    },
+    "description": {
+      "ru": "Перьевые воланы для тренировок и игр среднего уровня. Натуральное перо и пробковая головка обеспечивают стабильную траекторию и точный полёт даже при сильных ударах. Воланы поставляются в тубе по 12 штук, которая защищает перья от заломов.",
+      "uz": "Mashgʻulotlar va oʻrta darajadagi oʻyinlar uchun patli volanlar. Tabiiy pat va probka bosh qism kuchli zarbalarda ham barqaror traektoriya va aniq parvozni taʼminlaydi. Volanlar 12 donadan tubada yetkaziladi, tuba patlarni bukilishdan himoya qiladi."
+    },
+    "price": 49000,
+    "oldPrice": null,
+    "rating": 4.2,
+    "reviews": 2384,
+    "sold": 18900,
+    "stock": 950,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.15,
+    "badges": [
+      "hit",
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Количество",
+          "uz": "Soni"
+        },
+        "values": [
+          {
+            "id": "12pcs",
+            "label": {
+              "ru": "12 шт. (1 туба)",
+              "uz": "12 dona (1 tuba)"
+            },
+            "priceDelta": 0,
+            "stock": 600
+          },
+          {
+            "id": "36pcs",
+            "label": {
+              "ru": "36 шт. (3 тубы)",
+              "uz": "36 dona (3 tuba)"
+            },
+            "priceDelta": 89000,
+            "stock": 350
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Перо",
+          "uz": "Pat"
+        },
+        "value": {
+          "ru": "Натуральное",
+          "uz": "Tabiiy"
+        }
+      },
+      {
+        "name": {
+          "ru": "Головка",
+          "uz": "Bosh qism"
+        },
+        "value": {
+          "ru": "Пробка",
+          "uz": "Probka"
+        }
+      },
+      {
+        "name": {
+          "ru": "Скорость",
+          "uz": "Tezligi"
+        },
+        "value": {
+          "ru": "77 (средняя)",
+          "uz": "77 (oʻrtacha)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Упаковка",
+          "uz": "Qadoq"
+        },
+        "value": {
+          "ru": "Туба, 12 шт.",
+          "uz": "Tuba, 12 dona"
+        }
+      },
+      {
+        "name": {
+          "ru": "Производство",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Yuqiu Sporting Goods Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.6,
+      "years": 6,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Dilnoza R.",
+        "rating": 4,
+        "text": {
+          "ru": "Летают ровно, для любительской игры отлично. Пара воланов растрепалась после второй игры.",
+          "uz": "Bir tekis uchadi, havaskorlar oʻyini uchun aʼlo. Ikkita volanning pati ikkinchi oʻyindan keyin titilib ketdi."
+        },
+        "date": "2026-04-25"
+      },
+      {
+        "author": "Javlon S.",
+        "rating": 5,
+        "text": {
+          "ru": "Беру уже третий раз, туба всегда приходит целой. Доставка 14 дней.",
+          "uz": "Uchinchi marta olyapman, tuba doim butun holda keladi. 14 kunda yetkazildi."
+        },
+        "date": "2026-08-17"
+      }
+    ]
+  },
+  {
+    "djId": 147,
+    "categoryId": "sport",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Футбольный мяч, размер 5, для тренировок и игр",
+      "uz": "Futbol toʻpi, 5-oʻlcham, mashgʻulot va oʻyinlar uchun"
+    },
+    "subtitle": {
+      "ru": "Прочные швы · Держит давление",
+      "uz": "Mustahkam choklar · Bosimni saqlaydi"
+    },
+    "description": {
+      "ru": "Классический футбольный мяч для игры на натуральном газоне и искусственном покрытии. Покрышка из износостойкой полиуретановой кожи с прочными швами сохраняет форму после сотен ударов. Бутиловая камера долго держит давление, поэтому подкачивать мяч приходится редко.",
+      "uz": "Tabiiy va sunʼiy maysada oʻynash uchun klassik futbol toʻpi. Yeyilishga chidamli poliuretan charm qoplama va mustahkam choklar tufayli toʻp yuzlab zarbalardan keyin ham shaklini saqlaydi. Butil kamera bosimni uzoq ushlab turadi, shuning uchun toʻpni kamdan-kam damlashga toʻgʻri keladi."
+    },
+    "price": 139000,
+    "oldPrice": null,
+    "rating": 4.4,
+    "reviews": 5612,
+    "sold": 38400,
+    "stock": 960,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.6,
+    "badges": [
+      "hit"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "5",
+            "label": {
+              "ru": "№ 5, взрослый",
+              "uz": "5-oʻlcham, kattalar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 560
+          },
+          {
+            "id": "4",
+            "label": {
+              "ru": "№ 4, подростковый",
+              "uz": "4-oʻlcham, oʻsmirlar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 270
+          },
+          {
+            "id": "3",
+            "label": {
+              "ru": "№ 3, детский",
+              "uz": "3-oʻlcham, bolalar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 130
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Покрышка",
+          "uz": "Qoplama"
+        },
+        "value": {
+          "ru": "Полиуретан (PU)",
+          "uz": "Poliuretan (PU)"
+        }
+      },
+      {
+        "name": {
+          "ru": "Камера",
+          "uz": "Kamera"
+        },
+        "value": {
+          "ru": "Бутиловая",
+          "uz": "Butil"
+        }
+      },
+      {
+        "name": {
+          "ru": "Окружность (№ 5)",
+          "uz": "Aylana uzunligi (5-oʻlcham)"
+        },
+        "value": {
+          "ru": "68–70 см",
+          "uz": "68–70 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Покрытие поля",
+          "uz": "Maydon qoplamasi"
+        },
+        "value": {
+          "ru": "Газон, искусственная трава",
+          "uz": "Tabiiy va sunʼiy maysa"
+        }
+      },
+      {
+        "name": {
+          "ru": "Производство",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Quanzhou Jinjiang Tiansheng Sporting Goods Co., Ltd.",
+      "city": {
+        "ru": "Цюаньчжоу",
+        "uz": "Syuanchjou"
+      },
+      "rating": 4.7,
+      "years": 9,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Sardor M.",
+        "rating": 5,
+        "text": {
+          "ru": "Сын играет каждый день на искусственном поле, за полгода мяч как новый.",
+          "uz": "Oʻglim har kuni sunʼiy maydonda oʻynaydi, yarim yilda toʻp yangidek turibdi."
+        },
+        "date": "2026-10-02"
+      },
+      {
+        "author": "Bekzod U.",
+        "rating": 4,
+        "text": {
+          "ru": "Отличный мяч за свою цену. Пришёл сдутым, накачал за минуту.",
+          "uz": "Narxiga yarasha aʼlo toʻp. Damsiz holda keldi, bir daqiqada damlab oldim."
+        },
+        "date": "2026-03-21"
+      },
+      {
+        "author": "Svetlana I.",
+        "rating": 5,
+        "text": {
+          "ru": "Заказали десять мячей для школьной секции, качество у всех одинаковое. Доставка 15 дней.",
+          "uz": "Maktab seksiyasi uchun oʻnta toʻp buyurtma qildik, hammasining sifati bir xil. 15 kunda yetkazildi."
+        },
+        "date": "2026-09-03"
+      }
+    ]
+  },
+  {
+    "djId": 148,
+    "categoryId": "sport",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Мячи для гольфа, двухслойные, набор 3 шт.",
+      "uz": "Golf toʻplari, ikki qatlamli, 3 donalik toʻplam"
+    },
+    "subtitle": {
+      "ru": "Аэродинамичные лунки · Дальний полёт",
+      "uz": "Aerodinamik chuqurchalar · Uzoq parvoz"
+    },
+    "description": {
+      "ru": "Мячи для гольфа для тренировок на драйвинг-рейндже и игры на поле. Лунки на поверхности создают аэродинамическую подъёмную силу и увеличивают дальность полёта. Двухслойная конструкция с прочным ионономерным покрытием выдерживает многократные удары.",
+      "uz": "Golf maydonida oʻynash va mashq qilish uchun moʻljallangan toʻplar. Sirtidagi chuqurchalar aerodinamik koʻtarish kuchini hosil qiladi va parvoz masofasini oshiradi. Mustahkam ionomer qoplamali ikki qatlamli tuzilma koʻp martalik zarbalarga bardosh beradi."
+    },
+    "price": 79000,
+    "oldPrice": 95000,
+    "rating": 4.7,
+    "reviews": 207,
+    "sold": 1350,
+    "stock": 840,
+    "deliveryDays": [
+      14,
+      22
+    ],
+    "weightKg": 0.2,
+    "badges": [
+      "sale",
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Количество",
+          "uz": "Soni"
+        },
+        "values": [
+          {
+            "id": "3pcs",
+            "label": {
+              "ru": "3 шт.",
+              "uz": "3 dona"
+            },
+            "priceDelta": 0,
+            "stock": 420
+          },
+          {
+            "id": "6pcs",
+            "label": {
+              "ru": "6 шт.",
+              "uz": "6 dona"
+            },
+            "priceDelta": 59000,
+            "stock": 260
+          },
+          {
+            "id": "12pcs",
+            "label": {
+              "ru": "12 шт.",
+              "uz": "12 dona"
+            },
+            "priceDelta": 139000,
+            "stock": 160
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Конструкция",
+          "uz": "Tuzilishi"
+        },
+        "value": {
+          "ru": "Двухслойная",
+          "uz": "Ikki qatlamli"
+        }
+      },
+      {
+        "name": {
+          "ru": "Покрытие",
+          "uz": "Qoplama"
+        },
+        "value": {
+          "ru": "Иономер",
+          "uz": "Ionomer"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "value": {
+          "ru": "42,7 мм",
+          "uz": "42,7 mm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес мяча",
+          "uz": "Toʻp ogʻirligi"
+        },
+        "value": {
+          "ru": "45,9 г",
+          "uz": "45,9 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "1 год",
+          "uz": "1 yil"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Dongguan Xinfeng Golf Products Co., Ltd.",
+      "city": {
+        "ru": "Дунгуань",
+        "uz": "Dunguan"
+      },
+      "rating": 4.7,
+      "years": 10,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Aleksandr B.",
+        "rating": 5,
+        "text": {
+          "ru": "Для тренировок на рейндже отличные, летят ровно. Взял сразу дюжину.",
+          "uz": "Maydonda mashq qilish uchun aʼlo, tekis uchadi. Birdaniga 12 talik toʻplamini oldim."
+        },
+        "date": "2026-05-15"
+      },
+      {
+        "author": "Timur R.",
+        "rating": 4,
+        "text": {
+          "ru": "Мячи хорошие, но коробка помялась в дороге. Шли 20 дней.",
+          "uz": "Toʻplar yaxshi, lekin qutisi yoʻlda ezilib qolibdi. 20 kunda keldi."
+        },
+        "date": "2026-07-11"
+      }
+    ]
+  },
+  {
+    "djId": 149,
+    "categoryId": "sport",
+    "source": "alibaba",
+    "brand": null,
+    "title": {
+      "ru": "Клюшка для гольфа айрон, стальной шафт",
+      "uz": "Golf klyushkasi (ayron), poʻlat shaft"
+    },
+    "subtitle": {
+      "ru": "Для точных подходов · Нескользящий грип",
+      "uz": "Aniq zarbalar uchun · Sirpanmaydigan dasta"
+    },
+    "description": {
+      "ru": "Клюшка-айрон с цельнометаллической головкой для подходов к грину, чипов и ударов со средней дистанции. Стальной шафт даёт стабильный контроль, а резиновый грип не скользит даже во влажную погоду. Подходит начинающим и игрокам среднего уровня.",
+      "uz": "Yaxlit metall boshli ayron klyushka oʻrta masofadan aniq zarbalar berish va toʻpni gringa yaqinlashtirish uchun moʻljallangan. Poʻlat shaft barqaror nazoratni taʼminlaydi, rezina dasta esa nam havoda ham sirpanmaydi. Yangi boshlovchilar va oʻrta darajadagi oʻyinchilar uchun mos."
+    },
+    "price": 529000,
+    "oldPrice": null,
+    "rating": 4.7,
+    "reviews": 74,
+    "sold": 310,
+    "stock": 90,
+    "deliveryDays": [
+      12,
+      20
+    ],
+    "weightKg": 1.1,
+    "badges": [],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Номер клюшки",
+          "uz": "Klyushka raqami"
+        },
+        "values": [
+          {
+            "id": "7",
+            "label": {
+              "ru": "Айрон № 7",
+              "uz": "7-raqamli ayron"
+            },
+            "priceDelta": 0,
+            "stock": 50
+          },
+          {
+            "id": "5",
+            "label": {
+              "ru": "Айрон № 5",
+              "uz": "5-raqamli ayron"
+            },
+            "priceDelta": 0,
+            "stock": 20
+          },
+          {
+            "id": "9",
+            "label": {
+              "ru": "Айрон № 9",
+              "uz": "9-raqamli ayron"
+            },
+            "priceDelta": 0,
+            "stock": 20
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Тип",
+          "uz": "Turi"
+        },
+        "value": {
+          "ru": "Айрон",
+          "uz": "Ayron"
+        }
+      },
+      {
+        "name": {
+          "ru": "Головка",
+          "uz": "Bosh qismi"
+        },
+        "value": {
+          "ru": "Нержавеющая сталь",
+          "uz": "Zanglamaydigan poʻlat"
+        }
+      },
+      {
+        "name": {
+          "ru": "Шафт",
+          "uz": "Shaft"
+        },
+        "value": {
+          "ru": "Сталь, жёсткость Regular",
+          "uz": "Poʻlat, Regular qattiqlik"
+        }
+      },
+      {
+        "name": {
+          "ru": "Рука",
+          "uz": "Qoʻl"
+        },
+        "value": {
+          "ru": "Для правшей",
+          "uz": "Oʻnaqaylar uchun"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "3 месяца",
+          "uz": "3 oy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Shenzhen Haoqiu Golf Equipment Co., Ltd.",
+      "city": {
+        "ru": "Шэньчжэнь",
+        "uz": "Shenchjen"
+      },
+      "rating": 4.8,
+      "years": 14,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Aleksandr B.",
+        "rating": 5,
+        "text": {
+          "ru": "Взял седьмой айрон для тренировок — баланс хороший, грип удобный. Пришла за 17 дней в длинной коробке.",
+          "uz": "Mashq uchun 7-raqamli ayron oldim — muvozanati yaxshi, dastasi qulay. 17 kunda uzun qutida keldi."
+        },
+        "date": "2026-06-29"
+      },
+      {
+        "author": "Ulugʻbek S.",
+        "rating": 4,
+        "text": {
+          "ru": "Для начинающего самое то. Головка без сколов, шафт ровный.",
+          "uz": "Yangi boshlovchi uchun ayni muddao. Bosh qismida hech qanday nuqson yoʻq, shafti tekis."
+        },
+        "date": "2026-09-26"
+      }
+    ]
+  },
+  {
+    "djId": 150,
+    "categoryId": "sport",
+    "source": "alibaba",
+    "brand": null,
+    "title": {
+      "ru": "Бейсбольная бита из алюминиевого сплава, 71–81 см",
+      "uz": "Alyuminiy qotishmasidan beysbol bitasi, 71–81 sm"
+    },
+    "subtitle": {
+      "ru": "Лёгкая и прочная · Нескользящая ручка",
+      "uz": "Yengil va mustahkam · Sirpanmaydigan dasta"
+    },
+    "description": {
+      "ru": "Бейсбольная бита из лёгкого алюминиевого сплава для тренировок и игр. Металл не трескается и не боится влаги, а сбалансированный вес помогает быстро разгонять биту при замахе. Ручка обмотана нескользящей лентой и удобно лежит в ладонях.",
+      "uz": "Mashgʻulot va oʻyinlar uchun yengil alyuminiy qotishmasidan yasalgan beysbol bitasi. Metall yorilmaydi va namlikdan qoʻrqmaydi, muvozanatli ogʻirligi esa siltashda bitani tez harakatlantirishga yordam beradi. Dastasi sirpanmaydigan lenta bilan oʻralgan va kaftga qulay joylashadi."
+    },
+    "price": 289000,
+    "oldPrice": 359000,
+    "rating": 4.7,
+    "reviews": 263,
+    "sold": 1180,
+    "stock": 160,
+    "deliveryDays": [
+      12,
+      20
+    ],
+    "weightKg": 1.2,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Длина",
+          "uz": "Uzunligi"
+        },
+        "values": [
+          {
+            "id": "71cm",
+            "label": {
+              "ru": "71 см (28″)",
+              "uz": "71 sm (28″)"
+            },
+            "priceDelta": 0,
+            "stock": 40
+          },
+          {
+            "id": "76cm",
+            "label": {
+              "ru": "76 см (30″)",
+              "uz": "76 sm (30″)"
+            },
+            "priceDelta": 0,
+            "stock": 80
+          },
+          {
+            "id": "81cm",
+            "label": {
+              "ru": "81 см (32″)",
+              "uz": "81 sm (32″)"
+            },
+            "priceDelta": 20000,
+            "stock": 40
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал",
+          "uz": "Material"
+        },
+        "value": {
+          "ru": "Алюминиевый сплав",
+          "uz": "Alyuminiy qotishmasi"
+        }
+      },
+      {
+        "name": {
+          "ru": "Ручка",
+          "uz": "Dasta"
+        },
+        "value": {
+          "ru": "Нескользящая обмотка",
+          "uz": "Sirpanmaydigan oʻram"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес (76 см)",
+          "uz": "Ogʻirligi (76 sm)"
+        },
+        "value": {
+          "ru": "0,85 кг",
+          "uz": "0,85 kg"
+        }
+      },
+      {
+        "name": {
+          "ru": "Назначение",
+          "uz": "Vazifasi"
+        },
+        "value": {
+          "ru": "Тренировки, игры",
+          "uz": "Mashgʻulotlar, oʻyinlar"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "3 года",
+          "uz": "3 yil"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Ningbo Kaisheng Aluminium Products Co., Ltd.",
+      "city": {
+        "ru": "Нинбо",
+        "uz": "Ningbo"
+      },
+      "rating": 4.5,
+      "years": 9,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Rustam N.",
+        "rating": 5,
+        "text": {
+          "ru": "Лёгкая, бить удобно. Взял 76 см при росте 178 — в самый раз.",
+          "uz": "Yengil, urish qulay. Boʻyim 178, 76 smlik variantini oldim — ayni muddao."
+        },
+        "date": "2026-04-30"
+      },
+      {
+        "author": "Igor K.",
+        "rating": 4,
+        "text": {
+          "ru": "Бита хорошая, обмотка через месяц немного стёрлась. Доставка 18 дней.",
+          "uz": "Bita yaxshi, oʻrami bir oydan keyin biroz yeyildi. 18 kunda yetkazildi."
+        },
+        "date": "2026-08-14"
+      }
+    ]
+  },
+  {
+    "djId": 151,
+    "categoryId": "sport",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Теннисные мячи для тренировок, туба 3 шт.",
+      "uz": "Mashgʻulot uchun tennis toʻplari, 3 donalik tuba"
+    },
+    "subtitle": {
+      "ru": "Стабильный отскок · Войлочное покрытие",
+      "uz": "Barqaror sakrash · Kigiz qoplama"
+    },
+    "description": {
+      "ru": "Теннисные мячи для тренировок и любительских матчей на хардовых и грунтовых кортах. Плотное войлочное покрытие обеспечивает стабильный отскок и медленно изнашивается. Герметичная туба сохраняет давление в мячах до первого использования.",
+      "uz": "Qattiq va grunt kortlarda mashgʻulot hamda havaskorlar oʻyinlari uchun tennis toʻplari. Zich kigiz qoplama barqaror sakrashni taʼminlaydi va sekin yeyiladi. Germetik tuba birinchi foydalanishgacha toʻplardagi bosimni saqlaydi."
+    },
+    "price": 59000,
+    "oldPrice": null,
+    "rating": 4.6,
+    "reviews": 1748,
+    "sold": 12300,
+    "stock": 1280,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.25,
+    "badges": [
+      "hit",
+      "wholesale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "set",
+        "kind": "text",
+        "name": {
+          "ru": "Количество",
+          "uz": "Soni"
+        },
+        "values": [
+          {
+            "id": "3pcs",
+            "label": {
+              "ru": "3 шт. (1 туба)",
+              "uz": "3 dona (1 tuba)"
+            },
+            "priceDelta": 0,
+            "stock": 800
+          },
+          {
+            "id": "12pcs",
+            "label": {
+              "ru": "12 шт. (4 тубы)",
+              "uz": "12 dona (4 tuba)"
+            },
+            "priceDelta": 159000,
+            "stock": 480
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Покрытие",
+          "uz": "Qoplama"
+        },
+        "value": {
+          "ru": "Войлок",
+          "uz": "Kigiz"
+        }
+      },
+      {
+        "name": {
+          "ru": "Тип корта",
+          "uz": "Kort turi"
+        },
+        "value": {
+          "ru": "Хард, грунт",
+          "uz": "Qattiq, grunt"
+        }
+      },
+      {
+        "name": {
+          "ru": "Тип мяча",
+          "uz": "Toʻp turi"
+        },
+        "value": {
+          "ru": "Напорный, в герметичной тубе",
+          "uz": "Bosimli, germetik tubada"
+        }
+      },
+      {
+        "name": {
+          "ru": "Диаметр",
+          "uz": "Diametri"
+        },
+        "value": {
+          "ru": "6,7 см",
+          "uz": "6,7 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Производство",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Guangzhou Tianrui Sporting Goods Co., Ltd.",
+      "city": {
+        "ru": "Гуанчжоу",
+        "uz": "Guanchjou"
+      },
+      "rating": 4.6,
+      "years": 8,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Nigora X.",
+        "rating": 5,
+        "text": {
+          "ru": "Мячи отскакивают одинаково, войлок не лохматится даже после пары тренировок.",
+          "uz": "Toʻplar bir xil sakraydi, kigizi bir-ikki mashgʻulotdan keyin ham titilmaydi."
+        },
+        "date": "2026-05-27"
+      },
+      {
+        "author": "Maksim D.",
+        "rating": 4,
+        "text": {
+          "ru": "Для тренировок с теннисной пушкой отлично, для турниров мягковаты. Доставка 16 дней.",
+          "uz": "Toʻp otish mashinasi bilan mashq qilish uchun aʼlo, turnirlar uchun biroz yumshoq. 16 kunda yetkazildi."
+        },
+        "date": "2026-09-11"
+      }
+    ]
+  },
+  {
+    "djId": 152,
+    "categoryId": "sport",
+    "source": "alibaba",
+    "brand": null,
+    "title": {
+      "ru": "Теннисная ракетка, карбон, 300 г, с чехлом",
+      "uz": "Tennis raketkasi, karbon, 300 g, gʻilof bilan"
+    },
+    "subtitle": {
+      "ru": "Уже натянута · Нескользящая ручка",
+      "uz": "Torlari tortilgan · Sirpanmaydigan dasta"
+    },
+    "description": {
+      "ru": "Теннисная ракетка для начинающих и игроков среднего уровня. Лёгкая рама из карбонового композита хорошо гасит вибрацию, а увеличенная головка прощает неточные удары. Ракетка поставляется натянутой, с намотанным грипом и чехлом для переноски.",
+      "uz": "Yangi boshlovchilar va oʻrta darajadagi oʻyinchilar uchun tennis raketkasi. Karbon kompozitdan yasalgan yengil ramka tebranishni yaxshi soʻndiradi, kattalashtirilgan bosh qismi esa noaniq zarbalarda ham toʻpni yaxshi qaytaradi. Raketka torlari tortilgan, dastasi oʻralgan holda va olib yurish uchun gʻilof bilan yetkaziladi."
+    },
+    "price": 499000,
+    "oldPrice": 599000,
+    "rating": 4.6,
+    "reviews": 638,
+    "sold": 2950,
+    "stock": 6,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.6,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер ручки",
+          "uz": "Dasta oʻlchami"
+        },
+        "values": [
+          {
+            "id": "g2",
+            "label": {
+              "ru": "Ручка G2 (4 1/4″)",
+              "uz": "G2 (4 1/4″)"
+            },
+            "priceDelta": 0,
+            "stock": 2
+          },
+          {
+            "id": "g3",
+            "label": {
+              "ru": "Ручка G3 (4 3/8″)",
+              "uz": "G3 (4 3/8″)"
+            },
+            "priceDelta": 0,
+            "stock": 4
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Материал рамы",
+          "uz": "Ramka materiali"
+        },
+        "value": {
+          "ru": "Карбоновый композит",
+          "uz": "Karbon kompozit"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "300 г",
+          "uz": "300 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "Площадь головки",
+          "uz": "Bosh qismi maydoni"
+        },
+        "value": {
+          "ru": "645 см²",
+          "uz": "645 sm²"
+        }
+      },
+      {
+        "name": {
+          "ru": "Натяжение",
+          "uz": "Torlar tarangligi"
+        },
+        "value": {
+          "ru": "24–26 кг",
+          "uz": "24–26 kg"
+        }
+      },
+      {
+        "name": {
+          "ru": "Комплект",
+          "uz": "Toʻplam"
+        },
+        "value": {
+          "ru": "Ракетка, чехол",
+          "uz": "Raketka, gʻilof"
+        }
+      },
+      {
+        "name": {
+          "ru": "Гарантия",
+          "uz": "Kafolat"
+        },
+        "value": {
+          "ru": "1 год",
+          "uz": "1 yil"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Dongguan Ruiqi Sports Goods Co., Ltd.",
+      "city": {
+        "ru": "Дунгуань",
+        "uz": "Dunguan"
+      },
+      "rating": 4.7,
+      "years": 7,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Malika Yu.",
+        "rating": 5,
+        "text": {
+          "ru": "Лёгкая, рука не устаёт. Взяла G2 — для женской руки в самый раз. Пришла за 14 дней.",
+          "uz": "Yengil, qoʻl charchamaydi. G2 oʻlchamini oldim — ayol qoʻli uchun ayni muddao. 14 kunda keldi."
+        },
+        "date": "2026-07-03"
+      },
+      {
+        "author": "Andrey S.",
+        "rating": 4,
+        "text": {
+          "ru": "Для старта отличная ракетка. Заводские струны слабоваты, через месяц перетянул.",
+          "uz": "Boshlash uchun aʼlo raketka. Zavod torlari biroz boʻsh ekan, bir oydan keyin qayta torttirdim."
+        },
+        "date": "2026-10-09"
+      }
+    ]
+  },
+  {
+    "djId": 153,
+    "categoryId": "sport",
+    "source": "1688",
+    "brand": null,
+    "title": {
+      "ru": "Волейбольный мяч, размер 5, мягкая клеёная покрышка",
+      "uz": "Voleybol toʻpi, 5-oʻlcham, yumshoq yopishtirilgan qoplama"
+    },
+    "subtitle": {
+      "ru": "Мягкий приём · Для зала и пляжа",
+      "uz": "Yumshoq qabul · Zal va plyaj uchun"
+    },
+    "description": {
+      "ru": "Волейбольный мяч официального размера для игры в зале, на улице и на пляже. Мягкая клеёная покрышка из полиуретана бережёт руки при приёме и подаче, а 18 панелей обеспечивают стабильный полёт. Камера долго держит давление.",
+      "uz": "Zal, koʻcha va plyajda oʻynash uchun rasmiy oʻlchamdagi voleybol toʻpi. Poliuretandan tayyorlangan yumshoq yopishtirilgan qoplama qabul va uzatishda qoʻllarni ogʻritmaydi, 18 ta panel esa barqaror parvozni taʼminlaydi. Kamera bosimni uzoq vaqt saqlaydi."
+    },
+    "price": 99000,
+    "oldPrice": 119000,
+    "rating": 4.5,
+    "reviews": 1965,
+    "sold": 11200,
+    "stock": 3,
+    "deliveryDays": [
+      12,
+      18
+    ],
+    "weightKg": 0.45,
+    "badges": [
+      "sale"
+    ],
+    "imageIdx": [
+      0
+    ],
+    "options": [
+      {
+        "id": "size",
+        "kind": "size",
+        "name": {
+          "ru": "Размер",
+          "uz": "Oʻlchami"
+        },
+        "values": [
+          {
+            "id": "5",
+            "label": {
+              "ru": "№ 5, взрослый",
+              "uz": "5-oʻlcham, kattalar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 2
+          },
+          {
+            "id": "4",
+            "label": {
+              "ru": "№ 4, детский",
+              "uz": "4-oʻlcham, bolalar uchun"
+            },
+            "priceDelta": 0,
+            "stock": 1
+          }
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "name": {
+          "ru": "Покрышка",
+          "uz": "Qoplama"
+        },
+        "value": {
+          "ru": "Полиуретан, клеёная",
+          "uz": "Poliuretan, yopishtirilgan"
+        }
+      },
+      {
+        "name": {
+          "ru": "Количество панелей",
+          "uz": "Panellar soni"
+        },
+        "value": {
+          "ru": "18",
+          "uz": "18"
+        }
+      },
+      {
+        "name": {
+          "ru": "Окружность",
+          "uz": "Aylana uzunligi"
+        },
+        "value": {
+          "ru": "65–67 см",
+          "uz": "65–67 sm"
+        }
+      },
+      {
+        "name": {
+          "ru": "Вес",
+          "uz": "Ogʻirligi"
+        },
+        "value": {
+          "ru": "260–280 г",
+          "uz": "260–280 g"
+        }
+      },
+      {
+        "name": {
+          "ru": "Производство",
+          "uz": "Ishlab chiqarilgan"
+        },
+        "value": {
+          "ru": "Китай",
+          "uz": "Xitoy"
+        }
+      }
+    ],
+    "supplier": {
+      "name": "Yiwu Weiqiu Sporting Goods Co., Ltd.",
+      "city": {
+        "ru": "Иу",
+        "uz": "Iu"
+      },
+      "rating": 4.5,
+      "years": 5,
+      "verified": true
+    },
+    "reviewsPreview": [
+      {
+        "author": "Kamola U.",
+        "rating": 5,
+        "text": {
+          "ru": "Мяч мягкий, руки после игры не болят. Играем на пляже в Чарваке.",
+          "uz": "Toʻp yumshoq, oʻyindan keyin qoʻllar ogʻrimaydi. Chorvoqda plyajda oʻynaymiz."
+        },
+        "date": "2026-08-05"
+      },
+      {
+        "author": "Denis A.",
+        "rating": 4,
+        "text": {
+          "ru": "Доставка 15 дней, мяч пришёл сдутым — понадобится свой насос.",
+          "uz": "15 kunda yetkazildi, toʻp damsiz keldi — nasos oʻzingizda boʻlishi kerak."
+        },
+        "date": "2026-06-16"
+      }
+    ]
+  }
+]

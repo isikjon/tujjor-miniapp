@@ -1,0 +1,1104 @@
+[
+ {
+  "id": 11,
+  "title": "Annibale Colombo Bed",
+  "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+  "category": "furniture",
+  "brand": "Annibale Colombo",
+  "price": 1899.99,
+  "discountPercentage": 8.57,
+  "rating": 4.77,
+  "stock": 88,
+  "tags": [
+   "furniture",
+   "beds"
+  ],
+  "weight": 10,
+  "dimensions": {
+   "width": 28.16,
+   "height": 25.36,
+   "depth": 17.28
+  },
+  "warrantyInformation": "1 year warranty",
+  "shippingInformation": "Ships in 1 month",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
+   "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/2.webp",
+   "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 2,
+    "comment": "Would not recommend!"
+   },
+   {
+    "rating": 4,
+    "comment": "Highly impressed!"
+   },
+   {
+    "rating": 1,
+    "comment": "Poor quality!"
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "title": "Annibale Colombo Sofa",
+  "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+  "category": "furniture",
+  "brand": "Annibale Colombo",
+  "price": 2499.99,
+  "discountPercentage": 14.4,
+  "rating": 3.92,
+  "stock": 60,
+  "tags": [
+   "furniture",
+   "sofas"
+  ],
+  "weight": 6,
+  "dimensions": {
+   "width": 12.75,
+   "height": 20.55,
+   "depth": 19.06
+  },
+  "warrantyInformation": "Lifetime warranty",
+  "shippingInformation": "Ships in 1 week",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
+   "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/2.webp",
+   "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Very unhappy with my purchase!"
+   },
+   {
+    "rating": 5,
+    "comment": "Fast shipping!"
+   },
+   {
+    "rating": 1,
+    "comment": "Poor quality!"
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "title": "Bedside Table African Cherry",
+  "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+  "category": "furniture",
+  "brand": "Furniture Co.",
+  "price": 299.99,
+  "discountPercentage": 19.09,
+  "rating": 2.87,
+  "stock": 64,
+  "tags": [
+   "furniture",
+   "bedside tables"
+  ],
+  "weight": 2,
+  "dimensions": {
+   "width": 13.47,
+   "height": 24.99,
+   "depth": 27.35
+  },
+  "warrantyInformation": "5 year warranty",
+  "shippingInformation": "Ships overnight",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp",
+   "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/2.webp",
+   "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Excellent quality!"
+   },
+   {
+    "rating": 4,
+    "comment": "Excellent quality!"
+   },
+   {
+    "rating": 4,
+    "comment": "Highly recommended!"
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "title": "Knoll Saarinen Executive Conference Chair",
+  "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+  "category": "furniture",
+  "brand": "Knoll",
+  "price": 499.99,
+  "discountPercentage": 2.01,
+  "rating": 4.88,
+  "stock": 26,
+  "tags": [
+   "furniture",
+   "office chairs"
+  ],
+  "weight": 10,
+  "dimensions": {
+   "width": 13.81,
+   "height": 7.5,
+   "depth": 5.62
+  },
+  "warrantyInformation": "2 year warranty",
+  "shippingInformation": "Ships overnight",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
+   "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/2.webp",
+   "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 2,
+    "comment": "Waste of money!"
+   },
+   {
+    "rating": 2,
+    "comment": "Very dissatisfied!"
+   },
+   {
+    "rating": 5,
+    "comment": "Would buy again!"
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "title": "Wooden Bathroom Sink With Mirror",
+  "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+  "category": "furniture",
+  "brand": "Bath Trends",
+  "price": 799.99,
+  "discountPercentage": 8.8,
+  "rating": 3.59,
+  "stock": 7,
+  "tags": [
+   "furniture",
+   "bathroom"
+  ],
+  "weight": 10,
+  "dimensions": {
+   "width": 7.98,
+   "height": 8.88,
+   "depth": 28.46
+  },
+  "warrantyInformation": "3 year warranty",
+  "shippingInformation": "Ships in 3-5 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp",
+   "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/2.webp",
+   "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Fast shipping!"
+   },
+   {
+    "rating": 5,
+    "comment": "Very pleased!"
+   },
+   {
+    "rating": 3,
+    "comment": "Poor quality!"
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "title": "Decoration Swing",
+  "description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+  "category": "home-decoration",
+  "brand": null,
+  "price": 59.99,
+  "discountPercentage": 10.41,
+  "rating": 3.16,
+  "stock": 47,
+  "tags": [
+   "home decor",
+   "swing"
+  ],
+  "weight": 4,
+  "dimensions": {
+   "width": 23.84,
+   "height": 15.19,
+   "depth": 26.05
+  },
+  "warrantyInformation": "1 week warranty",
+  "shippingInformation": "Ships in 1 month",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp",
+   "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/2.webp",
+   "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 1,
+    "comment": "Would not buy again!"
+   },
+   {
+    "rating": 2,
+    "comment": "Poor quality!"
+   },
+   {
+    "rating": 3,
+    "comment": "Very unhappy with my purchase!"
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "title": "Family Tree Photo Frame",
+  "description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+  "category": "home-decoration",
+  "brand": null,
+  "price": 29.99,
+  "discountPercentage": 14.87,
+  "rating": 4.53,
+  "stock": 77,
+  "tags": [
+   "home decor",
+   "photo frame"
+  ],
+  "weight": 1,
+  "dimensions": {
+   "width": 17.27,
+   "height": 14.81,
+   "depth": 29.11
+  },
+  "warrantyInformation": "1 month warranty",
+  "shippingInformation": "Ships in 2 weeks",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Highly impressed!"
+   },
+   {
+    "rating": 5,
+    "comment": "Excellent quality!"
+   },
+   {
+    "rating": 2,
+    "comment": "Very dissatisfied!"
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "title": "House Showpiece Plant",
+  "description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+  "category": "home-decoration",
+  "brand": null,
+  "price": 39.99,
+  "discountPercentage": 7.46,
+  "rating": 4.67,
+  "stock": 28,
+  "tags": [
+   "home decor",
+   "artificial plants"
+  ],
+  "weight": 8,
+  "dimensions": {
+   "width": 8.55,
+   "height": 14.62,
+   "depth": 17.25
+  },
+  "warrantyInformation": "1 year warranty",
+  "shippingInformation": "Ships in 1 week",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp",
+   "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/2.webp",
+   "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Very happy with my purchase!"
+   },
+   {
+    "rating": 1,
+    "comment": "Poor quality!"
+   },
+   {
+    "rating": 5,
+    "comment": "Very pleased!"
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "title": "Plant Pot",
+  "description": "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+  "category": "home-decoration",
+  "brand": null,
+  "price": 14.99,
+  "discountPercentage": 6.84,
+  "rating": 3.01,
+  "stock": 59,
+  "tags": [
+   "home decor",
+   "plant accessories"
+  ],
+  "weight": 9,
+  "dimensions": {
+   "width": 9.83,
+   "height": 20.28,
+   "depth": 13.49
+  },
+  "warrantyInformation": "Lifetime warranty",
+  "shippingInformation": "Ships in 3-5 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp",
+   "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/2.webp",
+   "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/3.webp",
+   "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/4.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Fast shipping!"
+   },
+   {
+    "rating": 5,
+    "comment": "Very satisfied!"
+   },
+   {
+    "rating": 3,
+    "comment": "Poor quality!"
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "title": "Table Lamp",
+  "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+  "category": "home-decoration",
+  "brand": null,
+  "price": 49.99,
+  "discountPercentage": 7.09,
+  "rating": 3.55,
+  "stock": 9,
+  "tags": [
+   "home decor",
+   "lighting"
+  ],
+  "weight": 4,
+  "dimensions": {
+   "width": 8.98,
+   "height": 13.41,
+   "depth": 5.65
+  },
+  "warrantyInformation": "3 months warranty",
+  "shippingInformation": "Ships in 1-2 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Excellent quality!"
+   },
+   {
+    "rating": 3,
+    "comment": "Would not recommend!"
+   },
+   {
+    "rating": 5,
+    "comment": "Awesome product!"
+   }
+  ]
+ },
+ {
+  "id": 137,
+  "title": "American Football",
+  "description": "The American Football is a classic ball used in American football games. It is designed for throwing and catching, making it an essential piece of equipment for the sport.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 19.99,
+  "discountPercentage": 4.93,
+  "rating": 4.91,
+  "stock": 53,
+  "tags": [
+   "sports equipment",
+   "american football"
+  ],
+  "weight": 2,
+  "dimensions": {
+   "width": 6.88,
+   "height": 5.82,
+   "depth": 21.96
+  },
+  "warrantyInformation": "6 months warranty",
+  "shippingInformation": "Ships in 1 month",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Awesome product!"
+   },
+   {
+    "rating": 4,
+    "comment": "Would buy again!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very pleased!"
+   }
+  ]
+ },
+ {
+  "id": 138,
+  "title": "Baseball Ball",
+  "description": "The Baseball Ball is a standard baseball used in baseball games. It features a durable leather cover and is designed for pitching, hitting, and fielding in the game of baseball.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 8.99,
+  "discountPercentage": 1.71,
+  "rating": 2.57,
+  "stock": 100,
+  "tags": [
+   "sports equipment",
+   "baseball"
+  ],
+  "weight": 5,
+  "dimensions": {
+   "width": 14.42,
+   "height": 22.65,
+   "depth": 15.89
+  },
+  "warrantyInformation": "6 months warranty",
+  "shippingInformation": "Ships in 1 week",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Excellent quality!"
+   },
+   {
+    "rating": 4,
+    "comment": "Great value for money!"
+   },
+   {
+    "rating": 1,
+    "comment": "Poor quality!"
+   }
+  ]
+ },
+ {
+  "id": 139,
+  "title": "Baseball Glove",
+  "description": "The Baseball Glove is a protective glove worn by baseball players. It is designed to catch and field the baseball, providing players with comfort and control during the game.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 24.99,
+  "discountPercentage": 2.9,
+  "rating": 3.96,
+  "stock": 22,
+  "tags": [
+   "sports equipment",
+   "baseball"
+  ],
+  "weight": 1,
+  "dimensions": {
+   "width": 23.84,
+   "height": 11.12,
+   "depth": 5.85
+  },
+  "warrantyInformation": "Lifetime warranty",
+  "shippingInformation": "Ships in 2 weeks",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/1.webp",
+   "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/2.webp",
+   "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 1,
+    "comment": "Very unhappy with my purchase!"
+   },
+   {
+    "rating": 4,
+    "comment": "Great value for money!"
+   },
+   {
+    "rating": 3,
+    "comment": "Would not recommend!"
+   }
+  ]
+ },
+ {
+  "id": 140,
+  "title": "Basketball",
+  "description": "The Basketball is a standard ball used in basketball games. It is designed for dribbling, shooting, and passing in the game of basketball, suitable for both indoor and outdoor play.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 14.99,
+  "discountPercentage": 7.44,
+  "rating": 4.66,
+  "stock": 75,
+  "tags": [
+   "sports equipment",
+   "basketball"
+  ],
+  "weight": 7,
+  "dimensions": {
+   "width": 27.86,
+   "height": 10.64,
+   "depth": 18.75
+  },
+  "warrantyInformation": "1 year warranty",
+  "shippingInformation": "Ships in 1 week",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Highly recommended!"
+   },
+   {
+    "rating": 2,
+    "comment": "Would not buy again!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very satisfied!"
+   }
+  ]
+ },
+ {
+  "id": 141,
+  "title": "Basketball Rim",
+  "description": "The Basketball Rim is a sturdy hoop and net assembly mounted on a basketball backboard. It provides a target for shooting and scoring in the game of basketball.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 39.99,
+  "discountPercentage": 7.74,
+  "rating": 4.6,
+  "stock": 43,
+  "tags": [
+   "sports equipment",
+   "basketball"
+  ],
+  "weight": 1,
+  "dimensions": {
+   "width": 15.83,
+   "height": 20.87,
+   "depth": 7.27
+  },
+  "warrantyInformation": "3 months warranty",
+  "shippingInformation": "Ships overnight",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Fast shipping!"
+   },
+   {
+    "rating": 5,
+    "comment": "Highly recommended!"
+   },
+   {
+    "rating": 1,
+    "comment": "Would not buy again!"
+   }
+  ]
+ },
+ {
+  "id": 142,
+  "title": "Cricket Ball",
+  "description": "The Cricket Ball is a hard leather ball used in the sport of cricket. It is bowled and batted in the game, and its hardness and seam contribute to the dynamics of cricket play.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 12.99,
+  "discountPercentage": 8.63,
+  "rating": 3.53,
+  "stock": 30,
+  "tags": [
+   "sports equipment",
+   "cricket"
+  ],
+  "weight": 7,
+  "dimensions": {
+   "width": 28.51,
+   "height": 20.77,
+   "depth": 17.66
+  },
+  "warrantyInformation": "3 year warranty",
+  "shippingInformation": "Ships in 3-5 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 1,
+    "comment": "Poor quality!"
+   },
+   {
+    "rating": 1,
+    "comment": "Poor quality!"
+   },
+   {
+    "rating": 2,
+    "comment": "Waste of money!"
+   }
+  ]
+ },
+ {
+  "id": 143,
+  "title": "Cricket Bat",
+  "description": "The Cricket Bat is an essential piece of cricket equipment used by batsmen to hit the cricket ball. It is made of wood and comes in various sizes and designs.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 29.99,
+  "discountPercentage": 3.29,
+  "rating": 3.17,
+  "stock": 98,
+  "tags": [
+   "sports equipment",
+   "cricket"
+  ],
+  "weight": 10,
+  "dimensions": {
+   "width": 27.44,
+   "height": 23.65,
+   "depth": 16.62
+  },
+  "warrantyInformation": "1 year warranty",
+  "shippingInformation": "Ships in 1-2 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Very satisfied!"
+   },
+   {
+    "rating": 5,
+    "comment": "Would buy again!"
+   },
+   {
+    "rating": 3,
+    "comment": "Poor quality!"
+   }
+  ]
+ },
+ {
+  "id": 144,
+  "title": "Cricket Helmet",
+  "description": "The Cricket Helmet is a protective headgear worn by cricket players, especially batsmen and wicketkeepers. It provides protection against fast bowling and bouncers.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 44.99,
+  "discountPercentage": 9.64,
+  "rating": 4.69,
+  "stock": 10,
+  "tags": [
+   "sports equipment",
+   "cricket"
+  ],
+  "weight": 10,
+  "dimensions": {
+   "width": 6.34,
+   "height": 6.25,
+   "depth": 21.68
+  },
+  "warrantyInformation": "Lifetime warranty",
+  "shippingInformation": "Ships overnight",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/1.webp",
+   "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/2.webp",
+   "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/3.webp",
+   "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/4.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Great value for money!"
+   },
+   {
+    "rating": 4,
+    "comment": "Excellent quality!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very pleased!"
+   }
+  ]
+ },
+ {
+  "id": 145,
+  "title": "Cricket Wicket",
+  "description": "The Cricket Wicket is a set of three stumps and two bails, forming a wicket used in the sport of cricket. Batsmen aim to protect the wicket while scoring runs.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 29.99,
+  "discountPercentage": 16.93,
+  "rating": 4.73,
+  "stock": 25,
+  "tags": [
+   "sports equipment",
+   "cricket"
+  ],
+  "weight": 5,
+  "dimensions": {
+   "width": 15.99,
+   "height": 15.23,
+   "depth": 22.81
+  },
+  "warrantyInformation": "3 months warranty",
+  "shippingInformation": "Ships overnight",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Very dissatisfied!"
+   },
+   {
+    "rating": 5,
+    "comment": "Fast shipping!"
+   },
+   {
+    "rating": 5,
+    "comment": "Awesome product!"
+   }
+  ]
+ },
+ {
+  "id": 146,
+  "title": "Feather Shuttlecock",
+  "description": "The Feather Shuttlecock is used in the sport of badminton. It features natural feathers and is designed for high-speed play, providing stability and accuracy during matches.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 5.99,
+  "discountPercentage": 2.95,
+  "rating": 2.85,
+  "stock": 95,
+  "tags": [
+   "sports equipment",
+   "badminton"
+  ],
+  "weight": 4,
+  "dimensions": {
+   "width": 19.63,
+   "height": 23.73,
+   "depth": 18.56
+  },
+  "warrantyInformation": "3 year warranty",
+  "shippingInformation": "Ships in 1-2 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Awesome product!"
+   },
+   {
+    "rating": 5,
+    "comment": "Very happy with my purchase!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very pleased!"
+   }
+  ]
+ },
+ {
+  "id": 147,
+  "title": "Football",
+  "description": "The Football, also known as a soccer ball, is the standard ball used in the sport of football (soccer). It is designed for kicking and passing in the game.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 17.99,
+  "discountPercentage": 5.15,
+  "rating": 3.28,
+  "stock": 96,
+  "tags": [
+   "sports equipment",
+   "football"
+  ],
+  "weight": 1,
+  "dimensions": {
+   "width": 28.93,
+   "height": 23.01,
+   "depth": 11.71
+  },
+  "warrantyInformation": "Lifetime warranty",
+  "shippingInformation": "Ships overnight",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/football/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Very happy with my purchase!"
+   },
+   {
+    "rating": 2,
+    "comment": "Would not recommend!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very happy with my purchase!"
+   }
+  ]
+ },
+ {
+  "id": 148,
+  "title": "Golf Ball",
+  "description": "The Golf Ball is a small ball used in the sport of golf. It features dimples on its surface, providing aerodynamic lift and distance when struck by a golf club.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 9.99,
+  "discountPercentage": 17.37,
+  "rating": 4.3,
+  "stock": 84,
+  "tags": [
+   "sports equipment",
+   "golf"
+  ],
+  "weight": 3,
+  "dimensions": {
+   "width": 24.89,
+   "height": 23.39,
+   "depth": 12.47
+  },
+  "warrantyInformation": "1 year warranty",
+  "shippingInformation": "Ships in 3-5 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 2,
+    "comment": "Not worth the price!"
+   },
+   {
+    "rating": 2,
+    "comment": "Waste of money!"
+   },
+   {
+    "rating": 5,
+    "comment": "Very satisfied!"
+   }
+  ]
+ },
+ {
+  "id": 149,
+  "title": "Iron Golf",
+  "description": "The Iron Golf is a type of golf club designed for various golf shots. It features a solid metal head and is used for approach shots, chipping, and other golfing techniques.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 49.99,
+  "discountPercentage": 6.53,
+  "rating": 4.41,
+  "stock": 90,
+  "tags": [
+   "sports equipment",
+   "golf"
+  ],
+  "weight": 2,
+  "dimensions": {
+   "width": 10.15,
+   "height": 19.55,
+   "depth": 5.91
+  },
+  "warrantyInformation": "3 months warranty",
+  "shippingInformation": "Ships in 2 weeks",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Awesome product!"
+   },
+   {
+    "rating": 1,
+    "comment": "Would not buy again!"
+   },
+   {
+    "rating": 5,
+    "comment": "Awesome product!"
+   }
+  ]
+ },
+ {
+  "id": 150,
+  "title": "Metal Baseball Bat",
+  "description": "The Metal Baseball Bat is a durable and lightweight baseball bat made from metal alloys. It is commonly used in baseball games for hitting and batting practice.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 29.99,
+  "discountPercentage": 19.51,
+  "rating": 4.66,
+  "stock": 16,
+  "tags": [
+   "sports equipment",
+   "baseball"
+  ],
+  "weight": 7,
+  "dimensions": {
+   "width": 28.43,
+   "height": 14.3,
+   "depth": 7.36
+  },
+  "warrantyInformation": "3 year warranty",
+  "shippingInformation": "Ships in 1 week",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Very happy with my purchase!"
+   },
+   {
+    "rating": 4,
+    "comment": "Great value for money!"
+   },
+   {
+    "rating": 5,
+    "comment": "Would buy again!"
+   }
+  ]
+ },
+ {
+  "id": 151,
+  "title": "Tennis Ball",
+  "description": "The Tennis Ball is a standard ball used in the sport of tennis. It is designed for bouncing and hitting with tennis rackets during matches or practice sessions.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 6.99,
+  "discountPercentage": 11.76,
+  "rating": 4.06,
+  "stock": 28,
+  "tags": [
+   "sports equipment",
+   "tennis"
+  ],
+  "weight": 3,
+  "dimensions": {
+   "width": 8.04,
+   "height": 20.35,
+   "depth": 12.24
+  },
+  "warrantyInformation": "5 year warranty",
+  "shippingInformation": "Ships in 1 week",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Would buy again!"
+   },
+   {
+    "rating": 5,
+    "comment": "Great value for money!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very happy with my purchase!"
+   }
+  ]
+ },
+ {
+  "id": 152,
+  "title": "Tennis Racket",
+  "description": "The Tennis Racket is an essential piece of equipment used in the sport of tennis. It features a frame with strings and a grip, allowing players to hit the tennis ball.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 49.99,
+  "discountPercentage": 19.61,
+  "rating": 4.03,
+  "stock": 6,
+  "tags": [
+   "sports equipment",
+   "tennis"
+  ],
+  "weight": 7,
+  "dimensions": {
+   "width": 17.7,
+   "height": 16.38,
+   "depth": 18.74
+  },
+  "warrantyInformation": "5 year warranty",
+  "shippingInformation": "Ships overnight",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Poor quality!"
+   },
+   {
+    "rating": 5,
+    "comment": "Highly impressed!"
+   },
+   {
+    "rating": 5,
+    "comment": "Highly recommended!"
+   }
+  ]
+ },
+ {
+  "id": 153,
+  "title": "Volleyball",
+  "description": "The Volleyball is a standard ball used in the sport of volleyball. It is designed for passing, setting, and spiking over the net during volleyball matches.",
+  "category": "sports-accessories",
+  "brand": null,
+  "price": 11.99,
+  "discountPercentage": 12.25,
+  "rating": 3.84,
+  "stock": 0,
+  "tags": [
+   "sports equipment",
+   "volleyball"
+  ],
+  "weight": 3,
+  "dimensions": {
+   "width": 17.01,
+   "height": 20.05,
+   "depth": 9.94
+  },
+  "warrantyInformation": "1 week warranty",
+  "shippingInformation": "Ships in 1 week",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sports-accessories/volleyball/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Great product!"
+   },
+   {
+    "rating": 1,
+    "comment": "Would not recommend!"
+   },
+   {
+    "rating": 4,
+    "comment": "Highly recommended!"
+   }
+  ]
+ }
+]

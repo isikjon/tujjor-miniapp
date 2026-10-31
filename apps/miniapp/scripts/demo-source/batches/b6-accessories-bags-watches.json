@@ -1,0 +1,1011 @@
+[
+ {
+  "id": 93,
+  "title": "Brown Leather Belt Watch",
+  "description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+  "category": "mens-watches",
+  "brand": "Fashion Timepieces",
+  "price": 89.99,
+  "discountPercentage": 5.99,
+  "rating": 4.19,
+  "stock": 32,
+  "tags": [
+   "watches",
+   "leather watches"
+  ],
+  "weight": 10,
+  "dimensions": {
+   "width": 16.65,
+   "height": 6.15,
+   "depth": 20.18
+  },
+  "warrantyInformation": "1 year warranty",
+  "shippingInformation": "Ships in 1 month",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
+   "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/2.webp",
+   "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 1,
+    "comment": "Very unhappy with my purchase!"
+   },
+   {
+    "rating": 4,
+    "comment": "Fast shipping!"
+   },
+   {
+    "rating": 4,
+    "comment": "Would buy again!"
+   }
+  ]
+ },
+ {
+  "id": 94,
+  "title": "Longines Master Collection",
+  "description": "The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication.",
+  "category": "mens-watches",
+  "brand": "Longines",
+  "price": 1499.99,
+  "discountPercentage": 17.24,
+  "rating": 3.87,
+  "stock": 100,
+  "tags": [
+   "watches",
+   "luxury watches"
+  ],
+  "weight": 4,
+  "dimensions": {
+   "width": 15.39,
+   "height": 10.06,
+   "depth": 20.32
+  },
+  "warrantyInformation": "1 week warranty",
+  "shippingInformation": "Ships in 1-2 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/1.webp",
+   "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/2.webp",
+   "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Highly impressed!"
+   },
+   {
+    "rating": 3,
+    "comment": "Very disappointed!"
+   },
+   {
+    "rating": 5,
+    "comment": "Great product!"
+   }
+  ]
+ },
+ {
+  "id": 95,
+  "title": "Rolex Cellini Date Black Dial",
+  "description": "The Rolex Cellini Date with Black Dial is a classic and prestigious watch. With a black dial and date complication, it exudes sophistication and is a symbol of Rolex's heritage.",
+  "category": "mens-watches",
+  "brand": "Rolex",
+  "price": 8999.99,
+  "discountPercentage": 8.88,
+  "rating": 4.97,
+  "stock": 40,
+  "tags": [
+   "watches",
+   "luxury watches"
+  ],
+  "weight": 2,
+  "dimensions": {
+   "width": 13.46,
+   "height": 26.1,
+   "depth": 17.9
+  },
+  "warrantyInformation": "3 months warranty",
+  "shippingInformation": "Ships in 1 week",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/1.webp",
+   "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/2.webp",
+   "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Not worth the price!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very satisfied!"
+   },
+   {
+    "rating": 1,
+    "comment": "Would not buy again!"
+   }
+  ]
+ },
+ {
+  "id": 96,
+  "title": "Rolex Cellini Moonphase",
+  "description": "The Rolex Cellini Moonphase is a masterpiece of horology, featuring a moon phase complication and exquisite design. It reflects Rolex's commitment to precision and elegance.",
+  "category": "mens-watches",
+  "brand": "Rolex",
+  "price": 12999.99,
+  "discountPercentage": 17.52,
+  "rating": 2.58,
+  "stock": 36,
+  "tags": [
+   "watches",
+   "luxury watches"
+  ],
+  "weight": 2,
+  "dimensions": {
+   "width": 26.06,
+   "height": 25.19,
+   "depth": 13.17
+  },
+  "warrantyInformation": "6 months warranty",
+  "shippingInformation": "Ships overnight",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/1.webp",
+   "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/2.webp",
+   "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Poor quality!"
+   },
+   {
+    "rating": 5,
+    "comment": "Very satisfied!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very pleased!"
+   }
+  ]
+ },
+ {
+  "id": 97,
+  "title": "Rolex Datejust",
+  "description": "The Rolex Datejust is an iconic and versatile timepiece with a date window. Known for its timeless design and reliability, it's a symbol of Rolex's watchmaking excellence.",
+  "category": "mens-watches",
+  "brand": "Rolex",
+  "price": 10999.99,
+  "discountPercentage": 3.73,
+  "rating": 3.66,
+  "stock": 86,
+  "tags": [
+   "watches",
+   "luxury watches"
+  ],
+  "weight": 4,
+  "dimensions": {
+   "width": 23.11,
+   "height": 19.97,
+   "depth": 27.04
+  },
+  "warrantyInformation": "2 year warranty",
+  "shippingInformation": "Ships in 1 month",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/1.webp",
+   "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/2.webp",
+   "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Fast shipping!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very pleased!"
+   },
+   {
+    "rating": 3,
+    "comment": "Waste of money!"
+   }
+  ]
+ },
+ {
+  "id": 98,
+  "title": "Rolex Submariner Watch",
+  "description": "The Rolex Submariner is a legendary dive watch with a rich history. Known for its durability and water resistance, it's a symbol of adventure and exploration.",
+  "category": "mens-watches",
+  "brand": "Rolex",
+  "price": 13999.99,
+  "discountPercentage": 5.05,
+  "rating": 2.69,
+  "stock": 55,
+  "tags": [
+   "watches",
+   "luxury watches"
+  ],
+  "weight": 4,
+  "dimensions": {
+   "width": 17.69,
+   "height": 12.48,
+   "depth": 8.75
+  },
+  "warrantyInformation": "5 year warranty",
+  "shippingInformation": "Ships in 1 month",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/1.webp",
+   "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/2.webp",
+   "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Great value for money!"
+   },
+   {
+    "rating": 5,
+    "comment": "Highly recommended!"
+   },
+   {
+    "rating": 5,
+    "comment": "Fast shipping!"
+   }
+  ]
+ },
+ {
+  "id": 154,
+  "title": "Black Sun Glasses",
+  "description": "The Black Sun Glasses are a classic and stylish choice, featuring a sleek black frame and tinted lenses. They provide both UV protection and a fashionable look.",
+  "category": "sunglasses",
+  "brand": "Fashion Shades",
+  "price": 29.99,
+  "discountPercentage": 4.94,
+  "rating": 4.41,
+  "stock": 60,
+  "tags": [
+   "eyewear",
+   "sunglasses"
+  ],
+  "weight": 1,
+  "dimensions": {
+   "width": 18.51,
+   "height": 15.69,
+   "depth": 10.11
+  },
+  "warrantyInformation": "No warranty",
+  "shippingInformation": "Ships in 1-2 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
+   "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/2.webp",
+   "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Would not recommend!"
+   },
+   {
+    "rating": 2,
+    "comment": "Disappointing product!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very happy with my purchase!"
+   }
+  ]
+ },
+ {
+  "id": 155,
+  "title": "Classic Sun Glasses",
+  "description": "The Classic Sun Glasses offer a timeless design with a neutral frame and UV-protected lenses. These sunglasses are versatile and suitable for various occasions.",
+  "category": "sunglasses",
+  "brand": "Fashion Shades",
+  "price": 24.99,
+  "discountPercentage": 4.94,
+  "rating": 3.86,
+  "stock": 1,
+  "tags": [
+   "eyewear",
+   "sunglasses"
+  ],
+  "weight": 8,
+  "dimensions": {
+   "width": 19.87,
+   "height": 16.73,
+   "depth": 11.07
+  },
+  "warrantyInformation": "6 months warranty",
+  "shippingInformation": "Ships in 1 month",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/1.webp",
+   "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/2.webp",
+   "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Very satisfied!"
+   },
+   {
+    "rating": 3,
+    "comment": "Very dissatisfied!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very happy with my purchase!"
+   }
+  ]
+ },
+ {
+  "id": 156,
+  "title": "Green and Black Glasses",
+  "description": "The Green and Black Glasses feature a bold combination of green and black colors, adding a touch of vibrancy to your eyewear collection. They are both stylish and eye-catching.",
+  "category": "sunglasses",
+  "brand": "Fashion Shades",
+  "price": 34.99,
+  "discountPercentage": 1.01,
+  "rating": 4.55,
+  "stock": 24,
+  "tags": [
+   "eyewear",
+   "sunglasses"
+  ],
+  "weight": 7,
+  "dimensions": {
+   "width": 26.13,
+   "height": 9.8,
+   "depth": 25.94
+  },
+  "warrantyInformation": "1 year warranty",
+  "shippingInformation": "Ships overnight",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/1.webp",
+   "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/2.webp",
+   "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Waste of money!"
+   },
+   {
+    "rating": 3,
+    "comment": "Disappointing product!"
+   },
+   {
+    "rating": 5,
+    "comment": "Highly impressed!"
+   }
+  ]
+ },
+ {
+  "id": 157,
+  "title": "Party Glasses",
+  "description": "The Party Glasses are designed to add flair to your party outfit. With unique shapes or colorful frames, they're perfect for adding a playful touch to your look during celebrations.",
+  "category": "sunglasses",
+  "brand": "Fashion Fun",
+  "price": 19.99,
+  "discountPercentage": 11.22,
+  "rating": 2.79,
+  "stock": 86,
+  "tags": [
+   "eyewear",
+   "party glasses"
+  ],
+  "weight": 9,
+  "dimensions": {
+   "width": 19.59,
+   "height": 22.06,
+   "depth": 27.53
+  },
+  "warrantyInformation": "3 months warranty",
+  "shippingInformation": "Ships overnight",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/1.webp",
+   "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/2.webp",
+   "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Very pleased!"
+   },
+   {
+    "rating": 5,
+    "comment": "Excellent quality!"
+   },
+   {
+    "rating": 4,
+    "comment": "Great product!"
+   }
+  ]
+ },
+ {
+  "id": 158,
+  "title": "Sunglasses",
+  "description": "The Sunglasses offer a classic and simple design with a focus on functionality. These sunglasses provide essential UV protection while maintaining a timeless look.",
+  "category": "sunglasses",
+  "brand": "Fashion Shades",
+  "price": 22.99,
+  "discountPercentage": 1.51,
+  "rating": 3.02,
+  "stock": 27,
+  "tags": [
+   "eyewear",
+   "sunglasses"
+  ],
+  "weight": 1,
+  "dimensions": {
+   "width": 16.15,
+   "height": 24.59,
+   "depth": 10.31
+  },
+  "warrantyInformation": "3 year warranty",
+  "shippingInformation": "Ships in 3-5 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/1.webp",
+   "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/2.webp",
+   "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Would buy again!"
+   },
+   {
+    "rating": 2,
+    "comment": "Not worth the price!"
+   },
+   {
+    "rating": 4,
+    "comment": "Fast shipping!"
+   }
+  ]
+ },
+ {
+  "id": 172,
+  "title": "Blue Women's Handbag",
+  "description": "The Blue Women's Handbag is a stylish and spacious accessory for everyday use. With a vibrant blue color and multiple compartments, it combines fashion and functionality.",
+  "category": "womens-bags",
+  "brand": "Fashionista",
+  "price": 49.99,
+  "discountPercentage": 17.88,
+  "rating": 2.92,
+  "stock": 76,
+  "tags": [
+   "fashion accessories",
+   "handbags"
+  ],
+  "weight": 7,
+  "dimensions": {
+   "width": 14.12,
+   "height": 11.89,
+   "depth": 25.69
+  },
+  "warrantyInformation": "1 year warranty",
+  "shippingInformation": "Ships in 1 week",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp",
+   "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/2.webp",
+   "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Waste of money!"
+   },
+   {
+    "rating": 3,
+    "comment": "Not worth the price!"
+   },
+   {
+    "rating": 4,
+    "comment": "Highly impressed!"
+   }
+  ]
+ },
+ {
+  "id": 173,
+  "title": "Heshe Women's Leather Bag",
+  "description": "The Heshe Women's Leather Bag is a luxurious and high-quality leather bag for the sophisticated woman. With a timeless design and durable craftsmanship, it's a versatile accessory.",
+  "category": "womens-bags",
+  "brand": "Heshe",
+  "price": 129.99,
+  "discountPercentage": 3.87,
+  "rating": 4.92,
+  "stock": 99,
+  "tags": [
+   "fashion accessories",
+   "leather bags"
+  ],
+  "weight": 3,
+  "dimensions": {
+   "width": 28.66,
+   "height": 20.56,
+   "depth": 6.62
+  },
+  "warrantyInformation": "5 year warranty",
+  "shippingInformation": "Ships overnight",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/1.webp",
+   "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/2.webp",
+   "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Excellent quality!"
+   },
+   {
+    "rating": 4,
+    "comment": "Awesome product!"
+   },
+   {
+    "rating": 4,
+    "comment": "Awesome product!"
+   }
+  ]
+ },
+ {
+  "id": 174,
+  "title": "Prada Women Bag",
+  "description": "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts.",
+  "category": "womens-bags",
+  "brand": "Prada",
+  "price": 599.99,
+  "discountPercentage": 14.09,
+  "rating": 2.71,
+  "stock": 75,
+  "tags": [
+   "fashion accessories",
+   "designer bags"
+  ],
+  "weight": 4,
+  "dimensions": {
+   "width": 21.84,
+   "height": 22.19,
+   "depth": 13.41
+  },
+  "warrantyInformation": "3 year warranty",
+  "shippingInformation": "Ships in 1-2 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/1.webp",
+   "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/2.webp",
+   "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 2,
+    "comment": "Would not buy again!"
+   },
+   {
+    "rating": 4,
+    "comment": "Great value for money!"
+   },
+   {
+    "rating": 5,
+    "comment": "Highly recommended!"
+   }
+  ]
+ },
+ {
+  "id": 175,
+  "title": "White Faux Leather Backpack",
+  "description": "The White Faux Leather Backpack is a trendy and practical backpack for the modern woman. With a sleek white design and ample storage space, it's perfect for both casual and on-the-go styles.",
+  "category": "womens-bags",
+  "brand": "Urban Chic",
+  "price": 39.99,
+  "discountPercentage": 15.2,
+  "rating": 3.36,
+  "stock": 39,
+  "tags": [
+   "fashion accessories",
+   "backpacks"
+  ],
+  "weight": 7,
+  "dimensions": {
+   "width": 14.31,
+   "height": 23.29,
+   "depth": 28.91
+  },
+  "warrantyInformation": "2 year warranty",
+  "shippingInformation": "Ships in 1 week",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/1.webp",
+   "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/2.webp",
+   "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Awesome product!"
+   },
+   {
+    "rating": 1,
+    "comment": "Not as described!"
+   },
+   {
+    "rating": 5,
+    "comment": "Great value for money!"
+   }
+  ]
+ },
+ {
+  "id": 176,
+  "title": "Women Handbag Black",
+  "description": "The Women Handbag in Black is a classic and versatile accessory that complements various outfits. With a timeless black color and functional design, it's a must-have in every woman's wardrobe.",
+  "category": "womens-bags",
+  "brand": "Elegance Collection",
+  "price": 59.99,
+  "discountPercentage": 11.63,
+  "rating": 2.89,
+  "stock": 11,
+  "tags": [
+   "fashion accessories",
+   "handbags"
+  ],
+  "weight": 6,
+  "dimensions": {
+   "width": 29.76,
+   "height": 12.34,
+   "depth": 15.82
+  },
+  "warrantyInformation": "Lifetime warranty",
+  "shippingInformation": "Ships in 1 month",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/1.webp",
+   "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/2.webp",
+   "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Very pleased!"
+   },
+   {
+    "rating": 5,
+    "comment": "Great product!"
+   },
+   {
+    "rating": 1,
+    "comment": "Waste of money!"
+   }
+  ]
+ },
+ {
+  "id": 182,
+  "title": "Green Crystal Earring",
+  "description": "The Green Crystal Earring is a dazzling accessory that features a vibrant green crystal. With a classic design, it adds a touch of elegance to your ensemble, perfect for formal or special occasions.",
+  "category": "womens-jewellery",
+  "brand": null,
+  "price": 29.99,
+  "discountPercentage": 15.24,
+  "rating": 3.96,
+  "stock": 54,
+  "tags": [
+   "fashion accessories",
+   "earrings"
+  ],
+  "weight": 2,
+  "dimensions": {
+   "width": 14.61,
+   "height": 22.92,
+   "depth": 12.52
+  },
+  "warrantyInformation": "5 year warranty",
+  "shippingInformation": "Ships in 3-5 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/1.webp",
+   "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/2.webp",
+   "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Would buy again!"
+   },
+   {
+    "rating": 5,
+    "comment": "Great value for money!"
+   },
+   {
+    "rating": 4,
+    "comment": "Excellent quality!"
+   }
+  ]
+ },
+ {
+  "id": 183,
+  "title": "Green Oval Earring",
+  "description": "The Green Oval Earring is a stylish and versatile accessory with a unique oval shape. Whether for casual or dressy occasions, its green hue and contemporary design make it a standout piece.",
+  "category": "womens-jewellery",
+  "brand": null,
+  "price": 24.99,
+  "discountPercentage": 15.18,
+  "rating": 3.57,
+  "stock": 73,
+  "tags": [
+   "fashion accessories",
+   "earrings"
+  ],
+  "weight": 10,
+  "dimensions": {
+   "width": 8.48,
+   "height": 6.24,
+   "depth": 5.72
+  },
+  "warrantyInformation": "3 months warranty",
+  "shippingInformation": "Ships in 3-5 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/1.webp",
+   "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/2.webp",
+   "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Would not buy again!"
+   },
+   {
+    "rating": 5,
+    "comment": "Very satisfied!"
+   },
+   {
+    "rating": 4,
+    "comment": "Would buy again!"
+   }
+  ]
+ },
+ {
+  "id": 184,
+  "title": "Tropical Earring",
+  "description": "The Tropical Earring is a fun and playful accessory inspired by tropical elements. Featuring vibrant colors and a lively design, it's perfect for adding a touch of summer to your look.",
+  "category": "womens-jewellery",
+  "brand": null,
+  "price": 19.99,
+  "discountPercentage": 0.76,
+  "rating": 4.4,
+  "stock": 1,
+  "tags": [
+   "fashion accessories",
+   "earrings"
+  ],
+  "weight": 3,
+  "dimensions": {
+   "width": 14.99,
+   "height": 15.76,
+   "depth": 16.09
+  },
+  "warrantyInformation": "3 year warranty",
+  "shippingInformation": "Ships in 1-2 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/1.webp",
+   "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/2.webp",
+   "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Great product!"
+   },
+   {
+    "rating": 4,
+    "comment": "Awesome product!"
+   },
+   {
+    "rating": 1,
+    "comment": "Very unhappy with my purchase!"
+   }
+  ]
+ },
+ {
+  "id": 190,
+  "title": "IWC Ingenieur Automatic Steel",
+  "description": "The IWC Ingenieur Automatic Steel watch is a durable and sophisticated timepiece. With a stainless steel case and automatic movement, it combines precision and style for watch enthusiasts.",
+  "category": "womens-watches",
+  "brand": "IWC",
+  "price": 4999.99,
+  "discountPercentage": 9.45,
+  "rating": 2.93,
+  "stock": 90,
+  "tags": [
+   "watches",
+   "luxury watches"
+  ],
+  "weight": 3,
+  "dimensions": {
+   "width": 24.77,
+   "height": 24.66,
+   "depth": 6.09
+  },
+  "warrantyInformation": "1 year warranty",
+  "shippingInformation": "Ships overnight",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/1.webp",
+   "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/2.webp",
+   "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Disappointing product!"
+   },
+   {
+    "rating": 5,
+    "comment": "Great value for money!"
+   },
+   {
+    "rating": 3,
+    "comment": "Would not buy again!"
+   }
+  ]
+ },
+ {
+  "id": 191,
+  "title": "Rolex Cellini Moonphase",
+  "description": "The Rolex Cellini Moonphase watch is a masterpiece of horology. Featuring a moon phase complication, it showcases the craftsmanship and elegance that Rolex is renowned for.",
+  "category": "womens-watches",
+  "brand": "Rolex",
+  "price": 15999.99,
+  "discountPercentage": 4.11,
+  "rating": 3.83,
+  "stock": 52,
+  "tags": [
+   "watches",
+   "luxury watches"
+  ],
+  "weight": 10,
+  "dimensions": {
+   "width": 12.5,
+   "height": 20.63,
+   "depth": 25.04
+  },
+  "warrantyInformation": "1 month warranty",
+  "shippingInformation": "Ships in 1 week",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/1.webp",
+   "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/2.webp",
+   "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Very happy with my purchase!"
+   },
+   {
+    "rating": 5,
+    "comment": "Fast shipping!"
+   },
+   {
+    "rating": 1,
+    "comment": "Disappointing product!"
+   }
+  ]
+ },
+ {
+  "id": 192,
+  "title": "Rolex Datejust Women",
+  "description": "The Rolex Datejust Women's watch is an iconic timepiece designed for women. With a timeless design and a date complication, it offers both elegance and functionality.",
+  "category": "womens-watches",
+  "brand": "Rolex",
+  "price": 10999.99,
+  "discountPercentage": 15.94,
+  "rating": 2.86,
+  "stock": 4,
+  "tags": [
+   "watches",
+   "luxury watches",
+   "women's watches"
+  ],
+  "weight": 3,
+  "dimensions": {
+   "width": 23.23,
+   "height": 7.19,
+   "depth": 28.95
+  },
+  "warrantyInformation": "5 year warranty",
+  "shippingInformation": "Ships in 2 weeks",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/1.webp",
+   "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/2.webp",
+   "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Not as described!"
+   },
+   {
+    "rating": 5,
+    "comment": "Highly impressed!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very satisfied!"
+   }
+  ]
+ },
+ {
+  "id": 193,
+  "title": "Watch Gold for Women",
+  "description": "The Gold Women's Watch is a stunning accessory that combines luxury and style. Featuring a gold-plated case and a chic design, it adds a touch of glamour to any outfit.",
+  "category": "womens-watches",
+  "brand": "Fashion Gold",
+  "price": 799.99,
+  "discountPercentage": 18.34,
+  "rating": 4.24,
+  "stock": 0,
+  "tags": [
+   "watches",
+   "women's watches"
+  ],
+  "weight": 1,
+  "dimensions": {
+   "width": 18.85,
+   "height": 28.59,
+   "depth": 7.21
+  },
+  "warrantyInformation": "2 year warranty",
+  "shippingInformation": "Ships in 1-2 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/1.webp",
+   "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/2.webp",
+   "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Highly impressed!"
+   },
+   {
+    "rating": 4,
+    "comment": "Would buy again!"
+   },
+   {
+    "rating": 5,
+    "comment": "Great product!"
+   }
+  ]
+ },
+ {
+  "id": 194,
+  "title": "Women's Wrist Watch",
+  "description": "The Women's Wrist Watch is a versatile and fashionable timepiece for everyday wear. With a comfortable strap and a simple yet elegant design, it complements various styles.",
+  "category": "womens-watches",
+  "brand": "Fashion Co.",
+  "price": 129.99,
+  "discountPercentage": 12.6,
+  "rating": 3.52,
+  "stock": 12,
+  "tags": [
+   "watches",
+   "women's watches"
+  ],
+  "weight": 1,
+  "dimensions": {
+   "width": 26.1,
+   "height": 22.03,
+   "depth": 21.61
+  },
+  "warrantyInformation": "1 year warranty",
+  "shippingInformation": "Ships in 2 weeks",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/1.webp",
+   "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/2.webp",
+   "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Very happy with my purchase!"
+   },
+   {
+    "rating": 5,
+    "comment": "Highly recommended!"
+   },
+   {
+    "rating": 5,
+    "comment": "Fast shipping!"
+   }
+  ]
+ }
+]

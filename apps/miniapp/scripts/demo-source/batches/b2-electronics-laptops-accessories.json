@@ -1,0 +1,779 @@
+[
+ {
+  "id": 78,
+  "title": "Apple MacBook Pro 14 Inch Space Grey",
+  "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+  "category": "laptops",
+  "brand": "Apple",
+  "price": 1999.99,
+  "discountPercentage": 4.69,
+  "rating": 3.65,
+  "stock": 24,
+  "tags": [
+   "laptops",
+   "apple"
+  ],
+  "weight": 9,
+  "dimensions": {
+   "width": 20.03,
+   "height": 9.54,
+   "depth": 14.82
+  },
+  "warrantyInformation": "3 year warranty",
+  "shippingInformation": "Ships in 2 weeks",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp",
+   "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/2.webp",
+   "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Very happy with my purchase!"
+   },
+   {
+    "rating": 5,
+    "comment": "Very happy with my purchase!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very satisfied!"
+   }
+  ]
+ },
+ {
+  "id": 79,
+  "title": "Asus Zenbook Pro Dual Screen Laptop",
+  "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+  "category": "laptops",
+  "brand": "Asus",
+  "price": 1799.99,
+  "discountPercentage": 11.14,
+  "rating": 3.95,
+  "stock": 45,
+  "tags": [
+   "laptops"
+  ],
+  "weight": 9,
+  "dimensions": {
+   "width": 16.6,
+   "height": 11.49,
+   "depth": 10.89
+  },
+  "warrantyInformation": "3 year warranty",
+  "shippingInformation": "Ships in 1 month",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp",
+   "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/2.webp",
+   "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Very happy with my purchase!"
+   },
+   {
+    "rating": 5,
+    "comment": "Highly recommended!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very satisfied!"
+   }
+  ]
+ },
+ {
+  "id": 80,
+  "title": "Huawei Matebook X Pro",
+  "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+  "category": "laptops",
+  "brand": "Huawei",
+  "price": 1399.99,
+  "discountPercentage": 9.38,
+  "rating": 4.98,
+  "stock": 75,
+  "tags": [
+   "laptops"
+  ],
+  "weight": 9,
+  "dimensions": {
+   "width": 18.21,
+   "height": 22.83,
+   "depth": 17.26
+  },
+  "warrantyInformation": "No warranty",
+  "shippingInformation": "Ships overnight",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp",
+   "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/2.webp",
+   "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Very satisfied!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very happy with my purchase!"
+   },
+   {
+    "rating": 1,
+    "comment": "Not worth the price!"
+   }
+  ]
+ },
+ {
+  "id": 81,
+  "title": "Lenovo Yoga 920",
+  "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+  "category": "laptops",
+  "brand": "Lenovo",
+  "price": 1099.99,
+  "discountPercentage": 6.55,
+  "rating": 2.86,
+  "stock": 40,
+  "tags": [
+   "laptops"
+  ],
+  "weight": 9,
+  "dimensions": {
+   "width": 20.84,
+   "height": 22.68,
+   "depth": 17.39
+  },
+  "warrantyInformation": "6 months warranty",
+  "shippingInformation": "Ships in 2 weeks",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp",
+   "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/2.webp",
+   "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Would buy again!"
+   },
+   {
+    "rating": 5,
+    "comment": "Great value for money!"
+   },
+   {
+    "rating": 4,
+    "comment": "Great value for money!"
+   }
+  ]
+ },
+ {
+  "id": 82,
+  "title": "New DELL XPS 13 9300 Laptop",
+  "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+  "category": "laptops",
+  "brand": "Dell",
+  "price": 1499.99,
+  "discountPercentage": 11.89,
+  "rating": 2.67,
+  "stock": 74,
+  "tags": [
+   "laptops"
+  ],
+  "weight": 2,
+  "dimensions": {
+   "width": 13.76,
+   "height": 29,
+   "depth": 21.42
+  },
+  "warrantyInformation": "2 year warranty",
+  "shippingInformation": "Ships in 2 weeks",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+   "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+   "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Poor quality!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very satisfied!"
+   },
+   {
+    "rating": 2,
+    "comment": "Disappointing product!"
+   }
+  ]
+ },
+ {
+  "id": 99,
+  "title": "Amazon Echo Plus",
+  "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+  "category": "mobile-accessories",
+  "brand": "Amazon",
+  "price": 99.99,
+  "discountPercentage": 12.07,
+  "rating": 4.99,
+  "stock": 61,
+  "tags": [
+   "electronics",
+   "smart speakers"
+  ],
+  "weight": 5,
+  "dimensions": {
+   "width": 12.68,
+   "height": 15.24,
+   "depth": 27.46
+  },
+  "warrantyInformation": "6 months warranty",
+  "shippingInformation": "Ships in 1 week",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/2.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 2,
+    "comment": "Would not recommend!"
+   },
+   {
+    "rating": 3,
+    "comment": "Very disappointed!"
+   },
+   {
+    "rating": 4,
+    "comment": "Fast shipping!"
+   }
+  ]
+ },
+ {
+  "id": 100,
+  "title": "Apple Airpods",
+  "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+  "category": "mobile-accessories",
+  "brand": "Apple",
+  "price": 129.99,
+  "discountPercentage": 15.54,
+  "rating": 4.15,
+  "stock": 67,
+  "tags": [
+   "electronics",
+   "wireless earphones"
+  ],
+  "weight": 4,
+  "dimensions": {
+   "width": 25.79,
+   "height": 18.38,
+   "depth": 11.53
+  },
+  "warrantyInformation": "3 year warranty",
+  "shippingInformation": "Ships in 3-5 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp",
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/2.webp",
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Would not buy again!"
+   },
+   {
+    "rating": 5,
+    "comment": "Great product!"
+   },
+   {
+    "rating": 4,
+    "comment": "Excellent quality!"
+   }
+  ]
+ },
+ {
+  "id": 101,
+  "title": "Apple AirPods Max Silver",
+  "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+  "category": "mobile-accessories",
+  "brand": "Apple",
+  "price": 549.99,
+  "discountPercentage": 13.67,
+  "rating": 3.47,
+  "stock": 59,
+  "tags": [
+   "electronics",
+   "over-ear headphones"
+  ],
+  "weight": 2,
+  "dimensions": {
+   "width": 24.88,
+   "height": 14.9,
+   "depth": 27.54
+  },
+  "warrantyInformation": "No warranty",
+  "shippingInformation": "Ships in 2 weeks",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Excellent quality!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very happy with my purchase!"
+   },
+   {
+    "rating": 4,
+    "comment": "Would buy again!"
+   }
+  ]
+ },
+ {
+  "id": 102,
+  "title": "Apple Airpower Wireless Charger",
+  "description": "The Apple AirPower Wireless Charger provides a convenient way to charge your compatible Apple devices wirelessly. Simply place your devices on the charging mat for effortless charging.",
+  "category": "mobile-accessories",
+  "brand": "Apple",
+  "price": 79.99,
+  "discountPercentage": 4.48,
+  "rating": 3.68,
+  "stock": 1,
+  "tags": [
+   "electronics",
+   "wireless chargers"
+  ],
+  "weight": 5,
+  "dimensions": {
+   "width": 25.25,
+   "height": 25.44,
+   "depth": 10.98
+  },
+  "warrantyInformation": "2 year warranty",
+  "shippingInformation": "Ships in 1 week",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Would buy again!"
+   },
+   {
+    "rating": 4,
+    "comment": "Awesome product!"
+   },
+   {
+    "rating": 3,
+    "comment": "Not worth the price!"
+   }
+  ]
+ },
+ {
+  "id": 103,
+  "title": "Apple HomePod Mini Cosmic Grey",
+  "description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience.",
+  "category": "mobile-accessories",
+  "brand": "Apple",
+  "price": 99.99,
+  "discountPercentage": 18.1,
+  "rating": 4.62,
+  "stock": 27,
+  "tags": [
+   "electronics",
+   "smart speakers"
+  ],
+  "weight": 10,
+  "dimensions": {
+   "width": 16.02,
+   "height": 29.2,
+   "depth": 19.81
+  },
+  "warrantyInformation": "3 months warranty",
+  "shippingInformation": "Ships in 1 month",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "comment": "Great product!"
+   },
+   {
+    "rating": 3,
+    "comment": "Would not buy again!"
+   },
+   {
+    "rating": 4,
+    "comment": "Very pleased!"
+   }
+  ]
+ },
+ {
+  "id": 104,
+  "title": "Apple iPhone Charger",
+  "description": "The Apple iPhone Charger is a high-quality charger designed for fast and efficient charging of your iPhone. Ensure your device stays powered up and ready to go.",
+  "category": "mobile-accessories",
+  "brand": "Apple",
+  "price": 19.99,
+  "discountPercentage": 18.52,
+  "rating": 4.15,
+  "stock": 31,
+  "tags": [
+   "electronics",
+   "chargers"
+  ],
+  "weight": 1,
+  "dimensions": {
+   "width": 13.63,
+   "height": 26.25,
+   "depth": 5.95
+  },
+  "warrantyInformation": "1 year warranty",
+  "shippingInformation": "Ships in 2 weeks",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/1.webp",
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/2.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 1,
+    "comment": "Very disappointed!"
+   },
+   {
+    "rating": 5,
+    "comment": "Great product!"
+   },
+   {
+    "rating": 2,
+    "comment": "Waste of money!"
+   }
+  ]
+ },
+ {
+  "id": 105,
+  "title": "Apple MagSafe Battery Pack",
+  "description": "The Apple MagSafe Battery Pack is a portable and convenient way to add extra battery life to your MagSafe-compatible iPhone. Attach it magnetically for a secure connection.",
+  "category": "mobile-accessories",
+  "brand": "Apple",
+  "price": 99.99,
+  "discountPercentage": 17.17,
+  "rating": 3.62,
+  "stock": 1,
+  "tags": [
+   "electronics",
+   "power banks"
+  ],
+  "weight": 6,
+  "dimensions": {
+   "width": 15.4,
+   "height": 11.89,
+   "depth": 19.67
+  },
+  "warrantyInformation": "2 year warranty",
+  "shippingInformation": "Ships overnight",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/1.webp",
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/2.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 2,
+    "comment": "Would not recommend!"
+   },
+   {
+    "rating": 2,
+    "comment": "Not as described!"
+   },
+   {
+    "rating": 5,
+    "comment": "Fast shipping!"
+   }
+  ]
+ },
+ {
+  "id": 106,
+  "title": "Apple Watch Series 4 Gold",
+  "description": "The Apple Watch Series 4 in Gold is a stylish and advanced smartwatch with features like heart rate monitoring, fitness tracking, and a beautiful Retina display.",
+  "category": "mobile-accessories",
+  "brand": "Apple",
+  "price": 349.99,
+  "discountPercentage": 12.02,
+  "rating": 2.74,
+  "stock": 33,
+  "tags": [
+   "electronics",
+   "smartwatches"
+  ],
+  "weight": 6,
+  "dimensions": {
+   "width": 27.69,
+   "height": 28.03,
+   "depth": 7.11
+  },
+  "warrantyInformation": "6 months warranty",
+  "shippingInformation": "Ships in 1 month",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/1.webp",
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/2.webp",
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/3.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Very unhappy with my purchase!"
+   },
+   {
+    "rating": 4,
+    "comment": "Fast shipping!"
+   },
+   {
+    "rating": 4,
+    "comment": "Would buy again!"
+   }
+  ]
+ },
+ {
+  "id": 107,
+  "title": "Beats Flex Wireless Earphones",
+  "description": "The Beats Flex Wireless Earphones offer a comfortable and versatile audio experience. With magnetic earbuds and up to 12 hours of battery life, they are ideal for everyday use.",
+  "category": "mobile-accessories",
+  "brand": "Beats",
+  "price": 49.99,
+  "discountPercentage": 5.73,
+  "rating": 4.24,
+  "stock": 50,
+  "tags": [
+   "electronics",
+   "wireless earphones"
+  ],
+  "weight": 8,
+  "dimensions": {
+   "width": 17.86,
+   "height": 25.74,
+   "depth": 23.09
+  },
+  "warrantyInformation": "1 year warranty",
+  "shippingInformation": "Ships in 1-2 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 2,
+    "comment": "Disappointing product!"
+   },
+   {
+    "rating": 5,
+    "comment": "Very pleased!"
+   },
+   {
+    "rating": 2,
+    "comment": "Not worth the price!"
+   }
+  ]
+ },
+ {
+  "id": 108,
+  "title": "iPhone 12 Silicone Case with MagSafe Plum",
+  "description": "The iPhone 12 Silicone Case with MagSafe in Plum is a stylish and protective case designed for the iPhone 12. It features MagSafe technology for easy attachment of accessories.",
+  "category": "mobile-accessories",
+  "brand": "Apple",
+  "price": 29.99,
+  "discountPercentage": 13.85,
+  "rating": 3.62,
+  "stock": 69,
+  "tags": [
+   "electronics",
+   "phone accessories"
+  ],
+  "weight": 7,
+  "dimensions": {
+   "width": 12.49,
+   "height": 11.29,
+   "depth": 23.52
+  },
+  "warrantyInformation": "3 months warranty",
+  "shippingInformation": "Ships in 3-5 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/1.webp",
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/2.webp",
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/3.webp",
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/4.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 2,
+    "comment": "Would not buy again!"
+   },
+   {
+    "rating": 5,
+    "comment": "Great value for money!"
+   },
+   {
+    "rating": 5,
+    "comment": "Highly recommended!"
+   }
+  ]
+ },
+ {
+  "id": 109,
+  "title": "Monopod",
+  "description": "The Monopod is a versatile camera accessory for stable and adjustable shooting. Perfect for capturing selfies, group photos, and videos with ease.",
+  "category": "mobile-accessories",
+  "brand": "TechGear",
+  "price": 19.99,
+  "discountPercentage": 8.58,
+  "rating": 4.43,
+  "stock": 48,
+  "tags": [
+   "electronics",
+   "camera accessories"
+  ],
+  "weight": 10,
+  "dimensions": {
+   "width": 8.8,
+   "height": 12.93,
+   "depth": 21.1
+  },
+  "warrantyInformation": "1 year warranty",
+  "shippingInformation": "Ships in 1-2 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/1.webp",
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/2.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 1,
+    "comment": "Not worth the price!"
+   },
+   {
+    "rating": 4,
+    "comment": "Highly recommended!"
+   },
+   {
+    "rating": 5,
+    "comment": "Fast shipping!"
+   }
+  ]
+ },
+ {
+  "id": 110,
+  "title": "Selfie Lamp with iPhone",
+  "description": "The Selfie Lamp with iPhone is a portable and adjustable LED light designed to enhance your selfies and video calls. Attach it to your iPhone for well-lit photos.",
+  "category": "mobile-accessories",
+  "brand": "GadgetMaster",
+  "price": 14.99,
+  "discountPercentage": 19.4,
+  "rating": 3.55,
+  "stock": 58,
+  "tags": [
+   "electronics",
+   "selfie accessories"
+  ],
+  "weight": 10,
+  "dimensions": {
+   "width": 5.26,
+   "height": 13.84,
+   "depth": 22.83
+  },
+  "warrantyInformation": "Lifetime warranty",
+  "shippingInformation": "Ships in 2 weeks",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Highly recommended!"
+   },
+   {
+    "rating": 3,
+    "comment": "Poor quality!"
+   },
+   {
+    "rating": 4,
+    "comment": "Highly recommended!"
+   }
+  ]
+ },
+ {
+  "id": 111,
+  "title": "Selfie Stick Monopod",
+  "description": "The Selfie Stick Monopod is a extendable and foldable device for capturing the perfect selfie or group photo. Compatible with smartphones and cameras.",
+  "category": "mobile-accessories",
+  "brand": "SnapTech",
+  "price": 12.99,
+  "discountPercentage": 19.12,
+  "rating": 3.88,
+  "stock": 11,
+  "tags": [
+   "electronics",
+   "selfie accessories"
+  ],
+  "weight": 2,
+  "dimensions": {
+   "width": 24.76,
+   "height": 26.38,
+   "depth": 21.39
+  },
+  "warrantyInformation": "3 year warranty",
+  "shippingInformation": "Ships in 1-2 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 4,
+    "comment": "Great product!"
+   },
+   {
+    "rating": 4,
+    "comment": "Great product!"
+   },
+   {
+    "rating": 1,
+    "comment": "Very dissatisfied!"
+   }
+  ]
+ },
+ {
+  "id": 112,
+  "title": "TV Studio Camera Pedestal",
+  "description": "The TV Studio Camera Pedestal is a professional-grade camera support system for smooth and precise camera movements in a studio setting. Ideal for broadcast and production.",
+  "category": "mobile-accessories",
+  "brand": "ProVision",
+  "price": 499.99,
+  "discountPercentage": 8.31,
+  "rating": 2.78,
+  "stock": 15,
+  "tags": [
+   "electronics",
+   "camera accessories"
+  ],
+  "weight": 4,
+  "dimensions": {
+   "width": 29.84,
+   "height": 11.01,
+   "depth": 6.81
+  },
+  "warrantyInformation": "3 months warranty",
+  "shippingInformation": "Ships in 1-2 business days",
+  "images": [
+   "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/1.webp"
+  ],
+  "reviews": [
+   {
+    "rating": 3,
+    "comment": "Would not recommend!"
+   },
+   {
+    "rating": 5,
+    "comment": "Would buy again!"
+   },
+   {
+    "rating": 5,
+    "comment": "Fast shipping!"
+   }
+  ]
+ }
+]

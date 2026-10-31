@@ -1,0 +1,103 @@
+{
+  "emulation": {
+    "cpuSlowdown": 4,
+    "rttMs": 70,
+    "downMbps": 9,
+    "upMbps": 3
+  },
+  "at": "2026-10-31T09:25:22.775Z",
+  "variants": {
+    "a": {
+      "cold": {
+        "usefulMs": 1229,
+        "fcp": 768,
+        "lcp": 1476,
+        "tbt": 75,
+        "jsKB": 181,
+        "cssKB": 14,
+        "fontKB": 0,
+        "imgKB": 299,
+        "dataKB": 118
+      },
+      "warm": {
+        "usefulMs": 1572,
+        "fcp": 888,
+        "lcp": 1820,
+        "tbt": 352
+      },
+      "tap": {
+        "screenMs": 261,
+        "eventMaxMs": 136
+      }
+    },
+    "b": {
+      "cold": {
+        "usefulMs": 1372,
+        "fcp": 712,
+        "lcp": 1636,
+        "tbt": 156,
+        "jsKB": 194,
+        "cssKB": 15,
+        "fontKB": 49,
+        "imgKB": 401,
+        "dataKB": 118
+      },
+      "warm": {
+        "usefulMs": 1678,
+        "fcp": 940,
+        "lcp": 1960,
+        "tbt": 453
+      },
+      "tap": {
+        "screenMs": 250,
+        "eventMaxMs": 128
+      }
+    },
+    "c": {
+      "cold": {
+        "usefulMs": 1609,
+        "fcp": 612,
+        "lcp": 1964,
+        "tbt": 165,
+        "jsKB": 188,
+        "cssKB": 20,
+        "fontKB": 81,
+        "imgKB": 208,
+        "dataKB": 118
+      },
+      "warm": {
+        "usefulMs": 1292,
+        "fcp": 532,
+        "lcp": 1560,
+        "tbt": 156
+      },
+      "tap": {
+        "screenMs": 273,
+        "eventMaxMs": 120
+      }
+    },
+    "d": {
+      "cold": {
+        "usefulMs": 1212,
+        "fcp": 564,
+        "lcp": 1540,
+        "tbt": 40,
+        "jsKB": 194,
+        "cssKB": 16,
+        "fontKB": 0,
+        "imgKB": 226,
+        "dataKB": 118
+      },
+      "warm": {
+        "usefulMs": 1215,
+        "fcp": 536,
+        "lcp": 1520,
+        "tbt": 29
+      },
+      "tap": {
+        "screenMs": 161,
+        "eventMaxMs": 72
+      }
+    }
+  }
+}

@@ -1,0 +1,297 @@
+/* Group g1 styles for variant d-telegram (Home, Catalog, Category, Search) — every rule scoped under .v-d */
+
+/* header: search field + DEMO marker */
+.v-d .g1-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 16px;
+}
+.v-d .g1-demo {
+  display: inline-flex;
+  align-items: center;
+}
+.v-d .g1-search-row {
+  display: flex;
+  padding: 10px 16px 0;
+}
+
+/* home rhythm */
+.v-d .g1-banners {
+  padding-top: 4px;
+}
+.v-d .g1-sk-banner {
+  height: 132px;
+  border-radius: var(--radius-card);
+}
+.v-d .g1-cats {
+  margin-top: 16px;
+}
+.v-d .g1-shelf {
+  margin-top: 18px;
+}
+.v-d .g1-shelf + .d-group {
+  margin-top: 28px;
+}
+.v-d .g1-reco {
+  margin-top: 22px;
+}
+.v-d .g1-foot {
+  padding: 8px 32px 0;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: -0.08px;
+  color: var(--d-hint);
+}
+
+/* product card wrapper (fav button sits beside the link — no nested interactive elements) */
+.v-d .g1-card {
+  position: relative;
+  display: flex;
+  min-width: 0;
+}
+.v-d .g1-card > .d-card {
+  flex: 1;
+  min-width: 0;
+}
+.v-d .g1-fav[aria-pressed='false'] > span {
+  color: var(--d-hint);
+}
+.v-d .g1-fav:active > span {
+  transform: scale(0.88);
+}
+.v-d .g1-fav > span {
+  transition: transform 120ms var(--ease-standard);
+}
+
+/* grids */
+.v-d .g1-grid {
+  padding: 0 16px;
+}
+.v-d .g1-grid-static {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+}
+.v-d .g1-end {
+  display: grid;
+  place-items: center;
+  min-height: 56px;
+  padding: 8px 16px;
+  font-size: 13px;
+  line-height: 18px;
+  color: var(--d-hint);
+  text-align: center;
+}
+
+/* toolbar: 44 px tap targets with 32 px pills inside */
+.v-d .g1-toolbar {
+  display: flex;
+  gap: 8px;
+  padding: 2px 16px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  overscroll-behavior-x: contain;
+  scrollbar-width: none;
+}
+.v-d .g1-toolbar::-webkit-scrollbar {
+  display: none;
+}
+.v-d .g1-chip {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0;
+  background: transparent;
+}
+.v-d .g1-chip:active .d-pill {
+  opacity: 0.7;
+}
+.v-d .g1-chev {
+  margin-right: -3px;
+  opacity: 0.7;
+}
+.v-d .g1-pill-count {
+  min-width: 18px;
+  height: 18px;
+  padding: 0 5px;
+  border-radius: 9px;
+  background: var(--d-button);
+  color: var(--d-button-text);
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 600;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+.v-d .g1-count {
+  padding: 4px 16px 8px;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: -0.08px;
+  color: var(--d-hint);
+}
+.v-d .g1-results-title {
+  padding: 12px 16px 2px;
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: 600;
+  letter-spacing: -0.45px;
+  color: var(--d-text);
+}
+
+/* filters sheet: price fields */
+.v-d .g1-field {
+  gap: 12px;
+  cursor: text;
+}
+.v-d .g1-field-label {
+  flex: none;
+  min-width: 28px;
+  font-size: 17px;
+  letter-spacing: -0.4px;
+  color: var(--d-text);
+}
+.v-d .g1-field .d-input {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+.v-d .g1-field-unit {
+  flex: none;
+  font-size: 17px;
+  letter-spacing: -0.4px;
+  color: var(--d-hint);
+}
+
+/* catalog skeleton rows */
+.v-d .g1-sk-cell {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  height: 44px;
+  padding: 0 16px;
+}
+
+/* search: idle rows (tap row + separate remove button) */
+.v-d .g1-row {
+  gap: 0;
+  padding: 0;
+}
+.v-d .g1-row-main {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex: 1;
+  min-width: 0;
+  min-height: 44px;
+  padding: 0 0 0 16px;
+  background: transparent;
+  text-align: left;
+  color: var(--d-text);
+}
+.v-d .g1-row:has(.g1-row-main:active)::after {
+  opacity: 1;
+  transition-duration: 0ms;
+}
+.v-d .g1-row-icon {
+  flex: none;
+  color: var(--d-hint);
+}
+.v-d .g1-row-x {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 48px;
+  height: 44px;
+  color: var(--d-hint);
+}
+.v-d .g1-trend {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 8px;
+  padding: 0 16px;
+}
+.v-d .g1-trend .d-pill {
+  max-width: calc(100vw - 32px);
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.v-d .g1-trend-ic {
+  color: var(--d-link);
+  flex: none;
+}
+.v-d .g1-sug b,
+.v-d .g1-sug-q {
+  font-weight: 600;
+}
+.v-d .g1-pad-top {
+  padding-top: 24px;
+}
+
+/* found-by-link card */
+.v-d .g1-linkcard {
+  gap: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.v-d .g1-link-thumb {
+  width: 72px;
+  height: 72px;
+  border-radius: 10px;
+}
+.v-d .g1-linkcard .d-cell-body {
+  padding: 0;
+}
+.v-d .g1-link-src {
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: -0.08px;
+  color: var(--d-accent-text);
+}
+.v-d .g1-link-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  margin-top: 1px;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.2px;
+  color: var(--d-text);
+}
+.v-d .g1-link-price {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  margin-top: 3px;
+  font-size: 17px;
+  line-height: 22px;
+  font-weight: 600;
+  letter-spacing: -0.4px;
+  color: var(--d-text);
+  font-variant-numeric: tabular-nums;
+}
+.v-d .g1-link-price s {
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--d-hint);
+}
+.v-d .g1-head > .d-search {
+  flex: 1;
+  min-width: 0;
+}
+.v-d .g1-flash {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: -6px 0 8px;
+  padding: 0 16px;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: -0.08px;
+  color: var(--d-hint);
+}
+.v-d .g1-nodrag {
+  display: inline-flex;
+}

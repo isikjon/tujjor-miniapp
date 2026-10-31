@@ -1,0 +1,47 @@
+{
+  "name": "@tujjor/miniapp",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "TUJJOR Telegram Mini App — Phase A: Design Lab (4 interactive design variants, demo data)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173 --strictPort",
+    "lab": "vite build && vite preview --port 4173 --strictPort",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "demo:media": "node scripts/build-demo-media.mjs",
+    "shots": "node scripts/shots.mjs",
+    "deploy:pages": "zsh scripts/deploy-pages.sh",
+    "merge:demo": "node scripts/merge-demo-data.mjs",
+    "perf": "node scripts/perf.mjs"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "dependencies": {
+    "@fontsource-variable/onest": "^5.3.1",
+    "@fontsource-variable/unbounded": "^5.3.0",
+    "@tanstack/react-query": "^5.105.0",
+    "@tanstack/react-virtual": "^3.14.24",
+    "lucide-react": "^1.66.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router": "^8.5.1",
+    "zustand": "^5.0.16"
+  },
+  "devDependencies": {
+    "@babel/core": "^8.0.10",
+    "@rolldown/plugin-babel": "^0.3.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "babel-plugin-react-compiler": "^1.0.0",
+    "playwright": "^1.64.1",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5"
+  }
+}
