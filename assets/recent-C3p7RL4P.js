@@ -1,0 +1,1 @@
+import{_ as e,n as t,r as n}from"./vendor-DkysH2ds.js";import{j as r}from"./cart-DbmtUORj.js";var i=e()(n((e,t)=>({items:[],add:n=>{let r=n.trim();r.length<2||e({items:[r,...t().items.filter(e=>e.toLowerCase()!==r.toLowerCase())].slice(0,8)})},remove:n=>e({items:t().items.filter(e=>e!==n)}),clear:()=>e({items:[]})}),{name:`recent`,storage:t(()=>r),version:1}));export{i as t};

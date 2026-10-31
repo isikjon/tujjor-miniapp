@@ -1,0 +1,1 @@
+import{t as e}from"./cx-CoyYBvWX.js";import{D as t}from"./cart-DbmtUORj.js";import{v as n}from"./vendor-DkysH2ds.js";var r=n();function i({haptic:n=`selection`,flat:i,className:a,onClick:o,type:s=`button`,...c}){return(0,r.jsx)(`button`,{type:s,...c,className:e(`tap`,i&&`tap-flat`,a),onClick:e=>{n&&t.haptic(n),o==null||o(e)}})}export{i as t};

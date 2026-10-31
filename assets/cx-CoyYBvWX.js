@@ -1,0 +1,1 @@
+function e(...e){let t=``;for(let n of e)n&&(t=t?`${t} ${n}`:n);return t}export{e as t};
